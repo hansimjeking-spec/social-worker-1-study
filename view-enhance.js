@@ -23,25 +23,8 @@
       url:p.url||p.path||p.file||p.href||'',
       description:p.description||p.desc||p.memo||''
     })).filter(x=>x.url);
-    const paperSets=safeArr(window.PAST_PAPER_DATA?.paperSets);
-    const derived=[];
-    paperSets.forEach((set,i)=>{
-      const urls=[
-        ['학생용 기출',set.studentUrl||set.studentPdf||set.studentPath],
-        ['교사용 기출',set.teacherUrl||set.teacherPdf||set.teacherPath],
-        ['원문',set.url||set.pdfUrl]
-      ].filter(([,url])=>url);
-      urls.forEach(([type,url],j)=>derived.push({
-        id:`paper-${i}-${j}`,
-        title:set.title||`${set.year||''}년 ${set.period||''} ${type}`,
-        subject:normalizeSubject(set.subject||''),
-        type,
-        url:String(url).startsWith('http')?url:'./'+String(url).replace(/^\.\//,''),
-        description:`${set.year||''}년 ${set.period||''}`
-      }));
-    });
     const seen=new Set();
-    return [...registered,...derived].filter(item=>{if(!item.url||seen.has(item.url)) return false;seen.add(item.url);return true});
+    return registered.filter(item=>{if(!item.url||seen.has(item.url)) return false;seen.add(item.url);return true});
   }
 
   function renderMaterials(){
@@ -49,11 +32,11 @@
     if(!root) return;
     const items=materialItems();
     if(!items.length){
-      root.innerHTML='<section class="panel empty-state"><h3>등록된 교재 자료가 없습니다</h3><p><code>materials-data.js</code>에 자료가 등록되지 않았습니다.</p></section>';
+      root.innerHTML='<section class="panel empty-state"><h3>등록된 교재 자료가 없습니다</h3><p><code>materials-data.js</code>에 과목별 교재 PDF가 등록되지 않았습니다.</p></section>';
       return;
     }
     const first=items[0];
-    root.innerHTML=`<div class="pdf-layout"><aside class="panel compact-panel"><div class="panel-heading"><div><p class="eyebrow">과목별 학습자료</p><h3>교재 목록</h3></div></div><div id="materialList" class="pdf-list">${items.map((item,index)=>`<button class="pdf-item ${index===0?'active':''}" data-i="${index}"><strong>${esc(item.title)}</strong><span>${esc(item.subject||'공통')} · ${esc(item.type)}</span></button>`).join('')}</div></aside><section class="panel pdf-panel"><div class="pdf-toolbar"><div><p class="eyebrow" id="materialSubjectLabel">${esc(first.subject||'교재')}</p><h3 id="materialTitle">${esc(first.title)}</h3></div><a class="ghost-link" id="openMaterialLink" href="${esc(first.url)}" target="_blank" rel="noreferrer">${canPreview(first.url)?'새 탭으로 열기':'다운로드'}</a></div><iframe id="materialFrame" class="pdf-frame" title="교재 자료 미리보기" src="${canPreview(first.url)?esc(first.url):'about:blank'}"></iframe><p class="muted" id="materialPath">찾는 경로: ${esc(first.url)}</p><div class="material-warning" id="materialHelp">${canPreview(first.url)?'미리보기가 비어 있으면 새 탭으로 열기를 누르세요. 404가 뜨면 PDF 파일 위치나 파일명이 다른 것입니다.':'이 파일은 브라우저 미리보기가 어려워 다운로드로 열어야 합니다.'}</div></section></div>`;
+    root.innerHTML=`<div class="pdf-layout"><aside class="panel compact-panel"><div class="panel-heading"><div><p class="eyebrow">과목별 학습자료</p><h3>교재 목록</h3></div></div><div id="materialList" class="pdf-list">${items.map((item,index)=>`<button class="pdf-item ${index===0?'active':''}" data-i="${index}"><strong>${esc(item.title)}</strong><span>${esc(item.subject||'공통')} · ${esc(item.type)}</span></button>`).join('')}</div></aside><section class="panel pdf-panel"><div class="pdf-toolbar"><div><p class="eyebrow" id="materialSubjectLabel">${esc(first.subject||'교재')}</p><h3 id="materialTitle">${esc(first.title)}</h3></div><a class="ghost-link" id="openMaterialLink" href="${esc(first.url)}" target="_blank" rel="noreferrer">${canPreview(first.url)?'새 탭으로 열기':'다운로드'}</a></div><iframe id="materialFrame" class="pdf-frame" title="교재 자료 미리보기" src="${canPreview(first.url)?esc(first.url):'about:blank'}"></iframe><p class="muted" id="materialPath">찾는 경로: ${esc(first.url)}</p><div class="material-warning" id="materialHelp">${canPreview(first.url)?'교재 PDF만 표시합니다. 기출문제는 왼쪽 메뉴의 연도별 기출에서 확인하세요.':'이 파일은 브라우저 미리보기가 어려워 다운로드로 열어야 합니다.'}</div></section></div>`;
     const select=(index)=>{
       const item=items[index];
       if(!item) return;
@@ -64,7 +47,7 @@
       $('#openMaterialLink').textContent=canPreview(item.url)?'새 탭으로 열기':'다운로드';
       $('#materialFrame').src=canPreview(item.url)?item.url:'about:blank';
       $('#materialPath').textContent='찾는 경로: '+item.url;
-      $('#materialHelp').textContent=canPreview(item.url)?'미리보기가 비어 있으면 새 탭으로 열기를 누르세요. 404가 뜨면 PDF 파일 위치나 파일명이 다른 것입니다.':'이 파일은 브라우저 미리보기가 어려워 다운로드로 열어야 합니다.';
+      $('#materialHelp').textContent=canPreview(item.url)?'교재 PDF만 표시합니다. 기출문제는 왼쪽 메뉴의 연도별 기출에서 확인하세요.':'이 파일은 브라우저 미리보기가 어려워 다운로드로 열어야 합니다.';
     };
     $$('#materialList .pdf-item').forEach(btn=>btn.addEventListener('click',()=>select(Number(btn.dataset.i))));
   }
