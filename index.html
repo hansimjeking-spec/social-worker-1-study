@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>사회복지사 1급 합격 루틴</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <div class="brand-mark" aria-hidden="true">1</div>
+          <div>
+            <p class="eyebrow">사회복지사 1급</p>
+            <h1>합격 루틴</h1>
+          </div>
+        </div>
+        <nav class="nav" aria-label="주요 메뉴">
+          <button class="nav-item active" data-view="dashboard"><span aria-hidden="true">⌂</span>학습 홈</button>
+          <button class="nav-item" data-view="summary"><span aria-hidden="true">▤</span>요약집</button>
+          <button class="nav-item" data-view="pdfs"><span aria-hidden="true">▣</span>교재 자료실</button>
+          <button class="nav-item" data-view="quiz"><span aria-hidden="true">?</span>과목별 문제</button>
+          <button class="nav-item" data-view="cbt"><span aria-hidden="true">◴</span>CBT 모의고사</button>
+          <button class="nav-item" data-view="past"><span aria-hidden="true">▦</span>연도별 기출</button>
+          <button class="nav-item" data-view="answers"><span aria-hidden="true">✓</span>해설집</button>
+          <button class="nav-item" data-view="wrong"><span aria-hidden="true">!</span>오답노트</button>
+          <button class="nav-item" data-view="library"><span aria-hidden="true">⇩</span>문제 관리</button>
+        </nav>
+        <div class="study-meter" aria-label="학습 진행률">
+          <div><strong id="meterRate">0%</strong><span>오늘 풀이 정확도</span></div>
+          <div class="meter-track"><div id="meterFill" class="meter-fill"></div></div>
+        </div>
+      </aside>
+
+      <main class="content">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">요약 → 풀이 → 오답 회독</p>
+            <h2 id="viewTitle">학습 홈</h2>
+          </div>
+          <div class="top-actions">
+            <button class="icon-button" id="resetSessionBtn" title="오늘 기록 초기화" aria-label="오늘 기록 초기화">↺</button>
+            <button class="primary-button" id="startQuickBtn">10문제 바로 풀기</button>
+          </div>
+        </header>
+
+        <section class="view active" id="dashboardView" data-title="학습 홈">
+          <div class="dashboard-grid">
+            <section class="panel progress-panel">
+              <div class="panel-heading">
+                <div><p class="eyebrow">오늘의 흐름</p><h3>학습 상태</h3></div>
+                <button class="ghost-button" id="reviewWrongBtn">오답 복습</button>
+              </div>
+              <div class="stats-grid">
+                <div class="stat"><span>오늘 푼 문제</span><strong id="statSolved">0</strong></div>
+                <div class="stat"><span>오늘 정확도</span><strong id="statCorrect">0%</strong></div>
+                <div class="stat"><span>연속 학습</span><strong id="statWrong">0일</strong></div>
+                <div class="stat"><span>오답노트</span><strong id="statSavedWrong">0</strong></div>
+              </div>
+              <div class="daily-plan">
+                <div class="plan-heading">
+                  <div><span class="plan-label">오늘의 학습</span><strong id="dailyPlanText">목표를 설정해 보세요</strong></div>
+                  <span class="day-badge" id="examDday">시험일 미설정</span>
+                </div>
+                <div class="goal-track"><div id="goalFill" class="goal-fill"></div></div>
+                <div class="plan-controls">
+                  <label>하루 목표 <input id="dailyGoalInput" type="number" min="5" max="200" step="5" value="20" /></label>
+                  <label>시험일 <input id="examDateInput" type="date" /></label>
+                  <button class="primary-button" id="startDailyBtn">오늘 학습 시작</button>
+                </div>
+              </div>
+            </section>
+            <section class="panel">
+              <div class="panel-heading"><div><p class="eyebrow">8개 영역</p><h3>과목 바로가기</h3></div></div>
+              <div class="subject-list" id="dashboardSubjects"></div>
+              <button class="ghost-button full-button" id="startWeakBtn">취약 과목 10문제 풀기</button>
+            </section>
+          </div>
+        </section>
+
+        <section class="view" id="summaryView" data-title="요약집">
+          <div class="toolbar summary-toolbar">
+            <label>과목<select id="summarySubject"></select></label>
+            <label>태그<select id="summaryTag"></select></label>
+            <label>키워드 검색<input id="summarySearch" type="search" placeholder="예: 사례관리, 욕구, 조사, 법령" /></label>
+            <label class="switch-label"><input id="examModeToggle" type="checkbox" /> 시험 직전 모드</label>
+          </div>
+          <div class="summary-count" id="summaryCount"></div>
+          <div class="summary-layout">
+            <section class="summary-list" id="summaryList"></section>
+            <aside class="panel compact-panel">
+              <h3>암기 체크</h3>
+              <p class="muted">체크한 개념은 이 브라우저에 저장됩니다.</p>
+              <div id="flashList" class="flash-list"></div>
+            </aside>
+          </div>
+        </section>
+
+        <section class="view" id="pdfsView" data-title="교재 자료실"><div class="panel empty-state">과목별 PDF 원문은 <code>public/pdfs</code> 또는 루트의 <code>pdfs</code> 폴더에 추가한 뒤 <code>PDF_LIBRARY</code>에 등록하면 연결됩니다.</div></section>
+
+        <section class="view" id="quizView" data-title="과목별 문제">
+          <div class="quiz-layout">
+            <section class="panel">
+              <div class="toolbar">
+                <label>과목<select id="quizSubject"></select></label>
+                <label>문항 수<input id="quizCount" type="number" min="3" max="20" value="10" /></label>
+                <button class="primary-button" id="buildQuizBtn">문제 시작</button>
+              </div>
+              <div id="quizArea" class="question-area empty-state">과목과 문항 수를 고른 뒤 문제를 시작하세요.</div>
+            </section>
+            <aside class="panel compact-panel"><h3>풀이 현황</h3><div class="side-score"><strong id="quizScore">0 / 0</strong><span id="quizPercent">정확도 0%</span></div><button class="ghost-button full-button" id="finishQuizBtn">채점하기</button></aside>
+          </div>
+        </section>
+
+        <section class="view" id="cbtView" data-title="CBT 모의고사">
+          <div class="cbt-header panel"><div><p class="eyebrow">실전 감각</p><h3>랜덤 25문항 모의 CBT</h3></div><div class="timer" id="timer">25:00</div><button class="primary-button" id="startCbtBtn">시험 시작</button></div>
+          <div class="cbt-layout"><section class="panel question-area" id="cbtArea"><div class="empty-state">시험 시작을 누르면 전체 과목에서 무작위 문항이 출제됩니다.</div></section><aside class="panel compact-panel"><h3>답안지</h3><div id="answerSheet" class="answer-sheet"></div><button class="ghost-button full-button" id="submitCbtBtn">제출 및 채점</button></aside></div>
+        </section>
+
+        <section class="view" id="pastView" data-title="연도별 기출"><div class="panel empty-state">공식 기출 원문은 직접 소유한 자료만 문제 관리에서 추가하세요. 현재는 샘플 문항으로 학습 흐름을 확인할 수 있습니다.</div></section>
+        <section class="view" id="answersView" data-title="해설집"><div class="panel empty-state">직접 작성한 해설이나 소유한 해설 PDF를 연결할 수 있습니다.</div></section>
+
+        <section class="view" id="wrongView" data-title="오답노트">
+          <div class="panel">
+            <div class="panel-heading"><div><p class="eyebrow">틀린 문제만 다시</p><h3>오답노트</h3></div><div class="button-row"><button class="primary-button" id="retryWrongBtn">오답 다시 풀기</button><button class="ghost-button" id="clearWrongBtn">모두 비우기</button></div></div>
+            <p class="muted review-guide">다시 풀어 맞힌 문제는 오답노트에서 자동으로 빠집니다. 관련 요약도 함께 추천합니다.</p>
+            <div id="wrongList" class="wrong-list"></div>
+            <div class="related-summary" id="wrongRelated"></div>
+          </div>
+        </section>
+
+        <section class="view" id="libraryView" data-title="문제 관리">
+          <div class="library-grid">
+            <section class="panel"><h3>문제 가져오기</h3><p class="muted">JSON 배열을 붙여넣으면 내 문제은행에 추가됩니다. 공식 기출은 직접 소유한 자료만 넣어 주세요.</p><textarea id="importBox" spellcheck="false"></textarea><div class="button-row"><button class="primary-button" id="importBtn">가져오기</button><button class="ghost-button" id="sampleBtn">예시 넣기</button></div></section>
+            <section class="panel"><h3>문제은행 현황</h3><div id="libraryStats" class="library-stats"></div><button class="ghost-button full-button" id="exportBtn">JSON 내보내기</button><pre id="exportBox" class="export-box"></pre></section>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <template id="questionTemplate"><article class="question-card"><div class="question-meta"></div><h4></h4><div class="choices"></div><div class="explain"></div></article></template>
+    <script src="./past-papers-data.js"></script>
+    <script src="./summary-guides.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
