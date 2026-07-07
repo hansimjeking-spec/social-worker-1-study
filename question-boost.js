@@ -4,6 +4,17 @@
   if(!data||!Array.isArray(data.questions)||window.__pastPaperDataBridged) return;
   window.__pastPaperDataBridged=true;
   const normalizeSubject=(subject)=>subject==='사회복지법제론'?'사회복지법제와 실천':subject;
+  const cleanText=(value='')=>{
+    let text=String(value||'').replace(/\s+/g,' ').trim();
+    [
+      /\s*(?:각종|걱종)?\s*기출문제\s*전자문제집\s*CBT\s*[:：].*$/i,
+      /\s*www\.comcbt\.com.*$/i,
+      /\s*사회복지사\s*1급\s*\([^)]*\).*$/i,
+      /\s*\d{4}년\s*\d{1,2}월\s*\d{1,2}일\s*필기.*$/i,
+      /\s*필기\s*기\s*하고\s*있다\.?\s*$/i
+    ].forEach(pattern=>{text=text.replace(pattern,'').trim();});
+    return text;
+  };
   const existing=new Set(window.SAMPLE_QUESTIONS.map(q=>q.id));
   const converted=data.questions
     .filter(q=>q&&q.stem&&Array.isArray(q.choices)&&q.choices.length>=2)
@@ -13,11 +24,11 @@
         id:q.id||`past_${q.year||'unknown'}_${q.period||''}_${q.number||Math.random()}`,
         subject:normalizeSubject(q.subject||''),
         tags:['실제기출',String(q.year||''),q.period||''].filter(Boolean),
-        question:q.stem,
-        choices:q.choices,
+        question:cleanText(q.stem),
+        choices:q.choices.map(cleanText).filter(Boolean),
         answer:Number.isFinite(answer)?answer:0,
         explain:q.explain&&q.explain!=='교사용 PDF 정답지를 확인하세요.'
-          ? q.explain
+          ? cleanText(q.explain)
           : `${q.year||''}년 ${q.period||''} ${q.number||''}번 실제 기출문제입니다.`,
         year:q.year,
         period:q.period,
@@ -25,7 +36,7 @@
         sourceUrl:q.sourceUrl
       };
     })
-    .filter(q=>!existing.has(q.id));
+    .filter(q=>q.choices.length>=2&&!existing.has(q.id));
   window.SAMPLE_QUESTIONS.push(...converted);
   window.PAST_DATA_BRIDGE_META={added:converted.length,total:window.SAMPLE_QUESTIONS.length,paperSets:data.paperSets?.length||0};
 })();
