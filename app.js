@@ -9,6 +9,7 @@ const SUBJECTS=Array.from(new Set([...(Array.isArray(window.SUBJECTS)?window.SUB
 const GUIDES=Array.isArray(window.SUMMARY_GUIDES)?window.SUMMARY_GUIDES:[];
 const BASE=Array.isArray(window.SAMPLE_QUESTIONS)?window.SAMPLE_QUESTIONS:[];
 const PAST=window.PAST_PAPER_DATA||{paperSets:[],questions:[]};
+const PDFS=Array.isArray(window.PDF_LIBRARY)?window.PDF_LIBRARY:[];
 
 const read=(k,d)=>{try{return JSON.parse(localStorage.getItem(k))??d}catch{return d}};
 const write=(k,v)=>localStorage.setItem(k,JSON.stringify(v));
@@ -20,6 +21,7 @@ const uniq=(arr)=>Array.from(new Set(arr.filter(v=>v!==undefined&&v!==null&&Stri
 const answerLabel=(n)=>['①','②','③','④','⑤'][Number(n)]||String(Number(n)+1);
 const safeArr=(v)=>Array.isArray(v)?v:[];
 const normalizeSubject=(s)=>s==='사회복지법제론'?'사회복지법제와 실천':String(s||'');
+const firstUrl=(obj={})=>obj.url||obj.path||obj.src||obj.href||obj.file||obj.pdf||obj.pdfUrl||obj.sourceUrl||obj.studentUrl||obj.teacherUrl||'';
 
 let stats=read('sw1_stats',{date:today(),solved:0,correct:0,streak:0,subject:{}});
 let wrong=read('sw1_wrong',[]);
@@ -42,6 +44,7 @@ function view(v){
   setText('#viewTitle',title);
   if(v==='dashboard') dashboard();
   if(v==='summary') summary();
+  if(v==='pdfs') renderPdfs();
   if(v==='wrong') wrongView();
   if(v==='library') library();
   if(v==='past') renderPast();
@@ -123,6 +126,43 @@ function flash(cards){
   if(!box) return;
   const done=cards.filter(c=>learned.includes(c.id)).length;
   box.innerHTML=`<div class="flash-item"><strong>${done}/${cards.length}</strong><span>현재 목록 암기 완료</span></div>`+cards.filter(c=>!learned.includes(c.id)).slice(0,8).map(c=>`<div class="flash-item"><strong>${esc(c.title)}</strong><span>${esc(c.memoryLine)}</span></div>`).join('');
+}
+
+function buildPdfItems(){
+  const registered=PDFS.map((p,i)=>({
+    id:p.id||`pdf-${i}`,title:p.title||p.name||p.subject||`PDF 자료 ${i+1}`,subject:normalizeSubject(p.subject||p.area||''),type:p.type||p.kind||'교재 PDF',url:firstUrl(p),description:p.description||p.desc||p.memo||'',year:p.year,period:p.period
+  })).filter(p=>p.url);
+  const paperSets=Array.isArray(PAST.paperSets)?PAST.paperSets:[];
+  const derived=[];
+  paperSets.forEach((set,i)=>{
+    const pairs=[
+      ['학생용',set.studentUrl||set.studentPdf||set.studentPath],
+      ['교사용',set.teacherUrl||set.teacherPdf||set.teacherPath],
+      ['원문',set.url||set.pdfUrl||set.sourceUrl||set.path]
+    ].filter(([,url])=>url);
+    pairs.forEach(([kind,url],j)=>derived.push({
+      id:`paper-${i}-${j}`,title:set.title||`${set.year||''}년 ${set.period||''} ${kind} 기출 PDF`,subject:normalizeSubject(set.subject||''),type:`기출 ${kind}`,url,description:`${set.year||''}년 ${set.period||''} 자료`,year:set.year,period:set.period
+    }));
+  });
+  const seen=new Set();
+  return [...registered,...derived].filter(item=>{if(!item.url||seen.has(item.url)) return false;seen.add(item.url);return true});
+}
+
+function renderPdfs(){
+  const root=$('#pdfsView');
+  if(!root) return;
+  const items=buildPdfItems();
+  const prevSubject=$('#pdfSubject')?.value||'';
+  const prevType=$('#pdfType')?.value||'';
+  const subjects=uniq(items.map(i=>i.subject)).sort();
+  const types=uniq(items.map(i=>i.type)).sort();
+  const filtered=items.filter(i=>(!prevSubject||i.subject===prevSubject)&&(!prevType||i.type===prevType));
+  if(!items.length){
+    root.innerHTML=`<section class="panel empty-state"><h3>등록된 PDF 원문이 없습니다</h3><p>현재 저장소에는 <code>PDF_LIBRARY</code> 등록값이나 <code>pdfs</code> 폴더의 PDF 파일이 연결되어 있지 않습니다.</p><p>PDF를 보이게 하려면 저장소에 PDF 파일을 올리고 <code>PDF_LIBRARY</code>에 제목, 과목, 경로를 등록해야 합니다.</p><pre class="export-box">window.PDF_LIBRARY = [\n  { subject: '인간행동과 사회환경', title: '인간행동과 사회환경 요약 PDF', url: './pdfs/human.pdf' }\n];</pre></section>`;
+    return;
+  }
+  root.innerHTML=`<section class="panel"><div class="panel-heading"><div><p class="eyebrow">PDF 원문</p><h3>교재 자료실</h3></div></div><div class="toolbar"><label>과목<select id="pdfSubject"><option value="">전체</option>${subjects.map(s=>`<option value="${esc(s)}" ${s===prevSubject?'selected':''}>${esc(s)}</option>`).join('')}</select></label><label>유형<select id="pdfType"><option value="">전체</option>${types.map(t=>`<option value="${esc(t)}" ${t===prevType?'selected':''}>${esc(t)}</option>`).join('')}</select></label></div><p class="summary-count">등록 PDF ${items.length}개 · 선택 조건 ${filtered.length}개</p><div class="summary-list">${filtered.map(item=>`<article class="summary-card"><div class="summary-head"><div><p class="eyebrow">${esc(item.subject||'공통')} · ${esc(item.type)}</p><h3 class="summary-title">${esc(item.title)}</h3></div></div><p class="summary-one">${esc(item.description||'PDF 원문을 새 창에서 열 수 있습니다.')}</p><div class="summary-foot"><a class="small-button" href="${esc(item.url)}" target="_blank" rel="noopener">PDF 열기</a></div></article>`).join('')||'<div class="empty-state">선택 조건에 해당하는 PDF가 없습니다.</div>'}</div></section>`;
+  ['#pdfSubject','#pdfType'].forEach(id=>$(id)?.addEventListener('change',renderPdfs));
 }
 
 function startQuiz(subject='',count=10,mode='quiz'){
@@ -251,7 +291,7 @@ function library(){
   const box=$('#libraryStats');
   if(!box) return;
   const all=questions();
-  box.innerHTML='<div class="stats-grid">'+SUBJECTS.map(s=>`<div class="stat"><span>${esc(s)}</span><strong>${all.filter(q=>q.subject===s).length}</strong></div>`).join('')+'</div><p class="muted">기본 문제은행 '+BASE.length+'문항 · 직접 추가 '+custom.length+'문항 · 요약카드 '+GUIDES.length+'개</p>';
+  box.innerHTML='<div class="stats-grid">'+SUBJECTS.map(s=>`<div class="stat"><span>${esc(s)}</span><strong>${all.filter(q=>q.subject===s).length}</strong></div>`).join('')+'</div><p class="muted">기본 문제은행 '+BASE.length+'문항 · 직접 추가 '+custom.length+'문항 · 요약카드 '+GUIDES.length+'개 · PDF '+buildPdfItems().length+'개</p>';
 }
 
 function importQ(){
@@ -291,7 +331,7 @@ function boot(){
   $('#exportBtn')?.addEventListener('click',()=>$('#exportBox').textContent=JSON.stringify(questions(),null,2));
   $('#resetSessionBtn')?.addEventListener('click',()=>{stats.solved=0;stats.correct=0;save();dashboard()});
   dashboard();summary();library();
-  console.info('사회복지사 1급 앱 로드 완료',window.STUDY_DATA_META||{subjects:SUBJECTS.length,guides:GUIDES.length,questions:BASE.length});
+  console.info('사회복지사 1급 앱 로드 완료',window.STUDY_DATA_META||{subjects:SUBJECTS.length,guides:GUIDES.length,questions:BASE.length,pdfs:PDFS.length});
 }
 
 document.addEventListener('DOMContentLoaded',boot);
