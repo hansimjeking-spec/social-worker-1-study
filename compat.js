@@ -10,6 +10,21 @@
     return text;
   };
   const safeText=(value='')=>String(value??'').trim();
+  const cleanText=(value='')=>{
+    let text=safeText(value)
+      .replace(/\s+/g,' ')
+      .replace(/\s+([.,;:!?])/g,'$1')
+      .trim();
+    const cutPatterns=[
+      /\s*(?:각종|걱종)?\s*기출문제\s*전자문제집\s*CBT\s*[:：].*$/i,
+      /\s*www\.comcbt\.com.*$/i,
+      /\s*사회복지사\s*1급\s*\([^)]*\).*$/i,
+      /\s*\d{4}년\s*\d{1,2}월\s*\d{1,2}일\s*필기.*$/i,
+      /\s*필기\s*기\s*하고\s*있다\.?\s*$/i
+    ];
+    cutPatterns.forEach(pattern=>{text=text.replace(pattern,'').trim();});
+    return text;
+  };
   const uid=(...parts)=>parts.map(safeText).filter(Boolean).join('-').replace(/\s+/g,'-');
   const normalizeGuides=(raw)=>{
     if(Array.isArray(raw)) return raw.map((item,index)=>normalizeGuide(item,item.subject||'',index)).filter(g=>g.title);
@@ -108,8 +123,10 @@
       id:safeText(q.id)||`q-${q.year||'custom'}-${q.period||''}-${q.number||index}`,
       subject:normalizeSubject(q.subject||q.area||q.category||''),
       tags:Array.from(new Set([...(Array.isArray(q.tags)?q.tags:[]),...(q.year?[String(q.year)]:[]),...(q.period?[String(q.period)]:[]),...(q.source?'실제기출':[])])),
-      question:safeText(q.question||q.stem||q.title||''),choices:choices.map(safeText),answer:Number.isFinite(answer)?answer:0,
-      explain:safeText(q.explain||q.explanation||q.commentary||`${q.year||''}년 ${q.period||''} ${q.number||''}번 문제입니다.`),
+      question:cleanText(q.question||q.stem||q.title||''),
+      choices:choices.map(cleanText).filter(Boolean),
+      answer:Number.isFinite(answer)?answer:0,
+      explain:cleanText(q.explain||q.explanation||q.commentary||`${q.year||''}년 ${q.period||''} ${q.number||''}번 문제입니다.`),
       year:q.year,period:q.period,number:q.number,sourceUrl:q.sourceUrl||q.url||''
     };
   };
