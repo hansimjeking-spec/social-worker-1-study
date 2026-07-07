@@ -8,7 +8,7 @@
   const normalizeSubject=(s)=>s==='사회복지법제론'?'사회복지법제와 실천':String(s||'');
   const questions=()=>safeArr(window.SAMPLE_QUESTIONS).map(q=>({...q,subject:normalizeSubject(q.subject)})).filter(q=>q.question&&Array.isArray(q.choices));
   const fileExt=(url='')=>String(url).split('?')[0].split('#')[0].split('.').pop()?.toLowerCase()||'';
-  const isPreviewable=(url='')=>['pdf','png','jpg','jpeg','webp','txt'].includes(fileExt(url));
+  const canPreview=(url='')=>['pdf','png','jpg','jpeg','webp','txt'].includes(fileExt(url));
   const subjects=()=>Array.from(new Set([...(Array.isArray(window.SUBJECTS)?window.SUBJECTS:[]),'인간행동과 사회환경','사회복지조사론','사회복지실천론','사회복지실천기술론','지역사회복지론','사회복지정책론','사회복지행정론','사회복지법제와 실천'].map(normalizeSubject)));
 
   function materialItems(){
@@ -26,14 +26,14 @@
       const urls=[
         ['학생용 기출',set.studentUrl||set.studentPdf||set.studentPath],
         ['교사용 기출',set.teacherUrl||set.teacherPdf||set.teacherPath],
-        ['원문',set.url||set.pdfUrl||set.sourceUrl]
+        ['원문',set.url||set.pdfUrl]
       ].filter(([,url])=>url);
       urls.forEach(([type,url],j)=>derived.push({
         id:`paper-${i}-${j}`,
         title:set.title||`${set.year||''}년 ${set.period||''} ${type}`,
         subject:normalizeSubject(set.subject||''),
         type,
-        url,
+        url:String(url).startsWith('http')?url:'./'+String(url).replace(/^\.\//,''),
         description:`${set.year||''}년 ${set.period||''}`
       }));
     });
@@ -45,30 +45,32 @@
     const root=$('#pdfsView');
     if(!root) return;
     const items=materialItems();
-    const prevSubject=$('#materialSubject')?.value||'';
-    const prevType=$('#materialType')?.value||'';
-    const allSubjects=uniq(items.map(x=>x.subject)).sort();
-    const types=uniq(items.map(x=>x.type)).sort();
-    const filtered=items.filter(x=>(!prevSubject||x.subject===prevSubject)&&(!prevType||x.type===prevType));
     if(!items.length){
-      root.innerHTML=`<section class="panel empty-state"><h3>등록된 교재 자료가 없습니다</h3><p>과목별 HWP/HWPX/PDF 파일은 GitHub 저장소의 <code>public/files/</code> 폴더에 올리면 됩니다.</p><p>그다음 <code>materials-data.js</code>에 파일 정보를 등록하세요.</p><pre class="export-box">window.PDF_LIBRARY.push({\n  subject: '인간행동과 사회환경',\n  title: '인간행동과 사회환경 한글 원본',\n  type: 'HWP',\n  url: './files/인간행동과사회환경.hwp'\n});</pre><p class="muted">PDF는 바로 열기, HWP/HWPX는 다운로드 방식으로 연결됩니다.</p></section>`;
+      root.innerHTML='<section class="panel empty-state"><h3>등록된 교재 자료가 없습니다</h3><p><code>materials-data.js</code>에 자료가 등록되지 않았습니다.</p></section>';
       return;
     }
-    root.innerHTML=`<section class="panel"><div class="panel-heading"><div><p class="eyebrow">교재·기출 원문</p><h3>교재 자료실</h3></div></div><div class="toolbar"><label>과목<select id="materialSubject"><option value="">전체</option>${allSubjects.map(s=>`<option value="${esc(s)}" ${s===prevSubject?'selected':''}>${esc(s)}</option>`).join('')}</select></label><label>유형<select id="materialType"><option value="">전체</option>${types.map(t=>`<option value="${esc(t)}" ${t===prevType?'selected':''}>${esc(t)}</option>`).join('')}</select></label></div><p class="summary-count">등록 자료 ${items.length}개 · 선택 조건 ${filtered.length}개</p><div class="summary-list">${filtered.map(item=>{
-      const preview=isPreviewable(item.url);
-      return `<article class="summary-card"><div class="summary-head"><div><p class="eyebrow">${esc(item.subject||'공통')} · ${esc(item.type)}</p><h3 class="summary-title">${esc(item.title)}</h3></div></div><p class="summary-one">${esc(item.description||fileExt(item.url).toUpperCase()+' 파일')}</p><div class="summary-foot"><a class="small-button" href="${esc(item.url)}" target="_blank" rel="noopener">${preview?'열기':'다운로드'}</a></div></article>`;
-    }).join('')||'<div class="empty-state">선택 조건에 해당하는 자료가 없습니다.</div>'}</div></section>`;
-    ['#materialSubject','#materialType'].forEach(id=>$(id)?.addEventListener('change',renderMaterials));
+    const first=items[0];
+    root.innerHTML=`<div class="pdf-layout"><aside class="panel compact-panel"><div class="panel-heading"><div><p class="eyebrow">과목별 학습자료</p><h3>교재 목록</h3></div></div><div id="materialList" class="pdf-list">${items.map((item,index)=>`<button class="pdf-item ${index===0?'active':''}" data-i="${index}"><strong>${esc(item.title)}</strong><span>${esc(item.subject||'공통')} · ${esc(item.type)}</span></button>`).join('')}</div></aside><section class="panel pdf-panel"><div class="pdf-toolbar"><div><p class="eyebrow" id="materialSubjectLabel">${esc(first.subject||'교재')}</p><h3 id="materialTitle">${esc(first.title)}</h3></div><a class="ghost-link" id="openMaterialLink" href="${esc(first.url)}" target="_blank" rel="noreferrer">${canPreview(first.url)?'새 탭으로 열기':'다운로드'}</a></div><iframe id="materialFrame" class="pdf-frame" title="교재 자료 미리보기" src="${canPreview(first.url)?esc(first.url):'about:blank'}"></iframe><p class="muted" id="materialPath">찾는 경로: ${esc(first.url)}</p><p class="muted" id="materialHelp">${canPreview(first.url)?'미리보기가 비어 있으면 새 탭으로 열기를 누르세요. 404가 뜨면 PDF 파일 위치나 파일명이 다른 것입니다.':'이 파일은 브라우저 미리보기가 어려워 다운로드로 열어야 합니다.'}</p></section></div>`;
+    const select=(index)=>{
+      const item=items[index];
+      if(!item) return;
+      $$('#materialList .pdf-item').forEach(btn=>btn.classList.toggle('active',Number(btn.dataset.i)===index));
+      $('#materialSubjectLabel').textContent=item.subject||'교재';
+      $('#materialTitle').textContent=item.title;
+      $('#openMaterialLink').href=item.url;
+      $('#openMaterialLink').textContent=canPreview(item.url)?'새 탭으로 열기':'다운로드';
+      $('#materialFrame').src=canPreview(item.url)?item.url:'about:blank';
+      $('#materialPath').textContent='찾는 경로: '+item.url;
+      $('#materialHelp').textContent=canPreview(item.url)?'미리보기가 비어 있으면 새 탭으로 열기를 누르세요. 404가 뜨면 PDF 파일 위치나 파일명이 다른 것입니다.':'이 파일은 브라우저 미리보기가 어려워 다운로드로 열어야 합니다.';
+    };
+    $$('#materialList .pdf-item').forEach(btn=>btn.addEventListener('click',()=>select(Number(btn.dataset.i))));
   }
 
   function renderPastDetails(){
     const root=$('#pastView');
     if(!root) return;
     const all=questions().filter(q=>q.year||safeArr(q.tags).some(t=>/^20\d{2}$/.test(String(t))));
-    if(!all.length){
-      root.innerHTML='<div class="panel empty-state">연도 정보가 있는 기출문제가 없습니다.</div>';
-      return;
-    }
+    if(!all.length){root.innerHTML='<div class="panel empty-state">연도 정보가 있는 기출문제가 없습니다.</div>';return;}
     const prevYear=$('#detailPastYear')?.value||'';
     const prevPeriod=$('#detailPastPeriod')?.value||'';
     const prevSubject=$('#detailPastSubject')?.value||'';
