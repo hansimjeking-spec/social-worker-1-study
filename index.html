@@ -40,25 +40,11 @@
         </header>
         <section class="view active" id="dashboardView" data-title="학습 홈">
           <div class="dashboard-grid">
-            <section class="panel progress-panel">
-              <div class="panel-heading"><div><p class="eyebrow">오늘의 흐름</p><h3>학습 상태</h3></div><button class="ghost-button" id="reviewWrongBtn">오답 복습</button></div>
-              <div class="stats-grid">
-                <div class="stat"><span>오늘 푼 문제</span><strong id="statSolved">0</strong></div><div class="stat"><span>오늘 정확도</span><strong id="statCorrect">0%</strong></div><div class="stat"><span>연속 학습</span><strong id="statWrong">0일</strong></div><div class="stat"><span>오답노트</span><strong id="statSavedWrong">0</strong></div>
-              </div>
-              <div class="daily-plan">
-                <div class="plan-heading"><div><span class="plan-label">오늘의 학습</span><strong id="dailyPlanText">목표를 설정해 보세요</strong></div><span class="day-badge" id="examDday">시험일 미설정</span></div>
-                <div class="goal-track"><div id="goalFill" class="goal-fill"></div></div>
-                <div class="plan-controls"><label>하루 목표 <input id="dailyGoalInput" type="number" min="5" max="200" step="5" value="20" /></label><label>시험일 <input id="examDateInput" type="date" /></label><button class="primary-button" id="startDailyBtn">오늘 학습 시작</button></div>
-              </div>
-            </section>
+            <section class="panel progress-panel"><div class="panel-heading"><div><p class="eyebrow">오늘의 흐름</p><h3>학습 상태</h3></div><button class="ghost-button" id="reviewWrongBtn">오답 복습</button></div><div class="stats-grid"><div class="stat"><span>오늘 푼 문제</span><strong id="statSolved">0</strong></div><div class="stat"><span>오늘 정확도</span><strong id="statCorrect">0%</strong></div><div class="stat"><span>연속 학습</span><strong id="statWrong">0일</strong></div><div class="stat"><span>오답노트</span><strong id="statSavedWrong">0</strong></div></div><div class="daily-plan"><div class="plan-heading"><div><span class="plan-label">오늘의 학습</span><strong id="dailyPlanText">목표를 설정해 보세요</strong></div><span class="day-badge" id="examDday">시험일 미설정</span></div><div class="goal-track"><div id="goalFill" class="goal-fill"></div></div><div class="plan-controls"><label>하루 목표 <input id="dailyGoalInput" type="number" min="5" max="200" step="5" value="20" /></label><label>시험일 <input id="examDateInput" type="date" /></label><button class="primary-button" id="startDailyBtn">오늘 학습 시작</button></div></div></section>
             <section class="panel"><div class="panel-heading"><div><p class="eyebrow">8개 영역</p><h3>과목 바로가기</h3></div></div><div class="subject-list" id="dashboardSubjects"></div><button class="ghost-button full-button" id="startWeakBtn">취약 과목 10문제 풀기</button></section>
           </div>
         </section>
-        <section class="view" id="summaryView" data-title="요약집">
-          <div class="toolbar summary-toolbar"><label>과목<select id="summarySubject"></select></label><label>태그<select id="summaryTag"></select></label><label>키워드 검색<input id="summarySearch" type="search" placeholder="예: 사례관리, 욕구, 조사, 법령" /></label><label class="switch-label"><input id="examModeToggle" type="checkbox" /> 시험 직전 모드</label></div>
-          <div class="summary-count" id="summaryCount"></div>
-          <div class="summary-layout"><section class="summary-list" id="summaryList"></section><aside class="panel compact-panel"><h3>암기 체크</h3><p class="muted">체크한 개념은 이 브라우저에 저장됩니다.</p><div id="flashList" class="flash-list"></div></aside></div>
-        </section>
+        <section class="view" id="summaryView" data-title="요약집"><div class="toolbar summary-toolbar"><label>과목<select id="summarySubject"></select></label><label>태그<select id="summaryTag"></select></label><label>키워드 검색<input id="summarySearch" type="search" placeholder="예: 사례관리, 욕구, 조사, 법령" /></label><label class="switch-label"><input id="examModeToggle" type="checkbox" /> 시험 직전 모드</label></div><div class="summary-count" id="summaryCount"></div><div class="summary-layout"><section class="summary-list" id="summaryList"></section><aside class="panel compact-panel"><h3>암기 체크</h3><p class="muted">체크한 개념은 이 브라우저에 저장됩니다.</p><div id="flashList" class="flash-list"></div></aside></div></section>
         <section class="view" id="pdfsView" data-title="교재 자료실"><div class="panel empty-state">교재 자료를 불러오고 있습니다.</div></section>
         <section class="view" id="quizView" data-title="과목별 문제"><div class="quiz-layout"><section class="panel"><div class="toolbar"><label>과목<select id="quizSubject"></select></label><label>문항 수<input id="quizCount" type="number" min="3" max="50" value="10" /></label><button class="primary-button" id="buildQuizBtn">문제 시작</button></div><div id="quizArea" class="question-area empty-state">과목과 문항 수를 고른 뒤 문제를 시작하세요.</div></section><aside class="panel compact-panel"><h3>풀이 현황</h3><div class="side-score"><strong id="quizScore">0 / 0</strong><span id="quizPercent">정확도 0%</span></div><button class="ghost-button full-button" id="finishQuizBtn">채점하기</button></aside></div></section>
         <section class="view" id="cbtView" data-title="CBT 모의고사"><div class="cbt-header panel"><div><p class="eyebrow">실전 감각</p><h3>랜덤 25문항 모의 CBT</h3></div><div class="timer" id="timer">25:00</div><button class="primary-button" id="startCbtBtn">시험 시작</button></div><div class="cbt-layout"><section class="panel question-area" id="cbtArea"><div class="empty-state">시험 시작을 누르면 전체 과목에서 무작위 문항이 출제됩니다.</div></section><aside class="panel compact-panel"><h3>답안지</h3><div id="answerSheet" class="answer-sheet"></div><button class="ghost-button full-button" id="submitCbtBtn">제출 및 채점</button></aside></div></section>
@@ -77,5 +63,6 @@
     <script type="module" src="./question-boost.js"></script>
     <script type="module" src="./app.js"></script>
     <script type="module" src="./view-enhance.js"></script>
+    <script type="module" src="./health-check.js"></script>
   </body>
 </html>
