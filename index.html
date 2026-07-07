@@ -58,7 +58,7 @@
           <div class="summary-count" id="summaryCount"></div>
           <div class="summary-layout"><section class="summary-list" id="summaryList"></section><aside class="panel compact-panel"><h3>암기 체크</h3><p class="muted">체크한 개념은 이 브라우저에 저장됩니다.</p><div id="flashList" class="flash-list"></div></aside></div>
         </section>
-        <section class="view" id="pdfsView" data-title="교재 자료실"><div class="panel empty-state">과목별 PDF 원문은 <code>public/pdfs</code> 또는 루트의 <code>pdfs</code> 폴더에 추가한 뒤 <code>PDF_LIBRARY</code>에 등록하면 연결됩니다.</div></section>
+        <section class="view" id="pdfsView" data-title="교재 자료실"><div class="panel empty-state">교재 자료를 불러오고 있습니다.</div></section>
         <section class="view" id="quizView" data-title="과목별 문제"><div class="quiz-layout"><section class="panel"><div class="toolbar"><label>과목<select id="quizSubject"></select></label><label>문항 수<input id="quizCount" type="number" min="3" max="50" value="10" /></label><button class="primary-button" id="buildQuizBtn">문제 시작</button></div><div id="quizArea" class="question-area empty-state">과목과 문항 수를 고른 뒤 문제를 시작하세요.</div></section><aside class="panel compact-panel"><h3>풀이 현황</h3><div class="side-score"><strong id="quizScore">0 / 0</strong><span id="quizPercent">정확도 0%</span></div><button class="ghost-button full-button" id="finishQuizBtn">채점하기</button></aside></div></section>
         <section class="view" id="cbtView" data-title="CBT 모의고사"><div class="cbt-header panel"><div><p class="eyebrow">실전 감각</p><h3>랜덤 25문항 모의 CBT</h3></div><div class="timer" id="timer">25:00</div><button class="primary-button" id="startCbtBtn">시험 시작</button></div><div class="cbt-layout"><section class="panel question-area" id="cbtArea"><div class="empty-state">시험 시작을 누르면 전체 과목에서 무작위 문항이 출제됩니다.</div></section><aside class="panel compact-panel"><h3>답안지</h3><div id="answerSheet" class="answer-sheet"></div><button class="ghost-button full-button" id="submitCbtBtn">제출 및 채점</button></aside></div></section>
         <section class="view" id="pastView" data-title="연도별 기출"><div class="panel empty-state">기출 데이터를 정리하고 있습니다.</div></section>
@@ -70,9 +70,11 @@
     <template id="questionTemplate"><article class="question-card"><div class="question-meta"></div><h4></h4><div class="choices"></div><div class="explain"></div></article></template>
     <script type="module" src="./past-papers-data.js"></script>
     <script type="module" src="./summary-guides.js"></script>
+    <script type="module" src="./materials-data.js"></script>
     <script type="module" src="./compat.js"></script>
     <script type="module" src="./study-coach.js"></script>
     <script type="module" src="./question-boost.js"></script>
     <script type="module" src="./app.js"></script>
+    <script type="module" src="./view-enhance.js"></script>
   </body>
 </html>
