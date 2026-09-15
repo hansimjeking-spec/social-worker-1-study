@@ -31,7 +31,8 @@ let current=[];
 let timer=null;
 let left=1500;
 
-function questions(){return BASE.concat(custom).map(q=>({...q,subject:normalizeSubject(q.subject)})).filter(q=>q.question&&Array.isArray(q.choices)&&q.choices.length>=2)}
+function questions(){return BASE.concat(custom).map(q=>({...q,subject:normalizeSubject(q.subject)})).filter(q=>q.question&&Array.isArray(q.choices)&&q.choices.length>=2&&!hasMissingStatements(q))}
+function hasMissingStatements(q){return /모두\s*고른|옳은\s*것을\s*고른/.test(String(q.question||''))&&q.choices.length>0&&q.choices.every(c=>/^ㄱ(?:\s*,\s*[ㄴㄷㄹ])*$/.test(String(c).trim()))}
 function save(){write('sw1_stats',stats);write('sw1_wrong',wrong);write('sw1_learned',learned);write('sw1_custom',custom)}
 function dayCheck(){if(stats.date!==today()){const y=new Date(Date.now()-86400000).toISOString().slice(0,10);stats.streak=stats.date===y?(stats.streak||0)+1:1;stats.date=today();stats.solved=0;stats.correct=0;save()}}
 function setText(sel,text){const el=$(sel);if(el)el.textContent=text}
