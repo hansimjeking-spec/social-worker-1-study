@@ -40953,6 +40953,12 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements": [
+        "성숙효과",
+        "선택(selection)과의 상호작용",
+        "통제집단 회귀",
+        "위약(placebo)효과"
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
       "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
