@@ -36,7 +36,7 @@ function save(){write('sw1_stats',stats);write('sw1_wrong',wrong);write('sw1_lea
 function dayCheck(){if(stats.date!==today()){const y=new Date(Date.now()-86400000).toISOString().slice(0,10);stats.streak=stats.date===y?(stats.streak||0)+1:1;stats.date=today();stats.solved=0;stats.correct=0;save()}}
 function setText(sel,text){const el=$(sel);if(el)el.textContent=text}
 function setHtml(sel,html){const el=$(sel);if(el)el.innerHTML=html}
-function cleanText(value){return String(value??'').replace(/\s*격증\s*기출문제\s*전자문제집\s*CBT\s*:\s*www\.comcbt\.com[\s\S]*$/i,'').replace(/\s*전자문제집\s*CBT\s*:\s*www\.comcbt\.com[\s\S]*$/i,'').replace(/[ \t]+/g,' ').trim()}
+function cleanText(value){return String(value??'').replace(/\s*(?:격증\s*기출문제\s*)?전자문제집\s*CBT\s*:[\s\S]*$/i,'').replace(/\s*www\.comcbt\.com[\s\S]*$/i,'').replace(/[ \t]+/g,' ').trim()}
 
 function view(v){
   $$('.nav-item').forEach(b=>b.classList.toggle('active',b.dataset.view===v));
