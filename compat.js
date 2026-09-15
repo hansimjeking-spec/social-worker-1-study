@@ -14,6 +14,8 @@
     let text=safeText(value)
       .replace(/\s+/g,' ')
       .replace(/\s+([.,;:!?])/g,'$1')
+      .replace(/(하|되|있|없|어진|하는|되는)\s+(다|는|지)/g,'$1$2')
+      .replace(/하는\s+다/g,'한다')
       .trim();
     const cutPatterns=[
       /\s*(?:(?:각종|걱종)?\s*기출문제\s*)?전자문제집\s*CBT\s*[:：].*$/i,
