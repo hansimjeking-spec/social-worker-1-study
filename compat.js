@@ -127,19 +127,19 @@
       tags:Array.from(new Set([...(Array.isArray(q.tags)?q.tags:[]),...(q.year?[String(q.year)]:[]),...(q.period?[String(q.period)]:[]),...(q.source?'실제기출':[])])),
       question:cleanText(q.question||q.stem||q.title||''),
       choices:choices.map(cleanText).filter(Boolean),
+      statements:Array.isArray(q.statements)?q.statements.map(cleanText).filter(Boolean):[],
       answer:Number.isFinite(answer)?answer:0,
       explain:cleanText(q.explain||q.explanation||q.commentary||`${q.year||''}년 ${q.period||''} ${q.number||''}번 문제입니다.`),
       year:q.year,period:q.period,number:q.number,sourceUrl:q.sourceUrl||q.url||''
     };
   };
-  const hasMissingStatements=(q)=>/모두\s*고른|옳은\s*것을\s*고른/.test(String(q.question||''))&&q.choices.length>0&&q.choices.every(c=>/^ㄱ(?:\s*,\s*[ㄴㄷㄹ])*$/.test(String(c).trim()));
   window.SUBJECTS=Array.from(new Set([...(Array.isArray(window.SUBJECTS)?window.SUBJECTS:[]),...DEFAULT_SUBJECTS].map(normalizeSubject).filter(Boolean)));
   window.SUMMARY_GUIDES=normalizeGuides(window.SUMMARY_GUIDES||[]);
   window.PDF_LIBRARY=Array.isArray(window.PDF_LIBRARY)?window.PDF_LIBRARY:[];
   const base=Array.isArray(window.SAMPLE_QUESTIONS)?window.SAMPLE_QUESTIONS:[];
   const past=window.PAST_PAPER_DATA&&Array.isArray(window.PAST_PAPER_DATA.questions)?window.PAST_PAPER_DATA.questions:[];
   const existing=new Set(base.map(q=>q.id));
-   const converted=past.map(normalizeQuestion).filter(q=>q.question&&q.choices.length>=2&&!hasMissingStatements(q)&&!existing.has(q.id));
+   const converted=past.map(normalizeQuestion).filter(q=>q.question&&q.choices.length>=2&&!existing.has(q.id));
   window.SAMPLE_QUESTIONS=[...base.map(normalizeQuestion).filter(q=>q.question&&q.choices.length>=2),...converted];
   window.STUDY_DATA_META={subjects:window.SUBJECTS.length,guides:window.SUMMARY_GUIDES.length,questions:window.SAMPLE_QUESTIONS.length,pastQuestions:converted.length,paperSets:window.PAST_PAPER_DATA?.paperSets?.length||0,pdfs:window.PDF_LIBRARY.length};
 })();
