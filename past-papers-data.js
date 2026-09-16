@@ -11,7 +11,7 @@ window.PAST_PAPER_DATA = {
         "사회복지법제론"
       ],
       "title": "사회복지사 1급(3교시) 필기 기출문제 및 CBT 2026년 01월 17일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2026_3교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2026_3교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -28,7 +28,7 @@ window.PAST_PAPER_DATA = {
         "지역사회복지론"
       ],
       "title": "사회복지사 1급(2교시) 필기 기출문제 및 CBT 2026년 01월 17일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2026_2교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2026_2교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -44,7 +44,7 @@ window.PAST_PAPER_DATA = {
         "사회복지조사론"
       ],
       "title": "사회복지사 1급(1교시) 필기 기출문제 및 CBT 2026년 01월 17일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2026_1교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2026_1교시_교사용_정답해설.pdf",
       "questionCount": 50,
@@ -61,7 +61,7 @@ window.PAST_PAPER_DATA = {
         "사회복지법제론"
       ],
       "title": "사회복지사 1급(3교시) 필기 기출문제 및 CBT 2025년 01월 11일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2025_3교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2025_3교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -78,7 +78,7 @@ window.PAST_PAPER_DATA = {
         "지역사회복지론"
       ],
       "title": "사회복지사 1급(2교시) 필기 기출문제 및 CBT 2025년 01월 11일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2025_2교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2025_2교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -94,7 +94,7 @@ window.PAST_PAPER_DATA = {
         "사회복지조사론"
       ],
       "title": "사회복지사 1급(1교시) 필기 기출문제 및 CBT 2025년 01월 11일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2025_1교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2025_1교시_교사용_정답해설.pdf",
       "questionCount": 50,
@@ -111,7 +111,7 @@ window.PAST_PAPER_DATA = {
         "사회복지법제론"
       ],
       "title": "사회복지사 1급(3교시) 필기 기출문제 및 CBT 2024년 01월 13일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2024_3교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2024_3교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -128,7 +128,7 @@ window.PAST_PAPER_DATA = {
         "지역사회복지론"
       ],
       "title": "사회복지사 1급(2교시) 필기 기출문제 및 CBT 2024년 01월 13일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2024_2교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2024_2교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -144,7 +144,7 @@ window.PAST_PAPER_DATA = {
         "사회복지조사론"
       ],
       "title": "사회복지사 1급(1교시) 필기 기출문제 및 CBT 2024년 01월 13일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2024_1교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2024_1교시_교사용_정답해설.pdf",
       "questionCount": 50,
@@ -161,7 +161,7 @@ window.PAST_PAPER_DATA = {
         "사회복지법제론"
       ],
       "title": "사회복지사 1급(3교시) 필기 기출문제 및 CBT 2023년 01월 14일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2023_3교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2023_3교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -178,7 +178,7 @@ window.PAST_PAPER_DATA = {
         "지역사회복지론"
       ],
       "title": "사회복지사 1급(2교시) 필기 기출문제 및 CBT 2023년 01월 14일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2023_2교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2023_2교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -194,7 +194,7 @@ window.PAST_PAPER_DATA = {
         "사회복지조사론"
       ],
       "title": "사회복지사 1급(1교시) 필기 기출문제 및 CBT 2023년 01월 14일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2023_1교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2023_1교시_교사용_정답해설.pdf",
       "questionCount": 50,
@@ -211,7 +211,7 @@ window.PAST_PAPER_DATA = {
         "사회복지법제론"
       ],
       "title": "사회복지사 1급(3교시) 필기 기출문제 및 CBT 2022년 01월 22일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2022_3교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2022_3교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -228,7 +228,7 @@ window.PAST_PAPER_DATA = {
         "지역사회복지론"
       ],
       "title": "사회복지사 1급(2교시) 필기 기출문제 및 CBT 2022년 01월 22일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2022_2교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2022_2교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -244,7 +244,7 @@ window.PAST_PAPER_DATA = {
         "사회복지조사론"
       ],
       "title": "사회복지사 1급(1교시) 필기 기출문제 및 CBT 2022년 01월 22일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2022_1교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2022_1교시_교사용_정답해설.pdf",
       "questionCount": 50,
@@ -261,7 +261,7 @@ window.PAST_PAPER_DATA = {
         "사회복지법제론"
       ],
       "title": "사회복지사 1급(3교시) 필기 기출문제 및 CBT 2021년 02월 06일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2021_3교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2021_3교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -278,7 +278,7 @@ window.PAST_PAPER_DATA = {
         "지역사회복지론"
       ],
       "title": "사회복지사 1급(2교시) 필기 기출문제 및 CBT 2021년 02월 06일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2021_2교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2021_2교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -294,7 +294,7 @@ window.PAST_PAPER_DATA = {
         "사회복지조사론"
       ],
       "title": "사회복지사 1급(1교시) 필기 기출문제 및 CBT 2021년 02월 06일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2021_1교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2021_1교시_교사용_정답해설.pdf",
       "questionCount": 50,
@@ -311,7 +311,7 @@ window.PAST_PAPER_DATA = {
         "사회복지법제론"
       ],
       "title": "사회복지사 1급(3교시) 필기 기출문제 및 CBT 2020년 02월 08일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2020_3교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2020_3교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -328,7 +328,7 @@ window.PAST_PAPER_DATA = {
         "지역사회복지론"
       ],
       "title": "사회복지사 1급(2교시) 필기 기출문제 및 CBT 2020년 02월 08일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2020_2교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2020_2교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -344,7 +344,7 @@ window.PAST_PAPER_DATA = {
         "사회복지조사론"
       ],
       "title": "사회복지사 1급(1교시) 필기 기출문제 및 CBT 2020년 02월 08일(1회)(해설집 포함)",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2020_1교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2020_1교시_교사용_정답해설.pdf",
       "questionCount": 50,
@@ -361,7 +361,7 @@ window.PAST_PAPER_DATA = {
         "사회복지법제론"
       ],
       "title": "사회복지사 1급(3교시) 필기 기출문제 및 CBT 2019년 01월 19일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2019_3교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2019_3교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -378,7 +378,7 @@ window.PAST_PAPER_DATA = {
         "지역사회복지론"
       ],
       "title": "사회복지사 1급(2교시) 필기 기출문제 및 CBT 2019년 01월 19일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2019_2교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2019_2교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -394,7 +394,7 @@ window.PAST_PAPER_DATA = {
         "사회복지조사론"
       ],
       "title": "사회복지사 1급(1교시) 필기 기출문제 및 CBT 2019년 01월 19일(1회)(해설집 포함)",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2019_1교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2019_1교시_교사용_정답해설.pdf",
       "questionCount": 50,
@@ -411,7 +411,7 @@ window.PAST_PAPER_DATA = {
         "사회복지법제론"
       ],
       "title": "사회복지사 1급(3교시) 필기 기출문제 및 CBT 2018년 01월 20일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2018_3교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2018_3교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -428,7 +428,7 @@ window.PAST_PAPER_DATA = {
         "지역사회복지론"
       ],
       "title": "사회복지사 1급(2교시) 필기 기출문제 및 CBT 2018년 01월 20일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2018_2교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2018_2교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -444,7 +444,7 @@ window.PAST_PAPER_DATA = {
         "사회복지조사론"
       ],
       "title": "사회복지사 1급(1교시) 필기 기출문제 및 CBT 2018년 01월 20일(1회)(해설집 포함)",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2018_1교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2018_1교시_교사용_정답해설.pdf",
       "questionCount": 50,
@@ -461,7 +461,7 @@ window.PAST_PAPER_DATA = {
         "사회복지법제론"
       ],
       "title": "사회복지사 1급(3교시) 필기 기출문제 및 CBT 2017년 01월 21일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2017_3교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2017_3교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -478,7 +478,7 @@ window.PAST_PAPER_DATA = {
         "지역사회복지론"
       ],
       "title": "사회복지사 1급(2교시) 필기 기출문제 및 CBT 2017년 01월 21일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2017_2교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2017_2교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -494,7 +494,7 @@ window.PAST_PAPER_DATA = {
         "사회복지조사론"
       ],
       "title": "사회복지사 1급(1교시) 필기 기출문제 및 CBT 2017년 01월 21일(1회)(해설집 포함)",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2017_1교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2017_1교시_교사용_정답해설.pdf",
       "questionCount": 50,
@@ -511,7 +511,7 @@ window.PAST_PAPER_DATA = {
         "사회복지법제론"
       ],
       "title": "사회복지사 1급(3교시) 필기 기출문제 및 CBT 2016년 01월 23일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2016_3교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2016_3교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -528,7 +528,7 @@ window.PAST_PAPER_DATA = {
         "지역사회복지론"
       ],
       "title": "사회복지사 1급(2교시) 필기 기출문제 및 CBT 2016년 01월 23일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2016_2교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2016_2교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -544,7 +544,7 @@ window.PAST_PAPER_DATA = {
         "사회복지조사론"
       ],
       "title": "사회복지사 1급(1교시) 필기 기출문제 및 CBT 2016년 01월 23일(1회)(해설집 포함)",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2016_1교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2016_1교시_교사용_정답해설.pdf",
       "questionCount": 50,
@@ -561,7 +561,7 @@ window.PAST_PAPER_DATA = {
         "사회복지법제론"
       ],
       "title": "사회복지사 1급(3교시) 필기 기출문제 및 CBT 2015년 01월 24일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2015_3교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2015_3교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -578,7 +578,7 @@ window.PAST_PAPER_DATA = {
         "지역사회복지론"
       ],
       "title": "사회복지사 1급(2교시) 필기 기출문제 및 CBT 2015년 01월 24일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2015_2교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2015_2교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -594,7 +594,7 @@ window.PAST_PAPER_DATA = {
         "사회복지조사론"
       ],
       "title": "사회복지사 1급(1교시) 필기 기출문제 및 CBT 2015년 01월 24일(1회)(해설집 포함)",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2015_1교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2015_1교시_교사용_정답해설.pdf",
       "questionCount": 50,
@@ -611,7 +611,7 @@ window.PAST_PAPER_DATA = {
         "사회복지법제론"
       ],
       "title": "사회복지사 1급(3교시) 필기 기출문제 및 CBT 2014년 01월 25일(1회)",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2014_3교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2014_3교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -628,7 +628,7 @@ window.PAST_PAPER_DATA = {
         "지역사회복지론"
       ],
       "title": "사회복지사 1급(2교시) 필기 기출문제 및 CBT 2014년 01월 25일(1회)(해설집 포함)",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2014_2교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2014_2교시_교사용_정답해설.pdf",
       "questionCount": 75,
@@ -644,7 +644,7 @@ window.PAST_PAPER_DATA = {
         "사회복지조사론"
       ],
       "title": "사회복지사 1급(1교시) 필기 기출문제 및 CBT 2014년 01월 25일(1회)(해설집 포함)",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981",
+      "sourceUrl": "https://",
       "studentPdf": "past-papers/2014_1교시_학생용_문제.pdf",
       "teacherPdf": "past-papers/2014_1교시_교사용_정답해설.pdf",
       "questionCount": 50,
@@ -669,7 +669,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_2",
@@ -688,7 +688,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_3",
@@ -705,9 +705,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "미국의 사회보장법(1935)은 대공황이라는 경 제문제를 극복하기 위해 도입되었다.",
+              "세계 최초로 실업에 대한 사회보험원리가 적 용된 실업보험은 독일에서 도입되었다.",
+              "비스마르크 사회보험은 노동자의 불만을 해 소시켜 사회통합을 기하려는 의도로 도입되 었다.",
+              "영국의 국민보험법(1911)은 베버리지가 제안 한 보편적이고 통일된사회보험체계를 구체 화한 것이다"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_4",
@@ -724,9 +730,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄷ, ㄹ, ㅁ"
       ],
+      "statements":       [
+              "수렴이론",
+              "권력자원이론",
+              "사회통제이론",
+              "이익집단이론 ㅁ.사회양심이론"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_5",
@@ -740,12 +752,12 @@ window.PAST_PAPER_DATA = {
         "엘리자베스구빈법(1601): 노동능력이 있는 빈민을 교정원 이나 노역장에 수용하였다.",
         "정주법(1662): 빈민의 자유로운 이동을 제한하였다.",
         "길버트법(1782): 빈민처우의 개선을 목적으로 원외구호를 마련하였다.",
-        "스핀햄랜드법(1795): 일정소득 이하의 빈민에게 보조금을 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 지급하였다.",
+        "스핀햄랜드법(1795): 일정소득 이하의 빈민에게 보조금을",
         "신구빈법(1834): 빈민구제에 대한 국가의 책임을 최초로 제도화하였다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_6",
@@ -764,7 +776,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_7",
@@ -781,9 +793,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "자유지상주의에서는 국가의 조세 징수를 통 한 재분배는 정당한 것으로 본다.",
+              "공리주의에서는 저소득층의 한계효용이 고소 득층에 비해 크기 때문에 재분배는 사회 전 체의 총효용을 증가시키는 것으로 본다.",
+              "롤즈(J.Rawls)는 가장 혜택을 받지 못한 최 소 수혜자 계층에게 유익한 결과를 가져온다 면 차등적 분배는 정당하다고 본다.",
+              "마르크스(K.Marx)는 공정한 분배는 생산수단 의 사회화가 이루어진 이후에 가능한 것으로 본다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_8",
@@ -802,7 +820,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_9",
@@ -821,7 +839,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_10",
@@ -833,14 +851,14 @@ window.PAST_PAPER_DATA = {
       "stem": "사회복지정책의 평가에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "형평성 평가: 비용과 편익이 대상자들에게 공평하게 배 분되었는가?",
-        "효율성 평가: 최대산출을 위해 비용을 얼마나 최소화 하 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2026년 01월 17일 필기 기 였는가?",
+        "효율성 평가: 최대산출을 위해 비용을 얼마나 최소화 하",
         "효과성 평가: 목표를 얼마나 달성하였는가?",
         "영향 평가: 대상자들이 얼마나 만족하였는가?",
         "접근성 평가: 대상자들이 시간적, 지리적으로 쉽게 이용 할 수 있었는가?"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_11",
@@ -859,7 +877,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_12",
@@ -878,7 +896,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_13",
@@ -895,9 +913,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "소득세와 소비세는 개인이 부담하는 것으로 민간재원에해당한다.",
+              "사회보혈료는소득에따라 보험료율이 증가 한다.",
+              "근로장려금 제도는 조세비용에 해당된다.",
+              "자발적 기부는 개인,재단 등을 통해 제공도 며, 사회복지프로그램의 지속성을 보장한다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_14",
@@ -916,7 +940,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_15",
@@ -925,7 +949,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지정책론",
       "number": 15,
-      "stem": "사회복지의 급여 대상을 규정하는 기준으로 옳은 것을 모두 고른 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "사회복지의 급여 대상을 규정하는 기준으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ",
         "ㄴ, ㄷ",
@@ -941,7 +965,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_16",
@@ -958,9 +982,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "아동수당",
+              "의료급여",
+              "의무교육",
+              "무상급식"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_17",
@@ -979,7 +1009,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_18",
@@ -998,7 +1028,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_19",
@@ -1017,7 +1047,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_20",
@@ -1032,11 +1062,11 @@ window.PAST_PAPER_DATA = {
         "법 개정에 의해 예술인도 가입대상으로 포함되었다.",
         "｢남녀고용평등과 일ㆍ가정 양립지원에 관한 법률｣이 시 행되면서 육아휴직급여는 고용보험에서 폐지되었다.",
         "고용안정과 직업능력개발사업의 보험료는 사업주가 전액 부담한다.",
-        "고용보험의 보험료 징수업무는 국민건강보험공단이 담당 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2026년 01월 17일 필기 기 하고 있다."
+        "고용보험의 보험료 징수업무는 국민건강보험공단이 담당"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_21",
@@ -1053,9 +1083,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "귀속적 욕구- 마동수당",
+              "보상-국민건강보험",
+              "진단적 구분-장애인활동지원서비스",
+              "자산조사적 욕구-국민기초생활보장제도"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_22",
@@ -1074,7 +1110,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_23",
@@ -1093,7 +1129,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_24",
@@ -1110,9 +1146,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "OECD국가 중 노인빈곤율이 높은 수준이어서 노후소득보장제도의 개선이 필요하다.",
+              "국민건강보험의 효율적 관리를위해 조합방 식에서 통합방식으로 전환이 필요하다.",
+              "아동수당의 포괄범위가 낮은 수준이어서,대 상연령 확대가 필요하다",
+              "국민기초생활보장제도의 주거급여에 대해서 는 부양의무자기준을 폐지해야 한다."
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_25",
@@ -1127,11 +1169,11 @@ window.PAST_PAPER_DATA = {
         "국민연금 수급자의 일부는 기초연금이 감액되어 지급된 다.",
         "국민기초생활보장 생계급여에 더하여 기초연금 급여를 받을수 있기 때문에 탈빈곤효과가 증가한다.",
         "국민연금의 미가입자에게 노후소득을 보완하는 효과가 있다.",
-        "재원은 중앙정부와 지방자치단체가 분담한다. 2과목 : 사회복지 행정론 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "재원은 중앙정부와 지방자치단체가 분담한다. 2과목 : 사회복지 행정론"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_26",
@@ -1150,7 +1192,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_27",
@@ -1169,7 +1211,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_28",
@@ -1186,9 +1228,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ - ㄱ - ㄷ - ㄹ",
         "ㄴ - ㄱ - ㄹ - ㄷ"
       ],
+      "statements":       [
+              "사회복지사무소 시범사업시작",
+              "사회서비스 전자바우처 도입",
+              "지역사회 통합돌봄(커뮤니티케어) 선도사업 시작",
+              "희망복지지원단 구축"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_29",
@@ -1207,7 +1255,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_30",
@@ -1226,7 +1274,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_31",
@@ -1237,7 +1285,7 @@ window.PAST_PAPER_DATA = {
       "number": 31,
       "stem": "한국 사회복지행정의 역사에 관한 설명으로 옳은 것은?",
       "choices": [
-        "2000년에 국민기초생활보장제도와 장기요양보험제도가 시행되었다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2026년 01월 17일 필기 기",
+        "2000년에 국민기초생활보장제도와 장기요양보험제도가 시행되었다.",
         "2012년에 시ㆍ군ㆍ구 희망복지지원단이 구축되기 시작 하였다.",
         "2015년에 사회복지통합관리망(행복e음)이 개통되었다.",
         "2020년에 지역사회보장협의체가 구성되었다.",
@@ -1245,7 +1293,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_32",
@@ -1264,7 +1312,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_33",
@@ -1283,7 +1331,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_34",
@@ -1300,9 +1348,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "사회복지대상자 수급이력 통합",
+              "인적자원개발을위한방향과내용확보",
+              "직무수행이 조직 전략에부합하는 지를 파약",
+              "임금,승진,전환배치,해고등을 위한 정보 획득"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_35",
@@ -1321,7 +1375,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_36",
@@ -1330,7 +1384,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지행정론",
       "number": 36,
-      "stem": "총체적 품질관리(TQM)에 관한 설명으로 옳은 것을 모두 고 른 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "총체적 품질관리(TQM)에 관한 설명으로 옳은 것을 모두 고 른 것은?",
       "choices": [
         "ㄱ, ㄴ",
         "ㄱ, ㄷ",
@@ -1338,9 +1392,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "품질은 조직의 일차적인 목적이다.",
+              "품질을 결정하는 것은 직원 모두이다.",
+              "조직 내에서 변화는 지속적으로 이루어져야 한다.",
+              "서비스의 질은 서비스 제공 이후 고려해야 한다."
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_37",
@@ -1359,7 +1419,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_38",
@@ -1378,7 +1438,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_39",
@@ -1397,7 +1457,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_40",
@@ -1414,9 +1474,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄹ, ㅂ, ㅇ",
         "ㄴ, ㅂ, ㅅ, ㅇ"
       ],
+      "statements":       [
+              "계획(Plan)",
+              "가격(Price)",
+              "문제(Problem)",
+              "프로젝트(Project) . 성과(Perfomance) ㅂ.장소(Place) . 제품(Product) o.촉진(Promotion)"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_41",
@@ -1425,7 +1491,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지행정론",
       "number": 41,
-      "stem": "사회복지법인의 예산집행에 관한 설명으로 옳은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2026년 01월 17일 필기 기",
+      "stem": "사회복지법인의 예산집행에 관한 설명으로 옳은 것은?",
       "choices": [
         "예산총계주의원칙을 따르지 않는다.",
         "회계연도 개시 후 신규 지출 사유가 발생한 경우 법인 이사회의 의결없이 집행한다.",
@@ -1435,7 +1501,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_42",
@@ -1452,9 +1518,13 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 네트워크(network) 조직, ㄴ: 테스크포스(task force) 조직",
         "ㄱ: 매트릭스(matrix) 조직, ㄴ: 테스크포스(task force) 조직"
       ],
+      "statements":       [
+              ":기존의 기능 조직과 프로젝트 조직을 결합 하며 구성원의 능력을 최대한 활용하고자 하며, 두조직의 장점을 살리기 위하여설 계된 유형이다 (",
+              ": 기존 조직이 수행하기 어려운 일들을 정해 진기일 동안 해결하기위해임시편성된 유형이다"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_43",
@@ -1473,7 +1543,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_44",
@@ -1492,7 +1562,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_45",
@@ -1506,12 +1576,12 @@ window.PAST_PAPER_DATA = {
         "디지털 기반, 증거 기반 복지행정 역량이 강조되고 있다.",
         "지역사회 생활권 중심의 생애주기별 돌봄정책이 확대되 고 있다.",
         "지역사회 통합돌봄(커뮤니티 케어) 시행에 따라 사회서비 스가 대폭 축소되고 있다.",
-        "민관협력에 의한 통합사례관리의 중요성이 강조되고 있 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 다.",
+        "민관협력에 의한 통합사례관리의 중요성이 강조되고 있",
         "서비스 이용자의 욕구별 통합서비스 제공을 위한 연계와 협업이 확대되고 있다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_46",
@@ -1530,7 +1600,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_47",
@@ -1549,7 +1619,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_48",
@@ -1568,7 +1638,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_49",
@@ -1587,7 +1657,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_50",
@@ -1606,7 +1676,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_51",
@@ -1617,7 +1687,7 @@ window.PAST_PAPER_DATA = {
       "number": 51,
       "stem": "법률의 제정 연도가 가장 최근인 것은?",
       "choices": [
-        "｢국민건강보험법｣ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2026년 01월 17일 필기 기",
+        "｢국민건강보험법｣",
         "｢다문화가족지원법｣",
         "｢노인 일자리 및 사회활동 지원에 관한 법률｣",
         "｢사회보장기본법｣",
@@ -1625,7 +1695,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_52",
@@ -1644,7 +1714,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_53",
@@ -1663,7 +1733,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_54",
@@ -1682,7 +1752,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_55",
@@ -1701,7 +1771,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_56",
@@ -1720,7 +1790,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_57",
@@ -1729,7 +1799,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 57,
-      "stem": "사회보장급여의 이용ㆍ제공 및 수급권자 발굴에 관한 법률 상 지역사회보장협의체의 심의 ㆍ자문 사항에 포함되지 않 는 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "사회보장급여의 이용ㆍ제공 및 수급권자 발굴에 관한 법률 상 지역사회보장협의체의 심의 ㆍ자문 사항에 포함되지 않 는 것은?",
       "choices": [
         "시ㆍ군ㆍ구의 지역사회보장계획 수립ㆍ시행 및 평가에 관한 사항",
         "시ㆍ군ㆍ구의 지역사회보장조사 및 지역사회보장지표에 관한 사항",
@@ -1739,7 +1809,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_58",
@@ -1758,7 +1828,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_59",
@@ -1777,7 +1847,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_60",
@@ -1796,7 +1866,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_61",
@@ -1815,7 +1885,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_62",
@@ -1824,7 +1894,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 62,
-      "stem": "국민기초생활보장법에 관한 내용이다. ( )에 들어갈 내용이 옳은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2026년 01월 17일 필기 기",
+      "stem": "국민기초생활보장법에 관한 내용이다. ( )에 들어갈 내용이 옳은 것은?",
       "choices": [
         "ㄱ: 적정, ㄴ: 소득환산액, ㄷ: 소득평가액",
         "ㄱ: 최저보장, ㄴ: 소득평가액, ㄷ: 소득환산액",
@@ -1832,9 +1902,14 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 최소, ㄴ: 재산소득, ㄷ: 경상소득",
         "ㄱ: 최저보장, ㄴ: 가처분소득, ㄷ: 소득환산액"
       ],
+      "statements":       [
+              "수준을 결정하며야 한다. O소득인정액은 개별가구의(",
+              "과 재산의(",
+              "를합산한 금액이다"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_63",
@@ -1859,7 +1934,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_64",
@@ -1878,7 +1953,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_65",
@@ -1892,12 +1967,12 @@ window.PAST_PAPER_DATA = {
         "보건복지부장관은 선정기준액을 정하는 경우 65세 이상 인 사람 중 기초연금 수급자가 100분의 90 수준이 되도 록 한다.",
         "국민연금기금은 기초연금 지급을 위한 재원으로 사용할 수 있다.",
         "본인과 그 배우자가 모두 기초연금 수급권자인 경우에는 각각의 기초연금액에서 기초연금액의 100분의 20에 해 당하는 금액을 감액한다.",
-        "기초연금 수급자의 국외 체류기간이 30일 이상 지속되는 경우 기초연금의 지급이 정지된다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "기초연금 수급자의 국외 체류기간이 30일 이상 지속되는 경우 기초연금의 지급이 정지된다.",
         "기초연금으로 지급받은 금품은 압류될 수 있다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_66",
@@ -1916,7 +1991,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_67",
@@ -1933,9 +2008,13 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 건강보험심사평가원, ㄴ: 국민건강보험공단",
         "ㄱ: 국민건강보험공단, ㄴ: 건강보험심사평가원"
       ],
+      "statements":       [
+              "으로한다. 요양급여의 적정성을 평가하기 위하며(",
+              "를설립한다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_68",
@@ -1954,7 +2033,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_69",
@@ -1978,7 +2057,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_70",
@@ -1991,13 +2070,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "“보호자”란 친권자, 후견인, 아동을 보호ㆍ양육ㆍ교육하 거나 그러한 의무가 있는 자 또는 업무ㆍ고용 등의 관계 로 사실상 아동을 보호ㆍ감독하는 자를 말한다.",
         "특별시ㆍ광역시ㆍ도ㆍ특별자치도에 아동위원을 두고 아 동위원에 대하여는 수당이 지급될 수 있다.",
-        "아동권리보장원의 업무에는 ｢국내입양에 관한 특별법｣및 ｢국제입양에 관한 법률｣에 따른 입양체계의 구축 및 운 영을 위한 업무가 포함되어 있다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2026년 01월 17일 필기 기",
+        "아동권리보장원의 업무에는 ｢국내입양에 관한 특별법｣및 ｢국제입양에 관한 법률｣에 따른 입양체계의 구축 및 운 영을 위한 업무가 포함되어 있다.",
         "보호대상아동이 보호조치를 연장할 의사가 있는 경우 해 당 아동이 25세에 달할 때까지 보호기간이 연장된다.",
         "국가 또는 지방자치단체는 아동복지시설을 설치할 수 있 다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_71",
@@ -2016,7 +2095,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_72",
@@ -2035,7 +2114,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_73",
@@ -2054,7 +2133,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_74",
@@ -2073,7 +2152,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_3교시_75",
@@ -2088,11 +2167,11 @@ window.PAST_PAPER_DATA = {
         "국가나 지방자치단체는 모금회의 관리ㆍ운영에 필요한 비용을 보조할 수 없다.",
         "모금회는 정관을 작성하여 보건복지부장관의 허가를 받 아 등기함으로써 설립된다.",
         "모금회의 배분분과실행위원회 위원의 임기는 2년이고, 연임할 수 없다.",
-        "모금회는 매년 6월 30일까지 다음 회계연도의 공동모금 재원 배분기준을 정하여 공고하여야 한다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 최신 수정된(오타, 오답, 규정변경) 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "모금회는 매년 6월 30일까지 다음 회계연도의 공동모금 재원 배분기준을 정하여 공고하여야 한다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_1",
@@ -2111,7 +2190,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_2",
@@ -2128,9 +2207,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "다원주의는 임파워먼트 논의가 활발히 진행되 는데 영향을 미쳤다",
+              "인도주의는타인을위한 봉사정신 실천에 영 향을미쳤다.",
+              "민주주의는 클라이언트의 자기결정권 강조에 영향을미쳤다.",
+              "사회진화론은 사회통제적 성격이 강하다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_3",
@@ -2155,7 +2240,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_4",
@@ -2172,9 +2257,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "사회적 승인",
+              "전문적 권위",
+              "전문직 문화",
+              "전문직 윤리강령"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_5",
@@ -2186,14 +2277,14 @@ window.PAST_PAPER_DATA = {
       "stem": "레비(C. Levy)가 구분한 사회복지 전문직 가치와 그 예로 옳 지 않은 것은?",
       "choices": [
         "수단우선 가치 -비심판적 태도 유지",
-        "사람우선 가치 -개별성에 대한 인정 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "사람우선 가치 -개별성에 대한 인정",
         "결과우선 가치 -동등한 기회 제공",
         "수단우선 가치 -차별 금지",
         "사람우선 가치 -소속의 욕구"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_6",
@@ -2212,7 +2303,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_7",
@@ -2229,9 +2320,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ - ㄱ - ㄹ - ㄴ",
         "ㄹ - ㄴ - ㄷ - ㄱ"
       ],
+      "statements":       [
+              "평등과 불평등 원칙",
+              "삶의 질원칙",
+              "최소손실원칙",
+              "자율성과 자유 원칙"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_8",
@@ -2248,9 +2345,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "가치는 사회복지실천을 어떻게 실행하는가 하는 방향성과 관련 있다.",
+              "가치는 사회복지실천의 감정적,정서적 측면 으로 볼 수 있다.",
+              "가치는사회 구성원에 의해 결정된 바람직 함의 기준이다.",
+              "좋음(goodness)은 윤리에 대응하고. 옮음 (rightness)은 가치에 대응한다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_9",
@@ -2269,7 +2372,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_10",
@@ -2284,11 +2387,17 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ",
         "ㄱ, ㄷ",
         "ㄴ, ㄹ",
-        "ㄱ, ㄷ, ㄹ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2026년 01월 17일 필기 기출"
+        "ㄱ, ㄷ, ㄹ"
+      ],
+      "statements":       [
+              "기업사회복지와 교정복지는 2차 사회복지실천 현장으로 분류 가능하다.",
+              "재가노인복지시설은 이용시설이고,청소년자립 지원관은 생활시설이다.",
+              "공공 사회복지실천현장으로는 한국사회복지협 의회, 사회복지공동모금회가 있다.",
+              "직접실천을 하는 현장은 모두 1차 현장이다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_11",
@@ -2307,7 +2416,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_12",
@@ -2324,9 +2433,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "순환적 인과성에 따르면, 인간 행동은 상대에 대한 반응으로 이해할 수 있다.",
+              "특정 체계가 상위체계이면서 동시에 하위체계 가 되는 현상을 홀론(h이lon)이라고 한다.",
+              "환경체계와 정보,에너지의 교환이 자유롭게 일어나는 체계를 폐쇄체계라고 한다.",
+              "투입은 전환활동의 결과물이 체계 밖으로 나 타나 다른 체계에 영향을 미치는 것이다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_13",
@@ -2343,9 +2458,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "클라이언트의 능력과 영향을 강조한다.",
+              "클라이언트와 사회복지사는 협력관계를 형성 한다.",
+              "병리학적 관점에 기반을 두고 발전하였다.",
+              "클라이언트의 참며를 중시한다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_14",
@@ -2364,7 +2485,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_15",
@@ -2378,12 +2499,12 @@ window.PAST_PAPER_DATA = {
         "부모가 자녀의 문제로 상담을 요청한 경우, 부모는 클라 이언트체계이다.",
         "법원 명령으로 본인 의사와 관계없이 문제행동 감소를 위해 사회복지사에게 의뢰된 청소년은 표적체계이다.",
         "클라이언트가 변화의 대상인 경우 클라이언트체계가 곧 행동체계가 된다.",
-        "사회복지사의 활동 목적을 달성하기 위해 공동으로 노력 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 하는 모든 체계는 행동체계이다.",
+        "사회복지사의 활동 목적을 달성하기 위해 공동으로 노력",
         "클라이언트의 문제를 해결하기 위해 노력하는 사회복지 사와 사회복지기관은 변화매개체계이다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_16",
@@ -2402,7 +2523,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_17",
@@ -2421,7 +2542,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_18",
@@ -2440,7 +2561,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_19",
@@ -2459,7 +2580,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_20",
@@ -2473,12 +2594,12 @@ window.PAST_PAPER_DATA = {
         "목적평가",
         "총괄평가",
         "탐색평가",
-        "결과평가 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2026년 01월 17일 필기 기출",
+        "결과평가",
         "형성평가"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_21",
@@ -2497,7 +2618,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_22",
@@ -2516,7 +2637,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_23",
@@ -2535,7 +2656,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_24",
@@ -2554,7 +2675,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_25",
@@ -2569,11 +2690,11 @@ window.PAST_PAPER_DATA = {
         "비용의 효율화",
         "탈시설화",
         "지방분권화",
-        "탈중앙화 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 2과목 : 사회복지 실천 기술론"
+        "탈중앙화"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_26",
@@ -2592,7 +2713,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_27",
@@ -2611,7 +2732,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_28",
@@ -2630,7 +2751,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_29",
@@ -2647,9 +2768,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ, ㄹ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "남편이 사망한 이후에 자살에 대해 생각한 적 이 있는지 확인한다.",
+              "남편과의 사별 후 자신의 삶에 대해 객관적으 로 이해하도록 돕는다.",
+              "A씨와 가까운 곳에 살고 있는 가족자원을 파 악한다.",
+              "남편의 사망 이후에 관심을 가지지못했던학 부모모임에 참석하도록 지지한다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_30",
@@ -2664,11 +2791,11 @@ window.PAST_PAPER_DATA = {
         "대처질문: 결혼만족도를 4점에서 5점으로 높이기 위해서 는 무엇을 해야 할까요?",
         "관계성 질문: 두 분이 싸우지 않을 때는 언제인가요?",
         "상담 전 변화에 관한 질문: 상담을 예약하신 날부터 지 금까지 어떤 변화가 있으셨어요?",
-        "기적질문: 이 문제가 해결될 가능성은 어느 정도 된다고 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2026년 01월 17일 필기 기출 생각하세요?"
+        "기적질문: 이 문제가 해결될 가능성은 어느 정도 된다고"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_31",
@@ -2687,7 +2814,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_32",
@@ -2706,7 +2833,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_33",
@@ -2725,7 +2852,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_34",
@@ -2744,7 +2871,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_35",
@@ -2756,14 +2883,20 @@ window.PAST_PAPER_DATA = {
       "stem": "사회복지실천모델에 관한 설명으로 옳은 것을 모두 고른 것 은?",
       "choices": [
         "ㄱ, ㄴ",
-        "ㄷ, ㄹ 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "ㄷ, ㄹ",
         "ㄱ, ㄷ, ㄹ",
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "과제중심모델은 클라이언트가 우선 해결하기 원하는 문제를 중요하게 다룬다.",
+              "클라이언트중심모델은 클라이언트의 과거경험 을주로다룬다.",
+              "임파워먼트모델은 클라이언트의 잠재력 발휘 와 자원연계를 중요시 한다.",
+              "위기개입모델은 단기 집중 개입방법이다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_36",
@@ -2788,7 +2921,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_37",
@@ -2807,7 +2940,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_38",
@@ -2826,7 +2959,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_39",
@@ -2845,7 +2978,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_40",
@@ -2856,7 +2989,7 @@ window.PAST_PAPER_DATA = {
       "number": 40,
       "stem": "가족치료모델과 가족사정도구의 연결로 옳지 않은 것은?",
       "choices": [
-        "구조적 모델 – 생태도 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2026년 01월 17일 필기 기출",
+        "구조적 모델 – 생태도",
         "경험적 모델 - 가족조각",
         "다세대 모델 – 가계도",
         "전략적 모델 - 순환질문",
@@ -2864,7 +2997,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_41",
@@ -2889,7 +3022,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_42",
@@ -2908,7 +3041,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_43",
@@ -2927,7 +3060,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_44",
@@ -2946,7 +3079,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_45",
@@ -2960,12 +3093,12 @@ window.PAST_PAPER_DATA = {
         "자기노출 수준은 집단발달단계와 무관하다.",
         "자기노출 내용은 집단의 목표와 관련이 있어야 한다.",
         "건설적이고 생산적인 집단변화를 위해 개입단계에서 사 용한다.",
-        "초기단계에서의 지나친 자기노출은 집단에 부정적 영향 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 을 줄 수 있다.",
+        "초기단계에서의 지나친 자기노출은 집단에 부정적 영향",
         "사회복지사가 언어적 혹은 비언어적 행동을 통해 의도적 으로 자신에 관한 정보를 누설하는 것을 의미한다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_46",
@@ -2982,9 +3115,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "집단목표는 집단지도자와 집단성원의 토론을 통해 수정될 수 있다.",
+              "집단목표와 개인목표가 양립될 수 있도록 한 다.",
+              "목표는 구체적이며, 측정가능하고, 현실성 있 게, 시간 제한적으로 구성한다.",
+              "집단목표는 집단성원의 표현된 욕구뿐 아니라 표현되지 않은 욕구도 고려한다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_47",
@@ -3001,9 +3140,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "준비단계:소시오메트리 작성",
+              "초기단계:집단성원의 불안감 감소",
+              "중간단계:집단성원간의공통점및차이점 파악",
+              "종결단계:집단리더에대한 실험 인정"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_48",
@@ -3020,9 +3165,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "개방집단의 경우 집단응집력이 강하게 나타 난다.",
+              "폐쇄집단의 경우 집단성원의 역할이나 집단 규범이 안정적이다",
+              "아동집단의규모는성인집단의규모보다큰 것이 좋다.",
+              "집단성원들의 대처능력,인생경험 등이 이질 적인 경우 집단에자산이 될 수있다"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_49",
@@ -3041,7 +3192,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_50",
@@ -3050,7 +3201,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 50,
-      "stem": "단일사례설계에 관한 설명으로 옳지 않은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2026년 01월 17일 필기 기출",
+      "stem": "단일사례설계에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "하나의 사례에 초점을 두므로 클라이언트의 변화를 명확 히 파악할 수 있다.",
         "단일사례설계 그래프에서 기초선과 개입단계의 구분은 분명해야 한다.",
@@ -3060,7 +3211,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_51",
@@ -3079,7 +3230,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_52",
@@ -3098,7 +3249,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_53",
@@ -3115,9 +3266,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ → ㄱ → ㄹ → ㄷ",
         "ㄴ → ㄷ → ㄱ → ㄹ"
       ],
+      "statements":       [
+              "노인장기요양보험제도 시행",
+              "[자원봉사활동기본법]시행",
+              "지역사회 통합돌봄(커뮤니티 케어) 기본계획 발표",
+              "동주민센터를 행정복지센터로 변경"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_54",
@@ -3131,12 +3288,12 @@ window.PAST_PAPER_DATA = {
         "기본정신은 근면, 자조, 협동이다.",
         "정부가 지정한 새마을의 날은 매년 4월 22일이다.",
         "새마을운동중앙본부가 창립되어 민간주도로 전환되었다.",
-        "1970년대 새마을운동 기록물은 유네스코 세계기록유산 에 등재되어 있다. 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "1970년대 새마을운동 기록물은 유네스코 세계기록유산 에 등재되어 있다.",
         "농촌생활환경 개선운동으로 시작한 이 운동은 소득증대 운동으로 발전하지 못하였다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_55",
@@ -3155,7 +3312,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_56",
@@ -3174,7 +3331,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_57",
@@ -3193,7 +3350,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_58",
@@ -3212,7 +3369,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_59",
@@ -3221,7 +3378,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "지역사회복지론",
       "number": 59,
-      "stem": "웨일과 갬블(M. Weil &D. Gamble)의 기능적 지역조직화 모 델에 관한 설명으로 옳은 것을 모두 고른 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2026년 01월 17일 필기 기출",
+      "stem": "웨일과 갬블(M. Weil &D. Gamble)의 기능적 지역조직화 모 델에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ",
         "ㄱ, ㄴ",
@@ -3236,7 +3393,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_60",
@@ -3255,7 +3412,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_61",
@@ -3274,7 +3431,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_62",
@@ -3293,7 +3450,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_63",
@@ -3312,7 +3469,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_64",
@@ -3321,7 +3478,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "지역사회복지론",
       "number": 64,
-      "stem": "다음에서 설명하는 지역사회복지 실천기술은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "다음에서 설명하는 지역사회복지 실천기술은?",
       "choices": [
         "연계",
         "지역사회 사정",
@@ -3331,7 +3488,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_65",
@@ -3350,7 +3507,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_66",
@@ -3369,7 +3526,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_67",
@@ -3386,9 +3543,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "지방정부의 권한과책임성강화",
+              "주민 욕구 중심의 맞춤형 복지서비스 제공",
+              "주민참여의 강조로지역사회복지 연대 강화",
+              "지역 실정에 맞는 효율적인 복지 집행체계의 구축"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_68",
@@ -3403,11 +3566,11 @@ window.PAST_PAPER_DATA = {
         "지역사회보장계획은 ｢사회복지사업법｣에 따라 수립한다.",
         "지역사회보장계획은 지역사회보장협의체 심의를 거쳐 지 방의회에 보고한다.",
         "지역사회보장에 필요한 재원의 규모와 조달 방안은 포함 되지 않는다.",
-        "현재 시행되고 있는 제3기 지역사회보장계획은 2023년 부터 2027년까지이다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2026년 01월 17일 필기 기출"
+        "현재 시행되고 있는 제3기 지역사회보장계획은 2023년 부터 2027년까지이다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_69",
@@ -3426,7 +3589,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_70",
@@ -3445,7 +3608,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_71",
@@ -3464,7 +3627,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_72",
@@ -3481,9 +3644,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "A씨는 70세 남성으로 혼자 생활을 하고 있다.",
+              "B씨는최근 실직한 45세미혼 여성으로 차상 위계총미다.",
+              "C씨는 67세 지체장애인으로 국민기초생활보 장법]에따른수급자이다",
+              "D씨는35세의 결혼이주여성으로 한국인 남 편과사별하고 자녀 둘을 키우고있다"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_73",
@@ -3498,11 +3667,11 @@ window.PAST_PAPER_DATA = {
         "자활기업은 ｢협동조합 기본법｣에 따라 자활공동체에서 명칭이 변경되었다.",
         "사회적기업은 취약계층에게 사회서비스 또는 일자리를 제공한다.",
         "사회적 경제는 이윤 극대화의 시장경제와 달리 사람의 가치를 우위에 두는 경제활동이다.",
-        "협동조합은 조합원의 권익옹호와 권익을 향상하고 지역 사회에 공헌하고자 한다. 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "협동조합은 조합원의 권익옹호와 권익을 향상하고 지역 사회에 공헌하고자 한다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_74",
@@ -3521,7 +3690,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_2교시_75",
@@ -3536,11 +3705,17 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄷ, ㄹ, ㅁ",
-        "ㄱ, ㄴ, ㄷ, ㄹ, ㅁ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2026년 01월 17일 필기 기출 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 최신 수정된(오타, 오답, 규정변경) 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "ㄱ, ㄴ, ㄷ, ㄹ, ㅁ"
+      ],
+      "statements":       [
+              "민간 사회복지영역의 자율적 발전",
+              "특정 계층 중심의 수단적 지역사회복지운동 의 활성화",
+              "지역사회 중심의 통합돌봄과 사회서비스 기 반구축",
+              "지방분권 정책에 따른 합리적인 지역사회복 지정책의 수립 ㅁ.지역사회의 다양한 자원 활용과 조직 간의 유기적협력"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_1",
@@ -3559,7 +3734,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_2",
@@ -3578,7 +3753,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_3",
@@ -3597,7 +3772,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_4",
@@ -3616,7 +3791,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_5",
@@ -3635,7 +3810,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_6",
@@ -3644,7 +3819,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "인간행동과 사회환경",
       "number": 6,
-      "stem": "융(C. Jung)의 분석심리이론에 관한 설명으로 옳지 않은 것 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 은?",
+      "stem": "융(C. Jung)의 분석심리이론에 관한 설명으로 옳지 않은 것",
       "choices": [
         "페르소나(persona)는 개인이 사회적 요구에 반응하기 위 한 가면을 의미한다.",
         "무의식은 개인무의식과 집단무의식으로 나뉜다.",
@@ -3654,7 +3829,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_7",
@@ -3673,7 +3848,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_8",
@@ -3692,7 +3867,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_9",
@@ -3711,7 +3886,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_10",
@@ -3730,7 +3905,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_11",
@@ -3739,7 +3914,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "인간행동과 사회환경",
       "number": 11,
-      "stem": "피아제(J. Piaget)의 인지발달이론에서 전조작기의 발달 특 성으로 옳은 것을 모두 고른 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2026년 01월 17일 필기 기",
+      "stem": "피아제(J. Piaget)의 인지발달이론에서 전조작기의 발달 특 성으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ",
         "ㄱ, ㄷ",
@@ -3747,9 +3922,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "상징적 사고로 병원놀이, 소급놀이 등의 가상 놀이가 가능하다.",
+              "모든 물체에 생명과 감정을 부여하는 물활론적 사고를한다",
+              "수,길이,면적,무게,부피 등 여러 형태의 보 존개념이 획득된다.",
+              "추상적인사고가가능하여완전한추론이가능 하다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_12",
@@ -3768,7 +3949,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_13",
@@ -3787,7 +3968,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_14",
@@ -3801,12 +3982,18 @@ window.PAST_PAPER_DATA = {
         "ㄴ",
         "ㄱ, ㄴ",
         "ㄱ, ㄷ",
-        "ㄴ, ㄹ 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "ㄴ, ㄹ",
         "ㄱ, ㄷ, ㄹ"
+      ],
+      "statements":       [
+              "인간을 둘러싼 사회환경을 미시체계, 중간체 계,내부체계,외체계로 구분했다.",
+              "외체계는 개인이 직접 참며하지는 않으나 개 인에게 영향을 미치는 체계로 부모의 직장. 의료기관, 사회복지기관 등이 포함된다.",
+              "중간체계는 상호작용하는 내부체계와 외체계 간 관계로 구성된다.",
+              "미시체계는 인간발달에 가장 직접적 영향을 미치는 환경으로, 가족이 대표적 예이다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_15",
@@ -3825,7 +4012,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_16",
@@ -3844,7 +4031,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_17",
@@ -3863,7 +4050,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_18",
@@ -3882,7 +4069,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_19",
@@ -3897,11 +4084,11 @@ window.PAST_PAPER_DATA = {
         "흡인반사(sucking reflex)",
         "탐색반사(rooting reflex)",
         "파악반사(grasping reflex)",
-        "바빈스키반사(babinski reflex) 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2026년 01월 17일 필기 기"
+        "바빈스키반사(babinski reflex)"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_20",
@@ -3920,7 +4107,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_21",
@@ -3939,7 +4126,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_22",
@@ -3958,7 +4145,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_23",
@@ -3983,7 +4170,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_24",
@@ -3997,12 +4184,12 @@ window.PAST_PAPER_DATA = {
         "오래 사용하여 친근한 물건에 대한 애착심이 증가할 수 있다.",
         "결정성(crystallized) 지능은 감퇴하나 유동성(fluid) 지능 은 지속적으로 향상될 수 있다.",
         "배우자 사망 등을 겪게 되면서 심리적 우울감을 경험할 수 있다.",
-        "피부는 수분과 피하지방이 감소되어 얇아지고 건조해지 며 탄력성도 떨어질 수 있다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "피부는 수분과 피하지방이 감소되어 얇아지고 건조해지 며 탄력성도 떨어질 수 있다.",
         "은퇴로 개인의 소득이 줄어들고, 상실을 경험하며 자아 정체감이 저하되기도 한다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_25",
@@ -4021,7 +4208,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_26",
@@ -4038,9 +4225,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "객관적이어야 한다.",
+              "체계적이고 논리적이어야 한다",
+              "반증가능성에 대하여 개방적이어야 한다.",
+              "연구과정이 투명하게제시되어야 한다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_27",
@@ -4059,7 +4252,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_28",
@@ -4072,13 +4265,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "코호트(cohort)의 특성에 관하여 시간에 따른 변화를 분 석할 수 있다.",
         "일반적으로 횡단연구에 비하여 비용을 절약할 수 있다.",
-        "조사대상이 되는 모집단은 조사 시점에 따라 달라진다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2026년 01월 17일 필기 기",
+        "조사대상이 되는 모집단은 조사 시점에 따라 달라진다.",
         "동일인을 응답자로 선정하여 반복 조사하는 것이다.",
         "횡단연구로서의 구조적 장점이 드러나는 연구이다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_29",
@@ -4097,7 +4290,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_30",
@@ -4116,7 +4309,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_31",
@@ -4135,7 +4328,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_32",
@@ -4154,7 +4347,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_33",
@@ -4173,7 +4366,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_34",
@@ -4182,7 +4375,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "사회복지조사론",
       "number": 34,
-      "stem": "다음 사례에 나타난 ( ㄱ )~( ㄷ )의 척도유형을 옳게 짝지 은 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "다음 사례에 나타난 ( ㄱ )~( ㄷ )의 척도유형을 옳게 짝지 은 것은?",
       "choices": [
         "ㄱ: 등간, ㄴ: 명목, ㄷ: 서열",
         "ㄱ: 비율, ㄴ: 서열, ㄷ: 서열",
@@ -4190,9 +4383,14 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 등간, ㄴ: 명목, ㄷ: 등간",
         "ㄱ: 비율, ㄴ: 명목, ㄷ: 등간"
       ],
+      "statements":       [
+              "이성별(",
+              "과 교육수준(",
+              "에 따라 머떻게 다 른지를 알아보고자 하였다. 이를 위해 임금수준은 직전"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_35",
@@ -4209,9 +4407,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "보가더스(Bogardus)의 사회적 거리척도는 누 적척도이다.",
+              "거트만(Guttman)척도는 각 문항를 서열적으로 구성한다.",
+              "의미차별(semantic differential)척도는 느낌이 나 감정을 나타내는 한 쌍의 유사의미 형용사 를사용한다.",
+              "리커트(Likert)척도는 척도나 지수 개발에용이 하다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_36",
@@ -4230,7 +4434,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_37",
@@ -4245,11 +4449,11 @@ window.PAST_PAPER_DATA = {
         "예측타당도(predictive validity)",
         "동시타당도(concurrent validity)",
         "내용타당도(content validity)",
-        "기준관련타당도(criterion-related validity) 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2026년 01월 17일 필기 기"
+        "기준관련타당도(criterion-related validity)"
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_38",
@@ -4268,7 +4472,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_39",
@@ -4287,7 +4491,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_40",
@@ -4304,9 +4508,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "대면면접법은 우편설문법에 비해 비용이 절감 된다.",
+              "우편설문법은대면면접법에 비해 응답률이 낮 다.",
+              "대면면접법은 우편설문법에 비해 응답의 결촉 치를 최소화할 수 있다.",
+              "우편설문법은대면면접법에 비해 익명성이보 장된다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_41",
@@ -4325,7 +4535,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_42",
@@ -4337,14 +4547,14 @@ window.PAST_PAPER_DATA = {
       "stem": "다음 사례에서 설명하는 조사방법의 특징으로 옳지 않은 것 은?",
       "choices": [
         "신문 보도자료 속에 숨어있는 잠재적 내용도 분석에 포 함될 수 있다.",
-        "양적인 분석방법을 사용할 수 있다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "양적인 분석방법을 사용할 수 있다.",
         "코딩(coding) 작업은 조사과정에 해당하지 않는다.",
         "비관여적 연구조사로 연구대상에게 영향을 미치지 않는 다.",
         "분석단위로는 기록단위와 맥락단위가 있다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_43",
@@ -4363,7 +4573,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_44",
@@ -4382,7 +4592,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_45",
@@ -4401,7 +4611,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_46",
@@ -4420,7 +4630,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_47",
@@ -4433,13 +4643,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "측정을 위한 비관여적 관찰도 가능하다.",
         "평균비교는 기초선이 불안정할 때 기초선의 변화의 폭과 기울기까지 고려하여 결과를 분석하는 방법이다.",
-        "BAB설계는 기초선을 설정할 시간적 여유가 없이 개입해 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2026년 01월 17일 필기 기 야 하는 사례에 적합하다.",
+        "BAB설계는 기초선을 설정할 시간적 여유가 없이 개입해",
         "변화의 파동, 경향, 수준 등을 검토하여 개입의 효과성을 평가한다.",
         "복수기초선설계는 여러 대상이나 상황에 적용하여 개입 의 효과를 측정한다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_48",
@@ -4458,7 +4668,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_49",
@@ -4475,9 +4685,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "하나의 척도가 그것이 측정하고자 하는 개념과 연관된 통상적 합의와 일치하는 정도는 구성타 당도(construct validity)0I다.",
+              "개발된 측정도구의 측정값을 현재 사용되고 있 는 측정도구와 비교하는 것은동시타당도 (concurrent validity)o]다.",
+              "촉정하려는 개념이 포함된 이론체계 안에서 다 른 변수와 관련된 방식에 기초한 타당도는 내 용타당도(content validity)이다.",
+              "기준관련타당도(criterion-related validity)는 기 준변수의 발생 시점에 따라 동시 타당도와 예 측타당도(predictive validity)로 나뉜다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2026_1교시_50",
@@ -4492,11 +4708,11 @@ window.PAST_PAPER_DATA = {
         "세부 유형으로 비판적문화기술지를 포함한다.",
         "내부자적(emic) 관점과 외부자적(etic) 관점이 필요하다.",
         "개방코딩, 축코딩, 선택코딩으로 인과조건을 발견한다.",
-        "문화인류학과 관계가 깊다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 최신 수정된(오타, 오답, 규정변경) 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "문화인류학과 관계가 깊다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_1",
@@ -4515,7 +4731,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_2",
@@ -4534,7 +4750,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_3",
@@ -4553,7 +4769,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_4",
@@ -4570,9 +4786,14 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 노동조합 ㄴ: 정책 당국의 재량 ㄷ: 시민, 개인",
         "ㄱ: 국가, 교회, 영주 ㄴ: 시민권 ㄷ: 노동자 계급"
       ],
+      "statements":       [
+              "정책당국의 있는 빈민 재량 사회보험 노동자 계급 국가 (",
+              "노동조합 복지국가 (",
+              "국가, 시민권 시민단체"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_5",
@@ -4586,12 +4807,12 @@ window.PAST_PAPER_DATA = {
         "노동과 자본의 극단적인 대립",
         "대규모 재분배를 가능하게 하는 케인즈주의 경제정책",
         "자유방임 자본주의를 옹호하는 사상 확산",
-        "공공부조 위주의 사회보장체계 구축 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "공공부조 위주의 사회보장체계 구축",
         "가족과 시장의 책임강조"
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_6",
@@ -4616,7 +4837,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_7",
@@ -4635,7 +4856,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_8",
@@ -4654,7 +4875,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_9",
@@ -4673,7 +4894,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_10",
@@ -4682,7 +4903,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지정책론",
       "number": 10,
-      "stem": "다음에서 설명하고 있는 정책결정모형은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2025년 01월 11일 필기 기",
+      "stem": "다음에서 설명하고 있는 정책결정모형은?",
       "choices": [
         "쓰레기통모형",
         "점증모형",
@@ -4692,7 +4913,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_11",
@@ -4711,7 +4932,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_12",
@@ -4730,7 +4951,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_13",
@@ -4749,7 +4970,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_14",
@@ -4758,7 +4979,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지정책론",
       "number": 14,
-      "stem": "사회복지전달체계에 관한 설명으로 옳은 것을 모두 고른 것 은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "사회복지전달체계에 관한 설명으로 옳은 것을 모두 고른 것 은?",
       "choices": [
         "ㄱ",
         "ㄱ, ㄹ",
@@ -4774,7 +4995,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_15",
@@ -4799,7 +5020,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_16",
@@ -4818,7 +5039,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_17",
@@ -4835,9 +5056,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "사업주가 주관한 행사준비 중에 발생한 사고",
+              "휴게시간 중 사업주의 지배관리하에 있다고 볼 수있는행위로발생한사고",
+              "통상적인 경로와 방법으로 출·퇴근하는 중 발 생한사고",
+              "직장 내 괴롭힘으로인한 업무상정신적 스트 레스가 원인이되어발생한 질병"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_18",
@@ -4846,7 +5073,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지정책론",
       "number": 18,
-      "stem": "국민연금제도에 관한 설명으로 옳은 것을 모두 고른 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2025년 01월 11일 필기 기",
+      "stem": "국민연금제도에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄷ",
         "ㄴ, ㄹ",
@@ -4854,9 +5081,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㅁ",
         "ㄱ, ㄴ, ㄷ, ㄹ, ㅁ"
       ],
+      "statements":       [
+              "국민연금공단은 관리운영과 보험료 징수를 담 당한다.",
+              "기본연금액의 균등부분은 연금수급 전 3년간 전체 가입자 평균소득월액의 평균액이다.",
+              "기본연금액의 균등부분에서 소득재분배 효과 가 나타난다.",
+              "기본연금액의 소득비례부분은 전체 가입자의 기준소득월액의 평균액이다 ㅁ.2028년 이후 국민연금의 소득대체율은 40년 가입 기준40%이다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_19",
@@ -4875,7 +5108,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_20",
@@ -4894,7 +5127,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_21",
@@ -4913,7 +5146,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_22",
@@ -4925,14 +5158,14 @@ window.PAST_PAPER_DATA = {
       "stem": "사회서비스에 관한 설명으로 옳은 것은?",
       "choices": [
         "수급자 등 빈곤층만을 대상으로 한다.",
-        "주로 바우처 방식으로 수요자를 지원한다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "주로 바우처 방식으로 수요자를 지원한다.",
         "전액 국비로 지원한다.",
         "단일 기관이 독점하여 공급한다.",
         "주로 획일화된 서비스를 제공한다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_23",
@@ -4951,7 +5184,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_24",
@@ -4970,7 +5203,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_25",
@@ -4989,7 +5222,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_26",
@@ -5008,7 +5241,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_27",
@@ -5022,12 +5255,12 @@ window.PAST_PAPER_DATA = {
         "1950년대에는 긴급구호와 생활(수용)시설에서의 보호가 주를 이루었다.",
         "1970년 ｢사회복지사업법｣제정으로 사회복지시설 운영에 관한 법적 근거가 마련되었다.",
         "1997년 ｢사회복지사업법｣개정을 통해 사회복지시설 평 가가 법제화되었다.",
-        "1998년 사회복지공동모금회가 설립되었다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2025년 01월 11일 필기 기",
+        "1998년 사회복지공동모금회가 설립되었다.",
         "2008년 노인장기요양보험제도 도입으로 민간기관의 서 비스 제공이 금지되었다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_28",
@@ -5044,9 +5277,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "과학적 관리론:직무에 관한 과학적 연구와 분석",
+              "관료제이론:표준 운영절차를 통한 합리성 과전문성추구",
+              "인간관계론:조직 내 인간을 심리적,사회적 욕구를가진전인격적 존재로파악",
+              "상황이론:조직의 상황에 관계없이 효율성을 극대화할 수 있는 이상적 방법 추구"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_29",
@@ -5065,7 +5304,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_30",
@@ -5084,7 +5323,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_31",
@@ -5103,7 +5342,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_32",
@@ -5118,11 +5357,11 @@ window.PAST_PAPER_DATA = {
         "태스크포스(task force)",
         "감사(audit)조직",
         "거버넌스(governance)조직",
-        "위계(hierarchy)조직 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "위계(hierarchy)조직"
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_33",
@@ -5141,7 +5380,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_34",
@@ -5160,7 +5399,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_35",
@@ -5179,7 +5418,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_36",
@@ -5198,7 +5437,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_37",
@@ -5217,7 +5456,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_38",
@@ -5229,14 +5468,14 @@ window.PAST_PAPER_DATA = {
       "stem": "사회복지조직의 재무ㆍ회계에 관한 설명으로 옳지 않은 것 은?",
       "choices": [
         "보건복지부는 ｢국가재정법｣을 적용한다.",
-        "사회복지시설은 ｢사회복지법인 및 사회복지시설 재무ㆍ 회계규칙｣을 적용한다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2025년 01월 11일 필기 기",
+        "사회복지시설은 ｢사회복지법인 및 사회복지시설 재무ㆍ 회계규칙｣을 적용한다.",
         "사회복지법인 회계는 법인회계, 시설회계, 수익사업회계 로 구분한다.",
         "법인회계와 수익사업회계는 필요시 복식부기도 할 수 있 다.",
         "사회복지법인 대표이사는 관ㆍ항ㆍ목간 예산을 전용할 수 없다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_39",
@@ -5253,9 +5492,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ - ㄱ - ㅁ - ㄹ – ㄴ",
         "ㅁ - ㄱ - ㄹ - ㄷ - ㄴ"
       ],
+      "statements":       [
+              "시설운영위원회 보고",
+              "예산공고",
+              "예산편성",
+              "이사회의결 ㅁ.지방자치단체제출"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_40",
@@ -5274,7 +5519,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_41",
@@ -5293,7 +5538,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_42",
@@ -5312,7 +5557,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_43",
@@ -5323,7 +5568,7 @@ window.PAST_PAPER_DATA = {
       "number": 43,
       "stem": "기획에 활용되는 기법에 관한 설명으로 옳지 않은 것은?",
       "choices": [
-        "간트차트(Gantt Chart)는 사업을 계획할 때 쉽고 간단하 게 작성할 수 있다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "간트차트(Gantt Chart)는 사업을 계획할 때 쉽고 간단하 게 작성할 수 있다.",
         "간트차트(Gantt Chart)는 일정계획 변경을 유연하게 수 용하기 어렵다.",
         "프로그램평가검토기법(PERT)은 업무를 체계적으로 수행 하는 데 도움이 된다.",
         "프로그램평가검토기법(PERT)은 일정변경 등 유동적인 상 황을 대처하는 데 어렵다.",
@@ -5331,7 +5576,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_44",
@@ -5350,7 +5595,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_45",
@@ -5369,7 +5614,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_46",
@@ -5388,7 +5633,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_47",
@@ -5407,7 +5652,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_48",
@@ -5421,12 +5666,12 @@ window.PAST_PAPER_DATA = {
         "기업경영 방식 활용이 늘어나고 있다.",
         "국가가 직접 제공하는 서비스가 늘어나고 있다.",
         "성과(outcome) 중심 평가에서 산출(output) 중심 평가로 전환되고 있다.",
-        "사회복지행정의 이론적 준거틀이 필요 없게 되었다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2025년 01월 11일 필기 기",
+        "사회복지행정의 이론적 준거틀이 필요 없게 되었다.",
         "사회복지서비스가 다양화되면서 전문가 활용이 감소하고 있다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_49",
@@ -5443,9 +5688,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "비용-편익분석은 효율성 평가이다.",
+              "비용-효과분석은 효과성평가이다.",
+              "프로그램 종결 후 실시하는 성과평가는 총괄 평가미다.",
+              "효과발생의인과 경로를밝히는것은형성평 가미다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_50",
@@ -5464,7 +5715,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_51",
@@ -5483,7 +5734,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_52",
@@ -5502,7 +5753,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_53",
@@ -5517,7 +5768,7 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄹ",
         "ㄴ, ㄷ, ㄹ",
-        "ㄱ, ㄴ, ㄷ, ㄹ 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
       "statements":       [
               "1981년 노인복지법이 제정되었다.",
@@ -5527,7 +5778,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_54",
@@ -5546,7 +5797,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_55",
@@ -5565,7 +5816,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_56",
@@ -5582,9 +5833,13 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 사회보장, ㄴ: 사회서비스",
         "ㄱ: 사회서비스, ㄴ: 공공부조"
       ],
+      "statements":       [
+              ": 국민에게 발생하는 사회적 위험을 보험 의 방식으로 대처함으로써 국민의 건강 과소득을보장하는제도 (",
+              ": 국가와 지방자치단체의 책임 하에 생활 유지 능력이 없거나 생활이 머려운 국 민의 최저생활을 보장하고자립을 지원 하는제도"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_57",
@@ -5603,7 +5858,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_58",
@@ -5612,7 +5867,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 58,
-      "stem": "조례와 규칙에 관한 설명으로 옳지 않은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2025년 01월 11일 필기 기",
+      "stem": "조례와 규칙에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "조례는 지방의회의 의결을 거쳐 제정한다.",
         "규칙은 지방자치단체의 장이 제정한 법규범이다.",
@@ -5622,7 +5877,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_59",
@@ -5641,7 +5896,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_60",
@@ -5660,7 +5915,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_61",
@@ -5677,9 +5932,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄹ",
         "ㄷ, ㄹ"
       ],
+      "statements":       [
+              "설립허가 조건을 위반하였을 때",
+              "목적 달성이 불가능하게 되었을 때",
+              "거짓이나그 밖의 부정한 방법으로설립허가 를받았을때",
+              "법인 설립 후 기본재산을 출면하지 아니한 때"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_62",
@@ -5691,14 +5952,14 @@ window.PAST_PAPER_DATA = {
       "stem": "사회복지사업법상 사회복지시설(이하 '시설'이라고 한다)에 관한 설명으로 옳은 것은?",
       "choices": [
         "사회복지관은 사회복지서비스를 직업 및 취업 알선이 필 요한 사람에게 우선 제공할 수 없다.",
-        "시설의 장은 시설의 운영에 관한 사항을 의결하기 위하 여 시설에 운영위원회를 두어야 한다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "시설의 장은 시설의 운영에 관한 사항을 의결하기 위하 여 시설에 운영위원회를 두어야 한다.",
         "국가 또는 지방자치단체 외의 자가 시설을 설치ㆍ운영하 려는 경우에는 시장ㆍ군수ㆍ구청장에게 신고하여야 한 다.",
         "대통령령으로 정하는 경우를 제외하고, 각 시설의 수용 인원은 200명을 초과할 수 없다.",
         "시설의 장은 비상근 겸직할 수 있다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_63",
@@ -5717,7 +5978,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_64",
@@ -5741,7 +6002,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_65",
@@ -5760,7 +6021,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_66",
@@ -5779,7 +6040,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_67",
@@ -5791,14 +6052,14 @@ window.PAST_PAPER_DATA = {
       "stem": "가정폭력방지 및 피해자보호 등에 관한 법률의 내용으로 옳 지 않은 것은?",
       "choices": [
         "피해자란 가정폭력으로 인하여 직접적으로 피해를 입은 자를 말한다.",
-        "사회복지법인과 그 밖의 비영리법인은 시장ㆍ군수ㆍ구청 장의 인가를 받아 보호시설을 설치ㆍ운영할 수 있다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2025년 01월 11일 필기 기",
+        "사회복지법인과 그 밖의 비영리법인은 시장ㆍ군수ㆍ구청 장의 인가를 받아 보호시설을 설치ㆍ운영할 수 있다.",
         "국가나 지방자치단체는 피해자나 피해자가 동반한 가정 구성원이 아동인 경우 주소지 외의 지역에서 취학할 필 요가 있을 때에는 그 취학이 원활히 이루어지도록 지원 하여야 한다.",
         "유치원의 장, 어린이집의 원장, 초ㆍ중등학교의 장은 가 정폭력의 예방과 방지를 위하여 필요한 교육을 실시하 고, 그 결과를 여성가족부장관에게 제출하여야 한다.",
         "단기보호시설은 피해자등을 6개월의 범위에서 보호하는 시설이다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_68",
@@ -5817,7 +6078,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_69",
@@ -5836,7 +6097,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_70",
@@ -5853,9 +6114,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ, ㄹ",
         "ㄱ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "사망한 때",
+              "국적을상실한때",
+              "장기요양등급판정을 받은 때",
+              "국외로이주한 때"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_71",
@@ -5866,7 +6133,7 @@ window.PAST_PAPER_DATA = {
       "number": 71,
       "stem": "의료급여법의 내용으로 옳은 것은?",
       "choices": [
-        "｢입양특례법｣에 따라 국내에 입양된 아동은 25세까지 수 급권자로 특례 적용된다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "｢입양특례법｣에 따라 국내에 입양된 아동은 25세까지 수 급권자로 특례 적용된다.",
         "수급권자가 업무 또는 공무로 생긴 질병ㆍ부상ㆍ재해로 다른 법령에 따른 급여나 보상을 받게 되는 경우에는 이 법에 따른 의료급여를 하지 아니한다.",
         "의료급여에 관한 업무는 수급권자의 출생지를 관할하는 시장ㆍ군수ㆍ구청장이 한다.",
         "｢지역보건법｣에 따라 설치된 보건소는 의료급여기관이 될 수 없다.",
@@ -5874,7 +6141,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_72",
@@ -5893,7 +6160,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_73",
@@ -5912,7 +6179,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_74",
@@ -5929,9 +6196,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "고용안정·직업능력개발 사업",
+              "실업급여",
+              "육마휴직급며",
+              "자활급며"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_3교시_75",
@@ -5945,12 +6218,12 @@ window.PAST_PAPER_DATA = {
         "장기요양기관은 수급자를 대리하여 장기요양인정을 신청 한다.",
         "대통령령으로 정하는 경우를 제외하고, 장기요양인정을 신청하는 자는 국민건강보험공단에 장기요양인정신청서 에 의사 또는 한의사가 발급하는 소견서를 첨부하여 제 출하여야 한다.",
         "국민건강보험공단은 장기요양인정 신청서를 접수한 때 소속 직원으로 하여금 신청인의 심신상태, 신청인에게 필요한 장기요양급여의 종류 및 내용 등에 대하여 조사 하게 하여야 한다.",
-        "등급판정위원회는 신청인이 신청자격요건을 충족하고 6 개월 이상 동안 혼자서 일상생활을 수행하기 어렵다고 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2025년 01월 11일 필기 기 인정하는 경우 등급판정기준에 따라 수급자로 판정한다.",
-        "국민건강보험공단은 등급판정위원회가 장기요양인정 및 등급판정의 심의를 완료한 경우 지체없이 장기요양인정 서를 작성하여 수급자에게 송부하여야 한다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 최신 수정된(오타, 오답, 규정변경) 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "등급판정위원회는 신청인이 신청자격요건을 충족하고 6 개월 이상 동안 혼자서 일상생활을 수행하기 어렵다고",
+        "국민건강보험공단은 등급판정위원회가 장기요양인정 및 등급판정의 심의를 완료한 경우 지체없이 장기요양인정 서를 작성하여 수급자에게 송부하여야 한다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_1",
@@ -5969,7 +6242,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_2",
@@ -5986,9 +6259,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "욕구에 대한 클라이언트의 능력",
+              "클라이언트의 욕구 및 문제",
+              "클라이언트 지원체계의 능력",
+              "지원체계 활용의 장애"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_3",
@@ -6007,7 +6286,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_4",
@@ -6024,9 +6303,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "대화(dialogue)단계- 성공의 확인",
+              "발견(discovery)단계-자원역량 사정",
+              "발달(development)단계-파트너십 형성",
+              "발달(development)단계-강점의 확인"
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_5",
@@ -6035,7 +6320,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천론",
       "number": 5,
-      "stem": "사회복지실천의 역사적 발달과정을 발생한 순서대로 옳게 나 열한 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "사회복지실천의 역사적 발달과정을 발생한 순서대로 옳게 나 열한 것은?",
       "choices": [
         "ㄱ - ㄴ - ㄷ – ㄹ",
         "ㄴ - ㄱ - ㄹ – ㄷ",
@@ -6043,9 +6328,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ - ㄱ - ㄴ – ㄹ",
         "ㄷ - ㄴ - ㄱ - ㄹ"
       ],
+      "statements":       [
+              "기능주의 학파와 진단주의 학파의 갈등",
+              "밀포드(Milford) 회의에서 개별사회사업 방법 론을 기본으로 하는 사회복지실천의 공통요소 제시",
+              "사회복지실천에 관한 이론과 방법을 최초로 체계화한 [사회진단]출간",
+              "사회복지실천방법으로통합적방법론등장"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_6",
@@ -6064,7 +6355,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_7",
@@ -6083,7 +6374,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_8",
@@ -6107,7 +6398,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_9",
@@ -6126,7 +6417,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_10",
@@ -6141,11 +6432,11 @@ window.PAST_PAPER_DATA = {
         "경청",
         "자기노출",
         "해석",
-        "질문 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2025년 01월 11일 필기 기출"
+        "질문"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_11",
@@ -6162,9 +6453,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "수용: 클라이언트를 있는 그대로 인정해야 한 다.",
+              "비심판적 태도:클라이언트를 비난하지 않아 야 한다.",
+              "통제된 정서적 관여:클라이언트가 자신의 감 정을 자유롭게 표현하도록 해야 한다.",
+              "개별화:클라이언트의 감정에 민감성과 이해 로서 반응해야 한다."
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_12",
@@ -6183,7 +6480,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_13",
@@ -6202,7 +6499,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_14",
@@ -6221,7 +6518,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_15",
@@ -6230,7 +6527,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천론",
       "number": 15,
-      "stem": "통합적 접근방법의 등장배경에 관한 설명으로 옳은 것을 모 두 고른 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "통합적 접근방법의 등장배경에 관한 설명으로 옳은 것을 모 두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄹ",
@@ -6238,9 +6535,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "전통적 방법이 지나치게 분화되어 서비스의 파편화를초래하였다.",
+              "전통적 방법이 공통기반을 전제하지 않아 정 체성 확립에어려움이 발생하였다",
+              "전통적 방법이복잡한 문제에포괄적으로 개 입하며 전문성이 부족하였다.",
+              "전통적 방법이 전문화 중심으로 교육되어사 회복지사의 분야별 이동을 어렵게 하였다."
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_16",
@@ -6259,7 +6562,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_17",
@@ -6278,7 +6581,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_18",
@@ -6293,11 +6596,11 @@ window.PAST_PAPER_DATA = {
         "초점화",
         "직면",
         "일반화",
-        "조언 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2025년 01월 11일 필기 기출"
+        "조언"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_19",
@@ -6316,7 +6619,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_20",
@@ -6335,7 +6638,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_21",
@@ -6354,7 +6657,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_22",
@@ -6373,7 +6676,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_23",
@@ -6392,7 +6695,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_24",
@@ -6411,7 +6714,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_25",
@@ -6420,7 +6723,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천론",
       "number": 25,
-      "stem": "생태도를 통하여 파악할 수 없는 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "생태도를 통하여 파악할 수 없는 것은?",
       "choices": [
         "클라이언트 가족의 세대 간 반복되는 정서적 유형",
         "클라이언트에게 스트레스가 되는 체계",
@@ -6430,7 +6733,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_26",
@@ -6449,7 +6752,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_27",
@@ -6468,7 +6771,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_28",
@@ -6487,7 +6790,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_29",
@@ -6506,7 +6809,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_30",
@@ -6525,7 +6828,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_31",
@@ -6537,14 +6840,14 @@ window.PAST_PAPER_DATA = {
       "stem": "과제중심모델에 관한 설명으로 옳은 것은?",
       "choices": [
         "개인의 신념체계의 변화를 강조한다.",
-        "특정 이론보다는 경험적 자료를 통해 개입의 기초를 마 련한다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2025년 01월 11일 필기 기출",
+        "특정 이론보다는 경험적 자료를 통해 개입의 기초를 마 련한다.",
         "인간의 신념이나 생각은 정서와 행동에 영향을 미친다고 가정한다.",
         "클라이언트가 무력한 상태에서 힘을 가진 상태로 이동하 는 것을 목표로 한다.",
         "변화는 항상 일어나며 불가피한 것으로 본다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_32",
@@ -6563,7 +6866,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_33",
@@ -6582,7 +6885,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_34",
@@ -6599,9 +6902,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "강점사정하기",
+              "자원확보하기",
+              "촉진적 개입하기",
+              "합류하기"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_35",
@@ -6620,7 +6929,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_36",
@@ -6639,7 +6948,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_37",
@@ -6651,14 +6960,14 @@ window.PAST_PAPER_DATA = {
       "stem": "가족치료모델의 개입 목표에 관한 설명으로 옳지 않은 것 은?",
       "choices": [
         "해결중심 가족치료: 가족이 문제 중심에서 벗어나 해결 방안을 모색하고 실행하도록 돕는다.",
-        "다세대 가족치료: 가족구성원의 불안 감소 및 미분화된 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 원가족과의 관계에서 자아분화를 증진시킨다.",
+        "다세대 가족치료: 가족구성원의 불안 감소 및 미분화된",
         "구조적 가족치료: 역기능적 가족구조를 재구조화한다.",
         "경험적 가족치료: 자아존중감 향상과 의사소통 방식의 변화를 통해 대처능력을 향상시킨다.",
         "전략적 가족치료: 다양한 전략을 활용하여 제시된 문제 의 원인을 찾도록 돕는다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_38",
@@ -6677,7 +6986,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_39",
@@ -6696,7 +7005,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_40",
@@ -6713,9 +7022,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "자아분화 수준이 더 낮은 성원이 가족투사의 대상이 된다.",
+              "가계도를 작성하고 해석하면서 가족의 정서적 과정을 이해한다.",
+              "성공적인 치료를 위해 사회복지사는 치료적 삼각관계를형성하며개입한다.",
+              "자아분화 수준이낮을수록 가족원의 자율성이 증가하며 독립적으로 행동한다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_41",
@@ -6734,7 +7049,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_42",
@@ -6746,14 +7061,14 @@ window.PAST_PAPER_DATA = {
       "stem": "체계론적 관점에서 가족에 관한 설명으로 옳은 것은?",
       "choices": [
         "가족의 항상성은 어떤 행동이 허용되는가를 결정하는 가 족규칙을 통해 공고해진다.",
-        "일탈행동이나 갈등상황에 대해 부적 환류를 적용하면 최 초의 일탈이나 갈등을 증폭시키는 작용을 한다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2025년 01월 11일 필기 기출",
+        "일탈행동이나 갈등상황에 대해 부적 환류를 적용하면 최 초의 일탈이나 갈등을 증폭시키는 작용을 한다.",
         "가족은 상위체계와는 독립적으로 존재하며 그 안에 다양 한 하위체계를 포함한다.",
         "경직된 경계를 가진 가족은 독립성과 자율성이 결여되어 있다.",
         "부모-자녀하위체계는 가족을 이끄는 책임을 지는 하위체 계로 권위를 갖는 것이 중요하다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_43",
@@ -6770,9 +7085,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "기능적인 가족은 가족규칙을 융통성 있게 적 용한다",
+              "부모와 자녀 간의밀착된관계는하위체계 간 균형을 유지하게 한다.",
+              "밀착된 가족은 경계의 투과성이 높아 체계 간 구분이어렵다.",
+              "기능적 가족은 가족성원에게 고정된 역할을 부며하며 혼란을 감소시킨다."
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_44",
@@ -6791,7 +7112,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_45",
@@ -6816,7 +7137,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_46",
@@ -6831,7 +7152,7 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ",
         "ㄴ, ㄹ",
         "ㄴ, ㄷ, ㄹ",
-        "ㄱ, ㄴ, ㄷ, ㄹ 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
       "statements":       [
               "정보 습득",
@@ -6841,7 +7162,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_47",
@@ -6860,7 +7181,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_48",
@@ -6885,7 +7206,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_49",
@@ -6904,7 +7225,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_50",
@@ -6923,7 +7244,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_51",
@@ -6937,12 +7258,12 @@ window.PAST_PAPER_DATA = {
         "전문화",
         "정상화",
         "탈시설화",
-        "주민참여 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2025년 01월 11일 필기 기출",
+        "주민참여",
         "사회통합"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_52",
@@ -6961,7 +7282,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_53",
@@ -6986,7 +7307,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_54",
@@ -7005,7 +7326,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_55",
@@ -7022,9 +7343,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ→ㄷ→ㅁ→ㄹ→ㄱ",
         "ㄷ→ㄱ→ㅁ→ㄹ→ㄴ"
       ],
+      "statements":       [
+              "토인비홀(Toynbee Hall)설립",
+              "시봄(Seebohm)보고서",
+              "정신보건법(Mental Health Act)제정",
+              "바클레이(Barclay)보고서 ㅁ. 하버트(Harbert)보고서"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_56",
@@ -7036,14 +7363,14 @@ window.PAST_PAPER_DATA = {
       "stem": "다음 사례에 해당하는 지역사회복지이론은?",
       "choices": [
         "갈등이론",
-        "엘리트주의이론 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "엘리트주의이론",
         "사회체계이론",
         "권력의존이론",
         "사회자본이론"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_57",
@@ -7060,9 +7387,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "사회체계이론-지역사회내 갈등이 변화의 원동력이다.",
+              "갈등이론-자원의 불평등한 분배로 인해 이 해관계의대립이 발생한다",
+              "자원동원이론-인간행동은 타인이나 사회환 경과 상호작용하는 동안에 학습된다.",
+              "사회자본이론-신뢰와 네트워크를 통해 지역 사회문제해결을위한규범 등이형성된다."
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_58",
@@ -7081,7 +7414,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_59",
@@ -7098,9 +7431,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄹ"
       ],
+      "statements":       [
+              "지역사회개발모델은 지역사회 역량강화,통합. 자조를 활동 목표로 둔다.",
+              "사회계획모델에서는 변화의 매개체로 과업지향 적인 소집단을 활용한다.",
+              "사회행동모델에서 사회복지사의 핵심 역할은 옹호자, 선동가, 협상가미다.",
+              "지역사회개발모델은 지역사회 문제 해결을 위 해 전문가의 주도적 개입을 강조한다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_60",
@@ -7119,7 +7458,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_61",
@@ -7128,7 +7467,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "지역사회복지론",
       "number": 61,
-      "stem": "다음에서 설명하는 테일러와 로버츠(S. Taylor & R. Roberts)의 지역사회복지 실천모델은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2025년 01월 11일 필기 기출",
+      "stem": "다음에서 설명하는 테일러와 로버츠(S. Taylor & R. Roberts)의 지역사회복지 실천모델은?",
       "choices": [
         "계획모델",
         "지역사회연계모델",
@@ -7138,7 +7477,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_62",
@@ -7157,7 +7496,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_63",
@@ -7176,7 +7515,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_64",
@@ -7193,9 +7532,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "서베이-지역주민으로부터 설문조사를 통해 직접적으로자료를수집하는방법",
+              "초점집단기법-전문가 패널을 대상으로 반복 된 설문을 통해 합의에 이를 때까지 의견을 수 렴하는 방법",
+              "사회지표분석 -정부기관이나 사회복지관련 조 직에 의해 수집된 기존 자료를 활용하는 방법",
+              "명목집단기법-지역사회 내 다양한 의견을 수 렴하며 욕구의 우선순위를 결정하는 방법"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_65",
@@ -7214,7 +7559,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_66",
@@ -7223,7 +7568,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "지역사회복지론",
       "number": 66,
-      "stem": "다음 지역사회복지 실천과정에서 사회복지사가 활용한 기술 은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "다음 지역사회복지 실천과정에서 사회복지사가 활용한 기술 은?",
       "choices": [
         "협상",
         "자원개발 및 동원",
@@ -7233,7 +7578,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_67",
@@ -7252,7 +7597,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_68",
@@ -7271,7 +7616,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_69",
@@ -7290,7 +7635,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_70",
@@ -7309,7 +7654,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_71",
@@ -7318,7 +7663,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "지역사회복지론",
       "number": 71,
-      "stem": "시ㆍ군ㆍ구 지역사회보장계획 수립 및 시행절차에 관한 설 명으로 옳은 것을 모두 고른 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2025년 01월 11일 필기 기출",
+      "stem": "시ㆍ군ㆍ구 지역사회보장계획 수립 및 시행절차에 관한 설 명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ",
         "ㄱ, ㄷ",
@@ -7326,9 +7671,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ",
         "ㄴ, ㄹ"
       ],
+      "statements":       [
+              "시·군·구는 4년마다 지역사회보장계획을 수 립하며야 한다",
+              "사회보장위원회의 심의와 지방의회 보고를 거 쳐 시·도지사에게제출한다.",
+              "지역사회보장계획에는 사회보험에 필요한 재원 규모와 조달방안이 포함된다",
+              "지역사회보장조사는 지역사회보장 욕구조사와 자원조사로 구성된다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_72",
@@ -7347,7 +7698,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_73",
@@ -7366,7 +7717,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_74",
@@ -7391,7 +7742,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_2교시_75",
@@ -7406,11 +7757,11 @@ window.PAST_PAPER_DATA = {
         "지역주민 참여를 위한 수요자 중심의 활동이 이루어진 다.",
         "지역사회복지운동의 주체로 사회복지 실무자도 포함된 다.",
         "특정 계층에 국한된 수단지향적인 활동이다.",
-        "조례제정운동과 같은 제도변화과정을 예로 들 수 있다. 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 최신 수정된(오타, 오답, 규정변경) 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "조례제정운동과 같은 제도변화과정을 예로 들 수 있다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_1",
@@ -7429,7 +7780,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_2",
@@ -7448,7 +7799,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_3",
@@ -7467,7 +7818,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_4",
@@ -7486,7 +7837,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_5",
@@ -7503,9 +7854,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄹ"
       ],
+      "statements":       [
+              "인간을 주관적인 존재로 규정하였다.",
+              "인간행동은 인간이 지닌 자유의지의 결과이다.",
+              "선행조건과 결과에 따라 행동이 형성된다는 입 장을가지고 있다.",
+              "경험주의에근간을두고구체적으로관찰할수 있는 행동에초점을 둔다"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_6",
@@ -7516,7 +7873,7 @@ window.PAST_PAPER_DATA = {
       "number": 6,
       "stem": "스키너(B. Skinner)의 이론에 관한 설명으로 옳지 않은 것은?",
       "choices": [
-        "부적강화는 바람직한 행동의 빈도를 감소시킨다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "부적강화는 바람직한 행동의 빈도를 감소시킨다.",
         "가변비율(variable-ratio)계획이 강화계획 중에서 반응률이 가장 높다.",
         "인간행동은 내적 충동보다는 외적 자극에 반응하여 나타 난다.",
         "고정간격(fixed-interval)계획은 정해진 시간 간격이 지난 후 강화를 주는 것이다.",
@@ -7524,7 +7881,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_7",
@@ -7543,7 +7900,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_8",
@@ -7562,7 +7919,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_9",
@@ -7581,7 +7938,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_10",
@@ -7600,7 +7957,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_11",
@@ -7619,7 +7976,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_12",
@@ -7628,7 +7985,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "인간행동과 사회환경",
       "number": 12,
-      "stem": "생태체계이론과 사회복지실천의 연관성으로 옳지 않은 것 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2025년 01월 11일 필기 기 은?",
+      "stem": "생태체계이론과 사회복지실천의 연관성으로 옳지 않은 것",
       "choices": [
         "문제에 대한 총체적 이해와 접근을 용이하게 해준다.",
         "사회복지실천을 위한 사정도구로서 유용성을 가진다.",
@@ -7638,7 +7995,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_13",
@@ -7655,9 +8012,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ, ㄹ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "엔트로피(entropy)는 폐쇄체계에서 주로 나타 난다.",
+              "항상성(homeostasis)은 체계의 혼란과 무질서 를 증가시킨다.",
+              "체계(system)의 속성은 경계의 개방성과 침투 성에따라 결정된다.",
+              "균형(equilibrium)은 주로 외부와의 교류가 활 발한개방체계에서나타난다."
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_14",
@@ -7676,7 +8039,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_15",
@@ -7695,7 +8058,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_16",
@@ -7714,7 +8077,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_17",
@@ -7723,7 +8086,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "인간행동과 사회환경",
       "number": 17,
-      "stem": "브론펜브레너(U. Bronfenbrenner)의 미시체계(micro system)에 관한 설명으로 옳은 것을 모두 고른 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "브론펜브레너(U. Bronfenbrenner)의 미시체계(micro system)에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ",
         "ㄱ, ㄴ",
@@ -7738,7 +8101,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_18",
@@ -7757,7 +8120,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_19",
@@ -7776,7 +8139,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_20",
@@ -7795,7 +8158,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_21",
@@ -7814,7 +8177,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_22",
@@ -7828,12 +8191,12 @@ window.PAST_PAPER_DATA = {
         "자아통합이 완성되는 시기로 삶 전체에 대한 평가를 시 도한다.",
         "전환적 추론이 가능해진다.",
         "부모로부터의 독립에 대한 양가감정에서 해방된다.",
-        "피아제(J. Piaget)는 구체적 조작 사고가 발달한다고 보 았다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2025년 01월 11일 필기 기",
+        "피아제(J. Piaget)는 구체적 조작 사고가 발달한다고 보 았다.",
         "에릭슨(E. Erikson)은 친밀감 대 고립의 심리사회적 위기 가 발생한다고 보았다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_23",
@@ -7852,7 +8215,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_24",
@@ -7871,7 +8234,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_25",
@@ -7890,7 +8253,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_26",
@@ -7909,7 +8272,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_27",
@@ -7924,11 +8287,11 @@ window.PAST_PAPER_DATA = {
         "연구결과의 일반화를 위해 모집단의 속성이 반영된 충분 한 표본을 조사하였다.",
         "가설 검증 결과가 연구자의 기대와 달라서 가설을 연구 결과에 맞추어 수정하였다.",
         "연구자의 주관적 판단에 입각하여 연구결과를 해석하였 다.",
-        "조사를 통해 검증된 인과관계에 입각하여 문제의 발생을 단정적 결정론으로 예측하였다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "조사를 통해 검증된 인과관계에 입각하여 문제의 발생을 단정적 결정론으로 예측하였다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_28",
@@ -7945,9 +8308,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "종단조사",
+              "표본조사",
+              "패널조사",
+              "경향조사"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_29",
@@ -7964,9 +8333,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ → ㄱ → ㄹ → ㅁ → ㄴ",
         "ㄷ → ㄴ → ㄱ → ㄹ → ㅁ"
       ],
+      "statements":       [
+              "표집방법을 수립하였다.",
+              "연구문제의 잠정적 결론으로 가설을 설정하였다.",
+              "연구가 필요한 주제를 선정하였다",
+              "검증된 측정도구로 자료를 수집하였다. ㅁ.자료를 분석하고 가설의 지지여부를 결정하였다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_30",
@@ -7985,7 +8360,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_31",
@@ -8004,7 +8379,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_32",
@@ -8018,12 +8393,12 @@ window.PAST_PAPER_DATA = {
         "내용타당도",
         "판별타당도",
         "예측타당도",
-        "동시타당도 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2025년 01월 11일 필기 기",
+        "동시타당도",
         "수렴타당도"
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_33",
@@ -8042,7 +8417,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_34",
@@ -8061,7 +8436,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_35",
@@ -8080,7 +8455,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_36",
@@ -8095,11 +8470,11 @@ window.PAST_PAPER_DATA = {
         "모집단이 큰 경우에는 표본 연구가 적합하다.",
         "표본 연구는 전수 연구에 비해 비표본오차가 크다.",
         "전수 연구에서 모수와 통계치의 구분은 필요하지 않다.",
-        "확률표집은 비확률표집에 비해 정확한 표집틀이 필요하 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 다."
+        "확률표집은 비확률표집에 비해 정확한 표집틀이 필요하"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_37",
@@ -8116,9 +8491,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "만원 단위로 측정한 청소년의 월평균 용돈",
+              "상·중하 등급으로 평가한 국어 교과목의 성적",
+              "연 단위로 측정한 청소년의 총 재학 기간",
+              "가출횟수로측정한청소년의가출경험"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_38",
@@ -8137,7 +8518,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_39",
@@ -8156,7 +8537,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_40",
@@ -8171,11 +8552,11 @@ window.PAST_PAPER_DATA = {
         "분리표본 사전사후검사 설계(separate-sample pretest-posttest design)",
         "솔로몬 4집단 설계(Solomon four-group design)",
         "단순시계열 설계(simple time-series design)",
-        "단일집단 사전사후검사 설계(one-group pretest-posttest design) 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2025년 01월 11일 필기 기"
+        "단일집단 사전사후검사 설계(one-group pretest-posttest design)"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_41",
@@ -8194,7 +8575,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_42",
@@ -8213,7 +8594,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_43",
@@ -8232,7 +8613,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_44",
@@ -8251,7 +8632,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_45",
@@ -8266,11 +8647,11 @@ window.PAST_PAPER_DATA = {
         "기명으로 진행되기 때문에 참여자들의 책임성을 높일 수 있다.",
         "결과 도출을 위해 반복해서 진행할 수 있다.",
         "비대면을 원칙으로 한다.",
-        "전문가들의 합의점을 찾는데 목표를 둔다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "전문가들의 합의점을 찾는데 목표를 둔다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_46",
@@ -8289,7 +8670,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_47",
@@ -8314,7 +8695,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_48",
@@ -8333,7 +8714,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_49",
@@ -8352,7 +8733,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2025_1교시_50",
@@ -8367,11 +8748,11 @@ window.PAST_PAPER_DATA = {
         "모두 비관여적 혹은 비반응성 연구이다.",
         "내용분석에 비해 내러티브 탐구는 과정중심적으로 접근 할 수 있다.",
         "내용분석은 내러티브 탐구에 비해 보다 많은 사례를 분 석할 수 있다.",
-        "모두 자료를 해석하고 구조화하는데 연구자의 객관성 유 지가 필요하다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2025년 01월 11일 필기 기 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 최신 수정된(오타, 오답, 규정변경) 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "모두 자료를 해석하고 구조화하는데 연구자의 객관성 유 지가 필요하다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_1",
@@ -8396,7 +8777,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_2",
@@ -8415,7 +8796,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_3",
@@ -8432,9 +8813,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㅁ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "현금급여는 선택의 자유를 보장하지만 사회적 통제가 부과된다.",
+              "현물급여는 집합적 선을 추구하고 용도 외 사 용을 방지하지만 관리비용이 많이 든다.",
+              "서비스는 클라이언트를 위한 제반 활동을 말 하며 목적 외 다른 용도로 사용할 수 없다",
+              "증서는 일정한 범위 내에서만 교환가치를 가 지기 때문에 개인주의자와 집합주의자 모두 선호한다. . 기회는 재화와 자원을 통제할 수 있는 영향력 을 의미하며 정책에 관한 의사결정권을 갖는 것을말한다"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_4",
@@ -8445,7 +8832,7 @@ window.PAST_PAPER_DATA = {
       "number": 4,
       "stem": "사회서비스 전자바우처에 관한 설명으로 옳지 않은 것은?",
       "choices": [
-        "급여형태는 신용카드 또는 체크카드로 구현한 증서이다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "급여형태는 신용카드 또는 체크카드로 구현한 증서이다.",
         "공급자 중심의 직접지원 또는 직접지불 방식이다.",
         "서비스 제공자의 도덕적 해이를 방지하기 위해 도입되었 다.",
         "수요자의 선택권을 보장하기 위한 수단으로 활용되고 있 다.",
@@ -8453,7 +8840,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_5",
@@ -8470,9 +8857,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "보편주의는 시민권에 입각해 권리로서 복지를 제공하므로 비납세자는 사회복지 대상에서 제 외한다.",
+              "보편주의는 기며자와 수혜자를 구별하지 않는 다.",
+              "선별주의는 수급자격이제한된급여를제공하 기 위해 자산조사 또는 소득조사를 한다",
+              "보편주의자와 선별주의자 모두 사회적 평등성 또는 사회적 효과성을 나름대로 추구한다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_6",
@@ -8491,7 +8884,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_7",
@@ -8510,7 +8903,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_8",
@@ -8525,11 +8918,11 @@ window.PAST_PAPER_DATA = {
         "사례수준 협력(case-level cooperation)",
         "시민참여(citizen participation)",
         "전문화된 접근구조(specialized access structure)",
-        "경쟁(competition) 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2024년 01월 13일 필기 기"
+        "경쟁(competition)"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_9",
@@ -8546,9 +8939,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㅁ",
         "ㄷ, ㄹ, ㅁ"
       ],
+      "statements":       [
+              "시민권이론은 정치권,공민권,사회권의 순서 로 발달한 것으로 본다.",
+              "권력자원이론은 노동조합의 중앙집중화 정도. 좌파정당의 집권을 복지국가 발달의 변수로 본다.",
+              "이익집단이론은 다양한 이익집단들의 정치적 활동을 통해 복지국가가 발달한 것으로 본다.",
+              "국가중심이론은 국가 엘리트들과 고용주들의 의지와 능력에의해 결정된다고 본다. ㅁ.수렴이론은그사회의기술수준과산업화정 도에따라 사회복지의 발달이 수렴된다고 본 다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_10",
@@ -8567,7 +8966,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_11",
@@ -8586,7 +8985,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_12",
@@ -8595,7 +8994,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지정책론",
       "number": 12,
-      "stem": "영국 사회복지정책의 역사에 관한 설명으로 옳은 것을 모두 고른 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "영국 사회복지정책의 역사에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄷ",
         "ㄷ, ㅁ",
@@ -8605,7 +9004,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_13",
@@ -8624,7 +9023,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_14",
@@ -8643,7 +9042,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_15",
@@ -8662,7 +9061,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_16",
@@ -8681,7 +9080,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_17",
@@ -8700,7 +9099,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_18",
@@ -8713,13 +9112,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "주체는 민간부문을 제외한 국가와 지방자치단체이다.",
         "대상은 도움이 필요한 모든 국민이다.",
-        "분야는 복지, 보건, 의료, 교육, 고용, 주거, 문화, 환경 등이다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2024년 01월 13일 필기 기",
+        "분야는 복지, 보건, 의료, 교육, 고용, 주거, 문화, 환경 등이다.",
         "상담, 재활, 돌봄, 정보의 제공, 관련시설의 이용, 역량개 발, 사회참여 지원 등을 내용으로 한다.",
         "인간다운 생활을 보장하고 국민의 삶의 질이 향상되도록 지원하는 제도이다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_19",
@@ -8738,7 +9137,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_20",
@@ -8757,7 +9156,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_21",
@@ -8776,7 +9175,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_22",
@@ -8801,7 +9200,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_23",
@@ -8810,7 +9209,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지정책론",
       "number": 23,
-      "stem": "우리나라 근로장려세제(EITC)에 관한 설명으로 옳지 않은 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 것은?",
+      "stem": "우리나라 근로장려세제(EITC)에 관한 설명으로 옳지 않은",
       "choices": [
         "소득재분배 효과를 기대할 수 있다.",
         "근로능력이 있는 저소득층의 근로유인을 제고한다.",
@@ -8820,7 +9219,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_24",
@@ -8839,7 +9238,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_25",
@@ -8856,9 +9255,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄷ, ㄹ, ㅁ 2과목 : 사회복지 행정론"
       ],
+      "statements":       [
+              "국민연금",
+              "국민건강보험",
+              "산업재해보상보험",
+              "고용보험 ㅁ.노인장기요양보험"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_26",
@@ -8877,7 +9282,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_27",
@@ -8896,7 +9301,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_28",
@@ -8909,13 +9314,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "생산성은 근로조건과 환경에 의해서만 좌우된다.",
         "심리적 요인은 생산성 향상에 영향을 미친다.",
-        "사회적 상호작용은 생산성 향상에 부정적인 영향을 미친 다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2024년 01월 13일 필기 기",
+        "사회적 상호작용은 생산성 향상에 부정적인 영향을 미친 다.",
         "공식적인 부서의 형성은 생산성 향상으로 이어진다.",
         "근로자는 집단 구성원이 아닌 개인으로서 행동하고 반응 한다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_29",
@@ -8934,7 +9339,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_30",
@@ -8951,9 +9356,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "직무의 과학적 분석: 업무시간과 동작의 체계적 분석",
+              "권위의 위계구조:권리와 책임을 수반하는 권위 의위계",
+              "경제적 보상: 직무성과에 따른 인센티브 제공",
+              "사적 감정의 배제: 공식적인원칙과 절차 중시"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_31",
@@ -8972,7 +9383,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_32",
@@ -8991,7 +9402,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_33",
@@ -9006,11 +9417,11 @@ window.PAST_PAPER_DATA = {
         "조직과 일체감을 갖게 함으로써 구성원의 정체감 형성에 기여한다.",
         "조직의 믿음과 가치가 깊게 공유될 때 조직문화는 더 강 해진다.",
         "경직된 조직문화는 불확실한 환경에 대처하도록 돕는다.",
-        "조직 내에서 자연적으로 생길 수 있다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "조직 내에서 자연적으로 생길 수 있다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_34",
@@ -9027,9 +9438,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "인간 존중,정의,정직성,공동체적 윤리성 강조",
+              "가치의협상과계약",
+              "청지기(stewardship)책무 활동",
+              "지능,사회적 지위,교육 정도,외모강조"
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_35",
@@ -9048,7 +9465,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_36",
@@ -9067,7 +9484,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_37",
@@ -9086,7 +9503,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_38",
@@ -9103,9 +9520,15 @@ window.PAST_PAPER_DATA = {
         "ㅁ - ㄱ - ㄷ - ㄴ - ㄹ",
         "ㅁ - ㄹ - ㄴ - ㄷ - ㄱ"
       ],
+      "statements":       [
+              "실제 직무수행을 직무수행 평가기준과 비교",
+              "직원과 평가결과 회의 진행",
+              "평가도구를사용하여 직원의실제 직무수행을 측정",
+              "직무수행기준확립 ㅁ. 직무수행 기대치를 직원에게전달"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_39",
@@ -9114,7 +9537,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지행정론",
       "number": 39,
-      "stem": "사회복지조직의 재정관리에 관한 설명으로 옳지 않은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2024년 01월 13일 필기 기",
+      "stem": "사회복지조직의 재정관리에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "｢사회복지법인 및 사회복지시설 재무ㆍ회계 규칙｣을 따 른다.",
         "사회복지법인과 시설은 매년 1회 이상 감사를 실시한다.",
@@ -9124,7 +9547,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_40",
@@ -9143,7 +9566,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_41",
@@ -9160,9 +9583,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "약속한 대로 서비스를 제공했는가?",
+              "안전하게 서비스를 제공했는가?",
+              "자신감을 가지고 정확하게 서비스를 제공했는 가?",
+              "위생적이고정돈된 시설에서서비스를제공했 는가?"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_42",
@@ -9181,7 +9610,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_43",
@@ -9196,11 +9625,11 @@ window.PAST_PAPER_DATA = {
         "서비스 간 연계성을 강화함으로써 연속성을 높일 수 있 다.",
         "양ㆍ질적으로 이용자 욕구에 부응함으로써 적절성을 높 일 수 있다.",
         "최소 비용으로 최대 효과를 얻음으로써 전문성을 높일 수 있다.",
-        "이용자의 요구나 불만을 파악함으로써 책임성을 높일 수 있다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "이용자의 요구나 불만을 파악함으로써 책임성을 높일 수 있다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_44",
@@ -9219,7 +9648,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_45",
@@ -9238,7 +9667,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_46",
@@ -9255,9 +9684,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ - ㄱ - ㄴ - ㄷ",
         "ㄹ - ㄱ - ㄷ - ㄴ"
       ],
+      "statements":       [
+              "STP 전략 설계",
+              "고객관계관리(CRM)",
+              "마케팅믹스",
+              "고객 및 시장 조사"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_47",
@@ -9276,7 +9711,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_48",
@@ -9295,7 +9730,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_49",
@@ -9304,7 +9739,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지행정론",
       "number": 49,
-      "stem": "사회복지 프로그램 평가의 목적과 그 설명으로 옳은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2024년 01월 13일 필기 기",
+      "stem": "사회복지 프로그램 평가의 목적과 그 설명으로 옳은 것은?",
       "choices": [
         "정책개발: 사회복지실천 이념 개발",
         "책임성 이행: 재무ㆍ회계적, 전문적 책임 이행",
@@ -9314,7 +9749,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_50",
@@ -9333,7 +9768,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_51",
@@ -9352,7 +9787,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_52",
@@ -9371,7 +9806,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_53",
@@ -9390,7 +9825,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_54",
@@ -9407,9 +9842,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "아동복지법",
+              "장애인복지법",
+              "국민기초생활 보장법",
+              "기초면금법"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_55",
@@ -9422,13 +9863,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "정관에는 회의에 관한 사항이 포함되어야 한다.",
         "법인은 사회복지사업의 운영에 필요한 재산을 소유하여 야 한다.",
-        "감사 중에 결원이 생겼을 때 3개월 이내에 보충하여야 한다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "감사 중에 결원이 생겼을 때 3개월 이내에 보충하여야 한다.",
         "법인은 임원을 임면하는 경우에 지체 없이 시ㆍ도지사에 게 보고하여야 한다.",
         "법인이 목적사업 외의 사업을 하였을 때 설립허가가 취 소될 수 있다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_56",
@@ -9447,7 +9888,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_57",
@@ -9466,7 +9907,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_58",
@@ -9483,9 +9924,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "지방자치단체는 최저보장수준과 최저임금을 매년 공표하며야 한다.",
+              "사회보장수급권은 구두로 통지하여포기할수 있다.",
+              "사회보장수급권이제한되는 경우에는제한하 는 목적에 필요한 최소한의 범위에 그쳐야 한 다.",
+              "사회보장수급권을 포기하는것이 다른사람에 게 피해를 주게 되는 경우 사회보장수급권을 포기할 수없다"
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_59",
@@ -9499,12 +9946,12 @@ window.PAST_PAPER_DATA = {
         "사회보험은 국가와 지방자치단체의 책임으로 시행한다.",
         "국가는 사회보장 관계 법령에서 정하는 바에 따라 사회 보장에 관한 상담에 응하여야 한다.",
         "일정 소득 수준 이하의 국민에 대한 사회서비스에 드는 비용은 수익자 부담을 원칙으로 한다.",
-        "통계청장은 제출된 사회보장통계를 종합하여 사회보장위 원회에 제출하여야 한다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2024년 01월 13일 필기 기",
+        "통계청장은 제출된 사회보장통계를 종합하여 사회보장위 원회에 제출하여야 한다.",
         "지방자치단체의 장은 사회보장제도를 신설할 경우 보건 복지부장관과 합의하여야 한다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_60",
@@ -9523,7 +9970,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_61",
@@ -9542,7 +9989,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_62",
@@ -9561,7 +10008,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_63",
@@ -9580,7 +10027,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_64",
@@ -9594,12 +10041,12 @@ window.PAST_PAPER_DATA = {
         "자활을 위한 사업자금 융자",
         "자활을 위한 정보제공, 상담, 직업교육 및 취업알선",
         "생업을 위한 자금융자 알선",
-        "자활기업의 설립ㆍ운영 지원 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "자활기업의 설립ㆍ운영 지원",
         "자영창업 지원 및 기술ㆍ경영 지도"
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_65",
@@ -9618,7 +10065,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_66",
@@ -9642,7 +10089,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_67",
@@ -9661,7 +10108,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_68",
@@ -9680,7 +10127,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_69",
@@ -9691,7 +10138,7 @@ window.PAST_PAPER_DATA = {
       "number": 69,
       "stem": "국민연금법의 내용으로 옳은 것은?",
       "choices": [
-        "가입자의 가입 종류가 변동되면 그 가입자의 가입기간은 각 종류별 가입기간을 합산한 기간으로 한다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2024년 01월 13일 필기 기",
+        "가입자의 가입 종류가 변동되면 그 가입자의 가입기간은 각 종류별 가입기간을 합산한 기간으로 한다.",
         "국민연금사업은 기획재정부장관이 맡아 주관한다.",
         "“수급권자”란 이 법에 따른 급여를 받을 권리를 말한다.",
         "국내에 거주하는 국민으로서 18세 이상 65세 미만인 자 는 국민연금 가입 대상이 된다.",
@@ -9699,7 +10146,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_70",
@@ -9718,7 +10165,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_71",
@@ -9737,7 +10184,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_72",
@@ -9756,7 +10203,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_73",
@@ -9775,7 +10222,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_74",
@@ -9788,13 +10235,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "여성가족부장관은 5년마다 한부모가족에 대한 실태조사 를 실시하고 그 결과를 공표하여야 한다.",
         "“청소년 한부모”란 18세 이하의 모 또는 부를 말한다.",
-        "교육부장관은 청소년 한부모가 학업을 계속할 수 있도록 여성가족부장관에게 협조를 요청하여야 한다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "교육부장관은 청소년 한부모가 학업을 계속할 수 있도록 여성가족부장관에게 협조를 요청하여야 한다.",
         "“모” 또는 “부”에는 아동인 자녀를 양육하는 미혼자(사 실혼 관계에 있는 자는 제외한다)도 해당된다.",
         "한부모가족에 대한 국민의 이해와 관심을 제고하기 위하 여 매년 9월 7일을 한부모가족의 날로 한다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_3교시_75",
@@ -9809,11 +10256,11 @@ window.PAST_PAPER_DATA = {
         "지방자치단체는 모금회에 기부금품 모집에 필요한 비용 을 보조할 수 있다.",
         "배분분과실행위원회는 20명 이상의 위원으로 구성된다.",
         "모금회는 정관을 작성하여 보건복지부장관의 허가를 받 아 등기함으로써 설립된다.",
-        "모금회는 매년 8월 31일까지 다음 회계연도의 공동모금 재원 배분기준을 정하여 공고하여야 한다. 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 최신 수정된(오타, 오답, 규정변경) 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "모금회는 매년 8월 31일까지 다음 회계연도의 공동모금 재원 배분기준을 정하여 공고하여야 한다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_1",
@@ -9832,7 +10279,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_2",
@@ -9849,9 +10296,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "개인의 의지",
+              "개인에 대한 심리 내적 진단",
+              "전문가와클라이언트사이의 원조관계",
+              "기관의기능"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_3",
@@ -9870,7 +10323,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_4",
@@ -9889,7 +10342,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_5",
@@ -9908,7 +10361,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_6",
@@ -9921,13 +10374,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "사회복지가 종교와 밀접한 관련 하에 전개되도록 하였다.",
         "전문 사회복지의 시작을 촉발하였다.",
-        "시설 중심보다 지역사회 중심의 사회복지가 발전하는 계 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 기를 만들었다.",
+        "시설 중심보다 지역사회 중심의 사회복지가 발전하는 계",
         "사회복지가 거시적인 사회정책보다는 미시적인 사회사업 위주로 발전하게 하였다.",
         "사람들이 사회복지를 구호사업 또는 자선사업과 같은 것 으로 인식하게 하였다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_7",
@@ -9946,7 +10399,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_8",
@@ -9965,7 +10418,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_9",
@@ -9990,7 +10443,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_10",
@@ -10009,7 +10462,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_11",
@@ -10018,7 +10471,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천론",
       "number": 11,
-      "stem": "핀커스와 미나한(A. Pincus &A. Minahan)의 4체계 모델을 다음 사례에 적용할 때 대상과 체계의 연결로 옳은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2024년 01월 13일 필기 기출",
+      "stem": "핀커스와 미나한(A. Pincus &A. Minahan)의 4체계 모델을 다음 사례에 적용할 때 대상과 체계의 연결로 옳은 것은?",
       "choices": [
         "결혼이민자(A): 행동체계",
         "변호사(B): 전문가체계",
@@ -10028,7 +10481,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_12",
@@ -10047,7 +10500,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_13",
@@ -10066,7 +10519,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_14",
@@ -10083,9 +10536,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "일관성을포합하는개념이다",
+              "원조관계에서책임감과 관련이 있다.",
+              "원조관계의 목적을 달성하기 위해 필요하다.",
+              "클라이언트는 현신을 해야 하나 의무를 갖지 는 않는다."
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_15",
@@ -10100,11 +10559,11 @@ window.PAST_PAPER_DATA = {
         "기록ㆍ정보 관리",
         "직업적 경계 유지",
         "정보에 입각한 동의",
-        "이해 충돌에 대한 대처 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "이해 충돌에 대한 대처"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_16",
@@ -10123,7 +10582,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_17",
@@ -10142,7 +10601,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_18",
@@ -10161,7 +10620,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_19",
@@ -10180,7 +10639,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_20",
@@ -10199,7 +10658,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_21",
@@ -10218,7 +10677,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_22",
@@ -10227,7 +10686,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천론",
       "number": 22,
-      "stem": "다음 사례에서 사회복지사가 자료수집과정에서 사용한 정보 의 출처가 아닌 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2024년 01월 13일 필기 기출",
+      "stem": "다음 사례에서 사회복지사가 자료수집과정에서 사용한 정보 의 출처가 아닌 것은?",
       "choices": [
         "클라이언트의 이야기",
         "클라이언트의 비언어적 행동",
@@ -10237,7 +10696,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_23",
@@ -10256,7 +10715,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_24",
@@ -10275,7 +10734,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_25",
@@ -10299,7 +10758,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_26",
@@ -10308,7 +10767,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 26,
-      "stem": "사회복지사가 가져야 할 지식의 내용으로 옳은 것을 모두 고른 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "사회복지사가 가져야 할 지식의 내용으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ",
         "ㄱ, ㄴ",
@@ -10324,7 +10783,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_27",
@@ -10343,7 +10802,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_28",
@@ -10362,7 +10821,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_29",
@@ -10381,7 +10840,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_30",
@@ -10400,7 +10859,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_31",
@@ -10412,14 +10871,20 @@ window.PAST_PAPER_DATA = {
       "stem": "심리사회모델에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄹ",
-        "ㄴ, ㄷ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2024년 01월 13일 필기 기출",
+        "ㄴ, ㄷ",
         "ㄷ, ㄹ",
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "심리사회모델을 체계화 하는데 홀리스(F. Hollis) 가 공헌하였다.",
+              "\"직접적 영향주기\"는 언제나사용 가능한 기법 이다.",
+              "“환기\"는 클라이언트의 금정적 감정을 표출시킨 다.",
+              "간접적 개입기법으로“환경조정”을사용한다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_32",
@@ -10438,7 +10903,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_33",
@@ -10457,7 +10922,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_34",
@@ -10474,9 +10939,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ → ㄱ → ㄹ → ㄴ",
         "ㄷ → ㄴ → ㄱ → ㄹ"
       ],
+      "statements":       [
+              "동일시를 위한 자아구축 단계",
+              "클라이언트의자기이해를원조하는단계",
+              "관계형성단계",
+              "클라이언트가 독립된 자아정체감을 형성하도 록원조하는 단계"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_35",
@@ -10493,9 +10964,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "원하지 않는 면담이 클라이언트에게 힘들다는 것을미해한다.",
+              "클라이언트의 행동을 사회복지사의가치관에 맞추어 평가한다",
+              "클라이언트의 머려움을 사회복지사가 도울 수 있다는 것을 알려준다.",
+              "클라이언트의 저항을 온화한 태도로 수용한다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_36",
@@ -10507,14 +10984,14 @@ window.PAST_PAPER_DATA = {
       "stem": "생태체계적 관점에서 보는 가족에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "항상성: 가족구성원들이 현재 상태를 유지",
-        "경직된 경계: 가족이 다수의 복지서비스를 이용 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "경직된 경계: 가족이 다수의 복지서비스를 이용",
         "하위체계: 가족구성원들이 경계를 가지고 각자의 기능을 수행",
         "피드백: 가족이 사회환경과 환류를 주고 받으며 변화를 도모",
         "순환적 인과관계: 가족 한 사람의 행동이 다른 구성원에 게 영향을 주어 가족 전체를 변화"
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_37",
@@ -10533,7 +11010,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_38",
@@ -10552,7 +11029,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_39",
@@ -10571,7 +11048,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_40",
@@ -10590,7 +11067,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_41",
@@ -10599,7 +11076,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 41,
-      "stem": "다음과 같은 기법을 사용하는 가족치료모델은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2024년 01월 13일 필기 기출",
+      "stem": "다음과 같은 기법을 사용하는 가족치료모델은?",
       "choices": [
         "전략적 가족치료모델",
         "해결중심 가족치료모델",
@@ -10609,7 +11086,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_42",
@@ -10628,7 +11105,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_43",
@@ -10645,9 +11122,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "집단 사회복지사의 관찰",
+              "외부 전문가의 보고",
+              "표준화된 사정도구",
+              "집단성원의자기관찰"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_44",
@@ -10666,7 +11149,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_45",
@@ -10685,7 +11168,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_46",
@@ -10694,7 +11177,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 46,
-      "stem": "집단 종결단계에서 사회복지사의 역할로 옳은 것을 모두 고 른 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "집단 종결단계에서 사회복지사의 역할로 옳은 것을 모두 고 른 것은?",
       "choices": [
         "ㄱ, ㄴ",
         "ㄷ, ㄹ",
@@ -10702,9 +11185,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "집단과정에서 성취한 변화를 지속적으로 유지 하도록 돕는다.",
+              "집단성원의개별 목표를설정한다.",
+              "종결을 앞두고 나타나는다양한 감정을 토론하 도록 격려한다.",
+              "집단에 대한 의존성을 서서히 감소시켜 나간 다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_47",
@@ -10723,7 +11212,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_48",
@@ -10742,7 +11231,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_49",
@@ -10761,7 +11250,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_50",
@@ -10776,11 +11265,11 @@ window.PAST_PAPER_DATA = {
         "통제집단을 활용한다.",
         "개입효과성에 대한 파악이 가능하다.",
         "표본이 하나다.",
-        "조사기간이 길어진다. 3과목 : 지역사회 복지론 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2024년 01월 13일 필기 기출"
+        "조사기간이 길어진다. 3과목 : 지역사회 복지론"
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_51",
@@ -10799,7 +11288,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_52",
@@ -10818,7 +11307,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_53",
@@ -10837,7 +11326,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_54",
@@ -10856,7 +11345,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_55",
@@ -10875,7 +11364,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_56",
@@ -10890,11 +11379,11 @@ window.PAST_PAPER_DATA = {
         "ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄹ",
-        "ㄱ, ㄴ, ㄷ, ㄹ 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_57",
@@ -10913,7 +11402,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_58",
@@ -10932,7 +11421,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_59",
@@ -10949,9 +11438,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "지역사회 욕구 변화에 따른 유연한 대응",
+              "지역사회 주민을 중심으로 개입 목표 설정과 평가",
+              "지역사회 특성의일반화",
+              "지역사회의 자기결정권 강조"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_60",
@@ -10968,9 +11463,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "지역사회개발",
+              "지역사회보호",
+              "지역사회조직",
+              "지역사회연계"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_61",
@@ -10984,12 +11485,12 @@ window.PAST_PAPER_DATA = {
         "자원동원 기술",
         "자원개발 기술",
         "임파워먼트 기술",
-        "조직화 기술 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2024년 01월 13일 필기 기출",
+        "조직화 기술",
         "네트워크 기술"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_62",
@@ -11008,7 +11509,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_63",
@@ -11027,7 +11528,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_64",
@@ -11046,7 +11547,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_65",
@@ -11065,7 +11566,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_66",
@@ -11084,7 +11585,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_67",
@@ -11103,7 +11604,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_68",
@@ -11112,7 +11613,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "지역사회복지론",
       "number": 68,
-      "stem": "지방자치제에 관한 설명으로 옳은 것을 모두 고른 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "지방자치제에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ",
         "ㄷ, ㄹ",
@@ -11120,9 +11621,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "지방자치제는 자기통치원리를 담고 있다",
+              "지방자치는 주민자치와 단체자치를 일컫는다.",
+              "지방자치단체는 사회복지시설을 평가할 수 있 다.",
+              "지방자치법을제정합으로써 지방 분권을 위한 법적 장치가 만들어졌다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_69",
@@ -11141,7 +11648,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_70",
@@ -11158,9 +11665,14 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 조직화, ㄴ: 사례관리, ㄷ: 재가복지",
         "ㄱ: 조직화, ㄴ: 지역사회보호, ㄷ: 사례관리"
       ],
+      "statements":       [
+              "지역사회의 특성과 지역주민의 복지욕구를고 러한( 7 ) 사업",
+              "국가·지방자치단체 및 민간 부문의 사회복지 서비스를연계· 제공하는( ㄴ) 사업",
+              "지역사회 복지공동체 활성화를 위한 복지자원 관리, 주민교육및( ㄷ ) 사업"
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_71",
@@ -11179,7 +11691,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_72",
@@ -11190,7 +11702,7 @@ window.PAST_PAPER_DATA = {
       "number": 72,
       "stem": "사회복지공동모금회법상 사회복지공동모금회에 관한 설명으 로 옳지 않은 것은?",
       "choices": [
-        "사회복지공동모금회는 사회복지법인이다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2024년 01월 13일 필기 기출",
+        "사회복지공동모금회는 사회복지법인이다.",
         "특별시ㆍ광역시ㆍ특별자치시ㆍ도ㆍ특별자치도 단위 사회 복지공동모금지회를 둔다.",
         "임원의 임기는 2년으로 하며, 한 차례만 연임할 수 있다.",
         "모금회가 아닌 자는 사회복지공동모금 또는 이와 유사한 명칭을 사용하지 못한다.",
@@ -11198,7 +11710,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_73",
@@ -11217,7 +11729,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_74",
@@ -11236,7 +11748,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_2교시_75",
@@ -11251,11 +11763,17 @@ window.PAST_PAPER_DATA = {
         "ㄱ→ㄴ→ㄹ→ㄷ",
         "ㄴ→ㄱ→ㄷ→ㄹ",
         "ㄴ→ㄱ→ㄹ→ㄷ",
-        "ㄴ→ㄷ→ㄱ→ㄹ 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프 로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합 니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 오답 및 오탈자가 수정된 최신 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "ㄴ→ㄷ→ㄱ→ㄹ"
+      ],
+      "statements":       [
+              "희망복지지원단 설치운영",
+              "사회복지통합관리망(행복e음)구축",
+              "지역사회통합돌봄(커뮤니티케어)선도사업 시행",
+              "'읍면동복지 허브화'사업시행"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_1",
@@ -11274,7 +11792,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_2",
@@ -11293,7 +11811,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_3",
@@ -11312,7 +11830,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_4",
@@ -11331,7 +11849,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_5",
@@ -11346,7 +11864,7 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ",
         "ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ",
-        "ㄴ, ㄷ, ㄹ 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "ㄴ, ㄷ, ㄹ"
       ],
       "statements":       [
               "로저스(C. Rogers)-자기실현 경향성",
@@ -11356,7 +11874,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_6",
@@ -11375,7 +11893,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_7",
@@ -11394,7 +11912,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_8",
@@ -11413,7 +11931,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_9",
@@ -11432,7 +11950,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_10",
@@ -11457,7 +11975,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_11",
@@ -11468,7 +11986,7 @@ window.PAST_PAPER_DATA = {
       "number": 11,
       "stem": "방어기제와 그 예시로 옳지 않은 것은?",
       "choices": [
-        "합리화(rationalization): 지원한 회사에 불합격한 후 그냥 한번 지원해본 것이며 합격했어도 다니지 않았을 것이라 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2024년 01월 13일 필기 기 생각한다.",
+        "합리화(rationalization): 지원한 회사에 불합격한 후 그냥 한번 지원해본 것이며 합격했어도 다니지 않았을 것이라",
         "억압(repression): 시험을 망친 후 성적발표 날짜를 아예 잊어버린다.",
         "투사(projection): 자신이 싫어하는 직장 상사에 대해서 상사가 자기를 싫어하기 때문에 사이가 나쁘다고 여긴 다.",
         "반동형성(reaction formation): 관심이 가는 이성에게 오 히려 짓궂은 말을 하게 된다.",
@@ -11476,7 +11994,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_12",
@@ -11495,7 +12013,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_13",
@@ -11514,7 +12032,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_14",
@@ -11539,7 +12057,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_15",
@@ -11551,14 +12069,14 @@ window.PAST_PAPER_DATA = {
       "stem": "브론펜브레너(U. Bronfenbrenner)의 생태체계이론에서 다음 에 해당하는 개념으로 옳은 것은?",
       "choices": [
         "미시체계(micro system)",
-        "외체계(exo system) 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "외체계(exo system)",
         "거시체계(macro system)",
         "환류체계(feedback system)",
         "시간체계(chrono system)"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_16",
@@ -11577,7 +12095,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_17",
@@ -11596,7 +12114,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_18",
@@ -11615,7 +12133,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_19",
@@ -11634,7 +12152,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_20",
@@ -11653,7 +12171,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_21",
@@ -11662,7 +12180,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "인간행동과 사회환경",
       "number": 21,
-      "stem": "생애주기와 발달적 특징의 연결로 옳지 않은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2024년 01월 13일 필기 기",
+      "stem": "생애주기와 발달적 특징의 연결로 옳지 않은 것은?",
       "choices": [
         "영아기(0-2세) - 애착발달",
         "아동기(7-12세) - 자아정체감 확립",
@@ -11672,7 +12190,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_22",
@@ -11691,7 +12209,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_23",
@@ -11710,7 +12228,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_24",
@@ -11727,9 +12245,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "프로이트(S, Freud): 성 에너지(리비도)가 무 의식 속에 잠복하는 잠재기(latency stage)",
+              "피아제(J.Piaget):보존,분류,유목화,서열 화 등의 개념을 점차적으로 획득",
+              "콜버그(L. Kohlberg): 인습적 수준의 도덕성 발달단계로 옮겨가는 시기",
+              "에릭슨(E. Erikson):\"주도성 대 죄의식\"의 발 달이 중요한시기"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_25",
@@ -11744,11 +12268,11 @@ window.PAST_PAPER_DATA = {
         "항상성(homeostasis)은 비교적 안정적으로 균형 상태를 유지하기 위한 체계의 경향을 말한다.",
         "경계(boundary)는 체계를 외부 환경과 구분 짓는 둘레를 말한다.",
         "다중종결성(multifinality)은 서로 다른 경로와 방법을 통 해 같은 결과에 도달할 수 있음을 말한다.",
-        "부적 환류(negative feedback)는 체계가 목적 달성이 어 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 려운 방식으로 움직이고 있다는 정보를 제공하여 체계의 변화를 도모한다. 2과목 : 사회복지 조사론"
+        "부적 환류(negative feedback)는 체계가 목적 달성이 어"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_26",
@@ -11767,7 +12291,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_27",
@@ -11786,7 +12310,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_28",
@@ -11803,9 +12327,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "경험적으로 검증 가능하여야 한다.",
+              "연구결과는잠정적이며 수정될 수있다.",
+              "연구자의주관적가치 판단이 연구과정이나 결 론에 작용하지 않도록 객관성을 추구한다.",
+              "같은 절차를 다른 대상에 반복적으로 적용하며 같은 결과가 나오는지 검토할 수 있다"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_29",
@@ -11822,9 +12352,13 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 패널조사, ㄴ: 경향조사",
         "ㄱ: 패널조사, ㄴ: 코호트(cohort)조사"
       ],
+      "statements":       [
+              "동일한 표본을 대상으로 시간을 달리하며 추적 관찰하는 연구",
+              "일정연령이나 일정연령 범위 내 사람들의 집단 이 조사대상인 종단연구"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_30",
@@ -11833,7 +12367,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "사회복지조사론",
       "number": 30,
-      "stem": "분석단위에 관한 설명으로 옳은 것을 모두 고른 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2024년 01월 13일 필기 기",
+      "stem": "분석단위에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄴ",
         "ㄱ, ㄴ",
@@ -11841,9 +12375,14 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ"
       ],
+      "statements":       [
+              "이혼,폭력,범죄 등과 같은 분석단위는 사회 적 가공물(social artifacts)에 해당한다.",
+              "생태학적 오류는 집단에 대한 조사를 기초로 하며 개인을 분석단위로 주장하는 오류이다.",
+              "환원주의는 특정 분석단위 또는 변수가 다른 분석단위 또는 변수에 비해 관련성이 높다고 설명하는 경향이 있다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_31",
@@ -11862,7 +12401,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_32",
@@ -11881,7 +12420,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_33",
@@ -11900,7 +12439,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_34",
@@ -11914,12 +12453,12 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 명목척도, ㄴ: 서열척도, ㄷ: 비율척도",
         "ㄱ: 명목척도, ㄴ: 비율척도, ㄷ: 서열척도",
         "ㄱ: 비율척도, ㄴ: 등간척도, ㄷ: 서열척도",
-        "ㄱ: 서열척도, ㄴ: 등간척도, ㄷ: 비율척도 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "ㄱ: 서열척도, ㄴ: 등간척도, ㄷ: 비율척도",
         "ㄱ: 서열척도, ㄴ: 비율척도, ㄷ: 명목척도"
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_35",
@@ -11938,7 +12477,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_36",
@@ -11957,7 +12496,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_37",
@@ -11982,7 +12521,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_38",
@@ -12001,7 +12540,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_39",
@@ -12020,7 +12559,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_40",
@@ -12033,13 +12572,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "의도적표집(purposive sampling)은 비확률표집이다.",
         "할당표집(quota sampling)은 동일추출확률에 근거한다.",
-        "눈덩이표집(snowball sampling)은 질적연구나 현장연구 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2024년 01월 13일 필기 기 에서 많이 사용된다.",
+        "눈덩이표집(snowball sampling)은 질적연구나 현장연구",
         "집락표집(cluster sampling)은 모집단에 대한 표집틀이 갖추어지지 않더라도 사용가능하다.",
         "체계적표집(systematic sampling)은 주기성(periodicity) 이 문제가 될 수 있다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_41",
@@ -12058,7 +12597,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_42",
@@ -12077,7 +12616,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_43",
@@ -12096,7 +12635,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_44",
@@ -12115,7 +12654,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_45",
@@ -12134,7 +12673,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_46",
@@ -12143,7 +12682,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "사회복지조사론",
       "number": 46,
-      "stem": "질적연구에 관한 설명으로 옳은 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "질적연구에 관한 설명으로 옳은 것은?",
       "choices": [
         "변수중심의 분석이 이루어진다.",
         "논리실증주의적 관점을 견지한다.",
@@ -12153,7 +12692,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_47",
@@ -12172,7 +12711,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_48",
@@ -12189,9 +12728,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄹ",
         "ㄷ, ㄹ"
       ],
+      "statements":       [
+              "스케줄-구조화 면접",
+              "설문지를 이용한 면접조사",
+              "심층면접",
+              "비구조화 면접"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_49",
@@ -12210,7 +12755,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2024_1교시_50",
@@ -12225,11 +12770,11 @@ window.PAST_PAPER_DATA = {
         "관찰대상과 상호작용 없이 연구대상을 관찰할 수 있다.",
         "관찰대상의 승인을 받고 관찰대상과 어울리면서도 객관 성을 유지할 수 있다.",
         "관찰대상의 승인을 받지 않고 관찰한다는 점에서 연구윤 리문제가 제기될 수 있다.",
-        "관찰 상황을 인위적으로 통제한 상황에서 관찰을 진행할 수 있다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2024년 01월 13일 필기 기 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 최신 수정된(오타, 오답, 규정변경) 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "관찰 상황을 인위적으로 통제한 상황에서 관찰을 진행할 수 있다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_1",
@@ -12248,7 +12793,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_2",
@@ -12267,7 +12812,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_3",
@@ -12286,7 +12831,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_4",
@@ -12303,9 +12848,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "국민의 생존권 보장",
+              "사회통합의 증진",
+              "개인의 자립성 증진",
+              "능력에 따른 분배"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_5",
@@ -12324,7 +12875,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_6",
@@ -12343,7 +12894,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_7",
@@ -12357,12 +12908,12 @@ window.PAST_PAPER_DATA = {
         "시장에 대한 국가개입을 최소화하고 개인의 소극적 자유 를 극대화하는 것이 바람직하다.",
         "개인의 적극적 자유를 보장하기 위해서는 철저한 계획경 제와 생산수단의 국유화가 필요하다.",
         "환경과 생태의 관점에서 자본주의의 성장과 복지국가의 확대는 지속가능하지 않다.",
-        "복지국가는 노동의 성(gender) 분업과 자본주의 가부장제 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 를 고착화시키는 역할을 한다.",
+        "복지국가는 노동의 성(gender) 분업과 자본주의 가부장제",
         "시장의 약점을 보완하고 불평등과 빈곤에 대응하기 위하 여 실용적인 국가개입이 필요하다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_8",
@@ -12381,7 +12932,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_9",
@@ -12400,7 +12951,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_10",
@@ -12419,7 +12970,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_11",
@@ -12436,9 +12987,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄹ"
       ],
+      "statements":       [
+              "수급자격 중 부양의무자 기준은 완화되었다.",
+              "기준중위소득은2015년 이후 지속적으로 인상 되었다.",
+              "교육급여가 신설되었다.",
+              "근로능력평가 방식이 변화되었다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_12",
@@ -12447,7 +13004,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지정책론",
       "number": 12,
-      "stem": "사회보험과 비교하여 공공부조제도의 장점으로 옳은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2023년 01월 14일 필기 기",
+      "stem": "사회보험과 비교하여 공공부조제도의 장점으로 옳은 것은?",
       "choices": [
         "대상효율성이 높다.",
         "가입률이 높다.",
@@ -12457,7 +13014,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_13",
@@ -12476,7 +13033,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_14",
@@ -12495,7 +13052,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_15",
@@ -12512,9 +13069,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ, ㄹ",
         "ㄱ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "중위소득의 일정 비율",
+              "라이덴(Leyden)방식",
+              "반물량방식",
+              "라운트리(Rowntree)방식 .타운센드(Townsend)방식"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_16",
@@ -12533,7 +13096,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_17",
@@ -12542,7 +13105,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지정책론",
       "number": 17,
-      "stem": "우리나라 사회보험방식의 공적연금에 관한 설명으로 옳은 것을 모두 고른 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "우리나라 사회보험방식의 공적연금에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ",
         "ㄱ, ㄹ",
@@ -12550,9 +13113,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "국민연금과 특수직역연금으로구분하여운영 되고 있다.",
+              "국민연금이 가장 먼저 시행되었다.",
+              "2022년 12월말 기준 공적연금 수급개시연령 은 동일하다",
+              "가입자의 노령(퇴직),장애(재해),사망으로 인 한소득중단시급여를지급한다."
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_18",
@@ -12571,7 +13140,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_19",
@@ -12590,7 +13159,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_20",
@@ -12609,7 +13178,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_21",
@@ -12628,7 +13197,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_22",
@@ -12637,7 +13206,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지정책론",
       "number": 22,
-      "stem": "정책결정 모형 중 드로어(Y. Dror)가 제시한 최적모형에 관 한 설명으로 옳은 것을 모두 고른 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2023년 01월 14일 필기 기",
+      "stem": "정책결정 모형 중 드로어(Y. Dror)가 제시한 최적모형에 관 한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ",
         "ㄱ, ㄷ, ㄹ",
@@ -12645,9 +13214,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ, ㅁ",
         "ㄴ, ㄷ, ㄹ, ㅁ"
       ],
+      "statements":       [
+              "합리모형과 점증모형의 단순혼합이 아닌 정책 성과를 최적화하려는 데 초점을 둔다.",
+              "합리적 요소와 초합리적 요소를 다 고려하는 질적모형이다",
+              "초합리성의 구체적인 달성 방법에 대한 명확한 설명이 제시되었다.",
+              "정책결정을 체계론적 시각에서 파악한다. ㅁ. 정책결정 과정에서 실현가능성이 낮다는 비판 이 있다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_23",
@@ -12666,7 +13241,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_24",
@@ -12683,9 +13258,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "민간이사회복지에대한 특정 견해를 가지고 이를 관철시키려는 실천이다.",
+              "노동운동·시민운동·여성운동 단체 등 다양 한 주체들이 관심과 역량을 투여하는 사회운 동의 한 분야미다.",
+              "사회복지종사자들이 갖고 있는 전문성을 실현 하는 중요한 로의 하나이다",
+              "우리나라의사회복지역사에서정부는사회복 지운동단체의 의견을 모두 수용하였다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_25",
@@ -12704,7 +13285,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_26",
@@ -12713,7 +13294,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지행정론",
       "number": 26,
-      "stem": "한국 사회복지행정의 역사에 관한 설명으로 옳지 않은 것 은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "한국 사회복지행정의 역사에 관한 설명으로 옳지 않은 것 은?",
       "choices": [
         "1950∼1960년대 사회복지서비스는 주로 외국 원조단체 들에 의해 제공되었다.",
         "1970년대 사회복지사업법 제정으로 사회복지시설에 대 한 제도적 지원과 감독의 근거가 마련되었다.",
@@ -12723,7 +13304,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_27",
@@ -12740,9 +13321,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "기획(planning): 조직의 목적과 목표달성 방법 을설정하는 활동",
+              "조직화(organizing): 조직의 활동을 이사회와 행정기관등에 보고하는활동",
+              "평가(evaluating):설정된 목표에 따라 성과를 평가하는 활동",
+              "인사(staffing):직원 채용,해고, 교육, 훈련 등 의 활동"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_28",
@@ -12761,7 +13348,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_29",
@@ -12780,7 +13367,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_30",
@@ -12799,7 +13386,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_31",
@@ -12811,14 +13398,14 @@ window.PAST_PAPER_DATA = {
       "stem": "신공공관리론(New Public Management)에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "공공서비스 공급에 있어 정부실패를 해결하기 위해 대두 하였다.",
-        "신자유주의에 이론적 기반을 둔다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2023년 01월 14일 필기 기",
+        "신자유주의에 이론적 기반을 둔다.",
         "시장의 경쟁원리를 공공행정에 도입하였다.",
         "민간이 공급하던 서비스를 정부가 직접 공급하도록 하였 다.",
         "정부, 시장, 시민사회의 협치를 추구한다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_32",
@@ -12837,7 +13424,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_33",
@@ -12856,7 +13443,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_34",
@@ -12875,7 +13462,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_35",
@@ -12894,7 +13481,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_36",
@@ -12908,12 +13495,12 @@ window.PAST_PAPER_DATA = {
         "동기부여를 위한 보상관리는 해당되지 않는다.",
         "직원채용, 직무수행 평가, 직원개발을 포함한다.",
         "목표관리법(MBO)으로 직원을 평가할 수 있다.",
-        "직무수행 과정에서 경력을 개발해 나갈 수 있도록 한다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "직무수행 과정에서 경력을 개발해 나갈 수 있도록 한다.",
         "직무만족도 개선과 소진관리가 포함된다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_37",
@@ -12930,9 +13517,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "작업조건을 파악해서 작성한다.",
+              "직무수행을 위한 책임과 행동을 명시한다",
+              "종사자의 교육수준, 기술, 능력 등을 포함한 다.",
+              "직무의 성격, 내용, 수행 방법 등을 정리한 문 서미다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_38",
@@ -12951,7 +13544,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_39",
@@ -12970,7 +13563,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_40",
@@ -12989,7 +13582,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_41",
@@ -13004,11 +13597,11 @@ window.PAST_PAPER_DATA = {
         "총체적 품질관리(TQM)는 기업의 소비자 만족을 극대화 하기 위한 기법이므로 사회복지기관에 적용하기에는 적 합하지 않다.",
         "총체적 품질관리는 지속적인 개선보다는 현상유지에 초 점을 둔다.",
         "서브퀄(SERVQUAL)의 요소에 확신성(assurance)은 포함 되지 않는다.",
-        "서브퀄에서 유형성(tangible)은 고객 요청에 대한 즉각적 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2023년 01월 14일 필기 기 반응을 말한다."
+        "서브퀄에서 유형성(tangible)은 고객 요청에 대한 즉각적"
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_42",
@@ -13025,9 +13618,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ - ㄱ - ㄷ - ㄹ",
         "ㄴ - ㄷ - ㄱ - ㄹ"
       ],
+      "statements":       [
+              "주민생활지원서비스 전달체계",
+              "사회복지통합관리망(행복e음)개통",
+              "음·면·동복지허브화",
+              "지역사회통합돌봄"
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_43",
@@ -13046,7 +13645,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_44",
@@ -13065,7 +13664,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_45",
@@ -13084,7 +13683,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_46",
@@ -13099,11 +13698,17 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ",
         "ㄱ, ㄴ, ㄷ",
         "ㄴ, ㄷ, ㄹ",
-        "ㄱ, ㄴ, ㄷ, ㄹ 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "statements":       [
+              "유통(Place): 고객이 서비스를 쉽게 이용할 수 있도록 하는 조직적활동",
+              "가격(Price): 판매자가 이윤 극대화를 위하며 임의로설정하는 금액",
+              "제품(Product): 고객의 욕구를 출족시키기 위 하여 제공하는재화나 서비스",
+              "촉진(Promotion): 판매 실적에 따라 직원을 승진시키는 제도"
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_47",
@@ -13120,9 +13725,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "비용-효과분석은 프로그램의 비용과 결과의 금전적 가치를 고려하지 않는다.",
+              "비용-편익분석은 프로그램의 비용과 결과를 금전적 가치로 환산하여 평가한다.",
+              "노력성 평가는 프로그램 수행에 투입된 인적 ·물적 자원 등을 기준으로 평가한다.",
+              "효과성 평가는 프로그램의 목표 달성 정도를 평가한다"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_48",
@@ -13141,7 +13752,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_49",
@@ -13160,7 +13771,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_50",
@@ -13179,7 +13790,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_51",
@@ -13196,9 +13807,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ - ㄱ - ㄹ - ㅁ - ㄴ",
         "ㄷ - ㅁ - ㄴ - ㄹ - ㄱ"
       ],
+      "statements":       [
+              "국민기초생활보장법",
+              "산업재해보상보험법",
+              "사회복지사업법",
+              "고용보험법 .노인복지법"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_52",
@@ -13207,7 +13824,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 52,
-      "stem": "헌법 제34조 규정의 일부이다. ㄱ∼ㄷ에 들어갈 내용으로 옳은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2023년 01월 14일 필기 기",
+      "stem": "헌법 제34조 규정의 일부이다. ㄱ∼ㄷ에 들어갈 내용으로 옳은 것은?",
       "choices": [
         "ㄱ: 사회보장, ㄴ: 사회복지, ㄷ: 법률",
         "ㄱ: 사회보장, ㄴ: 공공부조, ㄷ: 법률",
@@ -13217,7 +13834,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_53",
@@ -13241,7 +13858,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_54",
@@ -13260,7 +13877,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_55",
@@ -13279,7 +13896,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_56",
@@ -13292,13 +13909,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "대통령 소속의 위원회이다.",
         "위원장 1명, 부위원장 2명과 행정안전부장관, 고용노동 부장관을 포함한 40명 이내의 위원으로 구성한다.",
-        "위원의 임기는 3년으로 하되, 공무원인 위원의 임기는 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 그 재임기간으로 한다.",
+        "위원의 임기는 3년으로 하되, 공무원인 위원의 임기는",
         "고용노동부에 사무국을 둔다.",
         "관계 중앙행정기관의 장은 위원회의 심의ㆍ조정 사항을 반영하여 사회보장제도를 운영 또는 개선하여야 한다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_57",
@@ -13317,7 +13934,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_58",
@@ -13336,7 +13953,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_59",
@@ -13355,7 +13972,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_60",
@@ -13374,7 +13991,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_61",
@@ -13383,7 +14000,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 61,
-      "stem": "사회복지사업법상 사회복지시설에 관한 설명으로 옳은 것 은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2023년 01월 14일 필기 기",
+      "stem": "사회복지사업법상 사회복지시설에 관한 설명으로 옳은 것 은?",
       "choices": [
         "사회복지시설 운영위원회는 심의ㆍ의결기구이다.",
         "사회복지시설은 손해배상책임의 면책사업자이다.",
@@ -13393,7 +14010,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_62",
@@ -13412,7 +14029,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_63",
@@ -13429,9 +14046,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "근로능력 활용",
+              "보출급여",
+              "타법우선",
+              "수익자부담"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_64",
@@ -13448,9 +14071,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "주소득자가 사망, 가출,행방불명 등으로 소득 을상실하며 생계유지가 머렵게 된 경우",
+              "본인이 중한 질병 또는 부상을 당하여 생계유 지가 어렵게 된 경우",
+              "본인이 가구구성원으로부터 방임 등을 당하며 생계유지가 어렵게 된 경우",
+              "본인이 가구구성원으로부터 성폭력을당하며 생계유지가 머렵게 된 경우"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_65",
@@ -13465,11 +14094,11 @@ window.PAST_PAPER_DATA = {
         "모든 국민은 혼인과 출산의 사회적 중요성을 인식하여야 한다.",
         "“1인가구”라 함은 성인 1명 또는 그와 생계를 같이하는 미성년자녀로 구성된 생활단위를 말한다.",
         "국가는 양성이 평등한 육아휴직제 등의 정책을 적극적으 로 확대 시행하여야 한다.",
-        "국가는 생애주기에 따르는 가족구성원의 종합적인 건강 증진대책을 마련하여야 한다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "국가는 생애주기에 따르는 가족구성원의 종합적인 건강 증진대책을 마련하여야 한다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_66",
@@ -13488,7 +14117,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_67",
@@ -13507,7 +14136,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_68",
@@ -13531,7 +14160,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_69",
@@ -13550,7 +14179,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_70",
@@ -13569,7 +14198,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_71",
@@ -13578,7 +14207,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 71,
-      "stem": "다음이 설명하는 한부모가족지원법상의 한부모가족복지시설 은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2023년 01월 14일 필기 기",
+      "stem": "다음이 설명하는 한부모가족지원법상의 한부모가족복지시설 은?",
       "choices": [
         "일시지원복지시설",
         "부자가족복지시설",
@@ -13588,7 +14217,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_72",
@@ -13607,7 +14236,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_73",
@@ -13626,7 +14255,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_74",
@@ -13640,12 +14269,12 @@ window.PAST_PAPER_DATA = {
         "장애인 지역사회재활시설",
         "다함께돌봄센터",
         "아동보호전문기관",
-        "지역장애아동지원센터 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "지역장애아동지원센터",
         "노인공동생활가정"
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_3교시_75",
@@ -13660,11 +14289,17 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄷ, ㄹ",
         "ㄴ, ㄷ, ㄹ",
-        "ㄱ, ㄴ, ㄷ, ㄹ 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프 로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합 니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 오답 및 오탈자가 수정된 최신 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "statements":       [
+              "[국민건강보험법]제41조제1항 각 호에 따른 요 양급여실시기록",
+              "[국민건강보험법]제52조에[따른 영유아건강검진 실시 기록",
+              "[초·중등교육법]제25조에 따른 학교생활기록 정보",
+              "[전기사업법]제14조에따른단전가구정보"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_1",
@@ -13681,9 +14316,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ - ㄱ - ㄴ - ㄹ",
         "ㄷ - ㄱ - ㄹ - ㄴ"
       ],
+      "statements":       [
+              "밀포드(Milford) 회의에서 사회복지실천의 공통 요소를 발표하였다.",
+              "사회복지사업법에따라 국내에서사회복지사 명청를사용하기시작하였다",
+              "태화며자관이설립되었다.",
+              "사회복지전문요원이 국내 행정기관에 배치되었 다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_2",
@@ -13702,7 +14343,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_3",
@@ -13721,7 +14362,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_4",
@@ -13740,7 +14381,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_5",
@@ -13752,14 +14393,20 @@ window.PAST_PAPER_DATA = {
       "stem": "생태도 작성에 관한 내용으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄹ",
-        "ㄱ, ㄷ 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "ㄱ, ㄷ",
         "ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "용지의 중앙에 가족 또는 클라이언트체계를 나타내는 원을 그린다.",
+              "중심원 내부에 클라이언트 또는 동거가족을 그린다.",
+              "중심원 외부에 클라이언트 또는가족과 상호 작용하는 외부체계를 작은 원으로 그린다.",
+              "자원의양은'선'으로,관계의 속성은'원'으로 표시한다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_6",
@@ -13778,7 +14425,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_7",
@@ -13797,7 +14444,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_8",
@@ -13816,7 +14463,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_9",
@@ -13835,7 +14482,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_10",
@@ -13848,13 +14495,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "다문화 청소년을 위한 조례 제정을 추진한다.",
         "부모와 자녀의 관계증진을 위한 소집단프로그램을 진행 한다.",
-        "피학대 노인 보호를 위한 제도 개선을 제안한다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2023년 01월 14일 필기 기출",
+        "피학대 노인 보호를 위한 제도 개선을 제안한다.",
         "장애인복지에 필요한 정부 예산 증액을 촉구한다.",
         "고독사 문제 해결을 위해 정책 토론회를 개최한다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_11",
@@ -13873,7 +14520,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_12",
@@ -13892,7 +14539,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_13",
@@ -13911,7 +14558,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_14",
@@ -13930,7 +14577,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_15",
@@ -13949,7 +14596,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_16",
@@ -13962,13 +14609,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "클라이언트의 부정적 감정을 자유롭게 표현할 수 있도록 지지한다.",
         "클라이언트의 감정이나 태도를 있는 그대로 받아들이고 존중한다.",
-        "목적달성을 위한 방안들의 장ㆍ단점을 설명하고 클라이 언트가 스스로 선택하도록 한다. 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "목적달성을 위한 방안들의 장ㆍ단점을 설명하고 클라이 언트가 스스로 선택하도록 한다.",
         "공감을 받고 싶어 하는 클라이언트의 욕구에 따라 클라 이언트에게 공감하는 반응을 표현한다.",
         "사회복지사 자신의 생각과 느낌, 개인적인 경험을 이야 기 한다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_17",
@@ -13987,7 +14634,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_18",
@@ -14006,7 +14653,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_19",
@@ -14023,9 +14670,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "문제,사건,기분,생각 등에 관한 클라이언트 진술",
+              "클라이언트와직접상호작용한사회복지사의 경험",
+              "심리검사,지능검사,적성검사 등의 검사 결과",
+              "친구,이웃 등클라이언트의 중요한 타인으로 부터수집한정보"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_20",
@@ -14044,7 +14697,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_21",
@@ -14053,7 +14706,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천론",
       "number": 21,
-      "stem": "사회복지실천 개입기술에 관한 설명으로 옳은 것을 모두 고 른 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2023년 01월 14일 필기 기출",
+      "stem": "사회복지실천 개입기술에 관한 설명으로 옳은 것을 모두 고 른 것은?",
       "choices": [
         "ㄱ",
         "ㄹ",
@@ -14069,7 +14722,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_22",
@@ -14088,7 +14741,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_23",
@@ -14107,7 +14760,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_24",
@@ -14126,7 +14779,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_25",
@@ -14141,11 +14794,11 @@ window.PAST_PAPER_DATA = {
         "옹호자(advocate): 사례회의에서 장애아동의 입장을 대 변하였다.",
         "협상가(negotiator): 사례회의를 통해 생활 형편이 어려 운 가정의 아동에게 재정 후원자를 연결해주었다.",
         "평가자(evaluator): 사례 종결 여부를 결정하기 위해 목 표 달성 여부를 확인하였다.",
-        "기획가(planner): 욕구사정을 통해 클라이언트에게 필요 한 자원을 설계하고 체계적인 개입 계획을 세웠다. 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 2과목 : 사회복지 실천 기술론"
+        "기획가(planner): 욕구사정을 통해 클라이언트에게 필요 한 자원을 설계하고 체계적인 개입 계획을 세웠다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_26",
@@ -14164,7 +14817,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_27",
@@ -14183,7 +14836,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_28",
@@ -14202,7 +14855,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_29",
@@ -14221,7 +14874,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_30",
@@ -14240,7 +14893,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_31",
@@ -14249,7 +14902,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 31,
-      "stem": "사회복지실천의 개입기법에 관한 설명으로 옳지 않은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2023년 01월 14일 필기 기출",
+      "stem": "사회복지실천의 개입기법에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "소거: 부적 처벌의 원리를 이용하여 바람직하지 않은 행 동을 중단시키는 것",
         "시연: 클라이언트가 힘들어하는 행동에 대해 실생활에서 실행 전에 반복적으로 연습하는 것",
@@ -14259,7 +14912,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_32",
@@ -14284,7 +14937,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_33",
@@ -14303,7 +14956,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_34",
@@ -14322,7 +14975,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_35",
@@ -14331,7 +14984,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 35,
-      "stem": "정신역동모델의 개입기법에 관한 설명으로 옳은 것을 모두 고른 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "정신역동모델의 개입기법에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ",
         "ㄴ, ㄹ",
@@ -14347,7 +15000,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_36",
@@ -14366,7 +15019,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_37",
@@ -14385,7 +15038,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_38",
@@ -14404,7 +15057,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_39",
@@ -14413,7 +15066,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 39,
-      "stem": "다음 사례에서 사회복지사가 우선적으로 개입해야 하는 것 은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2023년 01월 14일 필기 기출",
+      "stem": "다음 사례에서 사회복지사가 우선적으로 개입해야 하는 것 은?",
       "choices": [
         "경직된 가족경계를 재구조화한다.",
         "단절된 의사소통의 문제를 해결한다.",
@@ -14423,7 +15076,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_40",
@@ -14442,7 +15095,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_41",
@@ -14459,9 +15112,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "가족체계가 어떻게 기능하는지 발견하는 것이 목적이다.",
+              "가족상호작용 유형에 적합한 방법을 찾는 것이 다.",
+              "가족사정과개입과정은상호작용적이며 순환적 이다.",
+              "가족이 제시하는 문제,생태학적 사정,세대 간 사정, 가족내부 간 사정으로 이루어진다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_42",
@@ -14480,7 +15139,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_43",
@@ -14494,12 +15153,12 @@ window.PAST_PAPER_DATA = {
         "타인의 문제에 관심을 갖고 공감하면서 이타심이 커진 다.",
         "유사 경험을 가진 사람들을 만나면서 문제의 보편성을 경험한다.",
         "다양한 성원들로부터 새로운 행동을 학습하면서 정화 효 과를 얻는다.",
-        "사회복지사나 성원의 행동을 모방하면서 사회기술이 향 상된다. 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "사회복지사나 성원의 행동을 모방하면서 사회기술이 향 상된다.",
         "성원간 관계를 통해 원가족과의 갈등을 탐색하는 기회를 갖는다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_44",
@@ -14524,7 +15183,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_45",
@@ -14543,7 +15202,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_46",
@@ -14562,7 +15221,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_47",
@@ -14587,7 +15246,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_48",
@@ -14606,7 +15265,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_49",
@@ -14615,7 +15274,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 49,
-      "stem": "다음에 해당되는 기록방법은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2023년 01월 14일 필기 기출",
+      "stem": "다음에 해당되는 기록방법은?",
       "choices": [
         "과정기록",
         "문제중심기록",
@@ -14625,7 +15284,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_50",
@@ -14644,7 +15303,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_51",
@@ -14663,7 +15322,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_52",
@@ -14682,7 +15341,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_53",
@@ -14697,11 +15356,11 @@ window.PAST_PAPER_DATA = {
         "1970년대 - 사회복지관 운영 국고보조금 지원",
         "1980년대 - 희망복지지원단 설치ㆍ운영",
         "1990년대 - 재가복지봉사센터 설치ㆍ운영",
-        "2010년대 - 사회복지사무소 시범 설치ㆍ운영 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "2010년대 - 사회복지사무소 시범 설치ㆍ운영"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_54",
@@ -14720,7 +15379,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_55",
@@ -14739,7 +15398,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_56",
@@ -14758,7 +15417,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_57",
@@ -14782,7 +15441,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_58",
@@ -14801,7 +15460,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_59",
@@ -14810,7 +15469,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "지역사회복지론",
       "number": 59,
-      "stem": "다음에서 설명하는 웨일과 갬블(M. Weil &D. Gamble)의 지 역사회복지 실천모델은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2023년 01월 14일 필기 기출",
+      "stem": "다음에서 설명하는 웨일과 갬블(M. Weil &D. Gamble)의 지 역사회복지 실천모델은?",
       "choices": [
         "사회계획",
         "기능적 지역사회조직",
@@ -14820,7 +15479,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_60",
@@ -14837,9 +15496,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "지역사회개발모델은 지역사회 구성원의조직 화를 주요 실천과정으로 본다.",
+              "지역사회개발모델의 변화 매개체는 공식적 조 직과객관적 자료이다.",
+              "사회계획모델에서사회복지사의 핵심역할은 협상가, 옹호자이다.",
+              "사회행동모델에서는 지역사회 내 집단들이 갈 등관계로 인해 타협과 조정이 어렵다고 본다."
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_61",
@@ -14858,7 +15523,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_62",
@@ -14877,7 +15542,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_63",
@@ -14891,12 +15556,12 @@ window.PAST_PAPER_DATA = {
         "명목집단기법: 지역주민으로부터 설문조사를 통해 직접 적으로 자료를 획득",
         "초점집단기법: 전문가 패널을 대상으로 반복된 설문을 통해 합의에 이를 때까지 의견을 수렴",
         "델파이기법: 정부기관이나 사회복지관련 조직에 의해 수 집된 기존 자료를 활용",
-        "지역사회포럼: 지역주민이 참여할 수 있는 공개 모임을 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 개최하여 구성원의 의견을 모색",
+        "지역사회포럼: 지역주민이 참여할 수 있는 공개 모임을",
         "사회지표분석: 지역사회 문제를 잘 파악하고 있는 사람 들을 대상으로 정보를 확보"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_64",
@@ -14915,7 +15580,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_65",
@@ -14934,7 +15599,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_66",
@@ -14953,7 +15618,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_67",
@@ -14972,7 +15637,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_68",
@@ -14987,11 +15652,17 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ",
         "ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄹ",
-        "ㄴ, ㄷ, ㄹ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2023년 01월 14일 필기 기출"
+        "ㄴ, ㄷ, ㄹ"
+      ],
+      "statements":       [
+              "시·군·구 지역사회보장협의체의 보고와의 회의 심의를 거쳐야 한다.",
+              "사회보장급여의 이용·제공 및 수급권자 발굴 에관한 법률에 의거한다.",
+              "시행연도의전년도11월30일까지수립하며 제출하여야 한다.",
+              "4년마다 수립하고 매년 연차별 시행계획을 수 립해야한다"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_69",
@@ -15010,7 +15681,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_70",
@@ -15029,7 +15700,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_71",
@@ -15048,7 +15719,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_72",
@@ -15065,9 +15736,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "유급근로자를 고용하여 영업활동을 해야 사회 적기업으로 인증받을 수 있다.",
+              "조직형태는 민법에 따른 조합,상법에 따른 회 사, 특별법에따른 법인 등이 있다.",
+              "보건복지부로부터 사회적기업으로 인증을 받아 야 활동할 수 있다",
+              "서비스 수혜자,근로자 등 이해관계자가 참여 하는 의사결정 구조를 갖추어야 한다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_73",
@@ -15084,9 +15761,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ - ㄱ - ㄴ - ㄷ",
         "ㄹ - ㄴ - ㄱ - ㄷ"
       ],
+      "statements":       [
+              "계획단계에참여",
+              "조직대상자",
+              "단순정보수혜자",
+              "의사결정권행사"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_74",
@@ -15099,13 +15782,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "사회복지전문가 중심의 활동으로 이루어진다.",
         "목적지향적인 조직적 활동이다.",
-        "운동의 초점은 정치권력의 장악이다. 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "운동의 초점은 정치권력의 장악이다.",
         "지역사회의 구조적 문제는 배제된다.",
         "지역사회복지운동단체는 서비스제공 활동을 하지 않는 다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_2교시_75",
@@ -15120,11 +15803,11 @@ window.PAST_PAPER_DATA = {
         "수요자 중심 복지서비스 제공",
         "통합사례관리의 축소",
         "민ㆍ관 협력의 활성화",
-        "보건과 연계한 서비스의 통합성 강화 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 최신 수정된(오타, 오답, 규정변경) 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "보건과 연계한 서비스의 통합성 강화"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_1",
@@ -15143,7 +15826,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_2",
@@ -15162,7 +15845,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_3",
@@ -15181,7 +15864,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_4",
@@ -15200,7 +15883,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_5",
@@ -15219,7 +15902,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_6",
@@ -15231,14 +15914,14 @@ window.PAST_PAPER_DATA = {
       "stem": "프로이트(S. Freud)의 정신분석이론에 관한 설명으로 옳은 것은?",
       "choices": [
         "인간이 가진 자유의지의 중요성을 강조하였다.",
-        "거세불안과 남근선망은 주로 생식기(genital stage)에 나 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 타난다.",
+        "거세불안과 남근선망은 주로 생식기(genital stage)에 나",
         "성격구조를 원초아, 자아, 초자아로 구분하였다.",
         "초자아는 현실원리에 지배되며 성격의 실행자이다.",
         "성격의 구조나 발달단계를 제시하지 않았다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_7",
@@ -15257,7 +15940,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_8",
@@ -15276,7 +15959,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_9",
@@ -15295,7 +15978,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_10",
@@ -15314,7 +15997,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_11",
@@ -15333,7 +16016,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_12",
@@ -15342,7 +16025,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "인간행동과 사회환경",
       "number": 12,
-      "stem": "로저스(C. Rogers)의 인본주의 이론에 관한 설명으로 옳은 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2023년 01월 14일 필기 기 것을 모두 고른 것은?",
+      "stem": "로저스(C. Rogers)의 인본주의 이론에 관한 설명으로 옳은",
       "choices": [
         "ㄱ, ㄹ",
         "ㄴ, ㄷ",
@@ -15350,9 +16033,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "인간의 주관적 경험을 강조한다",
+              "인간은자마실현경향을 가지고있다",
+              "인간의 욕구발달단계를 제시했다.",
+              "완전히 기능하는 사람은 자신의 경험에 개방 적이다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_13",
@@ -15369,9 +16058,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "무의식을 개인무의식과 집단무의식으로 구분 하였다.",
+              "그림자(shadow)는 인간에게 있는 동물적 본 성을포함하는 부정적인 측면이다",
+              "페르소나(persona)는 개인이 외부세계에 보며 주는 이미지 혹은 가면이다.",
+              "남성의 여성적 면은 아니무스(animus), 여성 의 남성적 면은 아니마(anima)이다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_14",
@@ -15390,7 +16085,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_15",
@@ -15409,7 +16104,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_16",
@@ -15423,12 +16118,12 @@ window.PAST_PAPER_DATA = {
         "선천적으로 습득된다.",
         "개인행동에 대한 규제와 사회통제의 기능은 없다.",
         "고정적이며 구체적이다.",
-        "다른 사회의 구성원과 구별되는 공통적 속성이 있다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "다른 사회의 구성원과 구별되는 공통적 속성이 있다.",
         "다양성은 차별을 의미한다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_17",
@@ -15447,7 +16142,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_18",
@@ -15464,9 +16159,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ"
       ],
+      "statements":       [
+              "인간행동에 대한 환경의 결정력을 강조한다.",
+              "강화계획은 행동의 반응 가능성을 증가시키고 유지시키기 위한 방법이다.",
+              "행동조성(shaping)은 복잡한 행동의 점진적 습 득을 설명하는 개념이다.",
+              "고정간격 강화계획은 정해진 수의 반응이 일어 난 후 강화를 주는 것이다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_19",
@@ -15485,7 +16186,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_20",
@@ -15504,7 +16205,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_21",
@@ -15523,7 +16224,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_22",
@@ -15534,7 +16235,7 @@ window.PAST_PAPER_DATA = {
       "number": 22,
       "stem": "청소년기(13-19세)에 관한 설명으로 옳지 않은 것은?",
       "choices": [
-        "친밀감 형성이 주요 발달과업이다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2023년 01월 14일 필기 기",
+        "친밀감 형성이 주요 발달과업이다.",
         "신체적 발달이 활발하여 제2의 성장 급등기로 불린다.",
         "특징적 발달 중 하나로 성적 성숙이 있다.",
         "정서의 변화가 심하며 극단적 정서를 경험하기도 한다.",
@@ -15542,7 +16243,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_23",
@@ -15559,9 +16260,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ, ㄹ, ㅁ",
         "ㄱ, ㄷ, ㄹ, ㅁ"
       ],
+      "statements":       [
+              "제1의 반항기이다.",
+              "조합기술의 획득으로 사칙연산이 가능해진다.",
+              "객관적, 논리적사고가 가능해진다",
+              "정서적 통제와 분화된 정서표현이 가능해진다. ㅁ.타인의 입장을고려하지못한다"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_24",
@@ -15578,9 +16285,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "유아기(3-6세)는 성역할을 인식하기 시작한다.",
+              "아동기(7-12세)는 자기중심성을 보이며 자신의 시각에서사물을 본다.",
+              "성인기(20-35세)는 신체적 기능이 최고조에 달 하며 이 시기를 정점으로 쇠퇴하기 시작한다.",
+              "노년기(65세 이상)는 단기기억보다 장기기억의 감퇴 속도가 느리다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_25",
@@ -15599,7 +16312,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_26",
@@ -15614,11 +16327,11 @@ window.PAST_PAPER_DATA = {
         "참여자가 원할 경우 언제든지 참여를 중단할 수 있음을 사전에 고지한다.",
         "일반적으로 연구의 공익적 가치가 연구윤리보다 우선해 야 한다.",
         "참여자가 연구에 참여하여 얻을 수 있는 혜택은 사전에 고지한다.",
-        "참여자의 연구 참여는 자발적이어야 한다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "참여자의 연구 참여는 자발적이어야 한다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_27",
@@ -15637,7 +16350,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_28",
@@ -15656,7 +16369,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_29",
@@ -15673,9 +16386,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "연구가설에 대한 반증가설이 영가설이다.",
+              "영가설은 변수 간에 관계가 없음을 뚱한다",
+              "대안가설을 검증하여 채택하는 가설이다.",
+              "변수간의 관계가 우연이 아님을 증명한다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_30",
@@ -15694,7 +16413,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_31",
@@ -15706,14 +16425,20 @@ window.PAST_PAPER_DATA = {
       "stem": "다음 연구과제의 변수들을 측정할 때 ㄱ~ㄹ의 척도유형을 바르게 짝지은 것은?",
       "choices": [
         "ㄱ: 명목, ㄴ: 명목, ㄷ: 명목, ㄹ: 명목",
-        "ㄱ: 명목, ㄴ: 서열, ㄷ: 서열, ㄹ: 명목 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2023년 01월 14일 필기 기",
+        "ㄱ: 명목, ㄴ: 서열, ㄷ: 서열, ㄹ: 명목",
         "ㄱ: 명목, ㄴ: 서열, ㄷ: 명목, ㄹ: 비율",
         "ㄱ: 명목, ㄴ: 등간, ㄷ: 명목, ㄹ: 명목",
         "ㄱ: 명목, ㄴ: 등간, ㄷ: 서열, ㄹ: 비율"
       ],
+      "statements":       [
+              "과 임금수준의 관계를 정확 하게 파약하기 위해서는 장애유형 (",
+              ".거주지 역(",
+              ". 직업종류(",
+              "와 같은 변수들의 영향 력을적절히 통제해야한다"
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_32",
@@ -15732,7 +16457,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_33",
@@ -15751,7 +16476,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_34",
@@ -15768,9 +16493,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ: 범위",
         "ㅁ: 산술평균"
       ],
+      "statements":       [
+              "출신지역: 도시,도농복합,농어촌, 기타",
+              "교육수준:무학, 초등학교졸업,중학교 졸업 고등학교 졸업, 대졸 이상",
+              "가출경험:유,무",
+              "연간기부금액:( )만원 ㅁ. 연령: 10대H, 20대, 30대H, 40대, 50대H, 60대H 미상"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_35",
@@ -15789,7 +16520,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_36",
@@ -15808,7 +16539,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_37",
@@ -15817,7 +16548,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "사회복지조사론",
       "number": 37,
-      "stem": "다음의 연구에서 활용한 질적 연구방법에 관한 설명으로 옳 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 은 것은?",
+      "stem": "다음의 연구에서 활용한 질적 연구방법에 관한 설명으로 옳",
       "choices": [
         "개방코딩-축코딩-선택코딩의 방법을 활용한다.",
         "범죄피해와 정신건강을 설명하는 이론 개발에 초점을 둔 다.",
@@ -15827,7 +16558,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_38",
@@ -15846,7 +16577,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_39",
@@ -15865,7 +16596,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_40",
@@ -15874,7 +16605,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "사회복지조사론",
       "number": 40,
-      "stem": "단일사례설계에 관한 설명으로 옳은 것을 모두 고른 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2023년 01월 14일 필기 기",
+      "stem": "단일사례설계에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ",
         "ㄴ, ㄹ",
@@ -15882,9 +16613,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "BA설계는 개입의 긴급성이 있는 상황에 적합 하다.",
+              "ABAC설계는 선행 효과의 통제가 가능하다.",
+              "ABAB설계는 AB설계에 비해 외부사건의 영향 력에대한 통제력이 크다.",
+              "복수기초선디자인은 AB설계에 비해 외부사건 의 영향력에대한 통제력이 크다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_41",
@@ -15903,7 +16640,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_42",
@@ -15922,7 +16659,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_43",
@@ -15941,13 +16678,13 @@ window.PAST_PAPER_DATA = {
       ],
       "statements":       [
               "개념적 정의를 실제로 관찰할 수 있는 수준으로 전환시키는 것이다.",
-              "조작적 정의를 하면 개념의 의미가 다양하고풍 부해진다.",
+              "조작적 정의를 하면 개념의 의미가 다양하고 풍부해진다.",
               "조작적 정의를 통해 개념이 더욱 추상화된다.",
               "조작적 정의가 없이도 가설 검증이 가능하다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_44",
@@ -15966,7 +16703,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_45",
@@ -15981,11 +16718,17 @@ window.PAST_PAPER_DATA = {
         "ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄹ",
-        "ㄱ, ㄴ, ㄷ, ㄹ 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "statements":       [
+              "삼각측정(triangulation)",
+              "예외사례 표본추출",
+              "장기적관할",
+              "연구윤리강화"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_46",
@@ -16004,7 +16747,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_47",
@@ -16023,7 +16766,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_48",
@@ -16040,9 +16783,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "특정 개념에 포함되어 있는 의미를 포괄하는 정도는 내용타당도(content validity)이다.",
+              "개발된 측정도구의 측정값을 현재 사용되고 있는 측정도구와 비교하는 것은 동시타당도 (concurrent validity)Dl다.",
+              "예측타당도(predict validity)의 하위타당도는 기준관련타당도(criterion-related validity)와 동시타당도이다.",
+              "측정하려는개념이포함된이론체계안에서 다른 변수와 관련된 방식에 기초한 타당도는 구성타당도(construct validity)이다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_49",
@@ -16061,7 +16810,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2023_1교시_50",
@@ -16073,14 +16822,14 @@ window.PAST_PAPER_DATA = {
       "stem": "할당표집방법에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "모집단의 주요 특성에 대한 정보를 활용한다.",
-        "모집단을 구성하는 주요 변수별로 표본을 할당한 후 확 률표집을 실시한다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2023년 01월 14일 필기 기",
+        "모집단을 구성하는 주요 변수별로 표본을 할당한 후 확 률표집을 실시한다.",
         "지역주민 조사에서 전체주민의 연령대별 구성 비율에 따 라 표본을 선정한다.",
         "표본추출 시 할당틀을 만들어 사용한다.",
-        "우발적표집보다 표본의 대표성이 높다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 최신 수정된(오타, 오답, 규정변경) 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "우발적표집보다 표본의 대표성이 높다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_1",
@@ -16099,7 +16848,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_2",
@@ -16118,7 +16867,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_3",
@@ -16137,7 +16886,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_4",
@@ -16162,7 +16911,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_5",
@@ -16181,7 +16930,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_6",
@@ -16190,7 +16939,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지정책론",
       "number": 6,
-      "stem": "우리나라의 고용보험에 관한 설명으로 옳은 것을 모두 고른 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "우리나라의 고용보험에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ",
         "ㄱ, ㄷ",
@@ -16198,9 +16947,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "직업능력개발 훈련을 실시하는 사업주를 지 원할 수 있다.",
+              "예술인은 고용보험 가입대상이 아니다",
+              "실업 신고를 한 이후에 질병·부상 또는 출 산으로 취업이 불가능하며 구직활동을 할 수 없는 경우 상병급여를 지급할 수 있다.",
+              "고용안정 및 직업능력개발사업의 보험료는 사업주와 근로자가 공동으로 부담한다."
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_7",
@@ -16219,7 +16974,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_8",
@@ -16238,7 +16993,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_9",
@@ -16257,7 +17012,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_10",
@@ -16276,7 +17031,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_11",
@@ -16285,7 +17040,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지정책론",
       "number": 11,
-      "stem": "에스핑-앤더슨(G. Esping-Andersen)의 세 가지 복지체제에 관한 설명으로 옳지 않은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2022년 01월 22일 필기 기",
+      "stem": "에스핑-앤더슨(G. Esping-Andersen)의 세 가지 복지체제에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "보수주의 복지체제 국가는 가족의 중요성을 강조한다.",
         "자유주의 복지체제 국가에서 탈상품화 정도가 가장 높 다.",
@@ -16295,7 +17050,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_12",
@@ -16314,7 +17069,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_13",
@@ -16333,7 +17088,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_14",
@@ -16350,9 +17105,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ",
         "ㄷ, ㄹ"
       ],
+      "statements":       [
+              "길버트법은 작업장 노동의 비인도적인 문제에 대응하며 원외구제를 실시하였다.",
+              "신빈민법은 특권적지주계급을위한 법으로 구빈업무를 전국적으로 통일하였다.",
+              "미국의 사회보장법(1935)은 연방정부의 책임 을축소하고 지방정부의 책임을 확대하였다.",
+              "비스마르크는 독일제국의 사회통합을 위해 사 회보험을도입하였다"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_15",
@@ -16367,11 +17128,17 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ",
         "ㄱ, ㄴ, ㄷ",
         "ㄴ, ㄷ, ㄹ",
-        "ㄱ, ㄴ, ㄷ, ㄹ 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "statements":       [
+              "할당-기여조건",
+              "급여-현금급여,현물급여",
+              "전달체계-민간전달체계,공공전달체계",
+              "재정-보험료,국고보조금,이용료"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_16",
@@ -16390,7 +17157,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_17",
@@ -16409,7 +17176,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_18",
@@ -16428,7 +17195,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_19",
@@ -16445,9 +17212,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "합리모형은 인간의 이성과 합리성을 믿고 주어 진 상황에서 목표 달성을 극대화하는 최선의 정책대안을 찾아낼 수 있다고 본다.",
+              "점증모형은 조직화된 무정부상태 속에서 점진 적으로 질서를 찾아가는 과정을 정책결정과정 으로설명한다.",
+              "쓰레기통모혈은 문제의 흐름 정책대안의 흐 름,정치의 흐름이 우연히 결합하며 정책의 창 이 열릴 때 정책이 결정된다고 본다.",
+              "혼합모형은합리모형과최적모형을혼합하여 최선의 정책결정에 도달하는 정책결정모형이 다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_20",
@@ -16462,11 +17235,11 @@ window.PAST_PAPER_DATA = {
         "절대적 빈곤은 최소한의 생필품을 구입하는데 필요한 비 용으로 정한다.",
         "반물량 방식은 모든 항목의 생계비를 계산하지 않고 엥 겔계수를 활용하여 생계비를 추정한다.",
         "중위소득의 50%를 빈곤선으로 책정할 경우, 사회구성원 99명을 소득액 순으로 나열하여 이 중 50번째 사람의 소득 50%를 빈곤선으로 한다.",
-        "상대적 박탈은 인간의 기본적 욕구의 기준을 생물학적 요인에만 초점을 둔다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2022년 01월 22일 필기 기"
+        "상대적 박탈은 인간의 기본적 욕구의 기준을 생물학적 요인에만 초점을 둔다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_21",
@@ -16483,9 +17256,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "로렌츠곡선의 가로축은 소득을 기준으로 하위 에서 상위 순서로 모든 인구의 누적분포를 표 시한다.",
+              "지니계수는 불평등도가 증가할수록 수치가 커 저 가장 불평등한 상태는 1이다.",
+              "빈곤율은 모든 빈곤총의 소득을 빈곤선 수준 으로 끌어올리는 데에 필요한 총소득으로 빈 곤의 심도를 나타낸다.",
+              "5분위 배율에서는 수치가 작을수록 평등한 상 태를나타낸다"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_22",
@@ -16504,7 +17283,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_23",
@@ -16523,7 +17302,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_24",
@@ -16542,7 +17321,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_25",
@@ -16556,12 +17335,12 @@ window.PAST_PAPER_DATA = {
         "인적자원에 대한 투자는 결과의 평등을 목적으로 한다.",
         "사회적 약자 집단에 대한 현금이전을 중시한다.",
         "현재 아동세대에 대한 선제적 투자를 중시한다.",
-        "사회정책과 경제정책을 분리한 전략이다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "사회정책과 경제정책을 분리한 전략이다.",
         "소득재분배와 소비 지원을 강조한다. 2과목 : 사회복지 행정론"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_26",
@@ -16580,7 +17359,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_27",
@@ -16597,9 +17376,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ - ㄴ - ㄷ - ㄱ - ㅁ",
         "ㄹ - ㄷ - ㄴ - ㄱ - ㅁ"
       ],
+      "statements":       [
+              "과업 평가",
+              "과업 촉진",
+              "과업 조직화",
+              "과업기획 ㅁ.환류"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_28",
@@ -16616,9 +17401,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 직원, ㄴ: 과업, ㄷ: 직원, ㄹ: 과업",
         "ㄱ: 직원, ㄴ: 과업, ㄷ: 관리자, ㄹ: 참여"
       ],
+      "statements":       [
+              "에게만조직의 목표를설정할 수있는 (",
+              "을 부여하 기때문에 (",
+              "의 의사결정 (",
+              "을(를) 지향하는 사 회복지조직에 적용하는 데는 한계가 있을 수 있다."
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_29",
@@ -16642,7 +17433,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_30",
@@ -16654,7 +17445,7 @@ window.PAST_PAPER_DATA = {
       "stem": "조직구조 유형 중 태스크포스(TF)에 관한 설명으로 옳은 것 을 모두 고른 것은?",
       "choices": [
         "ㄱ",
-        "ㄴ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2022년 01월 22일 필기 기",
+        "ㄴ",
         "ㄱ, ㄷ",
         "ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ"
@@ -16666,7 +17457,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_31",
@@ -16685,7 +17476,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_32",
@@ -16704,7 +17495,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_33",
@@ -16723,7 +17514,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_34",
@@ -16740,9 +17531,15 @@ window.PAST_PAPER_DATA = {
         "ㅁ - ㄴ - ㄱ - ㄷ - ㄹ - ㅂ",
         "ㅁ - ㅂ - ㄴ - ㄱ - ㄷ - ㄹ"
       ],
+      "statements":       [
+              "대안모색",
+              "가용자원 검토",
+              "대안결과예측",
+              "최종대안 선택 . 구체적 목표설정 ㅂ.프로그램 실행계획 수립"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_35",
@@ -16757,11 +17554,11 @@ window.PAST_PAPER_DATA = {
         "개별화의 원칙",
         "접근성의 원칙",
         "효율성의 원칙",
-        "예외의 원칙 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "예외의 원칙"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_36",
@@ -16780,7 +17577,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_37",
@@ -16799,7 +17596,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_38",
@@ -16818,7 +17615,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_39",
@@ -16837,7 +17634,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_40",
@@ -16854,9 +17651,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "사회복지 공급주체의 다양화",
+              "행정관리능력 향상으로 거주시설 대규모화",
+              "성과에 대한 강조와 마케팅 활성화",
+              "기업의 경영관리기법 도입"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_41",
@@ -16865,7 +17668,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지행정론",
       "number": 41,
-      "stem": "사회복지관에서 제공해야 하는 서비스의 최저기준에 포함되 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2022년 01월 22일 필기 기 지 않는 것은?",
+      "stem": "사회복지관에서 제공해야 하는 서비스의 최저기준에 포함되",
       "choices": [
         "시설의 환경",
         "시설의 규모",
@@ -16875,7 +17678,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_42",
@@ -16894,7 +17697,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_43",
@@ -16918,7 +17721,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_44",
@@ -16935,9 +17738,14 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ"
       ],
+      "statements":       [
+              "직무분석은 직무명세 이후 가능하다.",
+              "직무명세는 특정 직무수행을 위해 필요한 지식 과 기능, 능력 등을 작성하는 것이다.",
+              "직무평가에서는조직목표달성에대한 구성원 의 기여도를고려한다"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_45",
@@ -16956,7 +17764,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_46",
@@ -16965,7 +17773,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지행정론",
       "number": 46,
-      "stem": "참여적 리더십에 관한 설명으로 옳지 않은 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "참여적 리더십에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "의사결정의 시간과 에너지가 절약될 수 있다.",
         "하급자가 의사결정에 참여하는 것을 강조한다.",
@@ -16975,7 +17783,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_47",
@@ -16994,7 +17802,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_48",
@@ -17011,9 +17819,14 @@ window.PAST_PAPER_DATA = {
         "ㄴ - ㄷ - ㄱ",
         "ㄷ - ㄴ - ㄱ"
       ],
+      "statements":       [
+              "희망복지지원단 설치",
+              "지역사회복지협의체 설치",
+              "읍면동 복지허브화 사업 실행"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_49",
@@ -17032,7 +17845,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_50",
@@ -17051,7 +17864,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_51",
@@ -17063,14 +17876,14 @@ window.PAST_PAPER_DATA = {
       "stem": "헌법 규정의 사회적 기본권에 관한 설명으로 옳지 않은 것 은?",
       "choices": [
         "국가는 근로자의 고용의 증진과 적정임금의 보장에 노력 하여야 한다.",
-        "국가는 여자의 복지와 권익의 향상을 위하여 노력하여야 한다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2022년 01월 22일 필기 기",
+        "국가는 여자의 복지와 권익의 향상을 위하여 노력하여야 한다.",
         "국가는 모든 공무원인 근로자의 단결권ㆍ단체교섭권 및 단체행동권을 보장하여야 한다.",
         "국가는 평생교육을 진흥하여야 한다.",
         "국가는 모성의 보호를 위하여 노력하여야 한다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_52",
@@ -17095,7 +17908,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_53",
@@ -17114,7 +17927,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_54",
@@ -17131,9 +17944,13 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 국가, ㄴ: 국가와 지방자치단체",
         "ㄱ: 국가와 지방자치단체, ㄴ: 국가와 지방자치단체"
       ],
+      "statements":       [
+              "의 책임으로 시행하고,공공부조 와 사회서비스는(",
+              "의 책임으로 시행하는 것 을원칙으로한다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_55",
@@ -17152,7 +17969,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_56",
@@ -17169,9 +17986,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "행정안전부장관",
+              "고용노동부장관",
+              "기획재정부장관",
+              "국토교통부장관"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_57",
@@ -17180,7 +18003,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 57,
-      "stem": "사회보장급여의 이용ㆍ제공 및 수급권자 발굴에 관한 법률 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 의 내용으로 옳지 않은 것은?",
+      "stem": "사회보장급여의 이용ㆍ제공 및 수급권자 발굴에 관한 법률",
       "choices": [
         "보장기관의 장은 ｢긴급복지지원법｣ 제7조의2에 따른 발 굴조사를 실시한 경우를 제외하고 지원대상자에 대한 발 굴조사를 1년마다 정기적으로 실시하여야 한다.",
         "보장기관은 지역의 사회보장 수준이 균등하게 실현될 수 있도록 노력하여야 한다.",
@@ -17190,7 +18013,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_58",
@@ -17207,9 +18030,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "인적사항및 가족관계확인에 관한사항",
+              "소득·재산·근로능력 및 취업상태에 관한 사 할",
+              "사회보장급여수급이력에관한사항",
+              "수급권자를 선정하기 위하여 보장기관의 장이 필요하다고 인정하는사항"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_59",
@@ -17228,7 +18057,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_60",
@@ -17247,7 +18076,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_61",
@@ -17258,7 +18087,7 @@ window.PAST_PAPER_DATA = {
       "number": 61,
       "stem": "사회복지사업법상 사회복지법인(이하 '법인'으로 한다)에 관 한 설명으로 옳지 않은 것은?",
       "choices": [
-        "법인이 설치한 사회복지시설의 장과 직원은 그 법인의 이사를 겸할 수 없다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2022년 01월 22일 필기 기",
+        "법인이 설치한 사회복지시설의 장과 직원은 그 법인의 이사를 겸할 수 없다.",
         "파산선고를 받고 복권되지 아니한 사람은 임원이 될 수 없다.",
         "법인은 대표이사를 포함한 이사 7명 이상과 감사 2명 이 상을 두어야 한다.",
         "이사회는 안건, 표결수 등을 기재한 회의록을 작성하여 야 한다.",
@@ -17266,7 +18095,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_62",
@@ -17283,9 +18112,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ - ㄷ",
         "ㅁ - ㄹ"
       ],
+      "statements":       [
+              "[장애인복지법]제58조 제1항 제1호의 장애 인 거주시설",
+              "[사회복지사업법제2조제4호의 사회복지시 설중 결핵및 한센병요양시설",
+              "대전광역시장",
+              "전라남도지사 ㅁ.인천광역시 교육감"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_63",
@@ -17304,7 +18139,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_64",
@@ -17321,9 +18156,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "기초연금 수급자가 금고 이상의 형을 선고받 고 교정시설 또는 치료감호시설에 수용되어 있는경우",
+              "기초연금 수급자가 행방불명되거나 실종되는 등 대통령령으로 정하는 바에 따라 사망한 것 으로 추정되는 경우",
+              "기초면금 수급권자가 국적을 상실한 때",
+              "기초연금 수급자의 국외 체류기간이 60일 이 상지속되는 경우"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_65",
@@ -17338,11 +18179,11 @@ window.PAST_PAPER_DATA = {
         "｢고등교육법｣에 따른 직원",
         "｢지방공무원법｣에 따른 공무원",
         "｢무형문화재 보전 및 진흥에 관한 법률｣에 따라 지정된 국가무형문화재의 보유자",
-        "｢사회복지사업법｣에 따른 사회복지시설의 종사자 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "｢사회복지사업법｣에 따른 사회복지시설의 종사자"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_66",
@@ -17361,7 +18202,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_67",
@@ -17378,9 +18219,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄹ, ㅁ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "노령연금",
+              "장애인연금",
+              "장해급여",
+              "장애연금 .반환일시금"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_68",
@@ -17399,7 +18246,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_69",
@@ -17418,7 +18265,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_70",
@@ -17437,7 +18284,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_71",
@@ -17449,14 +18296,14 @@ window.PAST_PAPER_DATA = {
       "stem": "한부모가족지원법의 내용으로 옳지 않은 것은?",
       "choices": [
         "“청소년 한부모”란 24세 이하의 모 또는 부를 말한다.",
-        "한부모가족의 모 또는 부와 아동은 한부모가족 관련 정 책결정과정에 참여할 권리가 있다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2022년 01월 22일 필기 기",
+        "한부모가족의 모 또는 부와 아동은 한부모가족 관련 정 책결정과정에 참여할 권리가 있다.",
         "여성가족부장관은 자녀양육비 산정을 위한 자녀양육비 가이드라인을 마련하여 법원이 이혼 판결 시 적극 활용 할 수 있도록 노력하여야 한다.",
         "국가와 지방자치단체는 청소년 한부모의 건강증진을 위 하여 건강진단을 실시할 수 있다.",
         "국가나 지방자치단체는 아동양육비를 대여할 수 있다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_72",
@@ -17475,7 +18322,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_73",
@@ -17494,7 +18341,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_74",
@@ -17513,7 +18360,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_3교시_75",
@@ -17528,11 +18375,11 @@ window.PAST_PAPER_DATA = {
         "국가나 지방자치단체는 모금회의 관리ㆍ운영에 필요한 비용을 보조할 수 있다.",
         "기부금품의 기부자는 배분지역, 배분대상자 또는 사용 용도를 지정할 수 없다.",
         "사회복지공동모금회는 언론기관을 모금창구로 지정할 수 있으나 지정된 언론기관의 명의로 모금계좌를 개설할 수 없다.",
-        "모금회의 정관으로 규정하지 아니한 사항은 ｢민법｣ 중 사단법인에 관한 규정을 준용한다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프 로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합 니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 오답 및 오탈자가 수정된 최신 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "모금회의 정관으로 규정하지 아니한 사항은 ｢민법｣ 중 사단법인에 관한 규정을 준용한다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_1",
@@ -17551,7 +18398,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_2",
@@ -17570,7 +18417,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_3",
@@ -17595,7 +18442,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_4",
@@ -17614,7 +18461,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_5",
@@ -17633,7 +18480,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_6",
@@ -17650,9 +18497,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "외부통제로부터 전문직 보호",
+              "윤리적 갈등이 생겼을 때 지침과 원척 제공",
+              "사회복지사의 자기규제를 통한클라이언트보 호",
+              "전문가로서 사회복지사의 기본업무 및 자세 알림"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_7",
@@ -17661,7 +18514,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천론",
       "number": 7,
-      "stem": "사회복지실천현장의 기능과 목적에 따른 분류에서 1차 현장 에 해당하지 않는 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "사회복지실천현장의 기능과 목적에 따른 분류에서 1차 현장 에 해당하지 않는 것은?",
       "choices": [
         "양로시설",
         "교정시설",
@@ -17671,7 +18524,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_8",
@@ -17690,7 +18543,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_9",
@@ -17709,7 +18562,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_10",
@@ -17728,7 +18581,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_11",
@@ -17747,7 +18600,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_12",
@@ -17766,7 +18619,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_13",
@@ -17780,12 +18633,12 @@ window.PAST_PAPER_DATA = {
         "ㄱ - ㄴ - ㄷ - ㄹ",
         "ㄱ - ㄴ - ㄹ - ㄷ",
         "ㄱ - ㄹ - ㄴ - ㄷ",
-        "ㄹ - ㄱ - ㄴ - ㄷ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2022년 01월 22일 필기 기출",
+        "ㄹ - ㄱ - ㄴ - ㄷ",
         "ㄹ - ㄷ - ㄱ - ㄴ"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_14",
@@ -17804,7 +18657,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_15",
@@ -17823,7 +18676,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_16",
@@ -17840,9 +18693,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "문제(problem)-해결하고자 하는 문제나 욕 구",
+              "프로그램(program)-문제해결을 위해 시행되 는 프로그램",
+              "장소(place)-문제해결을 위한 서비스가 제 공되는 물리적 공간",
+              "전문가(professional)-문제해결을 위해 개입 하는전문가"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_17",
@@ -17861,7 +18720,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_18",
@@ -17876,11 +18735,11 @@ window.PAST_PAPER_DATA = {
         "생태도",
         "소시오그램",
         "생활력 도표",
-        "사회적 관계망 그리드 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "사회적 관계망 그리드"
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_19",
@@ -17899,7 +18758,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_20",
@@ -17918,7 +18777,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_21",
@@ -17937,7 +18796,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_22",
@@ -17954,9 +18813,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "서비스의 통합성 확보",
+              "서비스 접근성 강화",
+              "보호의 연속성 보장",
+              "사회적책임성제고"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_23",
@@ -17975,7 +18840,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_24",
@@ -17994,7 +18859,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_25",
@@ -18007,13 +18872,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "계획의 목표는 기관의 기능과 일치해야 한다.",
         "목표설정은 미시적 수준과 거시적 수준에서 클라이언트 의 변화를 고려한다.",
-        "계약서는 클라이언트만 작성하여 과업과 의무를 공식화 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2022년 01월 22일 필기 기출 한다.",
+        "계약서는 클라이언트만 작성하여 과업과 의무를 공식화",
         "목표는 클라이언트가 원하는 결과를 포함하여 클라이언 트의 적극적인 참여를 유도한다.",
         "계획단계의 목표는 클라이언트와 사회복지사가 함께 합 의하여 결정한다. 2과목 : 사회복지 실천 기술론"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_26",
@@ -18032,7 +18897,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_27",
@@ -18051,7 +18916,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_28",
@@ -18068,9 +18933,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "집단과 구성원의 목표를 설정한다.",
+              "지도자인 사회복지사를 소개하며 신뢰감을 형성 한다.",
+              "구성원 간 유사성을 토대로응집력을 형성한다.",
+              "구성원이 집단에 의존하는 정도를 감소시킨다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_29",
@@ -18089,7 +18960,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_30",
@@ -18108,7 +18979,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_31",
@@ -18117,7 +18988,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 31,
-      "stem": "집단 응집력에 관한 설명으로 옳은 것을 모두 고른 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "집단 응집력에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ",
         "ㄱ, ㄷ",
@@ -18133,7 +19004,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_32",
@@ -18152,7 +19023,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_33",
@@ -18171,7 +19042,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_34",
@@ -18190,7 +19061,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_35",
@@ -18209,7 +19080,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_36",
@@ -18218,7 +19089,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 36,
-      "stem": "다음 전제에 해당되는 사회복지실천모델은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2022년 01월 22일 필기 기출",
+      "stem": "다음 전제에 해당되는 사회복지실천모델은?",
       "choices": [
         "클라이언트중심모델",
         "해결중심모델",
@@ -18228,7 +19099,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_37",
@@ -18247,7 +19118,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_38",
@@ -18266,7 +19137,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_39",
@@ -18285,7 +19156,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_40",
@@ -18294,7 +19165,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 40,
-      "stem": "사회기술훈련에서 사용되는 행동주의모델기법을 모두 고른 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "사회기술훈련에서 사용되는 행동주의모델기법을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ",
         "ㄱ, ㄷ",
@@ -18304,7 +19175,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_41",
@@ -18323,7 +19194,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_42",
@@ -18342,7 +19213,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_43",
@@ -18361,7 +19232,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_44",
@@ -18380,7 +19251,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_45",
@@ -18389,7 +19260,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 45,
-      "stem": "보웬(M. Bowen)이 제시한 개념 중 다음 설명에 해당하는 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2022년 01월 22일 필기 기출",
+      "stem": "보웬(M. Bowen)이 제시한 개념 중 다음 설명에 해당하는 것은?",
       "choices": [
         "가족투사",
         "삼각관계",
@@ -18399,7 +19270,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_46",
@@ -18418,7 +19289,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_47",
@@ -18437,7 +19308,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_48",
@@ -18456,7 +19327,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_49",
@@ -18468,14 +19339,14 @@ window.PAST_PAPER_DATA = {
       "stem": "다음 설명에 해당하는 기록방법은?",
       "choices": [
         "과정기록",
-        "요약기록 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "요약기록",
         "이야기체기록",
         "문제중심기록",
         "최소기본기록"
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_50",
@@ -18494,7 +19365,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_51",
@@ -18513,7 +19384,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_52",
@@ -18530,9 +19401,13 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 생산ㆍ분배ㆍ소비, ㄴ: 상부상조",
         "ㄱ: 상부상조, ㄴ: 생산ㆍ분배ㆍ소비"
       ],
+      "statements":       [
+              "기능:지역주민들이 필요한 재화와 서비 스를 머느 정도 제공받을 수 있느냐를 결정하 는 것 - (",
+              "기능:구성원들이사회의규범에순응하 게하는 것"
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_53",
@@ -18547,11 +19422,16 @@ window.PAST_PAPER_DATA = {
         "ㄱ → ㄷ → ㄴ",
         "ㄴ → ㄱ → ㄷ",
         "ㄴ → ㄷ → ㄱ",
-        "ㄷ → ㄱ → ㄴ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2022년 01월 22일 필기 기출"
+        "ㄷ → ㄱ → ㄴ"
+      ],
+      "statements":       [
+              "영구임대주택단지 내에 사회복지관 건립이 의무화되었다.",
+              "지역사회복지협의체가 지역사회보장협의체로 명칭이 변경되었다.",
+              "국민기초생활 보장법 제정으로 공공의 책임 성이 강화되었다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_54",
@@ -18570,7 +19450,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_55",
@@ -18589,7 +19469,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_56",
@@ -18608,7 +19488,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_57",
@@ -18627,7 +19507,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_58",
@@ -18644,9 +19524,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ, ㅁ",
         "ㄱ, ㄷ, ㄹ, ㅁ"
       ],
+      "statements":       [
+              "프로그램 개발 및 조정",
+              "지역사회개발",
+              "정치적권력(역량)강화",
+              "면합 ㅁ.지역사회연계"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_59",
@@ -18661,11 +19547,11 @@ window.PAST_PAPER_DATA = {
         "변화의 매개체는 과업지향의 소집단이다.",
         "지역사회의 아노미 상황에 사용할 수 있다.",
         "정부조직을 경쟁자로 인식한다.",
-        "변화를 위한 전략으로 문제해결에 다수의 사람을 참여시 킨다. 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "변화를 위한 전략으로 문제해결에 다수의 사람을 참여시 킨다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_60",
@@ -18684,7 +19570,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_61",
@@ -18703,7 +19589,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_62",
@@ -18722,7 +19608,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_63",
@@ -18741,7 +19627,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_64",
@@ -18756,11 +19642,16 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ",
         "ㄱ, ㄷ",
         "ㄴ, ㄷ",
-        "ㄱ, ㄴ, ㄷ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2022년 01월 22일 필기 기출"
+        "ㄱ, ㄴ, ㄷ"
+      ],
+      "statements":       [
+              "지역주민이 주체가 되어 사회복지조직의 목표 를성취하도록 운영한다.",
+              "지역주민이 자신들의 문제를 함께 풀어나가는 과정을포함한다",
+              "지역사회 역량강화를 위해 지역사회복지 거버 넌스 구조와 기능을 축소시킨다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_65",
@@ -18779,7 +19670,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_66",
@@ -18798,7 +19689,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_67",
@@ -18815,9 +19706,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "지역사회보장 전달체계의 조직과 운영",
+              "사회보장급여의사각지대발굴및 지원 방안",
+              "지역사회보장에 관련한 통계 수집 및 관리 방 만",
+              "지역사회보장에 필요한 재원의 규모와 조달 방만"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_68",
@@ -18836,7 +19733,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_69",
@@ -18855,7 +19752,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_70",
@@ -18864,7 +19761,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "지역사회복지론",
       "number": 70,
-      "stem": "사회복지관 사업내용 중 서비스 제공 기능에 해당하지 않는 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 것은?",
+      "stem": "사회복지관 사업내용 중 서비스 제공 기능에 해당하지 않는",
       "choices": [
         "지역사회 보호",
         "사례관리",
@@ -18874,7 +19771,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_71",
@@ -18893,7 +19790,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_72",
@@ -18917,7 +19814,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_73",
@@ -18936,7 +19833,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_74",
@@ -18955,7 +19852,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_2교시_75",
@@ -18970,11 +19867,11 @@ window.PAST_PAPER_DATA = {
         "읍ㆍ면ㆍ동 맞춤형 복지 전담팀 설치",
         "지역사회통합돌봄사업의 축소",
         "행정복지센터로의 행정조직 재구조화",
-        "지역사회복지계획이 지역사회보장계획으로 변경 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2022년 01월 22일 필기 기출 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프 로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합 니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 오답 및 오탈자가 수정된 최신 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "지역사회복지계획이 지역사회보장계획으로 변경"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_1",
@@ -18993,7 +19890,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_2",
@@ -19012,7 +19909,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_3",
@@ -19031,7 +19928,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_4",
@@ -19048,9 +19945,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "자아(ego)는 일차적 사고과정과 현실원칙을 [따른다.",
+              "잠복기에 원초아(id)는 약해지고 초자아 (superego)는 강해진다.",
+              "신경증적 불안은 자아의 욕구를 초자마가 통 제하지 못하고 압도될 때 나타난다.",
+              "방어기제는 외부세계의 요구로부터 스스로를 보호하고자 하는 무의식적시도이다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_5",
@@ -19061,7 +19964,7 @@ window.PAST_PAPER_DATA = {
       "number": 5,
       "stem": "융(C. Jung)의 분석심리이론에 관한 설명으로 옳은 것은?",
       "choices": [
-        "페르소나(persona)는 외부의 요구나 기대에 부응하는 과 정에서 생긴 자아의 가면이라고 한다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "페르소나(persona)는 외부의 요구나 기대에 부응하는 과 정에서 생긴 자아의 가면이라고 한다.",
         "인간을 성(性)적 에너지인 리비도(libido)에 의해 지배되는 수동적 존재로 보았다.",
         "원형(archetype)이란 개인의 의식 속에 존재하는 유일한 정신기관이다.",
         "아니무스(animus)는 남성이 억압시킨 여성성이다.",
@@ -19069,7 +19972,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_6",
@@ -19088,7 +19991,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_7",
@@ -19105,9 +20008,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "시간의 원리:무조건자극보다 조건자극이 늦 게 제공되어야 조건형성이 이루어진다.",
+              "강도의 원리: 무조건자극에 대한 반응이 조건 자극에 대한 반응보다 약해야 한다.",
+              "일관성의 원리:무조건자극과 조건자극은조 건이 형성될 때까지 지속적으로 제시되어야 한다.",
+              "계속성의원리: 자극과반응과정의반복횟 수가 많을수록 조건형성이 잘 이루어진다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_8",
@@ -19126,7 +20035,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_9",
@@ -19138,7 +20047,7 @@ window.PAST_PAPER_DATA = {
       "stem": "로저스(C. Rogers)의 이론에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ",
-        "ㄱ, ㄷ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2022년 01월 22일 필기 기",
+        "ㄱ, ㄷ",
         "ㄴ, ㄹ",
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
@@ -19151,7 +20060,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_10",
@@ -19170,7 +20079,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_11",
@@ -19189,7 +20098,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_12",
@@ -19208,7 +20117,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_13",
@@ -19227,7 +20136,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_14",
@@ -19246,7 +20155,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_15",
@@ -19255,7 +20164,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "인간행동과 사회환경",
       "number": 15,
-      "stem": "브론펜브레너(U. Bronfenbrenner)의 미시체계(micro system)에 관한 설명으로 옳은 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "브론펜브레너(U. Bronfenbrenner)의 미시체계(micro system)에 관한 설명으로 옳은 것은?",
       "choices": [
         "개인의 생활에 직접적으로 개입하지 않는다.",
         "조직수준에서 영향을 미칠 수 있는 체계이다.",
@@ -19265,7 +20174,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_16",
@@ -19284,7 +20193,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_17",
@@ -19303,7 +20212,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_18",
@@ -19322,7 +20231,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_19",
@@ -19341,7 +20250,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_20",
@@ -19360,7 +20269,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_21",
@@ -19371,7 +20280,7 @@ window.PAST_PAPER_DATA = {
       "number": 21,
       "stem": "엘킨드(D. Elkind)가 제시한 청소년기(13-19세) 자기중심성 (egocentrism)에 관한 내용으로 옳지 않은 것은?",
       "choices": [
-        "다른 사람이 경험하는 위기가 자신에게는 일어나지 않으 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2022년 01월 22일 필기 기 리라 믿는다.",
+        "다른 사람이 경험하는 위기가 자신에게는 일어나지 않으",
         "상상적 관중을 의식하여 작은 실수에 대해서도 번민한 다.",
         "자신의 감정이나 경험이 매우 특별하다고 생각한다.",
         "자신과 타인에 대해 객관적으로 이해하고 판단한다.",
@@ -19379,7 +20288,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_22",
@@ -19398,7 +20307,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_23",
@@ -19417,7 +20326,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_24",
@@ -19436,7 +20345,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_25",
@@ -19460,7 +20369,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_26",
@@ -19479,7 +20388,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_27",
@@ -19488,7 +20397,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "사회복지조사론",
       "number": 27,
-      "stem": "과학철학에 관한 설명으로 옳은 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "과학철학에 관한 설명으로 옳은 것은?",
       "choices": [
         "논리적 실증주의에 가장 큰 영향을 미친 사람은 영국의 철학자 흄(D. Hume)이다.",
         "상대론적인 입장에서는 경험에 의한 지식의 객관성을 추 구한다.",
@@ -19498,7 +20407,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_28",
@@ -19517,7 +20426,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_29",
@@ -19536,7 +20445,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_30",
@@ -19553,9 +20462,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "사회복지관련 이론 개발에 사용된다.",
+              "여론조사나 인구센서스 조사는 전혈적인 탐색 목적의 조사연구이다.",
+              "연구의 전 과정에서 결정주의적 성향을 지양 해야 한다.",
+              "조사범위에 따라 횡단연구와 종단연구로 나뉘 어진다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_31",
@@ -19574,7 +20489,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_32",
@@ -19588,12 +20503,12 @@ window.PAST_PAPER_DATA = {
         "개인 - 개인",
         "기관 - 개인",
         "지역사회 - 개인",
-        "지역사회 - 기관 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2022년 01월 22일 필기 기",
+        "지역사회 - 기관",
         "개인 - 지역사회"
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_33",
@@ -19612,7 +20527,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_34",
@@ -19631,7 +20546,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_35",
@@ -19650,7 +20565,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_36",
@@ -19669,7 +20584,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_37",
@@ -19688,7 +20603,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_38",
@@ -19702,12 +20617,12 @@ window.PAST_PAPER_DATA = {
         "하나의 개념을 측정하는 개별 항목들 간의 일관성",
         "이론적으로 관련성이 없는 두 개념을 측정한 두 척도 간 의 상관관계",
         "어떤 척도와 기준이 되는 척도 간의 상관관계",
-        "개념 안에 포함된 포괄적인 의미를 척도가 포함하는 정 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 도",
+        "개념 안에 포함된 포괄적인 의미를 척도가 포함하는 정",
         "개별 항목들이 연구자가 의도한 개념을 구성하는 요인으 로 모이는 정도"
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_39",
@@ -19726,7 +20641,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_40",
@@ -19750,7 +20665,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_41",
@@ -19769,7 +20684,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_42",
@@ -19788,7 +20703,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_43",
@@ -19802,12 +20717,12 @@ window.PAST_PAPER_DATA = {
         "할당표집(quota sampling)은 무작위 표집을 전제로 한 다.",
         "유의표집(purposive sampling)은 확률표집이다.",
         "눈덩이표집(snowball sampling)은 모집단의 규모를 알아 야만 사용할 수 있다.",
-        "단순무작위표집(simple random sampling)은 모집단으로 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2022년 01월 22일 필기 기 부터 표본으로 추출될 확률을 알 수 있다.",
+        "단순무작위표집(simple random sampling)은 모집단으로",
         "임의표집(convenience sampling)은 모집단의 대표성이 높은 표본을 추출한다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_44",
@@ -19826,7 +20741,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_45",
@@ -19843,9 +20758,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "표집방법이 확률표집인가 비확률표집인가?",
+              "표본의 크기는 모집단를 대표하기에 적절한가?",
+              "설문조사는 언제 이루어졌는가?",
+              "촉정도구가 신뢰할 만한 것인가?"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_46",
@@ -19864,7 +20785,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_47",
@@ -19883,7 +20804,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_48",
@@ -19897,12 +20818,12 @@ window.PAST_PAPER_DATA = {
         "사회복지 프로그램의 실행 여부가 독립변수로 설정될 수 있다.",
         "사전조사에서 실험집단과 통제집단의 종속변수 측정치는 통계적으로 유의미한 차이가 없어야 한다.",
         "사전조사와 사후조사에서 통제집단의 종속변수 측정치는 통계적으로 유의미한 차이가 있어야 한다.",
-        "실험집단과 통제집단의 동질성 확보가 필요하다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "실험집단과 통제집단의 동질성 확보가 필요하다.",
         "실험집단과 통제집단의 차이는 독립변수의 개입 유무이 다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_49",
@@ -19921,7 +20842,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2022_1교시_50",
@@ -19936,11 +20857,11 @@ window.PAST_PAPER_DATA = {
         "개념으로 도출된 내용을 가지고 하위범주를 만든다.",
         "발견된 범주의 속성과 차원을 고려하여 유형화를 시도한 다.",
         "이론개발을 위해 핵심범주를 중심으로 다른 범주와의 통 합과 정교화를 만드는 과정을 진행한다.",
-        "발견된 범주를 가지고 중심현상을 중심으로 인과적 조건 을 만든다. 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프 로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합 니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 오답 및 오탈자가 수정된 최신 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "발견된 범주를 가지고 중심현상을 중심으로 인과적 조건 을 만든다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_1",
@@ -19959,7 +20880,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_2",
@@ -19978,7 +20899,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_3",
@@ -19997,7 +20918,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_4",
@@ -20016,7 +20937,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_5",
@@ -20028,14 +20949,20 @@ window.PAST_PAPER_DATA = {
       "stem": "에스핑-앤더슨(Esping-Andersen)의 복지국가 유형에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ",
-        "ㄱ, ㄹ 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "ㄱ, ㄹ",
         "ㄱ, ㄴ, ㄹ",
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "복지국가 유형을 탈상품화, 계층화 등을 기준 으로 분류하였다",
+              "자유주의복지국가는 자산조사에 의한 공공부 조의 비중이 큰 국가이다.",
+              "보수주의복지국가는 사회보험에 의존하지 않 는다",
+              "사회민주주의복지국가는 보편적 원칙과 사회 권을통한 탈상품화효과가 크다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_6",
@@ -20054,7 +20981,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_7",
@@ -20073,7 +21000,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_8",
@@ -20092,7 +21019,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_9",
@@ -20111,7 +21038,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_10",
@@ -20126,11 +21053,11 @@ window.PAST_PAPER_DATA = {
         "산업재해보상보험법상 요양급여는 현물급여이다.",
         "노인장기요양보험법상 재가급여는 현물급여이다.",
         "국민연금법상 노령연금은 현금급여이다.",
-        "국민건강보험법상 장애인 보조기기에 대한 보험급여는 현금급여이다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2021년 02월 06일 필기 기"
+        "국민건강보험법상 장애인 보조기기에 대한 보험급여는 현금급여이다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_11",
@@ -20147,9 +21074,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "장애인연금",
+              "마동수당",
+              "기초연금",
+              "의료급여"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_12",
@@ -20166,9 +21099,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "공급자와 수요자가 가격기구를 매개로 상호작 용하는 것을 원칙으로 한다.",
+              "공급자와 수요자를 이어주는 매개체 역할을 한 다.",
+              "클라이언트에게 사회복지서비스를 제공하기 위 한조직 및 인력이다.",
+              "공급자들을 공간적으로 분산배치하면 전달체계 에 대한 접근성을 높일 수 있다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_13",
@@ -20187,7 +21126,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_14",
@@ -20206,7 +21145,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_15",
@@ -20225,7 +21164,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_16",
@@ -20236,7 +21175,7 @@ window.PAST_PAPER_DATA = {
       "number": 16,
       "stem": "자활지원사업에 관한 설명으로 옳지 않은 것은?",
       "choices": [
-        "자활급여는 근로능력이 있는 국민기초생활보장 수급자의 자활을 위한 각종 지원을 제공하는 급여이다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "자활급여는 근로능력이 있는 국민기초생활보장 수급자의 자활을 위한 각종 지원을 제공하는 급여이다.",
         "자활기업은 조합 또는「부가가치세법」상의 사업자로 한 다.",
         "자활기관협의체의 구성 및 운영 등에 필요한 사항은 보 건복지부령으로 정한다.",
         "자산형성지원으로 형성된 자산은 수급자의 소득환산액 산정 시 이를 포함한다.",
@@ -20244,7 +21183,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_17",
@@ -20261,9 +21200,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "아동학대를 예방하고 수시로 신고를 받을 수 있도록 마동보호전문기관은 긴급전화(1391)를 설치하여야 한다.",
+              "아동학대의 예방과 방지에 관한 관심을 높이 기 위하며 아동학대 예방의 날을 지정하였다.",
+              "지역아동보호전문기관은 아동학대 신고접수. 현장조사 및 응급보호 등의 역할을 한다.",
+              "아동보호전문기관의 장은 피해아동의 가족에 게 상담,교육 및 의료적·심리적 치료 등의 필요한 지원을 제공하며야 한다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_18",
@@ -20282,7 +21227,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_19",
@@ -20301,7 +21246,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_20",
@@ -20313,14 +21258,14 @@ window.PAST_PAPER_DATA = {
       "stem": "사회보험제도에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "사회보험제도는 위험의 분산이라는 보험기술을 사용한 다.",
-        "사회보험 급여를 받을 권리 여부는 자산조사 결과에 근 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2021년 02월 06일 필기 기 거하여 결정된다.",
+        "사회보험 급여를 받을 권리 여부는 자산조사 결과에 근",
         "한국의 사회보험제도는 의무가입 원칙을 적용한다.",
         "사회보험은 위험이전과 위험의 광범위한 공동분담에 기 초하고 있다.",
         "사회보험은 피보험자의 욕구에 기초하지 않고 사전에 결 정된 급여를 제공한다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_21",
@@ -20344,7 +21289,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_22",
@@ -20363,7 +21308,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_23",
@@ -20380,9 +21325,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "조세를 재원으로 하는 공공부조제도에서 일반 적으로 나타난다.",
+              "사회적 취약계층을 대상으로 하는 사회복지서 비스는 수직적 재분배 효과가 있다.",
+              "위험 미발생집단에서 위험 발생집단으로 소득 이 이전되는 것은 수평적 소득재분배에 해당 한다.",
+              "재원조달 촉면에서 부조방식이 보험방식보다 재분배효과가 크다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_24",
@@ -20401,7 +21352,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_25",
@@ -20410,7 +21361,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지정책론",
       "number": 25,
-      "stem": "사회복지정책 평가유형에 관한 설명으로 옳은 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "사회복지정책 평가유형에 관한 설명으로 옳은 것은?",
       "choices": [
         "과정평가는 정책집행 후에 평가하는 활동을 말한다.",
         "결과평가는 정책집행 중간의 평가로 전략 설계의 수정보 완을 하지 못한다.",
@@ -20420,7 +21371,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_26",
@@ -20439,7 +21390,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_27",
@@ -20458,7 +21409,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_28",
@@ -20477,7 +21428,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_29",
@@ -20494,9 +21445,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ",
         "ㄷ, ㄹ"
       ],
+      "statements":       [
+              "조직 구성원의 업무를 과학적으로 분석하며 활용한다.",
+              "집권화를 통한 위계구조 설정이 조직 성과의 결정적 요인이다.",
+              "호손(Hawthorne)공장에서의실험결과를 적 극 반영하였다.",
+              "경제적보상을통해생산성을 극대화할수 있다"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_30",
@@ -20505,7 +21462,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지행정론",
       "number": 30,
-      "stem": "다음에서 설명하고 있는 조직이론은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2021년 02월 06일 필기 기",
+      "stem": "다음에서 설명하고 있는 조직이론은?",
       "choices": [
         "상황이론",
         "관료제이론",
@@ -20515,7 +21472,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_31",
@@ -20534,7 +21491,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_32",
@@ -20553,7 +21510,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_33",
@@ -20572,7 +21529,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_34",
@@ -20584,14 +21541,14 @@ window.PAST_PAPER_DATA = {
       "stem": "관리격자(managerial grid) 이론에 따르면 다음에 해당하는 리더십 유형은?",
       "choices": [
         "무력형(impoverished management)",
-        "과업형(task management) 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "과업형(task management)",
         "팀형(team management)",
         "중도형(middle of the road management)",
         "컨트리클럽형(country club management)"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_35",
@@ -20610,7 +21567,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_36",
@@ -20629,7 +21586,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_37",
@@ -20646,9 +21603,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ",
         "ㄷ, ㄹ"
       ],
+      "statements":       [
+              "직원이 지출한 자기개발 비용을 조직에서 지 원한다",
+              "일반적으로 조직의 상사나 선배를 통해 이루 머진다.",
+              "일상적인 업무를 통해 이루어지는 경우가 많 다.",
+              "조직 외부의 전문교육 기관에서 제공된다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_38",
@@ -20667,7 +21630,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_39",
@@ -20686,7 +21649,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_40",
@@ -20698,14 +21661,14 @@ window.PAST_PAPER_DATA = {
       "stem": "사회복지조직의 재원에 관한 설명으로 옳은 것은?",
       "choices": [
         "국가와 지방자치단체의 보조금은 포함되지 않는다.",
-        "후원금은 증가하거나 감소하는 유동적인 재원이다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2021년 02월 06일 필기 기",
+        "후원금은 증가하거나 감소하는 유동적인 재원이다.",
         "서비스 이용료로 재정을 충당할 수 없다.",
         "별도의 재원 확보를 위한 모금 전략은 불필요하다.",
         "사회복지법인 등 비영리법인의 전입금은 공적 재원이다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_41",
@@ -20724,7 +21687,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_42",
@@ -20741,9 +21704,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ - ㅁ - ㄱ - ㄷ – ㄴ",
         "ㅁ - ㄱ - ㄹ - ㄷ - ㄴ"
       ],
+      "statements":       [
+              "사회복지사무소 시범사업",
+              "지역사회 통합돌봄",
+              "읍·면·동 복지허브화",
+              "사회복지통합관리망(행복e음) 개통 ㅁ.보건복지사무소 시범사업"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_43",
@@ -20762,7 +21731,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_44",
@@ -20781,7 +21750,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_45",
@@ -20796,11 +21765,11 @@ window.PAST_PAPER_DATA = {
         "가격(Price)",
         "판매촉진(Promotion)",
         "입지(Place)",
-        "성과(Performance) 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "성과(Performance)"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_46",
@@ -20819,7 +21788,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_47",
@@ -20838,7 +21807,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_48",
@@ -20855,9 +21824,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄹ",
         "ㄷ, ㄹ"
       ],
+      "statements":       [
+              "3년마다 평가 실시",
+              "5년마다평가 실시",
+              "평가결과의 비공개원칙",
+              "평가결과를시설 지원에 반영"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_49",
@@ -20876,7 +21851,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_50",
@@ -20895,7 +21870,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_51",
@@ -20904,7 +21879,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 51,
-      "stem": "법률과 그 제정연대의 연결이 옳은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2021년 02월 06일 필기 기",
+      "stem": "법률과 그 제정연대의 연결이 옳은 것은?",
       "choices": [
         "산업재해보상보험법, 장애인복지법 - 1970년대",
         "사회복지사업법, 국민기초생활 보장법 - 1980년대",
@@ -20914,7 +21889,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_52",
@@ -20933,7 +21908,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_53",
@@ -20952,7 +21927,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_54",
@@ -20971,7 +21946,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_55",
@@ -20996,7 +21971,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_56",
@@ -21009,13 +21984,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "국민연금법에 따르면 심사청구와 재심사청구의 순으로 진행된다.",
         "국민건강보험법에 명시되어 있는 권리구제절차는 심사청 구이다.",
-        "고용보험법에 명시되어 있는 권리구제절차는 이의신청이 다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "고용보험법에 명시되어 있는 권리구제절차는 이의신청이 다.",
         "한부모가족지원법에 따르면 이의신청과 심판청구의 순으 로 진행된다.",
         "기초연금법에 명시되어 있는 권리구제절차는 이의신청과 재심사청구이다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_57",
@@ -21039,7 +22014,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_58",
@@ -21058,7 +22033,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_59",
@@ -21077,7 +22052,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_60",
@@ -21096,7 +22071,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_61",
@@ -21105,7 +22080,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 61,
-      "stem": "사회복지사업법에 명시된 날에 해당하는 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2021년 02월 06일 필기 기",
+      "stem": "사회복지사업법에 명시된 날에 해당하는 것은?",
       "choices": [
         "장애인의 날 4월 20일",
         "노인의 날 10월 2일",
@@ -21115,7 +22090,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_62",
@@ -21134,7 +22109,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_63",
@@ -21153,7 +22128,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_64",
@@ -21172,7 +22147,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_65",
@@ -21189,9 +22164,13 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 70, ㄴ: 70",
         "ㄱ: 70, ㄴ: 80"
       ],
+      "statements":       [
+              "세 이상인 사람으로서 소득 인정액이 보건복지부장관이 정하여 고시하는 금액(이하\"선정기준액\"이라 한다) 이하인사 람에게지급한다. -보건복지부장관은 선정기준액을 정하는 경우 (",
+              "세 이상인 사람 중 기초연금수급자가"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_66",
@@ -21200,7 +22179,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 66,
-      "stem": "국민연금법상 급여의 종류에 해당하는 것을 모두 고른 것 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 은?",
+      "stem": "국민연금법상 급여의 종류에 해당하는 것을 모두 고른 것",
       "choices": [
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄹ",
@@ -21208,9 +22187,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "노령연금",
+              "장해급여",
+              "유족연금",
+              "반환일시금"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_67",
@@ -21229,7 +22214,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_68",
@@ -21248,7 +22233,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_69",
@@ -21265,9 +22250,14 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ"
       ],
+      "statements":       [
+              "장애인복지법상 장애인 학대에 경제적 착취는 포함되지 않는다.",
+              "아동학대범죄의처벌 등에 관한 특례법에따 른 아동학대범죄는 아동복지법상 아동학대관 련범죄에해당한다",
+              "노인복지법상 노인학대라 함은 노인에 대하며 신체적·정신적·정서적·성적 폭력 및 경제 적 착취 또는 가혹행위를 하거나 유기 또는 방임을하는 것을말한다"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_70",
@@ -21286,7 +22276,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_71",
@@ -21300,12 +22290,12 @@ window.PAST_PAPER_DATA = {
         "다문화가족지원법상 “아동ㆍ청소년”이란 24세 이하인 사 람을 말한다.",
         "아동복지법상 “아동”이란 18세 미만인 사람을 말한다.",
         "한부모가족지원법상 “청소년 한부모”란 24세 이하의 모 또는 부를 말한다.",
-        "한부모가족지원법상 “취학 중인 경우의 아동”은 24세 미 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2021년 02월 06일 필기 기 만인 사람을 말한다.",
+        "한부모가족지원법상 “취학 중인 경우의 아동”은 24세 미",
         "노인복지법상 노인의 정의에 대한 연령 규정은 없다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_72",
@@ -21324,7 +22314,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_73",
@@ -21343,7 +22333,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_74",
@@ -21362,7 +22352,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_3교시_75",
@@ -21377,11 +22367,11 @@ window.PAST_PAPER_DATA = {
         "국가는 경제주체 간의 조화를 통한 경제민주화를 위해 규제와 조정을 할 수 있다.",
         "고용부담금제도는 장애인고용의무제의 실효성을 확보하 는 수단이므로 입법목적의 정당성이 인정된다.",
         "고용부담금제도는 그 자체가 고용의무를 성실히 이행하 는 사업주와 그렇지 않는 사업주간의 경제적 부담의 불 균형을 조정하는 기능을 하기 때문에 고용부담금제도 자 체의 차별성은 문제가 되지 않는다.",
-        "대통령령이 정하는 일정수 이상의 근로자를 고용하는 사 업주는 기준고용률 이상에 해당하는 장애인을 고용해야 한다고 규정한 구 장애인고용촉진등에관한법률 제35조제 1항 본문은 헌법에 불합치한다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 최신 수정된(오타, 오답, 규정변경) 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "대통령령이 정하는 일정수 이상의 근로자를 고용하는 사 업주는 기준고용률 이상에 해당하는 장애인을 고용해야 한다고 규정한 구 장애인고용촉진등에관한법률 제35조제 1항 본문은 헌법에 불합치한다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_1",
@@ -21398,9 +22388,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ - ㄴ - ㄹ – ㄱ",
         "ㄹ - ㄷ - ㄴ - ㄱ"
       ],
+      "statements":       [
+              "대학교에서 사회복지 전문 인력의 양성교육을 시작하였다.",
+              "사회복지사업법에따라사회복지사명청을사 용하기시작하였다.",
+              "사회복지전문요원(이후 전담공무원)을 행정기 관에 배치하기 시작하였다.",
+              "정신건강증진 및 정신질환자 복지서비스 지원 에 관한 법률에 따라 정신건강사회복지사 명 칭을사용하기 시작하였다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_2",
@@ -21419,7 +22415,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_3",
@@ -21436,9 +22432,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "인도주의",
+              "민주주의",
+              "개인주의",
+              "문화다양성"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_4",
@@ -21455,9 +22457,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄴ, ㄷ, ㄹ, ㅁ, ㅂ"
       ],
+      "statements":       [
+              "방향 설정",
+              "자원활성화",
+              "강점의확인",
+              "기회의확대 . 파트너십형성 ㅂ.현재 상황의 명확화"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_5",
@@ -21472,11 +22480,11 @@ window.PAST_PAPER_DATA = {
         "아동상담소",
         "주간보호센터",
         "아동양육시설",
-        "지역사회복지관 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "지역사회복지관"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_6",
@@ -21495,7 +22503,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_7",
@@ -21514,7 +22522,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_8",
@@ -21533,7 +22541,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_9",
@@ -21552,7 +22560,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_10",
@@ -21564,14 +22572,14 @@ window.PAST_PAPER_DATA = {
       "stem": "콤튼과 갤러웨이(B. Compton &B. Galaway)의 6체계모델을 다음 사례에 적용할 때 구성체계의 연결이 옳은 것은?",
       "choices": [
         "A(사회복지사) - 변화매개체계",
-        "B(학생) - 행동체계 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2021년 02월 06일 필기 기출",
+        "B(학생) - 행동체계",
         "C(학교사회복지사) - 클라이언트체계",
         "D(경찰) - 전문가체계",
         "E(학교사회복지사협회) - 표적체계"
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_11",
@@ -21588,9 +22596,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "모든 인간에게 해당되는 보편적인 권리이다.",
+              "개인,집단, 국가가 상호 간에 책임을 동반하 는 권리이다.",
+              "사회적 약자를 위하며 지켜지고 확보되어야 하는 권리미다.",
+              "법이 보장하고 있지 않다 해도 인간의 존엄 성보장에 필요한 권리이다"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_12",
@@ -21609,7 +22623,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_13",
@@ -21628,7 +22642,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_14",
@@ -21647,7 +22661,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_15",
@@ -21666,7 +22680,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_16",
@@ -21678,14 +22692,20 @@ window.PAST_PAPER_DATA = {
       "stem": "접수단계에서 사회복지사가 수행해야 할 과제를 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄷ",
-        "ㄴ, ㄹ 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "ㄴ, ㄹ",
         "ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "개입 목표의 우선순위 합의",
+              "클라이언트의 강점과 자원 조사",
+              "욕구에 적합한 기관으로 의뢰",
+              "기관에서 제공하는 서비스 적격 여부 확인"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_17",
@@ -21702,9 +22722,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "공감적 태도와 적극적 반응으로 경청한다.",
+              "표정,눈 맞춤 등 비언어적 표현을 관칠한다.",
+              "가벼운대화로시작하여분위기를조성한다.",
+              "침묵을 허용하지 않고 그 이유에 대해 질문한 다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_18",
@@ -21723,7 +22749,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_19",
@@ -21742,7 +22768,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_20",
@@ -21761,7 +22787,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_21",
@@ -21780,7 +22806,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_22",
@@ -21794,12 +22820,12 @@ window.PAST_PAPER_DATA = {
         "접수",
         "사정",
         "계획",
-        "개입 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2021년 02월 06일 필기 기출",
+        "개입",
         "종결"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_23",
@@ -21818,7 +22844,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_24",
@@ -21837,7 +22863,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_25",
@@ -21856,7 +22882,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_26",
@@ -21875,7 +22901,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_27",
@@ -21894,7 +22920,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_28",
@@ -21903,7 +22929,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 28,
-      "stem": "집단유형별 특성에 관한 설명으로 옳지 않은 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "집단유형별 특성에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "지지집단은 유사한 문제와 욕구를 가진 사람들로 구성하 여 유대가 빨리 형성된다.",
         "성장집단은 집단 참여자의 자기인식을 증가시켜 개인의 잠재력을 최대화하는 데 초점을 둔다.",
@@ -21913,7 +22939,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_29",
@@ -21932,7 +22958,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_30",
@@ -21949,9 +22975,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "클라이언트를 자신 문제의 전문가로 인정한 다.",
+              "사회복지사와 클라이언트 간의 상호 협력적 파트너십을 강조한다.",
+              "클라이언트를개입의객체가 마닌 주체로보 기 때문에 자기결정권이 잘 보호될 수있다.",
+              "클라이언트가가진문제의 원인에초점을두 고 개입한다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_31",
@@ -21970,7 +23002,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_32",
@@ -21983,13 +23015,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "개입 초기에 빠른 사정을 한다.",
         "구조화된 접근을 한다.",
-        "다양한 이론과 모델을 절충적으로 활용한다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2021년 02월 06일 필기 기출",
+        "다양한 이론과 모델을 절충적으로 활용한다.",
         "조사에 근거한 경험적 자료를 중심으로 진행한다.",
         "사회복지사는 적극적으로 개입하지 않고 클라이언트가 주체적인 역할을 하도록 한다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_33",
@@ -22006,9 +23038,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "과제중심모델",
+              "위기개입모델",
+              "해결중심모델",
+              "정신역동모델"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_34",
@@ -22027,7 +23065,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_35",
@@ -22046,7 +23084,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_36",
@@ -22063,9 +23101,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "전이는 정신역동 치료에 방해가 되므로 이를 이용해서는 안 된다.",
+              "무의식적 갈등이나 불안을 표현하도록 하며 자신의 문제에 대해 이해하고 통찰할 수 있도 록한다",
+              "클라이언트와 라포가 형성되기 전에 해석을 제공하는 것이 관계형성에 도움이 된다.",
+              "훈습을통해클라이언트의불안은최소화되고 적합한 방법으로 자신의문제를이해할 수있 는 능력을 기르게 된다."
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_37",
@@ -22077,14 +23121,14 @@ window.PAST_PAPER_DATA = {
       "stem": "해결중심모델에서 사용하는 질문 기법과 이에 관한 예로 옳 은 것은?",
       "choices": [
         "예외질문: 그 어려운 상황 속에서도 견딜 수 있었던 것 은 무엇이라 생각합니까?",
-        "관계성 질문: 남편이 여기 있다면 당신이 어떻게 하는 것이 문제 해결에 도움이 된다고 할까요? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "관계성 질문: 남편이 여기 있다면 당신이 어떻게 하는 것이 문제 해결에 도움이 된다고 할까요?",
         "기적질문: 잠이 안 와서 힘들다고 하셨는데, 잠을 잘 잤 다고 느낄 때는 언제인가요?",
         "대처질문: 지난 1주일간 어떤 변화가 있었나요?",
         "척도질문: 문제가 발생하지 않았던 때는 언제인가요?"
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_38",
@@ -22103,7 +23147,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_39",
@@ -22122,7 +23166,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_40",
@@ -22141,7 +23185,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_41",
@@ -22158,9 +23202,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ, ㄹ",
         "ㄱ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "집단성원의 불안감과 저항이 높다.",
+              "집단에 대한 오리엔테이션이 필요하다.",
+              "사회복지사보다는 다른 집단성원과 대화하려 고 시도한다.",
+              "문제해결과정에서나타나는갈등과차이점을 적극적으로표현한다."
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_42",
@@ -22179,7 +23229,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_43",
@@ -22188,7 +23238,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 43,
-      "stem": "기록의 목적과 용도에 관한 설명으로 옳은 것을 모두 고른 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2021년 02월 06일 필기 기출",
+      "stem": "기록의 목적과 용도에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄷ",
         "ㄱ, ㄹ",
@@ -22196,9 +23246,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "사회복지사의 전문적 활동을 입증하는 자료로 활용한다.",
+              "기관 내에서만 활용하고 다른 전문직과는 공 유하지 않는다.",
+              "기관의 프로그램 수행 자료로 보고하며 기금 을조성하는 근거로 활용한다",
+              "클라이언트와 정보를공유하고 의사소통하는 도구로활용한다"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_44",
@@ -22215,9 +23271,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "가족내삼각관계",
+              "지배적인 주제와 가족구조의 변화",
+              "가족이 위치한 지역사회의 안정성과 쾌적성",
+              "가족 내 반복적으로나타나고 있는사건의 연 결성"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_45",
@@ -22234,9 +23296,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "가족과 함께 문제의 우선순위를 설정한다.",
+              "사회복지사는 한 단계 낮은 자세를 취하며 가 족의 정보를 얻는다.",
+              "가족과의 관계형성을 위해 가족이 있는 곳으 로 합류할 필요가 있다.",
+              "문제가 가족 모두에게 영향을 미치고 있고 가 족구성원이 그 문제의 발생과 유지에 영향을 주고 있을 경우 가족단위의 개입을 고려한다"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_46",
@@ -22255,7 +23323,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_47",
@@ -22269,12 +23337,12 @@ window.PAST_PAPER_DATA = {
         "집단이 커질수록 구성원의 참여의식이 증가하고 통제와 개입이 쉽다.",
         "집단상담을 위해 가능하면 원형으로 서로 잘 볼 수 있는 공간을 만들 수 있는 장소가 바람직하다.",
         "집단성원의 유사함은 집단소속감을 증가시킨다.",
-        "개방집단은 새로운 정보와 자원의 유입을 허용한다. 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "개방집단은 새로운 정보와 자원의 유입을 허용한다.",
         "비구조화된 집단에서는 집단성원의 자발성이 더욱 요구 된다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_48",
@@ -22293,7 +23361,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_49",
@@ -22310,9 +23378,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "시작단계에서 가장 많이 쓰는 기법이다.",
+              "집단성원이아직인식하지못했던 부분을볼 수 있도록 한다.",
+              "말과 행동의 불일치를밝히고이를해결할 수 있도록원조한다.",
+              "행동을구체적으로지적하고집단에미치는 영향을설명한다"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_50",
@@ -22329,9 +23403,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄷ, ㄹ 3과목 : 지역사회 복지론"
       ],
+      "statements":       [
+              "일치형 의사소통 유형이 치료의 목표다.",
+              "의사소통 유형은 자존감과 연관하며 설명한다.",
+              "가족생활주기는 역기능적 의사소통 유형에영 향을미친다.",
+              "역기능적 의사소통 유형에서 공통적으로 발견 되는 것은 언어적 메시지와 비언어적 메시지 의 불일치다"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_51",
@@ -22345,7 +23425,7 @@ window.PAST_PAPER_DATA = {
         "ㄱ",
         "ㄴ, ㄹ",
         "ㄷ, ㄹ",
-        "ㄱ, ㄴ, ㄹ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2021년 02월 06일 필기 기출",
+        "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
       "statements":       [
@@ -22356,7 +23436,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_52",
@@ -22375,7 +23455,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_53",
@@ -22394,7 +23474,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_54",
@@ -22413,7 +23493,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_55",
@@ -22432,7 +23512,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_56",
@@ -22451,7 +23531,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_57",
@@ -22462,7 +23542,7 @@ window.PAST_PAPER_DATA = {
       "number": 57,
       "stem": "영국의 지역사회복지 역사에 관한 설명으로 옳은 것은?",
       "choices": [
-        "헐 하우스(Hull House)는 빈민들의 도덕성 향상을 위해 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 노력하였다.",
+        "헐 하우스(Hull House)는 빈민들의 도덕성 향상을 위해",
         "우애방문단은 기존 사회질서를 비판하고 개혁을 주장하 였다.",
         "인보관 이념은 우애방문단 활동의 기반이 되었다.",
         "1960년대 존슨행정부는 '빈곤과의 전쟁'을 선포하고 다 양한 지역사회 개혁을 단행하였다.",
@@ -22470,7 +23550,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_58",
@@ -22487,9 +23567,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄹ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "문제해결 지역사회개 사회행동모델이 사회계획모델이",
+              "입모델 주로쓰임 주로쓰임 정부통제로",
+              "부터의 상대적으로 높음 상대적으로 낮음 자율성 주요참여자 사회복지사 등의",
+              "전문직 일반주민"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_59",
@@ -22508,7 +23594,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_60",
@@ -22527,7 +23613,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_61",
@@ -22538,7 +23624,7 @@ window.PAST_PAPER_DATA = {
       "number": 61,
       "stem": "다음 사례에 해당하는 지역사회복지 실천모형은?",
       "choices": [
-        "M.Weil &D. Gamble의 연합 모형 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2021년 02월 06일 필기 기출",
+        "M.Weil &D. Gamble의 연합 모형",
         "J. Rothman의 합리적계획 모형",
         "K. Popple의 커뮤니티케어 모형",
         "J. Rothman의 연대조직 모형",
@@ -22546,7 +23632,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_62",
@@ -22565,7 +23651,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_63",
@@ -22584,7 +23670,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_64",
@@ -22603,7 +23689,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_65",
@@ -22622,7 +23708,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_66",
@@ -22641,7 +23727,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_67",
@@ -22654,13 +23740,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "시ㆍ군ㆍ구 지역사회보장계획은 변경할 수 없다.",
         "사회보장에 관한 기본계획과 연계되도록 하여야 한다.",
-        "3년마다 수립하고, 매년 연차별 시행계획을 수립하여야 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 한다.",
+        "3년마다 수립하고, 매년 연차별 시행계획을 수립하여야",
         "시ㆍ군ㆍ구 지역사회보장계획은 사회보장위원회의 심의 를 거쳐야 한다.",
         "지역사회보장계획의 평가, 지원 등을 위한 지역사회보장 지원센터를 설치ㆍ운영할 수 있다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_68",
@@ -22679,7 +23765,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_69",
@@ -22698,7 +23784,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_70",
@@ -22717,7 +23803,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_71",
@@ -22736,7 +23822,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_72",
@@ -22751,11 +23837,17 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ",
         "ㄴ, ㄷ",
         "ㄱ, ㄷ, ㄹ",
-        "ㄱ, ㄴ, ㄷ, ㄹ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2021년 02월 06일 필기 기출"
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "statements":       [
+              "사회적 기업",
+              "마을기업",
+              "사회적협동조합",
+              "자활기업"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_73",
@@ -22774,7 +23866,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_74",
@@ -22793,7 +23885,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_2교시_75",
@@ -22808,11 +23900,17 @@ window.PAST_PAPER_DATA = {
         "ㄴ - ㄷ - ㄱ – ㄹ",
         "ㄴ - ㄷ - ㄹ - ㄱ",
         "ㄷ - ㄴ - ㄹ – ㄱ",
-        "ㄷ - ㄹ - ㄴ – ㄱ 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프 로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합 니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 오답 및 오탈자가 수정된 최신 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "ㄷ - ㄹ - ㄴ – ㄱ"
+      ],
+      "statements":       [
+              "사회서비스원시범사업",
+              "희망복지지원단운영",
+              "사회복지통합관리망(행복e음)구축",
+              "찾아가는보건복지서비스"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_1",
@@ -22831,7 +23929,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_2",
@@ -22850,7 +23948,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_3",
@@ -22867,9 +23965,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "인간과 환경을 서로 영향을 주고받는 단일체 계로간주한다",
+              "인간본성에 대한 정신적·환경적 결정론을 이 론적 바탕으로 한다.",
+              "성격을 개인과 환경 사이의 상호교류의 산물 로 이해한다.",
+              "타인과 관계를 맺는 인간의 능력은 환경과의 상호작용을 통하며 후천적으로 습득된다고 전 제한다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_4",
@@ -22888,7 +23992,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_5",
@@ -22899,7 +24003,7 @@ window.PAST_PAPER_DATA = {
       "number": 5,
       "stem": "에릭슨(E. Erikson)의 이론에 관한 설명으로 옳은 것은?",
       "choices": [
-        "발달에 영향을 미치는 유전적ㆍ생물학적 요인을 배제하였 다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "발달에 영향을 미치는 유전적ㆍ생물학적 요인을 배제하였 다.",
         "발달에 영향을 미치는 사회적ㆍ문화적 요인을 인정하지 않았다.",
         "성인기 이후의 발달을 고려하지 않았다.",
         "자아(ego)의 자율적, 창조적 기능을 고려하지 않았다.",
@@ -22907,7 +24011,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_6",
@@ -22924,9 +24028,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "자기(Self)는 중년기 이후에 나타나는원형 (archetype)D|다.",
+              "과거의 사건 및 미래에대한 열망이 성격발달 에 동시에 영향을 미친다.",
+              "리비도(libido)는 전반적인 삶의 에너지를 말한 다.",
+              "성격발달은개성화를통한자기실현의과정이 다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_7",
@@ -22945,7 +24055,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_8",
@@ -22964,7 +24074,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_9",
@@ -22983,7 +24093,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_10",
@@ -22994,7 +24104,7 @@ window.PAST_PAPER_DATA = {
       "number": 10,
       "stem": "로저스(C. Rogers)의 이론에 관한 설명으로 옳지 않은 것 은?",
       "choices": [
-        "개입 과정에서 상담가의 진실성 및 일치성을 강조하였 다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2021년 02월 06일 필기 기",
+        "개입 과정에서 상담가의 진실성 및 일치성을 강조하였 다.",
         "자아실현을 하는 사람을 완전히 기능하는 인간(fully functioning person)이라는 용어로 정리하였다.",
         "인간이 지닌 보편적ㆍ객관적 경험을 강조하였다.",
         "무조건적 긍정적 관심과 수용을 강조하였다.",
@@ -23002,7 +24112,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_11",
@@ -23021,7 +24131,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_12",
@@ -23040,7 +24150,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_13",
@@ -23065,7 +24175,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_14",
@@ -23080,11 +24190,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 미시체계, ㄴ: 외체계",
         "ㄱ: 중간체계, ㄴ: 외체계",
         "ㄱ: 미시체계, ㄴ: 중간체계",
-        "ㄱ: 중간체계, ㄴ: 미시체계 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "ㄱ: 중간체계, ㄴ: 미시체계"
+      ],
+      "statements":       [
+              "는 개인이 참여하는 둘 이상의 미시체계 간의 상호작용으로서, 미시체계간의 연결망을 의미한다. -(",
+              "는 개인이 직접 참며하고 있지는 않지만. 그 개인의 발달에 영향을 주는 사회적 환경을 의미한다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_15",
@@ -23103,7 +24217,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_16",
@@ -23122,7 +24236,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_17",
@@ -23141,7 +24255,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_18",
@@ -23160,7 +24274,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_19",
@@ -23169,7 +24283,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "인간행동과 사회환경",
       "number": 19,
-      "stem": "아동기(7-12세)에 관한 설명으로 옳은 것을 모두 고른 것 은?(문제 오류로 가답안 발표시 3번이 답안으로 발표되었으 나, 확정답안 발표시 전항 정답 처리 되었습니다. 여기서는 가답안인 3번을 누르면 정답 처리 됩니다.) 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2021년 02월 06일 필기 기",
+      "stem": "아동기(7-12세)에 관한 설명으로 옳은 것을 모두 고른 것 은?(문제 오류로 가답안 발표시 3번이 답안으로 발표되었으 나, 확정답안 발표시 전항 정답 처리 되었습니다. 여기서는 가답안인 3번을 누르면 정답 처리 됩니다.)",
       "choices": [
         "ㄱ",
         "ㄴ, ㄹ",
@@ -23185,7 +24299,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_20",
@@ -23204,7 +24318,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_21",
@@ -23223,7 +24337,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_22",
@@ -23242,7 +24356,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_23",
@@ -23261,7 +24375,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_24",
@@ -23270,7 +24384,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "인간행동과 사회환경",
       "number": 24,
-      "stem": "브론펜브레너(U. Bronfenbrenner)의 거시체계(macro system)에 관한 설명으로 옳은 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "브론펜브레너(U. Bronfenbrenner)의 거시체계(macro system)에 관한 설명으로 옳은 것은?",
       "choices": [
         "가족 체계를 구성하는 요소는 개인이다.",
         "역사적ㆍ사회적ㆍ문화적 요인에 의해서 형성되고 수정되 는 특성이 있다.",
@@ -23280,7 +24394,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_25",
@@ -23299,7 +24413,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_26",
@@ -23318,7 +24432,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_27",
@@ -23335,9 +24449,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "사회복지학은 사회문제에 대처하기 위한 학문 미다.",
+              "사회과학은 사회복지의 실천적 지식의 제공 및 이론적 발전에 기며할 수 있다.",
+              "사회복지학은 응용 과학이아닌순수 과학에 속한다.",
+              "사회복지학은사회과학에의해발전된개념들 을활용할수있다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_28",
@@ -23350,13 +24470,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "질적조사에 비하여 양적조사의 표본크기가 상대적으로 크다.",
         "질적조사에 비하여 양적조사에서는 귀납법을 주로 사용 한다.",
-        "양적조사에 비하여 질적조사는 사회 현상의 주관적 의미 에 관심을 갖는다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2021년 02월 06일 필기 기",
+        "양적조사에 비하여 질적조사는 사회 현상의 주관적 의미 에 관심을 갖는다.",
         "양적조사는 가설검증을 지향하고 질적조사는 탐색, 발견 을 지향한다.",
         "양적조사에 비하여 질적조사는 조사결과의 일반화가 어 렵다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_29",
@@ -23375,7 +24495,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_30",
@@ -23392,9 +24512,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 선행변수, ㄴ: 매개변수, ㄷ: 외생변수, ㄹ: 조절변수",
         "ㄱ: 선행변수, ㄴ: 매개변수, ㄷ: 종속변수, ㄹ: 외생변수"
       ],
+      "statements":       [
+              "라고 한다. 독립변수의 결과인 동시에 종속변수의 원인이 되는 변수를(",
+              "라고한다. 다른 변수에 의존하지만 다른 변수에 영향을 미 칠 수 없는 변수를(",
+              "라고 한다. 독립변수와 종속변수 모두에 영향을 미치는 제",
+              "의 변수를("
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_31",
@@ -23413,7 +24539,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_32",
@@ -23426,13 +24552,19 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "ㄱ: 원인변수, ㄴ: 결과변수, ㄷ: 확률표집방법, ㄹ: 크게",
         "ㄱ: 원인변수, ㄴ: 결과변수, ㄷ: 무작위할당, ㄹ: 작게",
-        "ㄱ: 원인변수, ㄴ: 결과변수, ㄷ: 확률표집방법, ㄹ: 작게 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "ㄱ: 원인변수, ㄴ: 결과변수, ㄷ: 확률표집방법, ㄹ: 작게",
         "ㄱ: 결과변수, ㄴ: 원인변수, ㄷ: 확률표집방법, ㄹ: 크게",
         "ㄱ: 결과변수, ㄴ: 원인변수, ㄷ: 무작위할당, ㄹ: 작게"
       ],
+      "statements":       [
+              "이외의 다른 변수가(",
+              "에 개입할 조건을 통제하며 야 한다. 외적타당도를 높이기 위해서는(",
+              "으로 연구 대상를 선정하거나 표본크기를 (",
+              "하며야 한다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_33",
@@ -23451,7 +24583,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_34",
@@ -23468,9 +24600,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "명목척도는 응답범주의 서열이 없는 척도이다.",
+              "비율척도의 대표적인 유형은 리커트 척도이다.",
+              "비율척도는 절대 0점이 존재하는 척도이다.",
+              "서열척도는변수의 속성에따라 일정한 범주로 분류한다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_35",
@@ -23489,7 +24627,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_36",
@@ -23508,7 +24646,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_37",
@@ -23517,7 +24655,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "사회복지조사론",
       "number": 37,
-      "stem": "다음이 설명하는 척도로 옳은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2021년 02월 06일 필기 기",
+      "stem": "다음이 설명하는 척도로 옳은 것은?",
       "choices": [
         "리커트척도(Likert scale)",
         "거트만척도(Guttman scale)",
@@ -23527,7 +24665,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_38",
@@ -23546,7 +24684,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_39",
@@ -23565,7 +24703,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_40",
@@ -23582,9 +24720,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄹ"
       ],
+      "statements":       [
+              "기존자료에 의존하기 때문에 연구의 범위가 무 제한적이다.",
+              "선정편향(selection bias)이 발생할 수 있다.",
+              "연구대상자의반응성을배제할 수있다.",
+              "기존자료를활용하는 질적조사이기때문에가 설검증은 필요하지 않다"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_41",
@@ -23601,9 +24745,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "솔로몬 4집단 설계 (Solomon four-group design)",
+              "단일집단 사전사후검사 설계 (one -group pretest-posttest design)",
+              "단일집단 사후검사 설계 (one-group posttest–only design)",
+              "통제집단 사후검사 설계 (posttest–only control group design)"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_42",
@@ -23614,7 +24764,7 @@ window.PAST_PAPER_DATA = {
       "number": 42,
       "stem": "단일사례설계방법에 관한 설명으로 옳은 것은?",
       "choices": [
-        "ABCD설계는 여러 개의 개입효과를 개별적으로 증명하기 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 위한 설계이다.",
+        "ABCD설계는 여러 개의 개입효과를 개별적으로 증명하기",
         "AB설계는 외부요인을 충분히 통제할 수 있기 때문에 여 러 유형의 문제에 적용가능하다.",
         "복수기초선설계는 기초선 단계 이후 여러 개의 다른 개 입방법을 순차적으로 적용한다.",
         "ABAB설계는 외부요인을 통제할 수 있어 개입의 효과를 확인할 수 있다.",
@@ -23622,7 +24772,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_43",
@@ -23641,7 +24791,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_44",
@@ -23660,7 +24810,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_45",
@@ -23679,7 +24829,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_46",
@@ -23696,9 +24846,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "장기간 관할",
+              "표준화된척도의사용",
+              "부정적 사례(negative cases)분석",
+              "다각화(triangulation)"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_47",
@@ -23710,14 +24866,14 @@ window.PAST_PAPER_DATA = {
       "stem": "초점집단(focus group) 조사에 관한 설명으로 옳지 않은 것 은?",
       "choices": [
         "집단을 활용한 자료수집방법이다.",
-        "익명의 전문가들을 패널로 활용한다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2021년 02월 06일 필기 기",
+        "익명의 전문가들을 패널로 활용한다.",
         "욕구조사에서 활용된다.",
         "직접적인 자료수집 방법이다.",
         "연구자의 개입에 의해 편향이 발생할 수 있다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_48",
@@ -23736,7 +24892,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_49",
@@ -23755,7 +24911,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2021_1교시_50",
@@ -23770,11 +24926,17 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄹ",
         "ㄴ, ㄷ",
         "ㄱ, ㄷ, ㄹ",
-        "ㄴ, ㄷ, ㄹ 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프 로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합 니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 오답 및 오탈자가 수정된 최신 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "ㄴ, ㄷ, ㄹ"
+      ],
+      "statements":       [
+              "전화조사는 무작위 표본추출이 가능하다",
+              "우편조사는 심층규명이 쉽다.",
+              "배포조사는 응답 환경을 통제하기 쉽다.",
+              "면접조사는 우편조사에 비해 비용이 많이 든다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_1",
@@ -23793,7 +24955,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_2",
@@ -23812,7 +24974,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_3",
@@ -23831,7 +24993,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_4",
@@ -23850,7 +25012,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_5",
@@ -23869,7 +25031,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_6",
@@ -23881,14 +25043,14 @@ window.PAST_PAPER_DATA = {
       "stem": "최근 논의되는 사회복지정책 이슈들에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "생태주의 관점에서는 복지국가의 ‘성장’ 패러다임을 옹호 한다.",
-        "4차 산업혁명, 일자리 감소, 소득 양극화 심화 등의 이슈 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 는 ‘기본소득’ 도입의 필요성과 관련되어 있다.",
+        "4차 산업혁명, 일자리 감소, 소득 양극화 심화 등의 이슈",
         "민달팽이유니온, 복지국가청년네트워크 등은 청년 세대운 동 조직이 출현한 사례에 해당한다.",
         "‘마을만들기’ 사업은 주민참여형 복지라고 할 수 있다.",
         "‘커뮤니티 케어’는 탈시설화와 관련되어 있다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_7",
@@ -23907,7 +25069,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_8",
@@ -23926,7 +25088,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_9",
@@ -23945,7 +25107,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_10",
@@ -23964,7 +25126,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_11",
@@ -23979,11 +25141,17 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ",
         "ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ",
-        "ㄱ, ㄴ, ㄷ, ㄹ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2020년 02월 08일 필기 기"
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "statements":       [
+              "역의 선택(Adverse Selection)이 나타난다",
+              "가입자의 도덕적 해이가 발생할 가능성이 크다.",
+              "위험발생이상호의존적이기때문에보험료율 계산이 머렵다.",
+              "무임승차자 문제가 발생한다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_12",
@@ -24000,9 +25168,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "마동(가족)수당",
+              "완전고용",
+              "포괄적 의료및 재활서비스",
+              "최저임금"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_13",
@@ -24021,7 +25195,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_14",
@@ -24038,9 +25212,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "정률의 사회보험료는 소득세에 비해 역진적이다.",
+              "사회보험료는 조세에 비해 징수에 대한 저항이 적다.",
+              "소득세와 사회보험료 모두 소득이 높은 사람이 더많이 부담한다.",
+              "조세는지불능력(Capacity to Pay)과 관련되어 있다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_15",
@@ -24059,7 +25239,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_16",
@@ -24073,12 +25253,12 @@ window.PAST_PAPER_DATA = {
         "근로복지공단은 보험급여를 결정하고 지급한다.",
         "업무상의 재해란 업무상의 사유에 따른 근로자의 부상ㆍ 질병ㆍ장해 또는 사망을 말한다.",
         "직장 내 괴롭힘, 고객의 폭언 등으로 인한 업무상 정신 적 스트레스가 원인이 되어 발생한 질병은 업무상 재해 로 인정되지 않는다.",
-        "업무상 질병의 인정 여부를 심의하기 위하여 근로복지공 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 단 소속 기관에 업무상질병판정위원회를 둔다.",
+        "업무상 질병의 인정 여부를 심의하기 위하여 근로복지공",
         "국민건강보험공단이 보험료를 징수한다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_17",
@@ -24097,7 +25277,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_18",
@@ -24116,7 +25296,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_19",
@@ -24135,7 +25315,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_20",
@@ -24154,7 +25334,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_21",
@@ -24173,7 +25353,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_22",
@@ -24184,7 +25364,7 @@ window.PAST_PAPER_DATA = {
       "number": 22,
       "stem": "고용보험제도에 관한 설명으로 옳은 것은?",
       "choices": [
-        "실업급여를 받을 권리는 양도 또는 압류하거나 담보로 제공할 수 없다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2020년 02월 08일 필기 기",
+        "실업급여를 받을 권리는 양도 또는 압류하거나 담보로 제공할 수 없다.",
         "구직급여의 급여일수는 대기기간을 포함하여 산정한다.",
         "육아휴직 시작일로부터 3개월까지는 월 통상임금의 100 분의 50에 해당하는 금액을 지급한다.",
         "자영업자인 피보험자의 실업급여에는 구직급여, 연장급 여, 조기재취업 수당이 포함된다.",
@@ -24192,7 +25372,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_23",
@@ -24211,7 +25391,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_24",
@@ -24230,7 +25410,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_25",
@@ -24249,7 +25429,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_26",
@@ -24264,11 +25444,11 @@ window.PAST_PAPER_DATA = {
         "사회서비스 활동으로 민간조직을 제외한 공공조직이 수 행한다.",
         "관리자가 조직목표를 달성하기 위해서 수행하는 과정, 기능 그리고 활동이다.",
         "사회복지 과업수행을 위해서 인적ㆍ물적 자원을 체계적 으로 결합ㆍ운영하는 합리적 행동이다.",
-        "사회복지제도와 정책을 서비스 급여, 프로그램으로 전환 시키기 위한 전달체계이다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "사회복지제도와 정책을 서비스 급여, 프로그램으로 전환 시키기 위한 전달체계이다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_27",
@@ -24287,7 +25467,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_28",
@@ -24306,7 +25486,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_29",
@@ -24330,7 +25510,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_30",
@@ -24349,7 +25529,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_31",
@@ -24364,11 +25544,11 @@ window.PAST_PAPER_DATA = {
         "지역사회 욕구를 충족시키기 위한 조직관리 기술을 필요 로 한다.",
         "모든 구성원들이 조직운영 과정에 참여하여 일정 부분 영향을 미친다.",
         "조직 내부 부서 간의 관료적이고 위계적인 조직관리 기 술을 필요로 한다.",
-        "사회복지조직의 관리자는 조직의 운영을 지역사회와 연 관시킬 책임이 있다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2020년 02월 08일 필기 기"
+        "사회복지조직의 관리자는 조직의 운영을 지역사회와 연 관시킬 책임이 있다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_32",
@@ -24387,7 +25567,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_33",
@@ -24406,7 +25586,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_34",
@@ -24425,7 +25605,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_35",
@@ -24444,7 +25624,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_36",
@@ -24463,7 +25643,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_37",
@@ -24474,7 +25654,7 @@ window.PAST_PAPER_DATA = {
       "number": 37,
       "stem": "직무수행평가에 관한 설명으로 옳은 것은?",
       "choices": [
-        "기준의 확립은 평가의 마지막 단계에서 이루어진다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "기준의 확립은 평가의 마지막 단계에서 이루어진다.",
         "조직원들에게 직무수행의 기대치를 전달하는 목적을 지 니고 있다.",
         "도표평정식평가(Graphic Rating Scale)는 관대화오류 (Leniency Error)가 발생되지 않는다.",
         "자기평가는 서비스 이용자에 의한 평가보다 많은 비용이 소모되는 어려움이 있다.",
@@ -24482,7 +25662,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_38",
@@ -24501,7 +25681,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_39",
@@ -24520,7 +25700,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_40",
@@ -24539,7 +25719,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_41",
@@ -24563,7 +25743,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_42",
@@ -24587,7 +25767,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_43",
@@ -24606,7 +25786,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_44",
@@ -24625,7 +25805,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_45",
@@ -24644,7 +25824,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_46",
@@ -24661,9 +25841,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ - ㄷ - ㄹ - ㅁ - ㄴ",
         "ㄷ - ㄹ - ㅁ - ㄴ - ㄱ"
       ],
+      "statements":       [
+              "사회복지사무소 시범사업",
+              "희망복지지원단",
+              "사회복지전문요원",
+              "보건복지사무소 시범사업 ㅁ.지역사회보장협의체"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_47",
@@ -24672,7 +25858,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지행정론",
       "number": 47,
-      "stem": "시간별 활동계획도표(Gantt Chart)의 설명으로 옳은 것을 모 두 고른 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "시간별 활동계획도표(Gantt Chart)의 설명으로 옳은 것을 모 두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ",
         "ㄱ, ㄷ",
@@ -24680,9 +25866,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄹ",
         "ㄷ, ㄹ"
       ],
+      "statements":       [
+              "시간별 활동계획의 설계는 확인-조정-계획-실행 의 순환적 과정으로 이루어진다.",
+              "헨리 간트(H. Gantt)에 의해 최초로 개발되었다.",
+              "목표달성 기한을 정해놓고 목표달성을 위해 설 정된 주요활동과 시간계획을 연결시켜 도표로 나타낸 것이다.",
+              "활동과 활동 사이의 상관관계를 파악하기 힘들 다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_48",
@@ -24701,7 +25893,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_49",
@@ -24720,7 +25912,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_50",
@@ -24739,7 +25931,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_51",
@@ -24756,9 +25948,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ, ㄴ",
         "ㄷ, ㄹ"
       ],
+      "statements":       [
+              "긴급복지지원법",
+              "고용보험법",
+              "노인복지법",
+              "기초연금법"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_52",
@@ -24767,7 +25965,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 52,
-      "stem": "헌법 제34조 규정의 일부이다. ( )에 들어갈 내용이 순서대 로 옳은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2020년 02월 08일 필기 기",
+      "stem": "헌법 제34조 규정의 일부이다. ( )에 들어갈 내용이 순서대 로 옳은 것은?",
       "choices": [
         "공공부조, 헌법",
         "공공부조, 법률",
@@ -24777,7 +25975,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_53",
@@ -24796,7 +25994,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_54",
@@ -24815,7 +26013,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_55",
@@ -24834,7 +26032,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_56",
@@ -24853,7 +26051,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_57",
@@ -24862,7 +26060,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 57,
-      "stem": "사회보장급여의 이용ㆍ제공 및 수급권자 발굴에 관한 법률 상 사회복지전담공무원에 관한 내용으로 옳지 않은 것을 모 두 고른 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "사회보장급여의 이용ㆍ제공 및 수급권자 발굴에 관한 법률 상 사회복지전담공무원에 관한 내용으로 옳지 않은 것을 모 두 고른 것은?",
       "choices": [
         "ㄱ",
         "ㄴ",
@@ -24877,7 +26075,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_58",
@@ -24896,7 +26094,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_59",
@@ -24915,7 +26113,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_60",
@@ -24934,7 +26132,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_61",
@@ -24953,7 +26151,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_62",
@@ -24966,13 +26164,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "보장기관은 자활지원사업의 원활한 추진을 위하여 자활 기금을 적립한다.",
         "보장기관은 지역자활센터에 국유ㆍ공유 재산의 무상임대 지원을 할 수 있다.",
-        "보장기관은 수급자 및 차상위자가 자활에 필요한 자산을 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2020년 02월 08일 필기 기 형성할 수 있도록 재정적인 지원을 할 수 있다.",
+        "보장기관은 수급자 및 차상위자가 자활에 필요한 자산을",
         "보장기관은 수급자 및 차상위자의 자활 촉진에 필요한 사업을 수행하게 하기 위하여 법인 등의 신청을 받아 지 역자활센터를 지정할 수 있다.",
         "수급자 및 소득인정액이 기준 중위소득의 100분의 70 이상인 자는 상호 협력하여 자활기업을 설립ㆍ운영할 수 있다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_63",
@@ -24991,7 +26189,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_64",
@@ -25010,7 +26208,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_65",
@@ -25029,7 +26227,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_66",
@@ -25048,7 +26246,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_67",
@@ -25057,7 +26255,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 67,
-      "stem": "노인장기요양보험법상 장기요양급여 제공의 기본원칙에 해 당하는 것을 모두 고른 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "노인장기요양보험법상 장기요양급여 제공의 기본원칙에 해 당하는 것을 모두 고른 것은?",
       "choices": [
         "ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ",
@@ -25065,9 +26263,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "노인 등의 심신상태나 건강 등이 악화되지아 니하도록 의료서비스와 연계하며 이를 제공하 여야 한다.",
+              "노인 등이 자신의 의사와 능력에 따라 최대한 자립적으로 일상생활을 수행할 수 있도록 제 공하며야 한다.",
+              "노인 등이 가족과 함께 생활하면서 가정에서 장기요양을 받는 재가급여를 우선적으로 제공 하며야 한다.",
+              "노인 등의심신상태·생활환경과 노인등및 그 가족의 욕구·선택을 종합적으로 고려하며 필요한 범위 안에서 이를 적정하게 제공하여 야 한다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_68",
@@ -25086,7 +26290,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_69",
@@ -25105,7 +26309,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_70",
@@ -25124,7 +26328,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_71",
@@ -25133,7 +26337,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 71,
-      "stem": "노인복지법상 노인학대에 관한 내용으로 옳지 않은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2020년 02월 08일 필기 기",
+      "stem": "노인복지법상 노인학대에 관한 내용으로 옳지 않은 것은?",
       "choices": [
         "「119구조ㆍ구급에 관한 법률」에 따른 119구급대의 구 급대원은 65세 이상의 사람에 대한 노인학대 신고의무자 에 속한다.",
         "노인학대를 알게 된 때에는 신고의무자만 신고할 수 있 다.",
@@ -25143,7 +26347,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_72",
@@ -25162,7 +26366,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_73",
@@ -25181,7 +26385,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_74",
@@ -25200,7 +26404,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_3교시_75",
@@ -25215,11 +26419,11 @@ window.PAST_PAPER_DATA = {
         "국가인권위원회 위원장은 3년마다 가정폭력에 대한 실태 조사를 실시하여야 한다.",
         "시ㆍ도지사는 외국어 서비스를 제공하는 긴급전화센터를 따로 설치ㆍ운영할 수 있다.",
         "지방자치단체는 가정폭력 관련 상담소를 외국인, 장애인 등 대상별로 특화하여 운영할 수 있다.",
-        "지방자치단체는 가정폭력 관련 상담원 교육훈련시설을 설치ㆍ운영할 수 있다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프 로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합 니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 오답 및 오탈자가 수정된 최신 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "지방자치단체는 가정폭력 관련 상담원 교육훈련시설을 설치ㆍ운영할 수 있다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_1",
@@ -25238,7 +26442,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_2",
@@ -25257,7 +26461,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_3",
@@ -25276,7 +26480,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_4",
@@ -25295,7 +26499,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_5",
@@ -25310,11 +26514,11 @@ window.PAST_PAPER_DATA = {
         "중간체계 : 개인이 직접 상호작용을 하지는 않지만 간접 적인 영향을 미치고 있는 환경",
         "내부체계 : 개인 내면의 심리적인 상호작용",
         "외부체계 : 개인이 속한 사회의 이념이나 제도의 일반적 형태",
-        "거시체계 : 개인이 적극적으로 참여하는 둘 이상의 환경 간의 상호관계 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "거시체계 : 개인이 적극적으로 참여하는 둘 이상의 환경 간의 상호관계"
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_6",
@@ -25331,9 +26535,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ - ㄴ - ㄱ - ㄷ",
         "ㄹ - ㄷ - ㄴ - ㄱ"
       ],
+      "statements":       [
+              "가장 적절한 전략이나 개입방법을 선택한다",
+              "해당문제와 관련된 사람과 제도를 확인한다",
+              "확인된 목표에 따라 설정된 개입방안의 효과성 과효율성를평가한다.",
+              "문제를 해결하거나 문제의 정도를 경감할 수 있는개입목표를명확히 한다"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_7",
@@ -25352,7 +26562,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_8",
@@ -25369,9 +26579,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "실천 결과의 모호성",
+              "사회복지사와 클라이언트 간의 힘의 불균형",
+              "클라이언트 체계의 다중성",
+              "기관에대한의무와 클라이언트에대한의무의 상총"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_9",
@@ -25390,7 +26606,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_10",
@@ -25402,7 +26618,7 @@ window.PAST_PAPER_DATA = {
       "stem": "사회복지실천 과정의 자료수집에 관한 예시로 옳은 것을 모 두 고른 것은?",
       "choices": [
         "ㄱ",
-        "ㄷ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2020년 02월 08일 필기 기출",
+        "ㄷ",
         "ㄱ, ㄴ",
         "ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ"
@@ -25414,7 +26630,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_11",
@@ -25433,7 +26649,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_12",
@@ -25452,7 +26668,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_13",
@@ -25477,7 +26693,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_14",
@@ -25496,7 +26712,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_15",
@@ -25505,7 +26721,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천론",
       "number": 15,
-      "stem": "다음에서 사례관리자가 수행한 역할이 아닌 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "다음에서 사례관리자가 수행한 역할이 아닌 것은?",
       "choices": [
         "상담가",
         "중재자",
@@ -25515,7 +26731,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_16",
@@ -25534,7 +26750,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_17",
@@ -25553,7 +26769,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_18",
@@ -25572,7 +26788,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_19",
@@ -25591,7 +26807,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_20",
@@ -25603,14 +26819,14 @@ window.PAST_PAPER_DATA = {
       "stem": "클라이언트를 개별화하기 위해 사회복지사에게 필요한 역량 이 아닌 것은?",
       "choices": [
         "언어적 표현에 대한 경청 능력",
-        "비언어적 표현에 대한 관찰 능력 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2020년 02월 08일 필기 기출",
+        "비언어적 표현에 대한 관찰 능력",
         "질환에 대해 진단할 수 있는 능력",
         "편견과 선입관에 대한 자기인식 능력",
         "감정을 민감하게 포착할 수 있는 능력"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_21",
@@ -25629,7 +26845,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_22",
@@ -25646,9 +26862,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "경청하고 수용하는 태도",
+              "클라이언트가 활용 가능한 자원을 찾고 분석하 도록 지원하는 능력",
+              "클라이언트의 잠재력을 개발하는 데 도움이 되 는환경조성능력",
+              "클라이언트에게 필요한 것들을 결정하며 이를 관철시키는 능력"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_23",
@@ -25667,7 +26889,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_24",
@@ -25686,7 +26908,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_25",
@@ -25705,7 +26927,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_26",
@@ -25714,7 +26936,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 26,
-      "stem": "사회복지실천의 지식과 기술을 습득하는 방법으로 옳은 것 을 모두 고른 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "사회복지실천의 지식과 기술을 습득하는 방법으로 옳은 것 을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄷ",
         "ㄴ, ㄹ",
@@ -25722,9 +26944,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "사례회의(case conference)를 개최하여 통합 적지원방법에대해 논의한다",
+              "가족치료모델을 이해하기 위해 해결중심가족치 료세미나에 참석한다.",
+              "윤리적 가치갈등의 문제에 대하여 직장동료한 테자문을구한다.",
+              "초점집단면접(Focus Group Interview)을 실시 하여 이용자 인식을 확인한다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_27",
@@ -25741,9 +26969,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "성원의 내적 변화를 파악하기 위해 개별상담을 한다.",
+              "성원들의 참여를촉진하기위해집단의목적을 상기시킨다.",
+              "하위집단의 의사소통과 상호작용 빈도를 평가 한다.",
+              "집단에대한의존성을 감소시키기위해모임주 기를조절한다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_28",
@@ -25760,9 +26994,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ - ㄱ - ㄹ - ㄷ",
         "ㄴ - ㄹ - ㄱ - ㄷ"
       ],
+      "statements":       [
+              "자조집단",
+              "성장집단",
+              "치료집단",
+              "교육집단"
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_29",
@@ -25781,7 +27021,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_30",
@@ -25793,14 +27033,14 @@ window.PAST_PAPER_DATA = {
       "stem": "사회기술훈련에서 활용되는 기법을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄷ",
-        "ㄴ, ㄹ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2020년 02월 08일 필기 기출",
+        "ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ",
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_31",
@@ -25819,7 +27059,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_32",
@@ -25838,7 +27078,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_33",
@@ -25857,7 +27097,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_34",
@@ -25876,7 +27116,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_35",
@@ -25893,9 +27133,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "원가족 생활주기 파악",
+              "원가족 스트레스와 레질리언스 탐색",
+              "구조적 관점으로 미분화된 경계 파악",
+              "역사적 관점으로 미해결된 과거관계의 잔재 확인"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_36",
@@ -25904,7 +27150,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 36,
-      "stem": "다음 사례에서 사회복지사의 개입방법에 관한 설명으로 옳 은 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "다음 사례에서 사회복지사의 개입방법에 관한 설명으로 옳 은 것은?",
       "choices": [
         "가족 옹호",
         "가족 재구성",
@@ -25914,7 +27160,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_37",
@@ -25931,9 +27177,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "사회변화에 민감한 체계이다",
+              "현대 가족은 점차 정서적 기능이 약화되고 있 다.",
+              "가족의 현재 모습은 세대 간 전승된 통합과 조 정의 결과물이다.",
+              "기능적인 가족은 응집성과 적응성. 문제해결력 이 높은 가족이다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_38",
@@ -25952,7 +27204,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_39",
@@ -25966,12 +27218,12 @@ window.PAST_PAPER_DATA = {
         "비난형 의사소통 유형이다.",
         "스스로 해결하고자 하는 의지의 표명이다.",
         "현재의 상태를 유지하려고 하는 항상성이 있다.",
-        "독립과 자립을 강조하는 사회문화적 영향으로 도움에 거 부적이다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2020년 02월 08일 필기 기출",
+        "독립과 자립을 강조하는 사회문화적 영향으로 도움에 거 부적이다.",
         "일방적 신고를 당해서 외부인에 대한 불신과 배신감을 느끼고 있다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_40",
@@ -25988,9 +27240,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "세대를 통해 반복되는 패턴 분석",
+              "가족구성원에대한객관적 정보 파악",
+              "가족기능의 불균형과 그것에 기여하는 요인 분석",
+              "가족구성원별 인생의 중요사건과 이에 대한 다른 가족구성원의 역할 분석"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_41",
@@ -26009,7 +27267,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_42",
@@ -26028,7 +27286,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_43",
@@ -26047,7 +27305,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_44",
@@ -26066,7 +27324,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_45",
@@ -26079,13 +27337,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "클라이언트의 문제의 원인을 심리내부에서 찾는다.",
         "의료모델을 기초로 문제 중심의 접근을 지향한다.",
-        "다양한 질문기법들을 활용하여 클라이언트와 대화한다. 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "다양한 질문기법들을 활용하여 클라이언트와 대화한다.",
         "클라이언트의 준거들, 인식, 강점보다 문제 자체에 초점 을 둔다.",
         "신속한 문제해결을 위해 행동변화를 위한 새로운 전략을 가르친다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_46",
@@ -26104,7 +27362,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_47",
@@ -26123,7 +27381,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_48",
@@ -26142,7 +27400,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_49",
@@ -26161,7 +27419,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_50",
@@ -26180,7 +27438,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_51",
@@ -26192,14 +27450,14 @@ window.PAST_PAPER_DATA = {
       "stem": "지역사회복지에 관한 내용으로 옳은 것은?",
       "choices": [
         "UN 지역사회개발 원칙은 정부의 적극적 지원을 받는 것 이 아니라 민간 자원동원을 강조하였다.",
-        "던햄(A. Dunham)은 사회복지기관은 조직운영과 실천을 민주적으로 해야 한다고 하였다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2020년 02월 08일 필기 기출",
+        "던햄(A. Dunham)은 사회복지기관은 조직운영과 실천을 민주적으로 해야 한다고 하였다.",
         "로스(M. G. Ross)는 추진회 활동 초기에는 소수집단을 위한 사업부터 전개하는 것이 좋다고 하였다.",
         "맥닐(C. F. McNeil)은 지역사회도 자기결정의 권리가 있 어 자발적인 사업추진은 거부해야 한다고 하였다.",
         "워렌(R. L. Warren)은 지역사회조직사업의 주요 목적은 지역사회이익 옹호, 폭넓은 권력집중이라고 하였다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_52",
@@ -26218,7 +27476,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_53",
@@ -26237,7 +27495,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_54",
@@ -26261,7 +27519,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_55",
@@ -26286,7 +27544,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_56",
@@ -26298,14 +27556,14 @@ window.PAST_PAPER_DATA = {
       "stem": "지역사회복지실천 가치에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "상호학습이 없으면 비판적 의식은 제한적으로 생성됨",
-        "억압을 조장하는 사회구조 및 의사결정과정을 주시하고 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 이해함",
+        "억압을 조장하는 사회구조 및 의사결정과정을 주시하고",
         "억압적이고 정의롭지 못한 사회현실 개혁을 위한 끊임없 는 노력이 필요함",
         "실천가가 주목해야 할 역량강화는 불리한 조건에 처한 주민들의 능력 고취임",
         "다양한 문화에 대한 이해를 바탕으로 특수 문화가 있는 지역에서 일어나는 억압은 인정됨"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_57",
@@ -26324,7 +27582,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_58",
@@ -26343,7 +27601,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_59",
@@ -26362,7 +27620,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_60",
@@ -26376,12 +27634,12 @@ window.PAST_PAPER_DATA = {
         "사회지표 분석",
         "프로그램 기획",
         "커뮤니티 프로파일링(community profiling)",
-        "지역사회 지도 그리기 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2020년 02월 08일 필기 기출",
+        "지역사회 지도 그리기",
         "청 원"
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_61",
@@ -26406,7 +27664,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_62",
@@ -26423,9 +27681,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "권력 키우기",
+              "의식고양하기",
+              "공공의제만들기",
+              "지역사회사회자본확장"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_63",
@@ -26444,7 +27708,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_64",
@@ -26463,7 +27727,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_65",
@@ -26482,7 +27746,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_66",
@@ -26494,14 +27758,14 @@ window.PAST_PAPER_DATA = {
       "stem": "협상(negotiation) 기술에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "협상 범위를 면밀히 분석한다.",
-        "사회행동모델에 사용할 수 없다. 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "사회행동모델에 사용할 수 없다.",
         "협상 과정에 중재자가 개입할 수 있다.",
         "재원확보와 기관 간 협력을 만드는데 유리하다.",
         "협상 시 양쪽 대표들은 이슈와 쟁점에 대해 토의해야 한 다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_67",
@@ -26520,7 +27784,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_68",
@@ -26537,9 +27801,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "지역사회보장 전달체계의 조직과 운영",
+              "지역 내 부정수급 발생 현황 및 방지대책",
+              "사회보장급여의사각지대발굴및지원방안",
+              "지역사회보장의 분야별 추진전략,중점 추진사 업및 연계협력 방만"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_69",
@@ -26558,7 +27828,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_70",
@@ -26577,7 +27847,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_71",
@@ -26596,7 +27866,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_72",
@@ -26605,7 +27875,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "지역사회복지론",
       "number": 72,
-      "stem": "다음에서 사회복지관이 사회복지서비스를 우선 제공하여야 할 대상을 모두 고른 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2020년 02월 08일 필기 기출",
+      "stem": "다음에서 사회복지관이 사회복지서비스를 우선 제공하여야 할 대상을 모두 고른 것은?",
       "choices": [
         "A씨",
         "A씨, 배우자",
@@ -26615,7 +27885,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_73",
@@ -26639,7 +27909,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_74",
@@ -26656,9 +27926,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "중앙정부의'사회서비스원'운영",
+              "'시·군·구복지허브화'실시",
+              "'읍·면·동 찾아가는 보건복지서비스'실시",
+              "사회적경제주체들의 다양화"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_2교시_75",
@@ -26673,7 +27949,7 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄹ",
         "ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ",
-        "ㄱ, ㄴ, ㄷ, ㄹ 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 최신 수정된(오타, 오답, 규정변경) 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
       "statements":       [
               "복지권리의식과 시민의식을 배양하는 복지권 확립",
@@ -26683,7 +27959,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_1",
@@ -26702,7 +27978,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_2",
@@ -26726,7 +28002,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_3",
@@ -26745,7 +28021,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_4",
@@ -26764,7 +28040,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_5",
@@ -26783,7 +28059,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_6",
@@ -26792,7 +28068,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "인간행동과 사회환경",
       "number": 6,
-      "stem": "로저스(C. Rogers)의 이론에 관한 설명으로 옳은 것을 모두 고른 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "로저스(C. Rogers)의 이론에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ",
         "ㄴ, ㄷ",
@@ -26800,9 +28076,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "인간은 합목적적이며 건설적인 존재이다.",
+              "모든 인간에게는 객관적 현실만 존재한다.",
+              "완전히기능하는사람은자신의경험에대해 개방적이다.",
+              "무조건적인 긍정적 관심이 건강한 성격 발달을 위한 중요한 요소이다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_7",
@@ -26821,7 +28103,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_8",
@@ -26840,7 +28122,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_9",
@@ -26859,7 +28141,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_10",
@@ -26883,7 +28165,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_11",
@@ -26898,11 +28180,11 @@ window.PAST_PAPER_DATA = {
         "인지능력의 발달은 아동과 환경 간의 상호작용에 의해 단계적으로 성취되며 발달단계의 순서는 변하지 않는 다.",
         "인간의 무의식에 초점을 둔다.",
         "도덕발달단계를 1단계에서 6단계로 제시한다.",
-        "보존개념은 전조작기에 획득된다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2020년 02월 08일 필기 기"
+        "보존개념은 전조작기에 획득된다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_12",
@@ -26921,7 +28203,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_13",
@@ -26940,7 +28222,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_14",
@@ -26964,7 +28246,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_15",
@@ -26983,7 +28265,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_16",
@@ -27002,7 +28284,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_17",
@@ -27013,7 +28295,7 @@ window.PAST_PAPER_DATA = {
       "number": 17,
       "stem": "집단에 관한 설명으로 옳은 것은?",
       "choices": [
-        "일차집단(primary group)은 목적달성을 위해 인위적으 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 로 만들어진 집단이다.",
+        "일차집단(primary group)은 목적달성을 위해 인위적으",
         "이차집단(secondary group)은 혈연이나 지연을 바탕으 로 자연발생적으로 이루어진 집단이다.",
         "자연집단(natural group)은 특정 위원회나 팀처럼 일정 한 목적을 갖는 것이 특징이다.",
         "자조집단(self-help group)은 유사한 어려움과 관심사 를 가진 구성원들의 경험을 나누며 바람직한 변화를 추 구한다.",
@@ -27021,7 +28303,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_18",
@@ -27040,7 +28322,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_19",
@@ -27059,7 +28341,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_20",
@@ -27084,7 +28366,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_21",
@@ -27093,7 +28375,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "인간행동과 사회환경",
       "number": 21,
-      "stem": "유아기(3~6세)의 발달에 관한 설명으로 옳은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2020년 02월 08일 필기 기",
+      "stem": "유아기(3~6세)의 발달에 관한 설명으로 옳은 것은?",
       "choices": [
         "프로이드(S. Freud)의 오이디푸스 콤플렉스와 엘렉트라 콤플렉스가 일어나는 시기이다,",
         "콜버그(L. Kohlberg)의 후인습적 단계의 도덕적 사고가 나타나는 시기이다.",
@@ -27103,7 +28385,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_22",
@@ -27122,7 +28404,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_23",
@@ -27141,7 +28423,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_24",
@@ -27160,7 +28442,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_25",
@@ -27179,7 +28461,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_26",
@@ -27188,7 +28470,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "사회복지조사론",
       "number": 26,
-      "stem": "조사설계(research design)에 반드시 포함되어야 할 내용 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 이 아닌 것은?",
+      "stem": "조사설계(research design)에 반드시 포함되어야 할 내용",
       "choices": [
         "구체적인 자료수집 방법",
         "모집단 및 표집방법",
@@ -27198,7 +28480,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_27",
@@ -27217,7 +28499,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_28",
@@ -27236,7 +28518,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_29",
@@ -27255,7 +28537,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_30",
@@ -27274,7 +28556,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_31",
@@ -27293,7 +28575,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_32",
@@ -27302,7 +28584,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "사회복지조사론",
       "number": 32,
-      "stem": "다음 연구 상황에 유용한 조사유형은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2020년 02월 08일 필기 기",
+      "stem": "다음 연구 상황에 유용한 조사유형은?",
       "choices": [
         "평가적 연구",
         "기술적 연구",
@@ -27312,7 +28594,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_33",
@@ -27331,7 +28613,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_34",
@@ -27350,7 +28632,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_35",
@@ -27367,9 +28649,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "이론적 배경을 가져야 한다.",
+              "변수 간 관계를 가장한 문장이다.",
+              "가설구성을 통해 연구문제가 도출된다",
+              "창의적 해석이 가능하도록 개방적으로 구성되 어야 한다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_36",
@@ -27381,14 +28669,14 @@ window.PAST_PAPER_DATA = {
       "stem": "단일사례설계의 개입효과에 관한 설명으로 옳지 않은 것 은?",
       "choices": [
         "개입 후 변화의 파동이 심하면 효과 판단이 어렵다.",
-        "기초선이 불안정할 경우 기초선의 경향선을 이용하여 통계적으로 개입효과를 판단한다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "기초선이 불안정할 경우 기초선의 경향선을 이용하여 통계적으로 개입효과를 판단한다.",
         "기초선에서 개입기간까지의 경향선을 통해 시각적으로 개입효과를 판단한다.",
         "기초선과 개입기간 두 평균값의 통계적 검증을 통해 개 입효과를 판단한다.",
         "개입 후 상당한 기간이 지나 최초의 변화가 발생할 경 우 개입효과가 있다고 판단한다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_37",
@@ -27412,7 +28700,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_38",
@@ -27431,7 +28719,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_39",
@@ -27450,7 +28738,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_40",
@@ -27469,7 +28757,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_41",
@@ -27488,7 +28776,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_42",
@@ -27497,7 +28785,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "사회복지조사론",
       "number": 42,
-      "stem": "A대학교는 전체 재학생 중 5백 명을 선정하여 취업욕구조 사를 하고자 한다. 비용 부담이 가장 적고 절차가 간편한 자료수집방법은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2020년 02월 08일 필기 기",
+      "stem": "A대학교는 전체 재학생 중 5백 명을 선정하여 취업욕구조 사를 하고자 한다. 비용 부담이 가장 적고 절차가 간편한 자료수집방법은?",
       "choices": [
         "우편조사",
         "방문조사",
@@ -27507,7 +28795,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_43",
@@ -27526,7 +28814,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_44",
@@ -27545,7 +28833,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_45",
@@ -27564,7 +28852,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_46",
@@ -27583,7 +28871,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_47",
@@ -27595,14 +28883,14 @@ window.PAST_PAPER_DATA = {
       "stem": "확률표집에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "무작위추출방식으로 표본을 추출한다.",
-        "의식적이거나 무의식적인 편향(bias)을 방지할 수 있다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "의식적이거나 무의식적인 편향(bias)을 방지할 수 있다.",
         "모집단의 규모와 특성을 알 때 사용할 수 있다.",
         "표본오차를 추정할 수 있다.",
         "질적 연구에서 주로 사용한다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_48",
@@ -27621,7 +28909,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_49",
@@ -27640,7 +28928,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2020_1교시_50",
@@ -27655,11 +28943,17 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ",
         "ㄷ, ㄹ",
         "ㄱ, ㄷ, ㄹ",
-        "ㄱ, ㄴ, ㄷ, ㄹ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2020년 02월 08일 필기 기 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프 로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합 니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 오답 및 오탈자가 수정된 최신 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "statements":       [
+              "현상학-늙어간다는것이머떤 의미인지를 이해할 수 있다.",
+              "참여행동연구-이혼 가족이 경험한 가족해체 사례를 심층적으로 이해할 수 있다.",
+              "근거이론-지속적비교 기법을통해 노인의 재취업경험을 이론화할 수 있다.",
+              "생애사-위안부 피해자할머니삶의 중요한 사건을 이해할 수 있다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_1",
@@ -27678,7 +28972,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_2",
@@ -27697,7 +28991,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_3",
@@ -27716,7 +29010,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_4",
@@ -27735,7 +29029,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_5",
@@ -27752,9 +29046,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "출퇴근 재해",
+              "업무상질병",
+              "업무상사고",
+              "장애등급"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_6",
@@ -27769,11 +29069,11 @@ window.PAST_PAPER_DATA = {
         "드림스타트(Dream Start) 사업은 기회의 평등을 반영하는 것으로 볼 수 있다.",
         "공공부조의 급여는 산술적 평등을, 열등처우의 원칙은 비 례적 평등을 반영하는 것이다.",
         "모든 사람에게 동등한 의료서비스를 제공하는 영국의 국 민보건서비스(NHS)는 결과의 평등을 반영하는 것으로 볼 수 있다.",
-        "비례적 평등은 결과의 평등이다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "비례적 평등은 결과의 평등이다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_7",
@@ -27792,7 +29092,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_8",
@@ -27811,7 +29111,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_9",
@@ -27830,7 +29130,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_10",
@@ -27849,7 +29149,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_11",
@@ -27864,11 +29164,11 @@ window.PAST_PAPER_DATA = {
         "유효수요가 감소하면 경기불황을 가져오고, 소득이 감소 한다.",
         "저축이 증가하면 투자가 감소하고, 고용의 감소로 이어 진다.",
         "유효수요가 증가하면 경기호황을 가져와 투자의 증가로 이어진다.",
-        "소득이 증가하면 저축이 감소하고, 투자의 감소로 이어 진다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2019년 01월 19일 필기 기"
+        "소득이 증가하면 저축이 감소하고, 투자의 감소로 이어 진다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_12",
@@ -27887,7 +29187,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_13",
@@ -27906,7 +29206,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_14",
@@ -27925,7 +29225,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_15",
@@ -27944,7 +29244,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_16",
@@ -27953,7 +29253,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지정책론",
       "number": 16,
-      "stem": "사회복지정책 평가가 필요한 이유를 모두 고른 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "사회복지정책 평가가 필요한 이유를 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄹ",
@@ -27961,9 +29261,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "문제해결을 위한 정책결정에 필요한 정보를 얻 기위함",
+              "기존 정책의 개선에 필요한 정보를 얻기 위함",
+              "정책의 정당성 근거를 확보하기 위함",
+              "정책평가는사회복지정책 이론의 형성에 기여함"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_17",
@@ -27982,7 +29288,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_18",
@@ -28001,7 +29307,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_19",
@@ -28020,7 +29326,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_20",
@@ -28039,7 +29345,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_21",
@@ -28048,7 +29354,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지정책론",
       "number": 21,
-      "stem": "재분배와 파레토(Pareto) 효율에 관한 설명으로 옳지 않은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2019년 01월 19일 필기 기",
+      "stem": "재분배와 파레토(Pareto) 효율에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "파레토 개선이란 다른 사람들의 효용을 감소시키지 않으 면서 어떤 사람들의 효용을 증가시키는 것이다.",
         "파레토 효율의 정의상 소득재분배는 매우 효율적이다.",
@@ -28058,7 +29364,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_22",
@@ -28077,7 +29383,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_23",
@@ -28101,7 +29407,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_24",
@@ -28118,9 +29424,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "확정급여식 연금의 재정은 완전적립방식에서 부과방식까지 다양하게 운용될 수 있다.",
+              "확정기여식 연금의 급여액은 기본적으로 적립 한 기여금과 기여금의 투자수익에 의해서 결 정된다.",
+              "확정급여식 연금제도에서는 투자위험에 대해서 개인이 전적으로 책임진다.",
+              "확정기며식 연금제도에서는 물가상승,경기침 체 등의 위험을 사회 전체적으로 분산대응하 는 장점이 있다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_25",
@@ -28135,11 +29447,11 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄹ",
         "ㄱ, ㄷ, ㄹ",
         "ㄴ, ㄷ, ㄹ",
-        "ㄱ, ㄴ, ㄷ, ㄹ 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 2과목 : 사회복지 행정론"
+        "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_26",
@@ -28158,7 +29470,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_27",
@@ -28177,7 +29489,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_28",
@@ -28194,9 +29506,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "조직 내 권위는 수평적으로 구조화된다.",
+              "조직 운영에서 구성원 개인의 사적 감정은 배 제된다.",
+              "직무 배분과 인력 배치는 공식적 규칙과 규정 에의해서 이루어진다.",
+              "업무와 활동을 분업화함으로써 전문화를 추구 한다"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_29",
@@ -28215,7 +29533,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_30",
@@ -28234,7 +29552,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_31",
@@ -28246,14 +29564,14 @@ window.PAST_PAPER_DATA = {
       "stem": "행렬조직(matrix organization)에 관한 설명으로 옳은 것은?",
       "choices": [
         "직무 배치가 위계와 부서별 구분에 따라 이루어지는 전 형적 조직이다.",
-        "조직운영을 지원하는 비공식 조직을 의미한다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2019년 01월 19일 필기 기",
+        "조직운영을 지원하는 비공식 조직을 의미한다.",
         "합리성을 강조하기 때문에 조직 유연성을 저하시킬 수 있다.",
         "직무별 분업을 인정하면서 동시에 사업별 협력을 강조한 다.",
         "현실에서 작동하지 않는 가상의 사업조직을 일컫는다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_32",
@@ -28272,7 +29590,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_33",
@@ -28289,9 +29607,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "인구사회학적 조건은 사회문제와 욕구를 가능 할 수 있게 한다.",
+              "빈곤이나 실업에대한사람들의태도는정책 수립과 실행에 영향을 미친다",
+              "과학기술 발전정도는 사회복지조직 운영에영 향을미친다.",
+              "조직에미치는영향에따라 일반환경과 과업환 경으로구분할수 있다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_34",
@@ -28308,9 +29632,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "직원 급여",
+              "전기요금",
+              "한국사회복지관협회회비",
+              "국민연금 보험료 사용자 부담분"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_35",
@@ -28325,11 +29655,11 @@ window.PAST_PAPER_DATA = {
         "피들러(F. E. Fiedler)의 상황이론에 의하면 상황의 호의 성이 모두 불리하면 리더가 인간중심의 행동을 해야 효 과적이다.",
         "허시와 블랜차드(P. Hersey &K. H. Blanchard)의 상황 이론에 의하면 구성원의 성숙도가 낮을 경우 위임형 리 더십이 적합하다.",
         "퀸(R. Quinn)의 경쟁적 가치 리더십에 의하면 동기부여 형 리더십은 목표달성가 리더십과 상반된 가치를 추구한 다.",
-        "배스(B. M. Bass)의 변혁적 리더십에 의하면 변혁적 리 더는 구성원의 욕구와 보상에 주된 관심을 갖는다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "배스(B. M. Bass)의 변혁적 리더십에 의하면 변혁적 리 더는 구성원의 욕구와 보상에 주된 관심을 갖는다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_36",
@@ -28346,9 +29676,14 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 사회적, ㄴ: 권력, ㄷ: 성장",
         "ㄱ: 친교, ㄴ: 존경, ㄷ: 권력"
       ],
+      "statements":       [
+              "욕구 가 강한 자원봉사자에게는 말벗되기 등 대면서비스 를 담당하도록 배정하고, (",
+              "욕구가 강한 자원봉 사자에게는 팀장 등 관리 업무를 맡기고,(",
+              "욕 구가 강한 자원봉사자에게는후원자개발 등 다소 어려운 업무를배정한다"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_37",
@@ -28367,7 +29702,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_38",
@@ -28386,7 +29721,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_39",
@@ -28405,7 +29740,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_40",
@@ -28419,12 +29754,12 @@ window.PAST_PAPER_DATA = {
         "회계연도 개시와 동시에 결정되어야 한다.",
         "수지 균형을 맞춰 흑자 예산이 되어야 한다.",
         "회계연도가 중첩되도록 다년도로 수립하여야 한다.",
-        "예산이 집행된 후 즉시 심의ㆍ의결을 거쳐야 한다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2019년 01월 19일 필기 기",
+        "예산이 집행된 후 즉시 심의ㆍ의결을 거쳐야 한다.",
         "세입과 세출은 모두 예산에 계상하여야 한다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_41",
@@ -28443,7 +29778,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_42",
@@ -28462,7 +29797,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_43",
@@ -28481,7 +29816,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_44",
@@ -28500,7 +29835,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_45",
@@ -28525,7 +29860,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_46",
@@ -28534,7 +29869,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지행정론",
       "number": 46,
-      "stem": "일반적인 마케팅 믹스(4P) 전략에 포함되지 않는 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "일반적인 마케팅 믹스(4P) 전략에 포함되지 않는 것은?",
       "choices": [
         "가격(Price)",
         "촉진(Promotion)",
@@ -28544,7 +29879,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_47",
@@ -28563,7 +29898,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_48",
@@ -28582,7 +29917,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_49",
@@ -28601,7 +29936,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_50",
@@ -28620,7 +29955,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_51",
@@ -28639,7 +29974,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_52",
@@ -28648,7 +29983,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 52,
-      "stem": "법률의 제정연도가 빠른 순서대로 나열된 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2019년 01월 19일 필기 기",
+      "stem": "법률의 제정연도가 빠른 순서대로 나열된 것은?",
       "choices": [
         "ㄱ - ㄴ - ㄷ - ㄹ",
         "ㄱ - ㄷ - ㄹ - ㄴ",
@@ -28656,9 +29991,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ - ㄱ - ㄷ - ㄴ",
         "ㄹ - ㄴ - ㄱ - ㄷ"
       ],
+      "statements":       [
+              "국민연금법",
+              "고용보험법",
+              "국민건강보험법",
+              "산업재해보상보험법"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_53",
@@ -28677,7 +30018,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_54",
@@ -28696,7 +30037,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_55",
@@ -28715,7 +30056,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_56",
@@ -28734,7 +30075,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_57",
@@ -28743,7 +30084,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 57,
-      "stem": "사회보장급여의 이용ㆍ제공 및 수급권자 발굴에 관한 법률 의 내용으로 옳은 것을 모두 고른 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "사회보장급여의 이용ㆍ제공 및 수급권자 발굴에 관한 법률 의 내용으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ",
         "ㄷ",
@@ -28758,7 +30099,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_58",
@@ -28777,7 +30118,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_59",
@@ -28796,7 +30137,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_60",
@@ -28815,7 +30156,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_61",
@@ -28826,7 +30167,7 @@ window.PAST_PAPER_DATA = {
       "number": 61,
       "stem": "국민기초생활 보장법의 내용으로 옳지 않은 것은?",
       "choices": [
-        "수급자에 대한 급여는 정당한 사유 없이 수급자에게 불 리하게 변경할 수 없다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2019년 01월 19일 필기 기",
+        "수급자에 대한 급여는 정당한 사유 없이 수급자에게 불 리하게 변경할 수 없다.",
         "“수급자”란 이 법에 따른 급여를 받는 사람을 말한다.",
         "이 법에 따른 급여는 건강하고 문화적인 최저생활을 유 지할 수 있는 것이어야 한다.",
         "수급자 및 차상위자는 상호 협력하여 자활기업을 설립ㆍ 운영할 수 있다.",
@@ -28834,7 +30175,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_62",
@@ -28853,7 +30194,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_63",
@@ -28872,7 +30213,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_64",
@@ -28891,7 +30232,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_65",
@@ -28910,7 +30251,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_66",
@@ -28919,7 +30260,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 66,
-      "stem": "노인장기요양보험법상 장기요양인정을 신청할 수 있는 자격 을 갖춘 자를 모두 고른 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "노인장기요양보험법상 장기요양인정을 신청할 수 있는 자격 을 갖춘 자를 모두 고른 것은?",
       "choices": [
         "ㄱ",
         "ㄷ",
@@ -28934,7 +30275,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_67",
@@ -28953,7 +30294,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_68",
@@ -28972,7 +30313,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_69",
@@ -28991,7 +30332,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_70",
@@ -29010,7 +30351,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_71",
@@ -29024,12 +30365,12 @@ window.PAST_PAPER_DATA = {
         "1, 1",
         "3, 3",
         "5, 5",
-        "7, 7 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2019년 01월 19일 필기 기",
+        "7, 7",
         "10, 7"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_72",
@@ -29048,7 +30389,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_73",
@@ -29065,9 +30406,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "성폭력 신고체계의 구축·운영",
+              "성폭력예방을위한 유해환경개선",
+              "성폭력 예방을 위한 조사·연구,교육 및 홍보",
+              "피해자에 대한 직업훈련 및 법률구조 등 사회 복귀 지원"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_74",
@@ -29086,7 +30433,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_3교시_75",
@@ -29101,11 +30448,11 @@ window.PAST_PAPER_DATA = {
         "국민건강보험료 체납으로 인하여 보험급여가 제한되는 기간 중에 발생한 보험료에 대한 강제 징수는 건강보험 가입자의 재산권을 침해한다.",
         "국민기초생활 보장법령상 수급자등의 금융자산을 확인할 수 있는 자료의 제출요구는 급여신청자의 평등권을 침해 한다.",
         "60세 이상의 국민에 대한 국민연금제도 가입을 제한하는 것은 헌법상의 인간다운 생활을 할 권리를 침해하는 것 이라고 볼 수 없다.",
-        "사회복지사업법의 규정 내용 중 사회복지법인의 재산을 기본재산과 보통재산으로 구분하도록 한 것은 명확성의 원칙에 위반된다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프 로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합 니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 오답 및 오탈자가 수정된 최신 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "사회복지사업법의 규정 내용 중 사회복지법인의 재산을 기본재산과 보통재산으로 구분하도록 한 것은 명확성의 원칙에 위반된다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_1",
@@ -29124,7 +30471,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_2",
@@ -29143,7 +30490,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_3",
@@ -29160,9 +30507,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "전문적인 이론체계를 갖고 있음",
+              "개인의변화와사회적 변혁에 관심을듬",
+              "미시 및 거시적 개입방법을 모두 이해해야 함",
+              "타 분야 전문가와의 협업을 위해 고유한 정체 성의 발전은 불필요함"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_4",
@@ -29181,7 +30534,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_5",
@@ -29190,7 +30543,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천론",
       "number": 5,
-      "stem": "사회복지사 윤리에 관한 설명으로 옳은 것을 모두 고른 것 은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "사회복지사 윤리에 관한 설명으로 옳은 것을 모두 고른 것 은?",
       "choices": [
         "ㄱ, ㄴ",
         "ㄱ, ㄷ",
@@ -29198,9 +30551,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "사회복지사는 원조과정에서 자신의 이익을 위 해행동해서는 안됨",
+              "로웬버그와 돌고프의 윤리원칙 준거들은 생명 보호를최우선으로함",
+              "윤리강령은 윤리적 갈등이 생겼을 때 법적 제 재의 근거를제공함",
+              "사회복지사는 국가자격이므로 사회복지사 윤리 강령은 국가가 채택함"
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_6",
@@ -29219,7 +30578,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_7",
@@ -29238,7 +30597,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_8",
@@ -29257,7 +30616,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_9",
@@ -29276,7 +30635,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_10",
@@ -29289,13 +30648,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "클라이언트의 문제에 초점을 둠",
         "사회복지사는 클라이언트 삶의 전문가임",
-        "변화를 위한 자원은 전문가의 지식과 기술임 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2019년 01월 19일 필기 기출",
+        "변화를 위한 자원은 전문가의 지식과 기술임",
         "실천의 초점을 과거에서 현재와 미래로 전환함",
         "강점은 용기와 낙관주의 같은 개인 내적인 요소로 한정 함"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_11",
@@ -29314,7 +30673,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_12",
@@ -29331,9 +30690,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "임파워먼트는 개인,대인관계,제도적 차원에 서이루어짐",
+              "클라이언트를 문제해결의 협력적 파트너로 인 정함",
+              "클라이언트를 위해 자원을동원하거나 권리를 옹호함",
+              "모델의 이념적 근원은 레이놀즈(B. Reynolds) 의 활동에서찾을 수 있음"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_13",
@@ -29352,7 +30717,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_14",
@@ -29371,7 +30736,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_15",
@@ -29380,7 +30745,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천론",
       "number": 15,
-      "stem": "전문적 관계의 기본원칙 중 다음 내용 모두에 해당하는 것 은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "전문적 관계의 기본원칙 중 다음 내용 모두에 해당하는 것 은?",
       "choices": [
         "수용",
         "비밀보장",
@@ -29390,7 +30755,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_16",
@@ -29409,7 +30774,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_17",
@@ -29428,7 +30793,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_18",
@@ -29447,7 +30812,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_19",
@@ -29464,9 +30829,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "클라이언트가 거부감을 느끼지 않도록 정서적 으로지지함",
+              "의뢰하는 기관과 서비스의 정보를 클라이언트 에게제공함",
+              "반드시 클라이언트의 동의가 필요한 것은 아님",
+              "의뢰된 기관에서 클라이언트가 서비스를 적절 히받는지 확인함"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_20",
@@ -29475,7 +30846,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천론",
       "number": 20,
-      "stem": "사정단계에서 클라이언트가 제시한 ‘남편의 일중독’ 문제를 ‘자신이 남편에게 중요한 존재임을 느끼고 싶어 하는’ 욕구 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2019년 01월 19일 필기 기출 로 바꾸어 진술하는 것은?",
+      "stem": "사정단계에서 클라이언트가 제시한 ‘남편의 일중독’ 문제를 ‘자신이 남편에게 중요한 존재임을 느끼고 싶어 하는’ 욕구",
       "choices": [
         "문제발견",
         "문제형성",
@@ -29485,7 +30856,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_21",
@@ -29504,7 +30875,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_22",
@@ -29523,7 +30894,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_23",
@@ -29542,7 +30913,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_24",
@@ -29566,7 +30937,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_25",
@@ -29585,7 +30956,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_26",
@@ -29594,7 +30965,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 26,
-      "stem": "정신역동모델의 개념과 개입기술에 관한 설명으로 옳은 것 을 모두 고른 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "정신역동모델의 개념과 개입기술에 관한 설명으로 옳은 것 을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ",
         "ㄱ, ㄷ",
@@ -29602,9 +30973,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "해석의 목적은 통찰력 향상에 있다.",
+              "훈습은 모순이나 불일치를 직시하도록 원조하 는 단회성기법이다",
+              "전이는 반복적이며 퇴행하는 특징을 갖는다.",
+              "자유연상을 시행하는 경우 주제와 관련 없는 내용은 억제시킨다."
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_27",
@@ -29623,7 +31000,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_28",
@@ -29640,9 +31017,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "생태도는 진행과정과 종결과정에서도 활용한 다.",
+              "생활력표를 활용하며 현재의 기능수행에 영향 을미치는 발달단계상 생활경험을이해한다.",
+              "소시오그램은 가족 구성원의 사회적 활동을 측 정하는 도구이다.",
+              "가족조각은 가족역동을 시각적으로 표현하며 구성원의 인식을 파악하는 도구이다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_29",
@@ -29661,7 +31044,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_30",
@@ -29676,11 +31059,11 @@ window.PAST_PAPER_DATA = {
         "의뢰의 필요성 검토",
         "변화노력의 일반화",
         "구성원 간 피드백 교환",
-        "집단 성원 간 공통점과 차이점 파악 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2019년 01월 19일 필기 기출"
+        "집단 성원 간 공통점과 차이점 파악"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_31",
@@ -29699,7 +31082,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_32",
@@ -29718,7 +31101,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_33",
@@ -29735,9 +31118,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "임파워먼트모델에서는 클라이언트를 일방적 수 혜자로 인식하지않는다.",
+              "과제중심모델은 펄만(H.Perlman)의 문제해결 요소의 영향을 받았다.",
+              "위기개입모델에서는 클라이언트의 과거를 탐색 하는 데 우선순위를 두지 않는다.",
+              "클라이언트중심모델에서는 사회복지사의 권위 적인 역할이 강조된다"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_34",
@@ -29756,7 +31145,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_35",
@@ -29765,7 +31154,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 35,
-      "stem": "가족사회복지실천의 개념에 관한 설명으로 옳은 것을 모두 고른 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "가족사회복지실천의 개념에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ",
         "ㄱ, ㄴ",
@@ -29781,7 +31170,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_36",
@@ -29800,7 +31189,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_37",
@@ -29817,9 +31206,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "집단 초기단계에 나타나 집단응집력을 촉진한 다.",
+              "정서적 유대감을 갖게된 집단구성원 간에 형 성된다.",
+              "적게는 한 명에서 많게는 다수로 구성된다.",
+              "소시오메트리를 통해 측정 가능하다."
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_38",
@@ -29838,7 +31233,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_39",
@@ -29847,7 +31242,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 39,
-      "stem": "집단회기를 마무리하는 방식으로 옳은 것을 모두 고른 것 은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2019년 01월 19일 필기 기출",
+      "stem": "집단회기를 마무리하는 방식으로 옳은 것을 모두 고른 것 은?",
       "choices": [
         "ㄱ, ㄷ",
         "ㄱ, ㄹ",
@@ -29855,9 +31250,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "회기에 대한 사회복지사의 관찰과 생각을 전달 한다.",
+              "회기 중 제기된 이슈를 다 마무리하지 않고 회 기를마쳐도 된다.",
+              "회기에서 다룬 내용을 집단 밖에서 어떻게 적 용할지에대한 계획을 묻는다.",
+              "다음 회기에 다루기 원하는 주제나 문제를 질 문한다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_40",
@@ -29876,7 +31277,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_41",
@@ -29895,7 +31296,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_42",
@@ -29914,7 +31315,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_43",
@@ -29933,7 +31334,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_44",
@@ -29942,7 +31343,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 44,
-      "stem": "가족 실천기술과 예시의 연결로 옳은 것을 모두 고른 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "가족 실천기술과 예시의 연결로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ",
         "ㄱ, ㄷ",
@@ -29950,9 +31351,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "합류-사회복지사가 가족의 말투나 몸짓을 [따라한다.",
+              "관계성 질문-“어머니가 여기 계신다고 가정 하고 제가 어머니께 당신의 문제가 해결되면 무엇이 달라지겠냐고 묻는다면 어머니는 뭐라 고 말씀하실까요?\"",
+              "경계만들기-부모와딸의갈등상황에서딸 에게 부모의'과도한 통제'를‘관심과 염려'의 의미로 인식하게 한다.",
+              "균형 깨뜨리기-지배적인 남편과 온순한 아 내 사이에서 사회복지사는 아내의편을 들어 자기주장을 할 수 있게 한다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_45",
@@ -29971,7 +31378,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_46",
@@ -29990,7 +31397,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_47",
@@ -30009,7 +31416,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_48",
@@ -30018,7 +31425,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 48,
-      "stem": "집단사정이 개별성원-전체집단-집단외부환경 차원에서 수행 될 때 ‘전체집단’ 사정에 해당하는 것을 모두 고른 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2019년 01월 19일 필기 기출",
+      "stem": "집단사정이 개별성원-전체집단-집단외부환경 차원에서 수행 될 때 ‘전체집단’ 사정에 해당하는 것을 모두 고른 것은?",
       "choices": [
         "ㄱ",
         "ㄴ",
@@ -30034,7 +31441,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_49",
@@ -30053,7 +31460,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_50",
@@ -30070,9 +31477,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ - ㄱ - ㄹ - ㄷ",
         "ㄴ - ㄹ - ㄱ - ㄷ 3과목 : 지역사회 복지론"
       ],
+      "statements":       [
+              "질문에만 겨우 답하고 눈물을 보이며 시선을 제대로마주치지못함",
+              "\"저는 이 문제를 해결할 수 없어요. 저를 도와 줄사람도 없고요.\"",
+              "우울증검사와 욕구에따른인적, 물적자원연 결이필요함",
+              "자기효능감이저하된상태로 지지체계가 빈약 함"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_51",
@@ -30091,7 +31504,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_52",
@@ -30102,15 +31515,21 @@ window.PAST_PAPER_DATA = {
       "number": 52,
       "stem": "영국 지역사회복지의 발달에 영향을 미친 주요 사건을 순서 대로 나열한 것은?",
       "choices": [
-        "ㄱ - ㄴ - ㄷ - ㅁ - ㄹ 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "ㄱ - ㄴ - ㄷ - ㅁ - ㄹ",
         "ㄱ - ㄴ - ㅁ - ㄹ - ㄷ",
         "ㄱ - ㅁ - ㄹ - ㄴ - ㄷ",
         "ㄴ - ㄱ - ㅁ - ㄹ - ㄷ",
         "ㄴ - ㄷ - ㅁ - ㄹ - ㄱ"
       ],
+      "statements":       [
+              "토인비(Toynbee Hall)설립",
+              "정신보건법(Mental Health Act) 제정",
+              "그리피스(Grifiths)보고서",
+              "하버트(Harbert)보고서 ㅁ.시봄(Seebohm)보고서"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_53",
@@ -30129,7 +31548,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_54",
@@ -30146,9 +31565,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "다양성 존중과 사회가치의 공유",
+              "하위집단의 집합적인 동질성 강조",
+              "구성원의 자율성 유지와 공동 이익의 극대화",
+              "법적 테두리 내에서 공동선의 추구와 조정"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_55",
@@ -30167,7 +31592,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_56",
@@ -30184,9 +31609,13 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 근린지역의 지역사회조직, ㄴ: 계획",
         "ㄱ: 연합, ㄴ: 사회계획"
       ],
+      "statements":       [
+              "모델로 지역사회 내의 자원 배분 과 권력 이양을 성취한 후, 고도의 복잡한 지역사 회문제를 조사·분석하고 해결방안을 모색하기 위 해(",
+              "모델을 적용할 수 있다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_57",
@@ -30195,7 +31624,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "지역사회복지론",
       "number": 57,
-      "stem": "2000년대 이후 한국의 지역사회복지발달에 영향을 미친 주 요 사건을 모두 고른 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2019년 01월 19일 필기 기출",
+      "stem": "2000년대 이후 한국의 지역사회복지발달에 영향을 미친 주 요 사건을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ",
         "ㄴ, ㄹ",
@@ -30203,9 +31632,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "지방자치단체의 장 직접 선출",
+              "시·군·구에희망복지지원단설치",
+              "영구임대아파트단지 내 사회복지관 건립 의무화",
+              "지역사회서비스투자사업실시"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_58",
@@ -30224,7 +31659,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_59",
@@ -30243,7 +31678,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_60",
@@ -30262,7 +31697,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_61",
@@ -30281,7 +31716,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_62",
@@ -30295,12 +31730,12 @@ window.PAST_PAPER_DATA = {
         "사회복지기관의 서비스 제공과정에서 효율성 증대",
         "사회복지사의 연계망 강화 및 확장",
         "이용자 중심의 통합적 서비스 제공",
-        "서비스 계획의 공동 수립과 서비스 제공에서 팀 접근 수 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 행",
+        "서비스 계획의 공동 수립과 서비스 제공에서 팀 접근 수",
         "지역사회 복지의제 개발과 주민 의식화"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_63",
@@ -30319,7 +31754,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_64",
@@ -30338,7 +31773,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_65",
@@ -30355,9 +31790,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "지역사회 내 다양한 집단들에 의해 표출된 불 만의 집약",
+              "지역사회문제의 조사 및 평가",
+              "지역사회내불이익을당하는주민의옹호와 대변",
+              "지역사회조직과정에서지역주민들에게 공동의 목표강조"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_66",
@@ -30376,7 +31817,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_67",
@@ -30388,14 +31829,14 @@ window.PAST_PAPER_DATA = {
       "stem": "지역사회보장협의체의 구성 조직 및 역할을 적절하게 연결 하고 있는 것은?",
       "choices": [
         "대표협의체: 통합사례관리 지원",
-        "실무협의체: 지역사회보장계획의 의회 보고 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2019년 01월 19일 필기 기출",
+        "실무협의체: 지역사회보장계획의 의회 보고",
         "실무분과: 사회복지법인 이사의 추천과 선임 조정",
         "실무분과: 지역사회보장계획의 연차별 시행계획 모니터 링",
         "읍ㆍ면ㆍ동 지역사회보장협의체: 실무협의체 업무 지원"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_68",
@@ -30412,9 +31853,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ - ㅂ - ㄹ - ㄱ - ㄴ - ㅁ",
         "ㄷ - ㅂ - ㄱ - ㄹ - ㄴ - ㅁ"
       ],
+      "statements":       [
+              "세부사업 계획 수립",
+              "지역사회보장협의체 심의",
+              "지역사회보장조사",
+              "행·재정계획 수립 ㅁ.의회 보고 ㅂ.추진 비전 및 목표 수립"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_69",
@@ -30433,7 +31880,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_70",
@@ -30452,7 +31899,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_71",
@@ -30471,7 +31918,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_72",
@@ -30486,11 +31933,11 @@ window.PAST_PAPER_DATA = {
         "마을기업은 주민이 지역자원을 활용한 수익사업을 통해 지역공동체를 활성화한다.",
         "사회적 기업은 취약계층에게 일자리를 제공하며 사회적 기업육성법에 따라 영리를 추구하지 않는다.",
         "자활기업은 저소득층이 상호 협력하여 공동사업자의 형 태로 탈빈곤을 도모한다.",
-        "사회적 경제는 사회적 목적과 민주적 운영 원리를 가진 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 호혜적 경제활동조직이다."
+        "사회적 경제는 사회적 목적과 민주적 운영 원리를 가진"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_73",
@@ -30509,7 +31956,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_74",
@@ -30528,7 +31975,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_2교시_75",
@@ -30543,11 +31990,11 @@ window.PAST_PAPER_DATA = {
         "읍ㆍ면ㆍ동에서 통합사례관리 직접 수행",
         "사회보장정보시스템(행복e음) 개시",
         "복지ㆍ보건ㆍ고용 연계 등 통합서비스 강화",
-        "지역인적안전망 구성의 활성화 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2019년 01월 19일 필기 기출 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프 로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합 니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 오답 및 오탈자가 수정된 최신 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "지역인적안전망 구성의 활성화"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_1",
@@ -30566,7 +32013,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_2",
@@ -30585,7 +32032,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_3",
@@ -30604,7 +32051,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_4",
@@ -30623,7 +32070,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_5",
@@ -30638,11 +32085,11 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ",
         "ㄴ, ㄷ, ㄹ",
-        "ㄱ, ㄴ, ㄷ, ㄹ 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_6",
@@ -30661,7 +32108,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_7",
@@ -30678,9 +32125,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "외향형:정신에너지(리비도)가 외부세계를 향 하고 있다.",
+              "감정형: 구체적이고 사실적인 측면에 초점을 두고 매우 일관성 있는 현실수용을 중시한다.",
+              "사고형: 객관적인 진실과 원리원칙에의해 판 단하며 논리적,분석적이고 규범과 기준을 중 시한다",
+              "직관형:미래의 가능성과 육감에 초점을 두어 변화와 다양성을 중시하며 이성을 필요로 한 다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_8",
@@ -30699,7 +32152,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_9",
@@ -30718,7 +32171,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_10",
@@ -30733,11 +32186,11 @@ window.PAST_PAPER_DATA = {
         "언어적 설득",
         "정서적 각성",
         "행동조성",
-        "성취경험 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2019년 01월 19일 필기 기"
+        "성취경험"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_11",
@@ -30754,9 +32207,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "폐쇄체계가 지속되면 엔트로피 속성이 나타난다.",
+              "환류(feedback)는 정보의 투입에 대한 반응으로 일종의 적응기제이다.",
+              "항상성은외부체계로부터 투입이없어 체계의 구조변화가 고정된 평형상태를 말한다.",
+              "체계는 부분성과 전체성을 동시에 가지며 위계 질서가 존재하는 경우가 많다"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_12",
@@ -30775,7 +32234,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_13",
@@ -30794,7 +32253,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_14",
@@ -30813,7 +32272,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_15",
@@ -30832,7 +32291,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_16",
@@ -30845,13 +32304,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "미시체계에 해당된다.",
         "후천적으로 습득되기보다는 타고 나는 것이다.",
-        "구성원 간 공유되는 생활양식으로 다른 사회 구성원과 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 구별된다.",
+        "구성원 간 공유되는 생활양식으로 다른 사회 구성원과",
         "규범적 문화는 종교적 신념, 신화, 사상 등으로 구성된 다.",
         "문화는 외부의 요구와 무관하게 고정되어 있다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_17",
@@ -30870,7 +32329,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_18",
@@ -30887,9 +32346,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "외부자극에 주로 반사운동을 한다.",
+              "주 양육자와 관계를 바탕으로 신뢰감을 형성한다.",
+              "대상영속성이발달한다.",
+              "서열화사고의 특징을나타낸다"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_19",
@@ -30908,7 +32373,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_20",
@@ -30927,7 +32392,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_21",
@@ -30946,7 +32411,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_22",
@@ -30957,7 +32422,7 @@ window.PAST_PAPER_DATA = {
       "number": 22,
       "stem": "청년기(20-35세)에 관한 설명으로 옳지 않은 것은?",
       "choices": [
-        "부모로부터의 독립에 대한 양가감정에서 해방된다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2019년 01월 19일 필기 기",
+        "부모로부터의 독립에 대한 양가감정에서 해방된다.",
         "직업의 준비와 선택은 주요한 발달과업이다.",
         "사랑하고 보살피는 능력이 심화되는 시기이다.",
         "사회적 성역할 정체감이 확립되는 시기이다.",
@@ -30965,7 +32430,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_23",
@@ -30984,7 +32449,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_24",
@@ -31003,7 +32468,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_25",
@@ -31022,7 +32487,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_26",
@@ -31041,7 +32506,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_27",
@@ -31065,7 +32530,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_28",
@@ -31076,7 +32541,7 @@ window.PAST_PAPER_DATA = {
       "number": 28,
       "stem": "외적타당도와 내적타당도에 관한 설명으로 옳지 않은 것은?",
       "choices": [
-        "사전검사의 실시가 내적타당도에 부정적으로 영향을 미 칠 수 있다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "사전검사의 실시가 내적타당도에 부정적으로 영향을 미 칠 수 있다.",
         "외적타당도를 높이는 중요한 전략 중 하나는 연구를 반 복적으로 실시하여 결과를 축적하는 것이다.",
         "내적타당도가 높으면 외적타당도 또한 높다.",
         "자신이 연구대상자라는 인식이 외적타당도를 낮출 수 있 다.",
@@ -31084,7 +32549,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_29",
@@ -31103,7 +32568,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_30",
@@ -31122,7 +32587,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_31",
@@ -31141,7 +32606,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_32",
@@ -31160,7 +32625,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_33",
@@ -31175,11 +32640,11 @@ window.PAST_PAPER_DATA = {
         "대한민국에서 65세 이상인 노인이 전체 인구의 14 % 이 상이다.",
         "다양성이 존중되는 사회가 그렇지 않은 사회보다 더 바 람직하다.",
         "여성의 노동참여율이 높을수록 출산율은 낮을 것이다.",
-        "모든 행위는 비용과 보상에 의해 결정된다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2019년 01월 19일 필기 기"
+        "모든 행위는 비용과 보상에 의해 결정된다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_34",
@@ -31198,7 +32663,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_35",
@@ -31217,7 +32682,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_36",
@@ -31236,7 +32701,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_37",
@@ -31255,7 +32720,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_38",
@@ -31274,7 +32739,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_39",
@@ -31283,7 +32748,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "사회복지조사론",
       "number": 39,
-      "stem": "질적조사로 보기 어려운 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "질적조사로 보기 어려운 것은?",
       "choices": [
         "근거이론연구",
         "문화기술지연구",
@@ -31293,7 +32758,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_40",
@@ -31312,7 +32777,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_41",
@@ -31331,7 +32796,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_42",
@@ -31348,9 +32813,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ → ㄱ → ㄴ → ㄹ",
         "ㄷ → ㄱ → ㄹ → ㄴ"
       ],
+      "statements":       [
+              "'대학생들의 전공에 따라 다문화수용성이 다를 것이다'라는 가설설정",
+              "표본을추출하며자료수집",
+              "대학생들의 다문화수용성에 관한 선행연구 고할",
+              "구조화된설문지작성"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_43",
@@ -31375,7 +32846,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_44",
@@ -31384,7 +32855,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "사회복지조사론",
       "number": 44,
-      "stem": "할당표본추출에 관한 설명으로 옳지 않은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2019년 01월 19일 필기 기",
+      "stem": "할당표본추출에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "연구자는 모집단에 대한 사전지식을 가지고 있어야 한 다.",
         "연구자의 편향적 선정이 이루어질 수 있다.",
@@ -31394,7 +32865,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_45",
@@ -31413,7 +32884,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_46",
@@ -31432,7 +32903,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_47",
@@ -31451,7 +32922,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_48",
@@ -31470,7 +32941,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_49",
@@ -31485,11 +32956,17 @@ window.PAST_PAPER_DATA = {
         "ㄱ → ㅁ → ㄹ → ㄴ → ㄷ",
         "ㄴ → ㅁ → ㄱ → ㄹ → ㄷ",
         "ㄹ → ㄱ → ㅁ → ㄷ → ㄴ",
-        "ㅁ → ㄱ → ㄹ → ㄴ → ㄷ 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "ㅁ → ㄱ → ㄹ → ㄴ → ㄷ"
+      ],
+      "statements":       [
+              "모집단 확정",
+              "표본크기 결정",
+              "표본추출",
+              "표본추출방법 결정 ㅁ.표집를선정"
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2019_1교시_50",
@@ -31504,11 +32981,17 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄹ",
         "ㄱ, ㄷ, ㄹ",
         "ㄴ, ㄷ, ㄹ",
-        "ㄱ, ㄴ, ㄷ, ㄹ 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프 로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합 니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 오답 및 오탈자가 수정된 최신 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "statements":       [
+              "측정도구를 개발하기 위해서 조작화가 요구된다.",
+              "문화적 편견은 측정의 무작위 오류를 발생시킨다",
+              "리커트 척도구성(scaling)은 서열척도구성이다.",
+              "수능시험은 대학에서의 학업능력을 예비적으로 파 악하는 측정도구이다"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_1",
@@ -31527,7 +33010,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_2",
@@ -31544,9 +33027,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ,ㄹ",
         "ㄷ,ㄹ"
       ],
+      "statements":       [
+              "독일의 재해보험법(188",
+              "에서 재정은 노사가 반반씩부담하였다.",
+              "영국의 국민보험법(191",
+              "은 건강보험과 실업 보험으로 구성되었다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_3",
@@ -31565,7 +33054,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_4",
@@ -31580,11 +33069,11 @@ window.PAST_PAPER_DATA = {
         "윌렌스키와 르보(H. Wilensky &C. Lebeaux)의 제도적 모 형(institutional model): 가족이나 시장 등 정상적인 통로 가 적절히 기능하지 못할 때에만 보충적ㆍ임시적 기능 수 행",
         "미쉬라(R. Mishra)의 분화적 복지국가(differentiated welfare state): 경제집단의 상호의존성을 인식하여 사회 적 협력형태로 제도화 추구",
         "티트머스(R. Titmuss)의 산업성취수행 모형(industrial achievement performance model): 시장밖에서 욕구 원 칙에 입각하여 보편적 서비스 제공",
-        "퍼니스와 틸톤(N. Furniss &T. Tilton)의 적극적 국가 (positive state): 사회보험과 사회부조 실시를 위해 국가 개입 인정 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "퍼니스와 틸톤(N. Furniss &T. Tilton)의 적극적 국가 (positive state): 사회보험과 사회부조 실시를 위해 국가 개입 인정"
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_5",
@@ -31603,7 +33092,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_6",
@@ -31622,7 +33111,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_7",
@@ -31641,7 +33130,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_8",
@@ -31660,7 +33149,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_9",
@@ -31672,14 +33161,14 @@ window.PAST_PAPER_DATA = {
       "stem": "사회복지급여의 하나인 증서(voucher)에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "현금급여에 비해 목표달성에 효과적이다.",
-        "현물급여에 비해 소비자의 선택권이 낮다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2018년 01월 20일 필기 기",
+        "현물급여에 비해 소비자의 선택권이 낮다.",
         "현물급여에 비해 공급자 간 경쟁을 유도하는데 유리하다.",
         "공급자가 소비자를 자의적으로 선택하는 현상이 발생할 수 있다",
         "현물급여에 비해 서비스에 대한 충분한 정보접근이 이루 어져야 한다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_10",
@@ -31698,7 +33187,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_11",
@@ -31717,7 +33206,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_12",
@@ -31736,7 +33225,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_13",
@@ -31753,9 +33242,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ,ㄴ,ㄷ",
         "ㄱ,ㄴ,ㄷ,ㄹ"
       ],
+      "statements":       [
+              "수직적 재분배-공공부조",
+              "세대 내 재분배-개인연금",
+              "수평적 재분배-아동수당",
+              "세대 간 재분배-장기요양보험"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_14",
@@ -31764,7 +33259,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지정책론",
       "number": 14,
-      "stem": "우리나라 중앙정부의 지방정부 재정지원방식에 관한 설명으 로 옳은 것을 모두 고른 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "우리나라 중앙정부의 지방정부 재정지원방식에 관한 설명으 로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄴ",
         "ㄱ,ㄴ",
@@ -31774,7 +33269,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_15",
@@ -31793,7 +33288,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_16",
@@ -31812,7 +33307,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_17",
@@ -31831,7 +33326,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_18",
@@ -31850,7 +33345,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_19",
@@ -31869,7 +33364,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_20",
@@ -31882,13 +33377,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "본인부담상한액은 가입자의 소득수준 등에 따라 정한다.",
         "월별 보험료의 총체납횟수가 6회 이상일 경우 급여가 제 한될 수 있다.",
-        "외래의 본인부담금은 의료기관 및 질병의 종류에 따라 달라진다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2018년 01월 20일 필기 기",
+        "외래의 본인부담금은 의료기관 및 질병의 종류에 따라 달라진다.",
         "직종조합, 지역조합 등이 통합되어 운영되고 있다.",
         "진료비 지불방식 중 포괄수가제(diagnosis related groups)를 2002년 7개 질병군에 한해 시행 하였다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_21",
@@ -31907,7 +33402,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_22",
@@ -31926,7 +33421,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_23",
@@ -31943,9 +33438,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ,ㄷ,ㄹ",
         "ㄴ,ㄷ,ㄹ"
       ],
+      "statements":       [
+              "배상책임이론",
+              "사회적 타협이론",
+              "산업위험이론",
+              "사회비용최소화이론"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_24",
@@ -31964,7 +33465,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_25",
@@ -31983,7 +33484,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_26",
@@ -31992,7 +33493,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지행정론",
       "number": 26,
-      "stem": "베버(M. Weber)의 관료제이론에 관한 설명으로 옳은 것을 모두 고른 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "베버(M. Weber)의 관료제이론에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ,ㄷ",
         "ㄱ,ㄹ",
@@ -32000,9 +33501,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ,ㄴ,ㄹ",
         "ㄴ,ㄷ,ㄹ"
       ],
+      "statements":       [
+              "조직 내 비공식 집단의 중요성을 인식한다.",
+              "조직이 수행해야 할 과업이 일상적·일률적 인 경우 효율적이다.",
+              "조직외부의 정치적 상황에 주목한다.",
+              "조직운영의 권한양식이 합법성·합리성을띠 고 있다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_27",
@@ -32021,7 +33528,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_28",
@@ -32040,7 +33547,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_29",
@@ -32059,7 +33566,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_30",
@@ -32078,7 +33585,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_31",
@@ -32087,7 +33594,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지행정론",
       "number": 31,
-      "stem": "사회복지조직에 관한 설명으로 옳지 않은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2018년 01월 20일 필기 기",
+      "stem": "사회복지조직에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "에치오니(A. Etzioni)의 권력 형태에 따른 분류 중 사회 복지조직은 규범적 조직에 속한다.",
         "블라우(P. Blau)와 스콧(W. Scott)이 제시한 호혜적 조직 은 조직 구성원들이 주요 수혜자인 조직을 말한다.",
@@ -32097,7 +33604,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_32",
@@ -32116,7 +33623,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_33",
@@ -32135,7 +33642,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_34",
@@ -32154,7 +33661,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_35",
@@ -32169,11 +33676,17 @@ window.PAST_PAPER_DATA = {
         "ㄴ,ㄷ",
         "ㄱ,ㄴ,ㄷ",
         "ㄱ,ㄷ,ㄹ",
-        "ㄴ,ㄷ,ㄹ 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "ㄴ,ㄷ,ㄹ"
+      ],
+      "statements":       [
+              "책임성: 충분한 양과 질 높은 서비스가 제 공되어야 한다.",
+              "접근성:제약 없이 서비스를 쉽게 받을 수 있어야 한다.",
+              "연속성: 필요한 서비스가 일정기간동만 지 속적으로 제공되어야 한다.",
+              "전문성:종합적으로 서비스가 제공되어야 한다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_36",
@@ -32192,7 +33705,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_37",
@@ -32211,7 +33724,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_38",
@@ -32230,7 +33743,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_39",
@@ -32249,7 +33762,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_40",
@@ -32264,11 +33777,11 @@ window.PAST_PAPER_DATA = {
         "상황이론",
         "특성이론",
         "공동체이론",
-        "카리스마이론 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2018년 01월 20일 필기 기"
+        "카리스마이론"
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_41",
@@ -32285,9 +33798,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ,ㄷ,ㄹ",
         "ㄱ,ㄴ,ㄷ,ㄹ"
       ],
+      "statements":       [
+              "직원채용을 위해서 직업능력검사를 시행하였 다.",
+              "조직의 역사,사명,기본정책 등에 관하며 직원 오리엔테이션을 가졌다.",
+              "업무 담당자를 위해 직무기술서를 작성하였 다.",
+              "업무성과 평가를 위해 직원의 행동평가를 실 시하였다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_42",
@@ -32306,7 +33825,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_43",
@@ -32325,7 +33844,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_44",
@@ -32344,7 +33863,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_45",
@@ -32357,13 +33876,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "생산 후 소비의 발생이 이루어진다.",
         "틈새시장 마케팅이 시장세분화 정도가 가장 높다.",
-        "사회복지서비스의 표준성은 영리조직 마케팅과의 차이점 중 하나이다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "사회복지서비스의 표준성은 영리조직 마케팅과의 차이점 중 하나이다.",
         "마케팅믹스의 4P는 유통(place), 촉진(promotion), 가격 (price), 문제(problem)를 의미한다.",
         "공익연계마케팅을 통해 참여 기업과 사회복지조직 모두 혜택을 얻을 수 있다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_46",
@@ -32380,9 +33899,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ,ㄴ,ㄹ",
         "ㄱ,ㄴ,ㄷ,ㄹ"
       ],
+      "statements":       [
+              "구체적 프로그램수립단계는 도표 작성 등의 업무를포함한다",
+              "결과예측단계는 발생 가능한 일을 다각도에 서예측해 보는 것이다.",
+              "자원고려단계는 기획과정 중 첫 번째 과정으 로 기관의 자원을 고려하는 것이다.",
+              "개방성유지단계에서 보다 나은 절차가 없는 경우 기존 계획이 유지된다"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_47",
@@ -32401,7 +33926,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_48",
@@ -32420,7 +33945,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_49",
@@ -32444,7 +33969,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_50",
@@ -32456,14 +33981,14 @@ window.PAST_PAPER_DATA = {
       "stem": "기획에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "연속적이며 동태적인 과업이다.",
-        "효율성 및 효과성 모두 관련이 있다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2018년 01월 20일 필기 기",
+        "효율성 및 효과성 모두 관련이 있다.",
         "타당한 사업 추진을 하기 위함이다.",
         "미래의 환경 변화에 대응하기 위한 의사결정과정이다.",
         "목표지향적이나 과정지향적이지는 않다. 3과목 : 사회복지 법제론"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_51",
@@ -32482,7 +34007,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_52",
@@ -32501,7 +34026,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_53",
@@ -32520,7 +34045,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_54",
@@ -32539,7 +34064,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_55",
@@ -32554,11 +34079,11 @@ window.PAST_PAPER_DATA = {
         "보건복지부장관은 사회보장급여 관련 업무에 공통적으로 적용되는 기준을 마련할 수 있다.",
         "사회보장수급권은 관계 법령에서 정하는 바에 따라 다른 사람에게 양도할 수 없으나 담보로 제공할 수 있다.",
         "사회보장수급권은 포기할 수 있으나, 포기는 취소할 수 없다.",
-        "사회보장수급권은 어떤 경우에도 제한되거나 정지될 수 없다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "사회보장수급권은 어떤 경우에도 제한되거나 정지될 수 없다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_56",
@@ -32577,7 +34102,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_57",
@@ -32596,7 +34121,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_58",
@@ -32615,7 +34140,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_59",
@@ -32634,7 +34159,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_60",
@@ -32653,7 +34178,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_61",
@@ -32664,7 +34189,7 @@ window.PAST_PAPER_DATA = {
       "number": 61,
       "stem": "사회복지사업법상 사회복지법인에 관한 설명으로 옳지 않은 것은?",
       "choices": [
-        "사회복지법인의 이사 중에 결원이 생겼을 때에는 3개월 이내에 보충하여야 한다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2018년 01월 20일 필기 기",
+        "사회복지법인의 이사 중에 결원이 생겼을 때에는 3개월 이내에 보충하여야 한다.",
         "사회복지법인의 이사는 해당 법인이 설치한 사회복지시 설의 장을 제외한 그 시설의 직원을 겸할 수 없다.",
         "시ㆍ도지사는 임시이사가 선임되었음에도 불구하고 해당 사회복지법인이 정당한 사유 없이 이사회 소집을 기피할 경우 이사회 소집을 권고할 수 있다.",
         "해산한 사회복지법인의 남은 재산은 정관으로 정하는 바 에 따라 국가 또는 지방자치단체에 귀속된다.",
@@ -32672,7 +34197,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_62",
@@ -32691,7 +34216,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_63",
@@ -32708,9 +34233,13 @@ window.PAST_PAPER_DATA = {
         "ㄱ : 5, ㄴ : 3",
         "ㄱ : 5, ㄴ : 5"
       ],
+      "statements":       [
+              "년간 보건복지부령으로 정하는 바에 따라 급여비용의 청구에 관한 서류를 보 존하며야 한다. 약국 등 보건복지부령으로 정하는 의료급 여기관은 처방전을 급여비용을 청구한 날 부터 (",
+              "년간 보존하여야 한다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_64",
@@ -32729,7 +34258,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_65",
@@ -32744,11 +34273,11 @@ window.PAST_PAPER_DATA = {
         "기초연금으로 지급받은 금품은 압류할 수 없다.",
         "기초연금의 지급이 정지된 기간에는 기초연금을 지급하 지 아니한다.",
         "기초연금 수급권자가 국외로 이주한 때에 기초연금 수급 권을 상실한다.",
-        "기초연금 수급권자의 권리는 3년간 행사하지 아니하면 시효의 완성으로 소멸한다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "기초연금 수급권자의 권리는 3년간 행사하지 아니하면 시효의 완성으로 소멸한다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_66",
@@ -32767,7 +34296,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_67",
@@ -32784,9 +34313,14 @@ window.PAST_PAPER_DATA = {
         "ㄱ : 7, ㄴ : 2, ㄷ : 3",
         "ㄱ : 7, ㄴ : 2, ㄷ : 5"
       ],
+      "statements":       [
+              "명이 상과 감사",
+              "명 이상을 두어야 한다. 이사의 임기는",
+              "년으로 하고 감사의 임기는 ("
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_68",
@@ -32805,7 +34339,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_69",
@@ -32822,9 +34356,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "보험료부과체계에관한사항",
+              "요양급여비용에관한사항",
+              "취약계층지원에관한사항",
+              "건강보험에 관한 통계 및 정보의 관리에 관 한사항"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_70",
@@ -32839,11 +34379,11 @@ window.PAST_PAPER_DATA = {
         "다문화가족의 삶의 질 향상과 사회통합에 관한 중요 사 항을 심의ㆍ조정하기 위하여 여성가족부장관 소속으로 다문화가족정책위원회를 둔다.",
         "지방자치단체는 다문화가족의 현황 및 실태를 파악하고 다문화가족 지원을 위한 정책수립에 활용하기 위하여 5 년마다 다문화가족에 대한 실태조사를 실시하고 그 결과 를 공표하여야 한다.",
         "시ㆍ도에는 다문화가족 지원을 담당할 기구와 공무원을 두어야 한다.",
-        "기업은 다문화가족에 대한 사회적 차별 및 편견을 예방 하고 사회구성원이 문화적 다양성을 인정하고 존중할 수 있도록 홍보와 교육 및 재정상 필요한 조치를 하여야 한 다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2018년 01월 20일 필기 기"
+        "기업은 다문화가족에 대한 사회적 차별 및 편견을 예방 하고 사회구성원이 문화적 다양성을 인정하고 존중할 수 있도록 홍보와 교육 및 재정상 필요한 조치를 하여야 한 다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_71",
@@ -32862,7 +34402,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_72",
@@ -32881,7 +34421,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_73",
@@ -32898,9 +34438,13 @@ window.PAST_PAPER_DATA = {
         "ㄱ : 18, ㄴ : 120",
         "ㄱ : 18, ㄴ : 180"
       ],
+      "statements":       [
+              "개월간 피보험 단위기간이 통산하며(",
+              "일 이상일것"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_74",
@@ -32919,7 +34463,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_3교시_75",
@@ -32934,11 +34478,11 @@ window.PAST_PAPER_DATA = {
         "지방자치단체는 노인보건복지관련 사업의 육성을 위하여 필요하다고 인정하는 경우 지방재정법의 규정에 불구하 고 공유재산을 무상으로 사용하게 할 수 있다.",
         "재가노인복지시설, 노인공동생활가정 및 노인요양공동생 활가정은 공동주택에만 설치할 수 있다.",
         "노인복지법에 의한 노인복지주택의 건축물의 용도는 건 축관계법령에 불구하고 노유자시설로 본다.",
-        "노인복지시설에서 노인을 위하여 사용하는 건물ㆍ토지 등에 대하여는 관계법령이 정하는 바에 의하여 조세 기 타 공과금을 감면할 수 있다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 최신 수정된(오타, 오답, 규정변경) 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "노인복지시설에서 노인을 위하여 사용하는 건물ㆍ토지 등에 대하여는 관계법령이 정하는 바에 의하여 조세 기 타 공과금을 감면할 수 있다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_1",
@@ -32957,7 +34501,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_2",
@@ -32976,7 +34520,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_3",
@@ -32995,7 +34539,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_4",
@@ -33009,12 +34553,18 @@ window.PAST_PAPER_DATA = {
         "ㄱ,ㄴ",
         "ㄱ,ㄴ,ㄷ",
         "ㄱ,ㄷ,ㄹ",
-        "ㄴ,ㄷ,ㄹ 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "ㄴ,ㄷ,ㄹ",
         "ㄱ,ㄴ,ㄷ,ㄹ"
+      ],
+      "statements":       [
+              "중개자(broker): 가족이 없는 중증장애인에 게주거시설을 소개해주는 것",
+              "중재자(mediator):갈등으로 이혼위기에 처 한부부관계에개입하여 상호 만족스러운 합의점 을 도출하는 것",
+              "옹호자(advocate): 장애학생의 교육권 확보 를위해학교당국에편 의시설을 요구하는 것",
+              "조력자(enabler):알코홀중독자가 자신의 문 제를깨닫고금주방법을 찾도록 도와주는 것"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_5",
@@ -33033,7 +34583,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_6",
@@ -33052,7 +34602,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_7",
@@ -33071,7 +34621,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_8",
@@ -33090,7 +34640,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_9",
@@ -33109,7 +34659,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_10",
@@ -33124,11 +34674,11 @@ window.PAST_PAPER_DATA = {
         "실천의 가치와 지식은 방법(methods)을 통해 현장에서 구현된다.",
         "한국 사회복지사의 자격 및 처우에 관한 사항은 사회복 지사업법에 근거한다.",
         "플렉스너(A. Flexner)는 체계적 이론과 전문적 권위, 윤 리강령 등을 전문직의 속성으로 꼽았다.",
-        "밀포드(Milford)회의에서 사회복지실천의 공통요소를 제 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2018년 01월 20일 필기 기출 시하였다."
+        "밀포드(Milford)회의에서 사회복지실천의 공통요소를 제"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_11",
@@ -33147,7 +34697,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_12",
@@ -33164,9 +34714,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ,ㄴ,ㄷ",
         "ㄴ,ㄷ,ㄹ"
       ],
+      "statements":       [
+              "클라이언트를 희생자로 인식한다.",
+              "대표적인 학자로 샐리비(D, Saleebey)와 밀 리(K Miley)가 있다.",
+              "외상,학대,질병 등과 같은 힘겨운 일들을 도전과 기회로 고려한다.",
+              "개입의 초점은 클라이언트의 역기능과 증상 의 영향을 감소시키는 것이다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_13",
@@ -33185,7 +34741,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_14",
@@ -33202,9 +34758,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ,ㄴ,ㄹ",
         "ㄱ,ㄴ,ㄷ,ㄹ"
       ],
+      "statements":       [
+              "한국사회복지사협회는 사회복지윤리위원회를 구성하여 사회복지윤리실천의 질적향상을 도 모하며야 한다.",
+              "사회복지윤리위원회는 윤리강령을 위배하거 나 침해하는 행위를 접수받아, 공식적 절차 를통해 대처하며야 한다.",
+              "사회복지사는 기관의 부당한 정책이나 요구 에대응하고 즉시 사회복지윤리위원회에보 고해야 한다.",
+              "사회복지사는 한국사회복지사협회의 윤리적 권고와 결정을 존중하며야 한다"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_15",
@@ -33219,11 +34781,11 @@ window.PAST_PAPER_DATA = {
         "가족환경을 체계론적 관점에서 이해한다.",
         "가계도는 일반적으로 3세대를 포함한다.",
         "자녀는 출생순서에 따라 왼쪽부터 오른쪽으로 순차적으 로 그린다.",
-        "가계도에는 친밀한 관계나 갈등관계와 같은 정서적 관계 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 를 포함한다."
+        "가계도에는 친밀한 관계나 갈등관계와 같은 정서적 관계"
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_16",
@@ -33242,7 +34804,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_17",
@@ -33261,7 +34823,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_18",
@@ -33280,7 +34842,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_19",
@@ -33299,7 +34861,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_20",
@@ -33318,7 +34880,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_21",
@@ -33337,7 +34899,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_22",
@@ -33348,7 +34910,7 @@ window.PAST_PAPER_DATA = {
       "number": 22,
       "stem": "생태도(eco-map)를 통해 알 수 없는 것은?",
       "choices": [
-        "가족규칙 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2018년 01월 20일 필기 기출",
+        "가족규칙",
         "가족이 이용하는 서비스기관의 종류",
         "가족의 여가활동",
         "이웃주민들과의 친밀도",
@@ -33356,7 +34918,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_23",
@@ -33375,7 +34937,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_24",
@@ -33394,7 +34956,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_25",
@@ -33413,7 +34975,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_26",
@@ -33432,7 +34994,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_27",
@@ -33446,12 +35008,18 @@ window.PAST_PAPER_DATA = {
         "ㄱ,ㄴ",
         "ㄷ,ㄹ",
         "ㄱ,ㄷ,ㄹ",
-        "ㄴ,ㄷ,ㄹ 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "ㄴ,ㄷ,ㄹ",
         "ㄱ,ㄴ,ㄷ,ㄹ"
+      ],
+      "statements":       [
+              "사회적 형평성의 원리",
+              "개인의 복지에 대한 사회와 개인 공동의 책 임",
+              "개인의 존엄성과 독특성에 대한 존중",
+              "자기결정의원리"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_28",
@@ -33468,9 +35036,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ,ㄷ,ㄹ,ㅁ",
         "ㄱ,ㄴ,ㄷ,ㄹ,ㅁ"
       ],
+      "statements":       [
+              "개인적 보관 및 활용",
+              "지도감독 및 교육활성화",
+              "책임성의확보",
+              "정보제공 ㅁ.클라이언트에 대한 이해 증진"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_29",
@@ -33489,7 +35063,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_30",
@@ -33508,7 +35082,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_31",
@@ -33527,7 +35101,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_32",
@@ -33546,7 +35120,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_33",
@@ -33557,7 +35131,7 @@ window.PAST_PAPER_DATA = {
       "number": 33,
       "stem": "가족조각 기법에 관한 설명으로 옳지 않은 것은?",
       "choices": [
-        "가족의 상호작용 양상을 공간 속에 배치하는 방법이다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2018년 01월 20일 필기 기출",
+        "가족의 상호작용 양상을 공간 속에 배치하는 방법이다.",
         "가족 내 숨겨져 표현되지 못했던 감정이나 가족규칙 등 이 노출될 수 있다.",
         "조각 후, 사회복지사는 현재의 조각이 어떻게 변화되기 바라는지를 다시 조각으로 표현하게 한다.",
         "조각을 하는 동안 서로 웃거나 이야기하지 않는다.",
@@ -33565,7 +35139,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_34",
@@ -33584,7 +35158,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_35",
@@ -33603,7 +35177,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_36",
@@ -33622,7 +35196,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_37",
@@ -33641,7 +35215,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_38",
@@ -33650,7 +35224,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 38,
-      "stem": "대중 앞에서 발표할 때 만성적 긴장과 불안을 호소하는 클 라이언트의 문제를 해결하기 위한 다음의 실천활동에 포함 되지 않은 기법은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "대중 앞에서 발표할 때 만성적 긴장과 불안을 호소하는 클 라이언트의 문제를 해결하기 위한 다음의 실천활동에 포함 되지 않은 기법은?",
       "choices": [
         "시연",
         "모델링",
@@ -33660,7 +35234,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_39",
@@ -33679,7 +35253,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_40",
@@ -33698,7 +35272,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_41",
@@ -33717,7 +35291,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_42",
@@ -33726,7 +35300,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 42,
-      "stem": "인지행동모델의 특성을 모두 고른 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2018년 01월 20일 필기 기출",
+      "stem": "인지행동모델의 특성을 모두 고른 것은?",
       "choices": [
         "ㄱ,ㄹ",
         "ㄴ,ㄹ",
@@ -33734,9 +35308,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ,ㄷ,ㄹ",
         "ㄱ,ㄴ,ㄷ,ㄹ,"
       ],
+      "statements":       [
+              "객관적 경험의일반화",
+              "사건을 이해하는 신념체계가 감정에 영향을 주는지 파악",
+              "문제에 대한 통제력이 자신에게 있다고 전제",
+              "질문을 통해 자기발견과 타당화의 과정을 거 침"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_43",
@@ -33755,7 +35335,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_44",
@@ -33774,7 +35354,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_45",
@@ -33793,7 +35373,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_46",
@@ -33804,7 +35384,7 @@ window.PAST_PAPER_DATA = {
       "number": 46,
       "stem": "집단사회복지실천에 관한 설명으로 옳지 않은 것은?",
       "choices": [
-        "집단이 개방적일 경우, 발달단계를 예측하는 것이 용이 하다. 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "집단이 개방적일 경우, 발달단계를 예측하는 것이 용이 하다.",
         "하위집단의 발생은 필연적이기 때문에 전체집단에 부정 적 영향을 주는지 파악하는 것이 필요하다.",
         "집단의 규범은 집단 내부를 통제하기 때문에 외적 통제 의 수준을 감소시킨다.",
         "집단 내 공동지도자의 참여는 집단지도자의 역전이를 막 을 수 있다.",
@@ -33812,7 +35392,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_47",
@@ -33829,9 +35409,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ,ㄷ,ㄹ",
         "ㄱ,ㄴ,ㄷ,ㄹ"
       ],
+      "statements":       [
+              "자살 관련 계획을 직접적으로 묻는 것은 자 살을 구체화할 수 있어 피한다.",
+              "자살을 생각하는클라이언트가 보여주는 단 서에 민감할 필요가 있다.",
+              "자살시도경험을확인해본다.",
+              "우울증 가능성이 있을 경우 정신건강 관련 기관에의뢰한다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_48",
@@ -33850,7 +35436,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_49",
@@ -33869,7 +35455,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_50",
@@ -33888,7 +35474,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_51",
@@ -33900,14 +35486,14 @@ window.PAST_PAPER_DATA = {
       "stem": "지역사회(community)에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "기능적 지역사회는 이념, 사회계층, 직업유형 등을 중심 으로 이루어진다.",
-        "지리적 지역사회는 이웃, 마을, 도시 등을 예로 들 수 있 다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2018년 01월 20일 필기 기출",
+        "지리적 지역사회는 이웃, 마을, 도시 등을 예로 들 수 있 다.",
         "던햄(A. Dunham)은 지역사회를 인구크기, 경제적 기반, 행정구역, 사회적 특수성으로 유형화했다.",
         "퇴니스(F. Tonnies)는 지역사회를 공동사회와 이익사회 로 구분했다.",
         "길버트와 스펙트(N. Gilbert &Specht)는 지역사회의 사 회통합기능이 현대의 사회복지제도로 정착되었다고 했 다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_52",
@@ -33926,7 +35512,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_53",
@@ -33945,7 +35531,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_54",
@@ -33964,7 +35550,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_55",
@@ -33973,7 +35559,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "지역사회복지론",
       "number": 55,
-      "stem": "영국의 그리피스 보고서(Griffiths Report, 1988)에서 강조하 고 있는 지역사회보호에 관한 설명으로 옳은 것을 모두 고 른 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "영국의 그리피스 보고서(Griffiths Report, 1988)에서 강조하 고 있는 지역사회보호에 관한 설명으로 옳은 것을 모두 고 른 것은?",
       "choices": [
         "ㄱ,ㄴ",
         "ㄱ,ㄹ",
@@ -33981,9 +35567,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ,ㄷ,ㄹ",
         "ㄴ,ㄷ,ㄹ"
       ],
+      "statements":       [
+              "지역사회보호를 위한 권한과 재정을 지방정 부에이양할 것을 주장하였다.",
+              "지역사회보호를 위한 지방정부의 서비스 공 급자 역할을 강조하였다.",
+              "서비스의 적절성 확보를 위한 케어 매니지먼 트(care management)를 강조하였다.",
+              "지역사회보호 실천주체다양화를 추구하였 다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_56",
@@ -34002,7 +35594,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_57",
@@ -34021,7 +35613,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_58",
@@ -34046,7 +35638,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_59",
@@ -34065,7 +35657,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_60",
@@ -34074,7 +35666,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "지역사회복지론",
       "number": 60,
-      "stem": "다음 설명에 해당하는 테일러와 로버츠(S. Taylor &R. Roverts)의 지역사회복지실천모델은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2018년 01월 20일 필기 기출",
+      "stem": "다음 설명에 해당하는 테일러와 로버츠(S. Taylor &R. Roverts)의 지역사회복지실천모델은?",
       "choices": [
         "프로그램 개발 및 조정",
         "계획",
@@ -34084,7 +35676,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_61",
@@ -34103,7 +35695,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_62",
@@ -34122,7 +35714,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_63",
@@ -34141,7 +35733,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_64",
@@ -34160,7 +35752,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_65",
@@ -34169,7 +35761,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "지역사회복지론",
       "number": 65,
-      "stem": "지역사회복지실천에서 이루어지는 초기 욕구사정에 관한 설 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 명으로 옳지 않은 것은?",
+      "stem": "지역사회복지실천에서 이루어지는 초기 욕구사정에 관한 설",
       "choices": [
         "욕구의 상대적 중요성을 확인하는 목적이 있다.",
         "지역사회복지 실천을 위한 성과평가의 의미를 갖는다.",
@@ -34179,7 +35771,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_66",
@@ -34198,7 +35790,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_67",
@@ -34217,7 +35809,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_68",
@@ -34236,7 +35828,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_69",
@@ -34255,7 +35847,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_70",
@@ -34268,13 +35860,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "사회적 가치 실현을 중요시한다.",
         "사회적기업은 사회적 일자리 창출을 목적으로 한다.",
-        "사회적기업은 이윤창출이 제한된다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2018년 01월 20일 필기 기출",
+        "사회적기업은 이윤창출이 제한된다.",
         "마을기업은 지역공동체에 기반하여 활동한다.",
         "협동조합은 조합원 자격자 5인 이상으로 설립한다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_71",
@@ -34293,7 +35885,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_72",
@@ -34312,7 +35904,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_73",
@@ -34331,7 +35923,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_74",
@@ -34355,7 +35947,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_2교시_75",
@@ -34370,11 +35962,11 @@ window.PAST_PAPER_DATA = {
         "복지재정 분권화로 인한 지역간 사회복지 불균형",
         "다양한 서비스 공급 주체의 참여 축소",
         "서비스 이용자의 권리 제한",
-        "지역사회 복지네트워크 중요성 감소 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 최신 수정된(오타, 오답, 규정변경) 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "지역사회 복지네트워크 중요성 감소"
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_1",
@@ -34393,7 +35985,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_2",
@@ -34412,7 +36004,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_3",
@@ -34431,7 +36023,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_4",
@@ -34448,9 +36040,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ,ㄴ,ㄹ",
         "ㄱ,ㄴ,ㄷ,ㄹ"
       ],
+      "statements":       [
+              "각 단계의 발달은 이전 단계의 발달을 토대 로 미루머진다.",
+              "사회문화적 환경이 성격 발달에 영향을 미친 다.",
+              "청소년기의 주요 발달과업은 자아정체감 형 성미다.",
+              "인간의 발달은전생애에 걸쳐 일어난다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_5",
@@ -34459,7 +36057,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "인간행동과 사회환경",
       "number": 5,
-      "stem": "생태체계이론에 관한 설명으로 옳은 것을 모두 고른 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "생태체계이론에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ,ㄷ",
         "ㄴ,ㄷ",
@@ -34467,9 +36065,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ,ㄴ,ㄹ",
         "ㄱ,ㄴ,ㄷ,ㄹ"
       ],
+      "statements":       [
+              "체계이론과 생태학적 관점을 통합한다.",
+              "인간과 환경은 분리할 수 없으며 동시에 고 려해야 한다",
+              "적합성(goodness-of-fit)이란 체계가 균형을 위협받았을 때 이를 회복하려는경향을말한 다.",
+              "실천과정의 사정(assessment)단계에 유용하 게활용된다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_6",
@@ -34488,7 +36092,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_7",
@@ -34507,7 +36111,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_8",
@@ -34526,7 +36130,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_9",
@@ -34545,7 +36149,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_10",
@@ -34554,7 +36158,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "인간행동과 사회환경",
       "number": 10,
-      "stem": "체계이론에서 다음에 해당하는 개념으로 옳은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2018년 01월 20일 필기 기",
+      "stem": "체계이론에서 다음에 해당하는 개념으로 옳은 것은?",
       "choices": [
         "경계",
         "폐쇄체계",
@@ -34564,7 +36168,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_11",
@@ -34583,7 +36187,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_12",
@@ -34602,7 +36206,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_13",
@@ -34619,9 +36223,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ,ㄷ,ㄹ",
         "ㄱ,ㄴ,ㄷ,ㄹ"
       ],
+      "statements":       [
+              "자연 집단(natural group)-또래집단",
+              "1차 집단(primarygroup)-과업집단",
+              "형성 집단(f ormed group)-치료집단",
+              "2차 집단(secondary group) -이웃"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_14",
@@ -34636,11 +36246,11 @@ window.PAST_PAPER_DATA = {
         "구체적인 사물에 한정되지 않고 추상적 개념을 다룰 수 있다.",
         "가설을 세울 수 있고 인간관계를 추론할 수 있는 연역적 사고가 가능해진다.",
         "피아제(J. Piaget)의 이론에 따르면 형식적 조작기에 속 한다.",
-        "자아중심적 사고로 상상적 청중 현상과 개인적 우화 현 상을 보인다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "자아중심적 사고로 상상적 청중 현상과 개인적 우화 현 상을 보인다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_15",
@@ -34659,7 +36269,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_16",
@@ -34678,7 +36288,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_17",
@@ -34697,7 +36307,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_18",
@@ -34716,7 +36326,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_19",
@@ -34735,7 +36345,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_20",
@@ -34749,12 +36359,12 @@ window.PAST_PAPER_DATA = {
         "신뢰 대 불신 - 희망",
         "근면성 대 열등감 - 유능성",
         "친밀감 대 고립감 - 사랑",
-        "정체감 대 역할 혼미 - 목적 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2018년 01월 20일 필기 기",
+        "정체감 대 역할 혼미 - 목적",
         "자율성 대 수치심 - 의지"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_21",
@@ -34773,7 +36383,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_22",
@@ -34792,7 +36402,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_23",
@@ -34811,7 +36421,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_24",
@@ -34830,7 +36440,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_25",
@@ -34839,7 +36449,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "인간행동과 사회환경",
       "number": 25,
-      "stem": "연령별 발달과업에 관한 설명으로 옳은 것을 모두 고른 것 은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "연령별 발달과업에 관한 설명으로 옳은 것을 모두 고른 것 은?",
       "choices": [
         "ㄱ,ㄴ",
         "ㄷ,ㄹ",
@@ -34847,9 +36457,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ,ㄷ,ㄹ",
         "ㄱ,ㄴ,ㄷ,ㄹ 2과목 : 사회복지 조사론"
       ],
+      "statements":       [
+              "영아기(0-2세): 사물이 눈에 보이지 않아도 존재하고있음을아는대상 영속성(object permanence) 이 습득된다.",
+              "유아기(3-6세): 콜버그(L Kohlberg)의 도덕 발단단계에서착한아이를 지향하며 다른 사람의 인정 이나사회규범을따르는인 습적 수준에 해당된다.",
+              "아동기(7-12세):보존개념을 획득하며 분류 와 조합개념이 점차로 발 달한다",
+              "노년기(65세 이상):죽음과 상실에 대한 심리 적 반응으로 퀴블러로스 (Kubler-Ro ss)가 제시한 부정-분노-타협-우물-수 용 과정을 경험할 수 있 다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_26",
@@ -34868,7 +36484,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_27",
@@ -34887,7 +36503,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_28",
@@ -34896,7 +36512,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "사회복지조사론",
       "number": 28,
-      "stem": "변수와 가설에 관한 설명으로 옳은 것을 모두 고른 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2018년 01월 20일 필기 기",
+      "stem": "변수와 가설에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ,ㄴ",
         "ㄱ,ㄹ",
@@ -34904,9 +36520,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ,ㄷ,ㄹ",
         "ㄱ,ㄴ,ㄷ,ㄹ"
       ],
+      "statements":       [
+              "가설은 검증이 가능해야 한다.",
+              "가설은 변수 간의 관계를 가정하는 문장이 다.",
+              "모든 변수는 개념이 아니지만 모든 개념은 변수다.",
+              "영가설은 독립변수가 종속변수에 영향을 미 치지 않는다고 가정한다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_29",
@@ -34925,7 +36547,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_30",
@@ -34944,7 +36566,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_31",
@@ -34961,9 +36583,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ,ㄴ,ㄷ,ㅁ",
         "ㄱ,ㄴ,ㄷ,ㄹ,ㅁ"
       ],
+      "statements":       [
+              "연구문제는 연구자의 관심이나 의문의 대상 를포함한다.",
+              "잠정적 결과를 예측하는 연구문제를 제시할 수 있다.",
+              "모든사회복지 조사는 연구문제가 있다.",
+              "문제형성 과정에 다른 연구자의 참여가 가능 하다. ㅁ.연구문제가 변수 간의 관계를 예측할 필요는 없다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_32",
@@ -34976,13 +36604,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "수업시간에 조사하는 설문지도 응답자의 동의와 자발적 참여가 필요하다.",
         "연구자는 연구대상자에게 피해를 줘서는 안 된다.",
-        "응답자의 익명성과 비밀을 보장해야 한다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "응답자의 익명성과 비밀을 보장해야 한다.",
         "연구의 공익적 가치는 일반적으로 연구윤리보다 우선해 야 한다.",
         "타인의 연구결과를 인용 없이 사용하는 경우를 표절이라 한다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_33",
@@ -35001,7 +36629,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_34",
@@ -35020,7 +36648,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_35",
@@ -35039,7 +36667,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_36",
@@ -35056,9 +36684,14 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 명목측정, ㄴ: 비율측정, ㄷ: 서열측정",
         "ㄱ: 서열측정, ㄴ: 명목측정, ㄷ: 비율측정"
       ],
+      "statements":       [
+              "사회복지사의 근무지역 동()",
+              "사회복지사가 이수한 보수교육 시간(분)",
+              "사회복지사의 근무기관 평가등급 점수(A.B."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_37",
@@ -35067,7 +36700,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "사회복지조사론",
       "number": 37,
-      "stem": "근거이론에서 다음 설명에 해당하는 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2018년 01월 20일 필기 기",
+      "stem": "근거이론에서 다음 설명에 해당하는 것은?",
       "choices": [
         "선택(selective)코딩",
         "자료(data)코딩",
@@ -35077,7 +36710,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_38",
@@ -35096,7 +36729,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_39",
@@ -35115,7 +36748,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_40",
@@ -35134,7 +36767,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_41",
@@ -35153,7 +36786,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_42",
@@ -35162,7 +36795,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "사회복지조사론",
       "number": 42,
-      "stem": "관찰법에 관한 설명으로 옳지 않은 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "관찰법에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "행위가 일어나는 현장에서 즉시 자료수집이 가능하다.",
         "관찰자의 주관성이 개입될 수 있다.",
@@ -35172,7 +36805,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_43",
@@ -35189,9 +36822,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ,ㄴ,ㄹ",
         "ㄴ,ㄷ,ㄹ"
       ],
+      "statements":       [
+              "범주항목들은 신문기사자료로부터도출된 다.",
+              "주제보다단어를기록단위로할 때자료수집 양이 많다.",
+              "맥락단위는 기록단위보다 더 큰 단위여야 한 다.",
+              "미연구에서는양적분석방법을사용할수 없다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_44",
@@ -35210,7 +36849,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_45",
@@ -35229,7 +36868,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_46",
@@ -35248,7 +36887,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_47",
@@ -35257,7 +36896,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "사회복지조사론",
       "number": 47,
-      "stem": "신뢰수준에 관한 설명으로 옳은 것을 모두 고른 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2018년 01월 20일 필기 기",
+      "stem": "신뢰수준에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ,ㄴ,ㄷ",
         "ㄱ,ㄴ,ㄹ",
@@ -35265,9 +36904,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ,ㄷ,ㄹ",
         "ㄱ,ㄴ,ㄷ,ㄹ"
       ],
+      "statements":       [
+              "99% 신뢰수준은 1% 유의수준을 사용한다는 의미다.",
+              "신뢰수준을 95%에서 99%로 높이면 1종 오 류를 줄일 수 있다.",
+              "95% 신뢰수준은 100번 조사하면 5번 정도 는 오차가 허용될 수 있다는 의미다.",
+              "99% 신뢰수준에서모집단의 평균값이 신뢰 구간 내에 존재한다는 것을 99% 확신 할 수 있다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_48",
@@ -35286,7 +36931,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_49",
@@ -35305,7 +36950,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2018_1교시_50",
@@ -35320,11 +36965,11 @@ window.PAST_PAPER_DATA = {
         "연구대상과 개입방법은 여러 개가 될 수 없다.",
         "조사연구 과정과 실천 과정의 통합이 가능하다.",
         "경향과 변화를 파악하도록 반복 관찰한다.",
-        "통계적 원리를 적용하여 분석할 수 있다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 최신 수정된(오타, 오답, 규정변경) 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "통계적 원리를 적용하여 분석할 수 있다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_1",
@@ -35343,7 +36988,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_2",
@@ -35362,7 +37007,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_3",
@@ -35381,7 +37026,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_4",
@@ -35400,7 +37045,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_5",
@@ -35415,11 +37060,11 @@ window.PAST_PAPER_DATA = {
         "소득하한선을 높게 설정할 경우 국민연금 가입자 규모가 감소할 수 있다.",
         "소득상한선을 낮게 유지할 경우 고소득계층의 부담은 그 만큼 더 커지게 된다.",
         "소득상한선은 국민연금 가입자들 상호간 연금급여의 편차 를 일정수준에서 제한하는 기능을 하게 된다.",
-        "소득상한선은 그 이상의 소득에 대해서는 더 이상 보험료 가 부과되지 않는 소득의 경계선을 의미한다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "소득상한선은 그 이상의 소득에 대해서는 더 이상 보험료 가 부과되지 않는 소득의 경계선을 의미한다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_6",
@@ -35438,7 +37083,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_7",
@@ -35457,7 +37102,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_8",
@@ -35476,7 +37121,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_9",
@@ -35495,7 +37140,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_10",
@@ -35514,7 +37159,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_11",
@@ -35533,7 +37178,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_12",
@@ -35542,7 +37187,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지정책론",
       "number": 12,
-      "stem": "공공부조에 관한 설명으로 옳은 것을 모두 고른 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2017년 01월 21일 필기 기",
+      "stem": "공공부조에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ",
         "ㄴ",
@@ -35558,7 +37203,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_13",
@@ -35577,7 +37222,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_14",
@@ -35596,7 +37241,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_15",
@@ -35615,7 +37260,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_16",
@@ -35640,7 +37285,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_17",
@@ -35653,13 +37298,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "고용불안정의 심화로 사회보험제도의 기반이 견고해지고 있다.",
         "사회복지정책의 총 지출이 감소하는 추세에 있다.",
-        "근로빈곤층 지원제도가 약화되고 있다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "근로빈곤층 지원제도가 약화되고 있다.",
         "지방자치단체의 자체적인 복지사업이 증가하는 추세에 있다.",
         "복지정책 대상의 초점이 극빈층으로 변화하고 있다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_18",
@@ -35684,7 +37329,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_19",
@@ -35703,7 +37348,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_20",
@@ -35720,9 +37365,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "저소득층에게 유리하게 설계되어 있다.",
+              "기본연금액의 균등부분에서 소득재분배기능이 나타난다.",
+              "2008년 이후 급여수준을 결정하는 비례상수는 매년 0.5%씩 감소한다.",
+              "연금액은 지급사유에 따라 기본연금액과 부양가 족연금액을 기초로 산정한다"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_21",
@@ -35736,12 +37387,18 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄹ",
         "ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ",
-        "ㄴ, ㄷ, ㄹ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2017년 01월 21일 필기 기",
+        "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "statements":       [
+              "시설급여 제공기관에는 노인의료복지시설인 노 인전문요양병원이 포합된다.",
+              "노인장기요양보험에서는 재가급여를 시설급여 에우선한다.",
+              "재가급여에는 방문요양. 방문목욕 등이 있다.",
+              "특별현금급여에는 가족요양비 등이 있다"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_22",
@@ -35766,7 +37423,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_23",
@@ -35785,7 +37442,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_24",
@@ -35804,7 +37461,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_25",
@@ -35823,7 +37480,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_26",
@@ -35838,11 +37495,11 @@ window.PAST_PAPER_DATA = {
         "고객관계관리 마케팅",
         "다이렉트 마케팅",
         "데이터베이스 마케팅",
-        "사회마케팅 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "사회마케팅"
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_27",
@@ -35861,7 +37518,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_28",
@@ -35880,7 +37537,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_29",
@@ -35899,7 +37556,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_30",
@@ -35916,9 +37573,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 전문성, ㄴ: 포괄성, ㄷ: 접근성, ㄹ: 적절성",
         "ㄱ: 포괄성, ㄴ: 접근성, ㄷ: 적절성, ㄹ: 전문성"
       ],
+      "statements":       [
+              ": 클라이언트의 욕구와 문제해결을 위해 다 양한서비스를 제공해야 한다. (",
+              ": 서비스의 양과 질이 욕구와 목표달성에 충 분해야 한다. (",
+              ": 핵심적인업무는반드시객관적으로자격 이 인정된사람이 담당해야 한다. (",
+              ":서비스를 필요로 하는 사람은 누구나 쉽게 받을 수 있어야 한다"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_31",
@@ -35930,14 +37593,20 @@ window.PAST_PAPER_DATA = {
       "stem": "사회복지조직의 부문화(departmentation)에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ",
-        "ㄱ, ㄷ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2017년 01월 21일 필기 기",
+        "ㄱ, ㄷ",
         "ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄹ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "서비스기준:서비스 제공,사례관리,지역사회조 직 등으로 구분",
+              "지리적 기준:클라이언트 거주지역에 따라 구분",
+              "기능기준:개별사회사업,집단사회사업,지역사 회조직사업 등으로 구분",
+              "시간기준: 업무시간에따라 2교대혹은3교대로 구분"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_32",
@@ -35956,7 +37625,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_33",
@@ -35975,7 +37644,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_34",
@@ -35994,7 +37663,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_35",
@@ -36013,7 +37682,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_36",
@@ -36030,9 +37699,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "사회복지통합관리망 구축",
+              "주민생활지원서비스로의 개편",
+              "사회복지전문요원제 도입",
+              "사회보장정보시스템 구축"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_37",
@@ -36041,7 +37716,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지행정론",
       "number": 37,
-      "stem": "다음은 체계이론 중 어떤 하위체계에 관한 설명인가? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "다음은 체계이론 중 어떤 하위체계에 관한 설명인가?",
       "choices": [
         "관리 하위체계",
         "적응 하위체계",
@@ -36051,7 +37726,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_38",
@@ -36070,7 +37745,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_39",
@@ -36089,7 +37764,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_40",
@@ -36108,7 +37783,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_41",
@@ -36127,7 +37802,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_42",
@@ -36146,7 +37821,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_43",
@@ -36158,14 +37833,14 @@ window.PAST_PAPER_DATA = {
       "stem": "최근 사회복지행정의 환경변화에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "사회서비스 공급에서 영리부문의 참여가 감소되고 있다.",
-        "사회복지조직관리에 기업경영기법이 도입되고 있다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2017년 01월 21일 필기 기",
+        "사회복지조직관리에 기업경영기법이 도입되고 있다.",
         "품질관리를 통한 이용자 중심 서비스가 요구되고 있다.",
         "사회서비스의 시장화 경향성이 뚜렷해지고 있다.",
         "서비스 이용자의 권리가 강조되고 있다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_44",
@@ -36189,7 +37864,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_45",
@@ -36208,7 +37883,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_46",
@@ -36227,7 +37902,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_47",
@@ -36246,7 +37921,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_48",
@@ -36265,7 +37940,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_49",
@@ -36278,13 +37953,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "사회복지시설평가제 도입은 자원의 효율적 운영에 대한 관심을 확대시키는 계기가 되었다.",
         "주로 지방정부에서 운영되는 사회복지사업이 국고보조사 업으로 이양되었다.",
-        "‘읍면동 복지허브화’ 전략은 맞춤형 통합서비스를 제공하 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 기 위한 민ㆍ관 협력을 기반으로 한다.",
+        "‘읍면동 복지허브화’ 전략은 맞춤형 통합서비스를 제공하",
         "희망복지지원단은 공공영역에서의 사례관리 기능을 담당 한다.",
         "국민기초생활보장제도는 복지가 국민의 권리로서 인정받 기 시작했다는 의미를 갖는다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_50",
@@ -36303,7 +37978,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_51",
@@ -36322,7 +37997,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_52",
@@ -36341,7 +38016,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_53",
@@ -36360,7 +38035,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_54",
@@ -36375,11 +38050,11 @@ window.PAST_PAPER_DATA = {
         "65세인 자",
         "장애인고용촉진 및 직업재활법에 따른 중증장애인",
         "임신 중에 있는 자",
-        "병역법에 따른 병역의무를 이행중인 자 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2017년 01월 21일 필기 기"
+        "병역법에 따른 병역의무를 이행중인 자"
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_55",
@@ -36398,7 +38073,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_56",
@@ -36417,7 +38092,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_57",
@@ -36436,7 +38111,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_58",
@@ -36453,9 +38128,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "회의에관한사항",
+              "자산및회계에 관한사항",
+              "임원의 임면 등에 관한 사항",
+              "공고및공고방법에 관한사항"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_59",
@@ -36474,7 +38155,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_60",
@@ -36483,7 +38164,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 60,
-      "stem": "사회복지와 관련한 헌법의 내용으로 옳은 것을 모두 고른 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "사회복지와 관련한 헌법의 내용으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ",
         "ㄴ, ㄷ",
@@ -36491,9 +38172,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "현법 전문에는사회복지와 관련된 내용이 없다.",
+              "환경권의 내용과 행사에 관하며는 조례로 정한 다.",
+              "모든 국민은 능력에 따라 균등하게 교육을 받을 권리를가진다.",
+              "여자의 근로는 특별한 보호를 받으며,고용·임 금 및 근로조건에 있어서 부당한 차별을 받지 마니한다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_61",
@@ -36512,7 +38199,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_62",
@@ -36531,7 +38218,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_63",
@@ -36550,7 +38237,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_64",
@@ -36569,7 +38256,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_65",
@@ -36578,7 +38265,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 65,
-      "stem": "한부모가족지원법상 지원대상자인 아동으로 옳은 것은 모두 몇 개인가? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2017년 01월 21일 필기 기",
+      "stem": "한부모가족지원법상 지원대상자인 아동으로 옳은 것은 모두 몇 개인가?",
       "choices": [
         "1개",
         "2개",
@@ -36588,7 +38275,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_66",
@@ -36605,9 +38292,13 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 여성가족부, ㄴ: 5",
         "ㄱ: 보건복지부, ㄴ: 3"
       ],
+      "statements":       [
+              "장관은 다문화가족의 현황 및 실태를 파악 하고 다문화가족 지원을 위한 정책수립에 활용하기 위하며(",
+              "년마다 다문화가족에대한 실태조사 를실시하고그결과를공표하여야한다"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_67",
@@ -36626,7 +38317,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_68",
@@ -36645,7 +38336,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_69",
@@ -36656,7 +38347,7 @@ window.PAST_PAPER_DATA = {
       "number": 69,
       "stem": "산업재해보상보험법상 용어에 관한 설명으로 옳지 않은 것 은?",
       "choices": [
-        "업무상의 사유에 따른 근로자의 부상ㆍ질병ㆍ장해 또는 사망은 업무상의 재해이다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "업무상의 사유에 따른 근로자의 부상ㆍ질병ㆍ장해 또는 사망은 업무상의 재해이다.",
         "근로자란 근로기준법에 따른 근로자를 말한다.",
         "사실혼 관계에 있는 배우자는 유족에 포함되지 않는다.",
         "치유란 부상 또는 질병이 완치되거나 치료의 효과를 더 이상 기대할 수 없고 그 증상이 고정된 상태에 이르게 된 것을 말한다.",
@@ -36664,7 +38355,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_70",
@@ -36683,7 +38374,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_71",
@@ -36702,7 +38393,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_72",
@@ -36719,9 +38410,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "사회보장 비용의 부담은 각각의 사회보장제도의 목적에 따라 국가,지방자치단체 및 민간부문 간 에 합리적으로 조정되어야 한다.",
+              "국가만이 공공부조에 드는 비용의 전부 또는 일 부를부담한다",
+              "관계 법령에서 정하는 일정 소득 수준 이하의 국 민에대한 사회서비스에대해서는 국가와 지방 자치단체가 비용의 전부 또는 일부를 부담한다.",
+              "부담 능력이있는 국민에대한사회서비스에대 해서는 관계 법령에서 정하는 바에 따라 지방자치단 체가 그 비용의 일부를 부담할 수 있다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_73",
@@ -36734,13 +38431,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "국민연금제도는 다음세대에서 현재세대로 국민간에 소득 재분배의 기능을 한다.",
         "국민연금보험료는 조세로 볼 수 없다.",
-        "국민연금의 소득재분배 기능은 고소득자의 재산권을 침 해하는 것이 아니다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2017년 01월 21일 필기 기",
+        "국민연금의 소득재분배 기능은 고소득자의 재산권을 침 해하는 것이 아니다.",
         "국민연금제도는 헌법상의 시장경제질서에 위배되지 않는 다.",
         "공적연금수급권은 재산권 보호의 대상이 된다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_74",
@@ -36759,7 +38456,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_3교시_75",
@@ -36774,11 +38471,11 @@ window.PAST_PAPER_DATA = {
         "2",
         "3",
         "4",
-        "5 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프 로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합 니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 오답 및 오탈자가 수정된 최신 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "5"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_1",
@@ -36797,7 +38494,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_2",
@@ -36816,7 +38513,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_3",
@@ -36835,7 +38532,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_4",
@@ -36854,7 +38551,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_5",
@@ -36873,7 +38570,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_6",
@@ -36886,13 +38583,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "소속의 욕구",
         "건설적 변화에 대한 능력과 열망",
-        "자기결정권 존중 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "자기결정권 존중",
         "상호책임성",
         "인간의 공통된 욕구"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_7",
@@ -36911,7 +38608,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_8",
@@ -36936,7 +38633,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_9",
@@ -36955,7 +38652,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_10",
@@ -36974,7 +38671,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_11",
@@ -36991,9 +38688,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "위탁가정 아동 방문",
+              "노숙인보호를 위한 모금 활동",
+              "정신장애인재활 상담",
+              "직업재활 대상자를 위한 자원 개발"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_12",
@@ -37002,7 +38705,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천론",
       "number": 12,
-      "stem": "다음 기록의 유형은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2017년 01월 21일 필기 기출",
+      "stem": "다음 기록의 유형은?",
       "choices": [
         "이야기체기록",
         "문제중심기록",
@@ -37012,7 +38715,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_13",
@@ -37031,7 +38734,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_14",
@@ -37050,7 +38753,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_15",
@@ -37069,7 +38772,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_16",
@@ -37081,14 +38784,20 @@ window.PAST_PAPER_DATA = {
       "stem": "면접과정에서의 질문으로 적절한 것을 모두 고른 것은?",
       "choices": [
         "ㄹ",
-        "ㄱ, ㄷ 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "ㄱ, ㄷ",
         "ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "부인은 남편의 행동에 대해 어떻게 대응하셨 나요?",
+              "그 민감한 상황에서 왜 그런 말을 하셨지요?",
+              "이번처럼 갈등이 심각한 적은 몇 번 정도 되 나요?",
+              "그때 아내의 반응은 어됐나요?죄책감이 들지 는 않았나요"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_17",
@@ -37105,9 +38814,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "클라이언트와 협력",
+              "생태체계적관점 적용",
+              "사회변화를위한 행동에참여",
+              "억압받는집단에대한역사적관점이해"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_18",
@@ -37126,7 +38841,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_19",
@@ -37145,7 +38860,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_20",
@@ -37164,7 +38879,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_21",
@@ -37183,7 +38898,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_22",
@@ -37196,13 +38911,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "표적문제는 가능한 많이 선정하는 것이 좋다.",
         "사회복지사와 클라이언트 중 어느 한 쪽에서 문제로 인 식하는 것은 모두 표적문제로 선정한다.",
-        "표적문제의 우선순위를 정할 때 사회복지사의 전문적 판 단을 중심으로 한다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2017년 01월 21일 필기 기출",
+        "표적문제의 우선순위를 정할 때 사회복지사의 전문적 판 단을 중심으로 한다.",
         "표적문제를 선정할 때 사회복지사 자신의 지식과 기술을 고려한다.",
         "표적문제는 전문적 용어로 기술되는 것이 바람직하다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_23",
@@ -37221,7 +38936,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_24",
@@ -37238,9 +38953,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "사례관리자는 기관 정책상 클라이언트에게 서비 스를 제공해 주기 머려울 때 다른 기관에 의뢰 한다.",
+              "사례관리자는 기관의 정책이 클라이언트에게 불 리하다고 판단될 때 기관의 정책에 도전하는 옹 호역할을수행한다",
+              "복합적인 욕구를 갖는 클라이언트를 위해 다양 한서비스를 조정·면계한다.",
+              "클라이언트의 자기결정이중요하므로 사례관리 자는 머떠한 상황에서도 클라이언트를 대신하며 행동해서는 안 된다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_25",
@@ -37265,7 +38986,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_26",
@@ -37277,14 +38998,14 @@ window.PAST_PAPER_DATA = {
       "stem": "정신역동모델에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "심리적 결정론에 근거한다.",
-        "발달단계상의 고착과 퇴행을 고려한다. 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "발달단계상의 고착과 퇴행을 고려한다.",
         "성장의지가 높은 클라이언트에게 효과적이다.",
         "통찰보다는 치료적 처방제공에 초점을 둔다.",
         "원초아와 초자아 사이에 발생하는 불안과 긴장 해소를 위해 방어기제를 사용한다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_27",
@@ -37303,7 +39024,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_28",
@@ -37322,7 +39043,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_29",
@@ -37347,7 +39068,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_30",
@@ -37366,7 +39087,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_31",
@@ -37375,7 +39096,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 31,
-      "stem": "가정폭력 가해자를 대상으로 다음의 훈련을 실시하였다. 평 가 시 ‘암시적 행동에 대한 개별측정척도’를 활용하지 않는 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2017년 01월 21일 필기 기출",
+      "stem": "가정폭력 가해자를 대상으로 다음의 훈련을 실시하였다. 평 가 시 ‘암시적 행동에 대한 개별측정척도’를 활용하지 않는 것은?",
       "choices": [
         "폭력을 유발하는 단서를 식별하는 훈련",
         "긴장고조 상황에서 타임아웃 하는 훈련",
@@ -37385,7 +39106,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_32",
@@ -37404,7 +39125,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_33",
@@ -37423,7 +39144,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_34",
@@ -37442,7 +39163,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_35",
@@ -37461,7 +39182,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_36",
@@ -37480,7 +39201,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_37",
@@ -37489,7 +39210,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 37,
-      "stem": "클라이언트의 인식에 기초한 질적 평가의 목적이 아닌 것 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 은?",
+      "stem": "클라이언트의 인식에 기초한 질적 평가의 목적이 아닌 것",
       "choices": [
         "긍정적 피드백으로 사회복지사의 소진 예방",
         "의도된 성과 외에 부가적인 성과 확인",
@@ -37499,7 +39220,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_38",
@@ -37524,7 +39245,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_39",
@@ -37541,9 +39262,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "처벌받는 행동은 발생빈도가 줄어든다",
+              "간혈적으로 강화된 행동은 소거하기 어렵다.",
+              "긍정적인 강화는 행동의 발생빈도와 정도를 증 가시킨다.",
+              "부적 처벌은 체벌을 제시함으로써 행동의 발생 가능성을 감소시킨다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_40",
@@ -37562,7 +39289,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_41",
@@ -37577,11 +39304,11 @@ window.PAST_PAPER_DATA = {
         "클라이언트가 동의한 과제를 중심으로 개입한다.",
         "경험적 자료보다는 발달이론을 중심으로 개입한다.",
         "계약한 구체적인 문제해결에 초점을 두고 접근한다.",
-        "클라이언트의 문제는 자원 혹은 기술의 부족으로 이해한 다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2017년 01월 21일 필기 기출"
+        "클라이언트의 문제는 자원 혹은 기술의 부족으로 이해한 다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_42",
@@ -37598,9 +39325,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "격려기술-계약기간 동안 업무를 잘 해내셨군요 이번에도 잘 감당할 수 있을 것이라 믿어요",
+              "재보증기술-염려하지 마세요. 상황은 좋아질 거예요.",
+              "환기기술-힘드셨을 것 같네요. 그 때 기분이 머떠셨나요?",
+              "직면기술-잠시 무엇을 했는지 한 번 살펴봅시 다. 지난 번 하겠다고 한 것과는 반대의 일을 하고 있네요"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_43",
@@ -37619,7 +39352,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_44",
@@ -37638,7 +39371,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_45",
@@ -37657,7 +39390,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_46",
@@ -37666,7 +39399,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 46,
-      "stem": "다음 사례를 구조적 가족치료모델로 개입할 때 활용할 수 있는 기법이 아닌 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "다음 사례를 구조적 가족치료모델로 개입할 때 활용할 수 있는 기법이 아닌 것은?",
       "choices": [
         "하위체계간 경계 만들기",
         "과제주기",
@@ -37676,7 +39409,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_47",
@@ -37695,7 +39428,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_48",
@@ -37712,9 +39445,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "가족이 변화에대한 저항이 클 때 사용할 수 있다.",
+              "문제와 관련된 가족의 행동체계를 정확히 파 악하여 증상처방기법을 활용한다",
+              "원가족 분석을 중시하는 개입방법이다.",
+              "치료적 이중구속을 활용하며문제를 해결하는 것미다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_49",
@@ -37733,7 +39472,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_50",
@@ -37747,12 +39486,12 @@ window.PAST_PAPER_DATA = {
         "계획된 목표달성여부에 집중하며 의도하지 않는 결과는 확인하지 않는다.",
         "참여자간 서열화 투쟁이 시작되므로 책임을 설정한 계약 을 재확인 시킨다.",
         "집단의 목적에 따른 집단구성과 구성원의 목적 성취를 원조한다.",
-        "종결에 대한 양가감정을 이해하고 이를 반영하여 다룬 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2017년 01월 21일 필기 기출 다.",
+        "종결에 대한 양가감정을 이해하고 이를 반영하여 다룬",
         "도움을 많이 받은 사람은 종결의 어려움을 덜 느끼므로 그렇지 않은 사람에게 집중한다. 3과목 : 지역사회 복지론"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_51",
@@ -37771,7 +39510,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_52",
@@ -37790,7 +39529,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_53",
@@ -37809,7 +39548,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_54",
@@ -37828,7 +39567,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_55",
@@ -37837,7 +39576,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "지역사회복지론",
       "number": 55,
-      "stem": "다음 사례를 설명할 수 있는 지역사회복지 이론은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "다음 사례를 설명할 수 있는 지역사회복지 이론은?",
       "choices": [
         "생태학이론",
         "사회구성론",
@@ -37847,7 +39586,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_56",
@@ -37866,7 +39605,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_57",
@@ -37885,7 +39624,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_58",
@@ -37904,7 +39643,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_59",
@@ -37917,13 +39656,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "연합",
         "정치적 권력강화",
-        "근린지역사회조직 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2017년 01월 21일 필기 기출",
+        "근린지역사회조직",
         "기능적인 지역사회조직",
         "프로그램의 개발과 조정"
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_60",
@@ -37942,7 +39681,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_61",
@@ -37961,7 +39700,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_62",
@@ -37980,7 +39719,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_63",
@@ -37999,7 +39738,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_64",
@@ -38014,11 +39753,17 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ, ㄹ",
-        "ㄱ, ㄴ, ㄷ, ㄹ 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "statements":       [
+              "지역사회복지에 대한 주민의 주체적 참여기회 제공",
+              "주민욕구 맞춤형 복지 프로그램 제공",
+              "지방행정부서의역할강화",
+              "비정부조직(NGO)의자원활용"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_65",
@@ -38037,7 +39782,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_66",
@@ -38056,7 +39801,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_67",
@@ -38075,7 +39820,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_68",
@@ -38092,9 +39837,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "실행과정 점검단계(monitoring)에서는 실행과 결과를 추적함으로써 프로그램의 진척도를 파악한다.",
+              "목적·목표설정단계에서는 건트 차트(Gantt chart)를활용하기도한다.",
+              "평가단계에서는 결과평가만 실시한다.",
+              "욕구조사단계에서는 주요 정보제공자 인터 뷰.지역사회포럼 개최, 사회지표 등을 활용 할 수 있다"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_69",
@@ -38113,7 +39864,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_70",
@@ -38122,7 +39873,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "지역사회복지론",
       "number": 70,
-      "stem": "사회적 경제의 주체에 관한 설명으로 옳은 것을 모두 고른 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2017년 01월 21일 필기 기출",
+      "stem": "사회적 경제의 주체에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄷ",
         "ㄴ, ㄷ",
@@ -38130,9 +39881,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "마을기업은 지역공동체 이익을 추구하고 지역자 원을활용한다.",
+              "사회적 기업은 사회적 목적을 추구하며,영업활 동을 하는 기업은 마니다.",
+              "협동조합은 조합원의 권익 향상과 지역사회 공 헌을 목적으로 한다.",
+              "지역자활센터는 수급자와 차상위계층의 자활을 촉진하며,사회복지법인만이 신청할 수 있다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_71",
@@ -38151,7 +39908,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_72",
@@ -38170,7 +39927,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_73",
@@ -38189,7 +39946,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_74",
@@ -38206,9 +39963,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "사회정의를 지키고 유지하는 목적",
+              "조직 구성원의 경제적 자립 강조",
+              "표적 집단에 대한 강력한 영향력이나 압력 행사",
+              "정당한 처우나 서비스를 받지 못하는 경우에 활용"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_2교시_75",
@@ -38221,13 +39984,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "빈곤아동의 통합사례관리를 하는 드림스타트 사업은 민 간영역의 사업이다.",
         "희망복지지원단은 지역주민 맞춤형 통합서비스체계 구축 을 목적으로 지역사회가 보유한 자원과 서비스를 총괄적 으로 조정한다.",
-        "사회복지공동모금회의 지정기탁사업은 개별 사회복지 기 관이나 시설에서 공모사업에 신청함으로써 배분된다. 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "사회복지공동모금회의 지정기탁사업은 개별 사회복지 기 관이나 시설에서 공모사업에 신청함으로써 배분된다.",
         "지역사회아동의 돌봄서비스를 제공하는 지역아동센터는 보호프로그램만 제공한다.",
-        "지역주민 맞춤형 가족지원서비스를 제공하는 건강가정지 원센터는 읍ㆍ면ㆍ동에 설치되어 있다. 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프 로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합 니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 오답 및 오탈자가 수정된 최신 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "지역주민 맞춤형 가족지원서비스를 제공하는 건강가정지 원센터는 읍ㆍ면ㆍ동에 설치되어 있다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_1",
@@ -38246,7 +40009,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_2",
@@ -38270,7 +40033,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_3",
@@ -38289,7 +40052,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_4",
@@ -38308,7 +40071,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_5",
@@ -38321,13 +40084,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "생리적 욕구 - 음식, 수면, 성의 욕구",
         "안전의 욕구 - 보호, 의존, 질서, 구조의 욕구",
-        "소속감과 사랑의 욕구 - 친분, 우정, 존경의 욕구 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "소속감과 사랑의 욕구 - 친분, 우정, 존경의 욕구",
         "자존감의 욕구 - 능력, 신뢰감, 성취, 독립의 욕구",
         "자아실현의 욕구 - 자발성, 포부실현, 창조성의 욕구"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_6",
@@ -38344,9 +40107,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄹ",
         "ㄷ, ㄹ"
       ],
+      "statements":       [
+              "인지적 능력이 급속도로 발전하는 단계이다.",
+              "비논리적 사고에서 논리적 사고로 전환된다.",
+              "분류화,서열화,탈중심화,언어기술을 획득 한다.",
+              "대상의 형태와 위치가 변화하면 그 양적 속 성도 바뀐다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_7",
@@ -38365,7 +40134,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_8",
@@ -38384,7 +40153,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_9",
@@ -38403,7 +40172,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_10",
@@ -38417,12 +40186,12 @@ window.PAST_PAPER_DATA = {
         "사회적 관심이 적고 활동수준이 높아 독단적이고 공격적 이며 자신의 욕구를 충족시킨다.",
         "사회적 관심과 활동수준이 높아 자신과 타인의 욕구를 동시에 충족시키며 인생과업을 완수한다.",
         "사회적 관심과 활동수준이 낮은 유형으로 성공보다 실패 하는 것을 더 두려워한다.",
-        "기생적인 방법으로 외부세계와 관계를 맺으며 다른 사람 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2017년 01월 21일 필기 기 에게 의존하여 자신의 욕구를 충족시킨다.",
+        "기생적인 방법으로 외부세계와 관계를 맺으며 다른 사람",
         "사회적 관심이 많고 활동수준이 낮으며 타인의 안녕에 관심이 많다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_11",
@@ -38441,7 +40210,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_12",
@@ -38460,7 +40229,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_13",
@@ -38479,7 +40248,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_14",
@@ -38498,7 +40267,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_15",
@@ -38515,9 +40284,15 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ, ㄹ",
         "ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "가족 체계 내 엔트로피 상태가 지속된다.",
+              "외부로부터 정보를 통해체계의 기능을 발전시 킨다.",
+              "지역사회와의 교류가 활발하다.",
+              "투입과 산출이 거의없는상태이다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_16",
@@ -38529,14 +40304,14 @@ window.PAST_PAPER_DATA = {
       "stem": "문화에 관한 설명으로 옳은 것은?",
       "choices": [
         "동화(assimilation)는 원문화의 가치를 유지하면서 주류사 회의 문화에 소극적으로 참여하는 유형이다.",
-        "인간행동에 영향을 주는 미시체계이다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "인간행동에 영향을 주는 미시체계이다.",
         "개인의 생리적 욕구와 심리적 욕구 충족에 영향을 준다.",
         "예술, 도덕, 제도 등이 각기 독립적으로 존재하며, 서로 영향을 주지 않는다.",
         "지속적으로 누적되기 때문에 항상 같은 형태를 지닌다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_17",
@@ -38555,7 +40330,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_18",
@@ -38574,7 +40349,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_19",
@@ -38591,9 +40366,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄹ",
         "ㄷ, ㄹ"
       ],
+      "statements":       [
+              "자아가 발달하고 외부세계에 대처하는 역량를 발휘한다.",
+              "남성은 여성적 측면인 아니무스를 나타낸다.",
+              "외부세계에 쏟았던 에너지를 자기내면에 돌려 자마정체감 대 혼란이 나타난다",
+              "여성은 독립적이고 공격적인 측면이 나타난다."
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_20",
@@ -38612,7 +40393,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_21",
@@ -38631,7 +40412,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_22",
@@ -38643,14 +40424,14 @@ window.PAST_PAPER_DATA = {
       "stem": "임신 중 태아기에 기형 혹은 저체중을 발생시키는 요인으로 옳지 않은 것은",
       "choices": [
         "간접흡연",
-        "항생제 섭취 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2017년 01월 21일 필기 기",
+        "항생제 섭취",
         "알코올 섭취",
         "폴리염화비페닐(PCB)에 노출",
         "철분 섭취"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_23",
@@ -38669,7 +40450,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_24",
@@ -38688,7 +40469,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_25",
@@ -38707,7 +40488,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_26",
@@ -38726,7 +40507,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_27",
@@ -38745,7 +40526,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_28",
@@ -38764,7 +40545,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_29",
@@ -38775,7 +40556,7 @@ window.PAST_PAPER_DATA = {
       "number": 29,
       "stem": "통계적 가설 검정에 관한 설명으로 옳지 않은 것은",
       "choices": [
-        "신뢰수준을 높이면 1종 오류를 줄일 수 있다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "신뢰수준을 높이면 1종 오류를 줄일 수 있다.",
         "유의수준을 낮추면 1종 오류가 늘어난다.",
         "유의확률이 유의수준보다 낮으면 영가설이 기각된다.",
         "2종 오류가 증가하면 통계적 검정력은 감소한다.",
@@ -38783,7 +40564,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_30",
@@ -38802,7 +40583,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_31",
@@ -38821,7 +40602,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_32",
@@ -38840,7 +40621,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_33",
@@ -38859,7 +40640,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_34",
@@ -38873,12 +40654,12 @@ window.PAST_PAPER_DATA = {
         "근거이론의 목적은 사람, 사건 및 현상에 대한 이론의 생성이다.",
         "문화기술지(ethnography)는 특정 문화를 이해하기 위한 방법, 과정 및 결과이다.",
         "현상학은 개인의 주관적인 경험의 본질과 의미에 초점을 둔다.",
-        "자료 수집원을 다양화하여 연구의 엄격성을 높일 수 있 다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2017년 01월 21일 필기 기",
+        "자료 수집원을 다양화하여 연구의 엄격성을 높일 수 있 다.",
         "부정적 사례(negative case)의 목적은 연구자가 편견에 빠지지 않게 동료집단이 감시기제로서의 역할을 하는 것 이다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_35",
@@ -38897,7 +40678,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_36",
@@ -38916,7 +40697,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_37",
@@ -38935,7 +40716,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_38",
@@ -38954,7 +40735,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_39",
@@ -38973,7 +40754,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_40",
@@ -38982,7 +40763,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "사회복지조사론",
       "number": 40,
-      "stem": "욕구조사를 위한 자료수집 방법에 관한 설명으로 옳지 않은 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 것은",
+      "stem": "욕구조사를 위한 자료수집 방법에 관한 설명으로 옳지 않은",
       "choices": [
         "지역의 통반장을 통해 자료를 수집한다.",
         "지역사회 공청회를 통해 자료를 수집한다.",
@@ -38992,7 +40773,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_41",
@@ -39011,7 +40792,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_42",
@@ -39030,7 +40811,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_43",
@@ -39049,7 +40830,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_44",
@@ -39068,7 +40849,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_45",
@@ -39082,12 +40863,12 @@ window.PAST_PAPER_DATA = {
         "무작위 오류",
         "체계적 오류",
         "환원주의 오류",
-        "생태학적 오류 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2017년 01월 21일 필기 기",
+        "생태학적 오류",
         "개체주의적 오류"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_46",
@@ -39112,7 +40893,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_47",
@@ -39131,7 +40912,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_48",
@@ -39150,7 +40931,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_49",
@@ -39175,7 +40956,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2017_1교시_50",
@@ -39190,11 +40971,11 @@ window.PAST_PAPER_DATA = {
         "과도한 일반화는 관찰된 소수의 사건이나 경험을 근거로 현상의 규칙성을 일반화시키는 것이다.",
         "선별적 관찰은 관찰자의 자아특성이 현상을 이해하는 데 영향을 미치는 것이다.",
         "꾸며진 지식은 의식적 활동의 부재로 현상에 대한 정확 한 관찰이 이루어지지 않는 것이다.",
-        "자아개입은 일반화된 관점을 유지하기 위해 스스로 사실 이 아닌 정보를 만들어 내는 것이다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프 로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합 니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 오답 및 오탈자가 수정된 최신 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "자아개입은 일반화된 관점을 유지하기 위해 스스로 사실 이 아닌 정보를 만들어 내는 것이다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_1",
@@ -39213,7 +40994,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_2",
@@ -39232,7 +41013,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_3",
@@ -39251,7 +41032,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_4",
@@ -39268,9 +41049,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "가사·간병방문지원",
+              "치매환자가족 휴가지원",
+              "산모·신생아건강관리지원",
+              "장애인활동지원"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_5",
@@ -39285,11 +41072,11 @@ window.PAST_PAPER_DATA = {
         "경제성장과 사회통합 동시 추구",
         "인적자본 및 사회적 자본에 대한 투자 강조",
         "불평등 해소보다 사회적 배제 감소에 더 큰 중요성 부여",
-        "전통적 복지패러다임으로 회귀하는 성향이 강함 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "전통적 복지패러다임으로 회귀하는 성향이 강함"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_6",
@@ -39308,7 +41095,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_7",
@@ -39327,7 +41114,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_8",
@@ -39346,7 +41133,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_9",
@@ -39365,7 +41152,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_10",
@@ -39382,9 +41169,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "사회적 적절성(adequacy)은 모든 사람에게 사 회적 자원을 똑같이 분배하는 것을 말한다.",
+              "벌린(, Berlin)이 말하는 적극적 자유(positive freedom)는 국가 개입이 감소할수록 보장이 용미하다.",
+              "사회적 자원 배분이 평등적이고 동시에 파레 토효율적(Pareto efficient)이라면 평등과 효 율은 상충적일 수밖에 없다.",
+              "비례적 평등(proportional equality)은 형평 또 는 공평(equity)이라고도 불린다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_11",
@@ -39393,7 +41186,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지정책론",
       "number": 11,
-      "stem": "정책평가가 필요한 이유로 옳지 않은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2016년 01월 23일 필기 기",
+      "stem": "정책평가가 필요한 이유로 옳지 않은 것은?",
       "choices": [
         "정책결정이론 형성",
         "정책프로그램의 효과성 증진",
@@ -39403,7 +41196,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_12",
@@ -39420,9 +41213,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "사회적협동조합은 영리를 목적으로 하는 법인이다.",
+              "마을기업은 기획재정부장관의 허가를 받아 설립한다",
+              "협동조합기본법에 근거한 협동조합의 설립 은고용노동부장관의 허가를필요로 한다.",
+              "사회적 기업은 취약계총에게 사회서비스 또는일자리를 제공하거나 지역사회에공 현하는 기업이다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_13",
@@ -39441,7 +41240,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_14",
@@ -39460,7 +41259,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_15",
@@ -39475,11 +41274,11 @@ window.PAST_PAPER_DATA = {
         "목표효율성(target efficiency)이 가장 높은 급여형태로 평가받는다.",
         "빈곤층 자녀의 대학입학정원 할당, 장애인 의무고용제 등이 해당된다.",
         "수급자가 일정한 용도 내에서 원하는 재화나 서비스를 선택할 수 있다.",
-        "취약계층의 경제적 문제를 근본적으로 해결할 수 있다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "취약계층의 경제적 문제를 근본적으로 해결할 수 있다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_16",
@@ -39498,7 +41297,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_17",
@@ -39517,7 +41316,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_18",
@@ -39536,7 +41335,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_19",
@@ -39553,9 +41352,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "합리모형-주어진 상황 속에서 주어진 목표를 해결하기 위해 최선의 정책대안을 찾을 수 있 다고 가정한다.",
+              "만족모형 -합리모형보다 혁신적이고 진보적인 정책결정이 이루어진다.",
+              "최적모형 -체계론적 시각에서 정책성과를 최 적화하려는 정책결정 모형이다.",
+              "점증모형-경제적 합리성과 초합리성을 바탕 으로 하는 질적 모형이다"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_20",
@@ -39574,7 +41379,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_21",
@@ -39583,7 +41388,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지정책론",
       "number": 21,
-      "stem": "중앙정부의 사회보험성 기금으로 옳은 것을 모두 고른 것 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2016년 01월 23일 필기 기 은?",
+      "stem": "중앙정부의 사회보험성 기금으로 옳은 것을 모두 고른 것",
       "choices": [
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ",
@@ -39591,9 +41396,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "고용보험기금",
+              "예금보험기금",
+              "공무원연금기금",
+              "국민건강보험기금"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_22",
@@ -39612,7 +41423,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_23",
@@ -39631,7 +41442,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_24",
@@ -39648,9 +41459,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "교육급여는교육부가담당하고자활급여는 고용노동부가 담당한다.",
+              "주거급여 지원대상은 중위소득 40%이하미 고 부양의무자 기준을 충족하는 가구이다.",
+              "2014년 12월 국민기초생활 보장법 개정 이 후의부양의무자기준이법개정이전보다 강화되었다.",
+              "생계급여와 의료급여의 소관부처는 보건복 지부이다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_25",
@@ -39665,11 +41482,11 @@ window.PAST_PAPER_DATA = {
         "일반수급자는 자활근로사업에 참여할 수 없다.",
         "자활사업 참여자에게는 자활장려금이 지급된다.",
         "광역자활센터의 운영주체는 광역지방자치단체이다.",
-        "희망키움통장(Ⅰ)은 일하는 기초수급자를 위한 자산형성 지원사업이다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 2과목 : 사회복지 행정론"
+        "희망키움통장(Ⅰ)은 일하는 기초수급자를 위한 자산형성 지원사업이다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_26",
@@ -39688,7 +41505,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_27",
@@ -39707,7 +41524,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_28",
@@ -39726,7 +41543,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_29",
@@ -39745,7 +41562,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_30",
@@ -39764,7 +41581,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_31",
@@ -39778,12 +41595,12 @@ window.PAST_PAPER_DATA = {
         "공공부조의 전달체계에서 시ㆍ군ㆍ구/읍ㆍ면ㆍ동이 중요 한 역할을 하고 있다.",
         "사회보험제도 운영에서 지방자치단체의 책임성이 매우 크다.",
         "서비스 신청과 상담을 위해 시ㆍ도청을 방문해야 한다.",
-        "‘사회보장정보시스템’을 활용하여 읍ㆍ면ㆍ동에서 국민연 금의 징수ㆍ지급 업무를 수행하고 있다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2016년 01월 23일 필기 기",
+        "‘사회보장정보시스템’을 활용하여 읍ㆍ면ㆍ동에서 국민연 금의 징수ㆍ지급 업무를 수행하고 있다.",
         "사회복지청이 복지서비스의 전문적 전달을 지원하고 있 다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_32",
@@ -39802,7 +41619,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_33",
@@ -39821,7 +41638,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_34",
@@ -39840,7 +41657,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_35",
@@ -39859,7 +41676,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_36",
@@ -39878,7 +41695,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_37",
@@ -39897,7 +41714,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_38",
@@ -39906,7 +41723,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지행정론",
       "number": 38,
-      "stem": "다음은 스키드모어(Skidmore)의 기획과정을 열거한 것이다. ( )에 들어갈 내용을 순서대로 연결한 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "다음은 스키드모어(Skidmore)의 기획과정을 열거한 것이다. ( )에 들어갈 내용을 순서대로 연결한 것은?",
       "choices": [
         "대안모색 - 구체적 프로그램 수립 - 결과 예측 - 계획 결정",
         "대안모색 - 결과 예측 - 계획 결정 - 구체적 프로그램 수립",
@@ -39916,7 +41733,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_39",
@@ -39935,7 +41752,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_40",
@@ -39954,7 +41771,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_41",
@@ -39973,7 +41790,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_42",
@@ -39988,11 +41805,17 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ",
         "ㄴ, ㄹ",
         "ㄹ",
-        "ㄱ, ㄴ, ㄷ, ㄹ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2016년 01월 23일 필기 기"
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "statements":       [
+              "행동이론:관계지향적 리더십과 직무지향적 리 더십으로 구분하기도 한다.",
+              "경쟁가치 리더십이론:조직구성원의 성숙에 때 라서 리더는 관리행동을 맞추어 나가야 한다.",
+              "변혁적 리더십이론:리더의 개혁적·변화지향 적인 모습과 비전 제시는 조직구성원에게 높 은 수준의 동기를 부며한다.",
+              "특성이론: 구성원 성장에 대한 현신과 공동체 의식 형성에초점을 둔다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_43",
@@ -40011,7 +41834,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_44",
@@ -40030,7 +41853,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_45",
@@ -40049,7 +41872,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_46",
@@ -40068,7 +41891,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_47",
@@ -40087,7 +41910,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_48",
@@ -40106,7 +41929,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_49",
@@ -40117,7 +41940,7 @@ window.PAST_PAPER_DATA = {
       "number": 49,
       "stem": "조직구조에 관한 설명으로 옳지 않은 것은?",
       "choices": [
-        "수평적 분화에서는 통제의 범위를, 수직적 분화에서는 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 조정과 의사소통의 수준을 고려하여 설계한다.",
+        "수평적 분화에서는 통제의 범위를, 수직적 분화에서는",
         "업무의 표준화는 조직운영의 경제성과 예측성을 높이기 위한 활동이다.",
         "정보가 과다하게 집중되어 있는 상황에서 의사결정의 집 권화는 실패 가능성을 줄일 수 있다.",
         "공식적 권한의 집중ㆍ분산은 조직관리의 효과성ㆍ효율성 과 연관되어 있다.",
@@ -40125,7 +41948,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_50",
@@ -40144,7 +41967,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_51",
@@ -40163,7 +41986,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_52",
@@ -40182,7 +42005,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_53",
@@ -40201,7 +42024,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_54",
@@ -40210,7 +42033,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 54,
-      "stem": "자치법규인 조례와 규칙에 관한 헌법과 법률의 내용으로 옳 은 것을 모두 고른 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2016년 01월 23일 필기 기",
+      "stem": "자치법규인 조례와 규칙에 관한 헌법과 법률의 내용으로 옳 은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ",
@@ -40218,9 +42041,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "지방자치단체는 법령의 범위 안에서 그 사무에 관하며 조례를 제정할 수 있다.",
+              "지방자치단체는 법령의 범위 안에서 자치에 관 한 규정을 제정할 수 있다.",
+              "시·군 및 자치구의 조례는 시·도의 조례를 위반하여서는 아니된다",
+              "조례에서 주민의권리 제한에 관한 사항을정 할 때에는 법률의 위임이 있어야 한다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_55",
@@ -40239,7 +42068,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_56",
@@ -40258,7 +42087,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_57",
@@ -40277,7 +42106,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_58",
@@ -40289,14 +42118,14 @@ window.PAST_PAPER_DATA = {
       "stem": "사회복지사업법상 사회복지법인(이하“법인”이라 함)에 관한 설명으로 옳은 것은?",
       "choices": [
         "법인은 대표이사를 포함한 이사 5명 이상을 두어야 한 다.",
-        "해산한 법인의 남은 재산은 정관으로 정하는 바에 따라 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 국가 또는 지방자치단체에 귀속된다.",
+        "해산한 법인의 남은 재산은 정관으로 정하는 바에 따라",
         "50만원의 벌금형을 선고받은 사람은 법인의 임원이 될 수 없다.",
         "이사는 법인이 설치한 사회복지시설의 장을 겸할 수 없 다.",
         "법인 이사의 임기는 2년으로 하고 연임할 수 있다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_59",
@@ -40313,9 +42142,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "보건복지부장관은 정보시스템을 구축·운영 할 수 있다.",
+              "지방자치단체의 장은사회복지사업을수행할 때 관할 복지행정시스템과 정보시스템을 전 자적으로 연계하며 활용하여야 한다.",
+              "사회복지시설의 장은 국가와 지방자치단체가 실시하는 사회복지업무의 전자화 시책에협 력하며야 한다.",
+              "보건복지부장관은 정보시스템의 운영에 관한 업무를 수행하는 전담기구를 설립할 수 있으 며,그 전담기구는 법인으로 한다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_60",
@@ -40334,7 +42169,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_61",
@@ -40353,7 +42188,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_62",
@@ -40364,7 +42199,7 @@ window.PAST_PAPER_DATA = {
       "number": 62,
       "stem": "국민기초생활 보장법상 기준 중위소득의 산정에 관한 내용 이다. ( )에 들어갈 용어가 순서대로 옳은 것은?",
       "choices": [
-        "경상소득, 평균 증가율, 가구규모 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2016년 01월 23일 필기 기",
+        "경상소득, 평균 증가율, 가구규모",
         "평균소득, 누적 증가율, 개별가구",
         "경상소득, 누적 증가율, 개별가구",
         "평균소득, 누적 증가율, 가구규모",
@@ -40372,7 +42207,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_63",
@@ -40389,9 +42224,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "농어촌 등 보건의료를 위한 특별조치법에 따라 설치된 보건진료소",
+              "지역보건법에따라 설치된 보건의료원",
+              "약사법에 따라 설립된 한국희귀의약품센터",
+              "약사법에따라 개설등록된약국"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_64",
@@ -40410,7 +42251,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_65",
@@ -40429,7 +42270,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_66",
@@ -40448,7 +42289,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_67",
@@ -40457,7 +42298,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 67,
-      "stem": "국 민연금법상 지역가입자에 관한 내용이다. ( )에 들어갈 숫자가 순서대로 옳은 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "국 민연금법상 지역가입자에 관한 내용이다. ( )에 들어갈 숫자가 순서대로 옳은 것은?",
       "choices": [
         "15, 25",
         "15, 27",
@@ -40467,7 +42308,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_68",
@@ -40486,7 +42327,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_69",
@@ -40505,7 +42346,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_70",
@@ -40524,7 +42365,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_71",
@@ -40539,11 +42380,11 @@ window.PAST_PAPER_DATA = {
         "보호자로부터 이탈된 아동은 보호대상아동에 포함된다.",
         "보호자가 아동을 학대하는 등 그 보호자가 아동을 양육 하기에 적당하지 아니한 경우 그 아동은 보호대상아동에 포함된다.",
         "보호자를 포함한 성인이 아동의 정상적 발달을 저해할 수 있는 성적 폭력이나 가혹행위를 하는 것은 아동학대 에 포함된다.",
-        "아동의 보호자가 아동을 방임하는 것은 아동학대에 포함 된다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2016년 01월 23일 필기 기"
+        "아동의 보호자가 아동을 방임하는 것은 아동학대에 포함 된다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_72",
@@ -40562,7 +42403,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_73",
@@ -40581,7 +42422,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_74",
@@ -40598,9 +42439,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "배우자와 이혼한자로서아동인자녀를 양육하는 자",
+              "교정시설에입소한배우자를가진사람 으로서 아동인 자녀를 양육하는 자",
+              "배우자로부터유기()된자로서아동 인자녀를양육하는 자",
+              "미혼자(사실혼 관계에있는 자를 제외한 다)로서 아동인 자녀를 양육하는 자"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_3교시_75",
@@ -40615,11 +42462,11 @@ window.PAST_PAPER_DATA = {
         "지방자치단체는 자원봉사센터의 운영에 필요한 경비를 지원할 수 있다.",
         "국가기관 및 지방자치단체는 자원봉사센터를 설치할 수 있다.",
         "지방자치단체는 설치한 자원봉사센터를 비영리 법인에 위탁하여 운영할 수 없다.",
-        "지방자치단체로부터 운영경비를 지원받는 자원봉사센터 는 그 명의로 특정인의 선거운동을 하여서는 아니 된다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프 로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합 니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 오답 및 오탈자가 수정된 최신 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "지방자치단체로부터 운영경비를 지원받는 자원봉사센터 는 그 명의로 특정인의 선거운동을 하여서는 아니 된다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_1",
@@ -40636,9 +42483,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ→ㄴ→ㄱ→ㄹ",
         "ㄹ→ㄱ→ㄷ→ㄴ"
       ],
+      "statements":       [
+              "생명보호의 원칙",
+              "자기결정의원칙",
+              "삶의 질 향상의 원칙",
+              "정보개방의 원칙"
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_2",
@@ -40657,7 +42510,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_3",
@@ -40674,9 +42527,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "개입목표의 달성여부를 확인한다.",
+              "의뢰는종결유형과상관없이실시하는 것이 바람직하다.",
+              "종결유형에따라 종결시기를조정한다.",
+              "종결과 관련된클라이언트의감정은다 루지 않는다."
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_4",
@@ -40695,7 +42554,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_5",
@@ -40712,9 +42571,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ → ㄱ → ㄹ → ㄷ",
         "ㄷ → ㄴ → ㄱ → ㄹ"
       ],
+      "statements":       [
+              "클라이언트와의 서비스 계약 실시",
+              "초기 생태도의 작성",
+              "사회기술훈련의제공",
+              "사후평가의실시"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_6",
@@ -40723,7 +42588,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천론",
       "number": 6,
-      "stem": "강점관점에 관한 내용으로 옳은 것을 모두 고른 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "강점관점에 관한 내용으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ",
@@ -40731,9 +42596,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "의료모델의 강조",
+              "역량강화(empowerment)의 활용",
+              "전문가중심주의",
+              "희망과용기의강조"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_7",
@@ -40752,7 +42623,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_8",
@@ -40771,7 +42642,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_9",
@@ -40790,7 +42661,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_10",
@@ -40809,7 +42680,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_11",
@@ -40823,12 +42694,12 @@ window.PAST_PAPER_DATA = {
         "사정단계: 클라이언트의 자원과 능력 평가",
         "계획단계: 개입의 장단기 목표 합의",
         "접수단계: 목표의 우선순위 결정",
-        "자료수집단계: 문제를 이해하기 위한 정보수집 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2016년 01월 23일 필기 기출",
+        "자료수집단계: 문제를 이해하기 위한 정보수집",
         "종결단계: 변화된 결과 확인"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_12",
@@ -40847,7 +42718,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_13",
@@ -40866,7 +42737,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_14",
@@ -40885,7 +42756,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_15",
@@ -40904,7 +42775,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_16",
@@ -40923,7 +42794,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_17",
@@ -40942,7 +42813,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_18",
@@ -40951,7 +42822,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천론",
       "number": 18,
-      "stem": "사정의 특성에 관한 내용으로 옳은 것을 모두 고른 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "사정의 특성에 관한 내용으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ",
@@ -40967,7 +42838,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_19",
@@ -40984,9 +42855,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ → ㄱ → ㄴ → ㄷ",
         "ㄹ → ㄴ → ㄱ → ㄷ"
       ],
+      "statements":       [
+              "한국의 사회복지사업법이 제정되었다.",
+              "리치몬드(M.Richmond)의 사회진단이 출간되었 다.",
+              "밀포드(Miff ord)회의에서 개별사회사업의 공통요 소를 정리하였다.",
+              "펼만(H.Perlman)의 문제해결모델이 등장하였다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_20",
@@ -41005,7 +42882,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_21",
@@ -41024,7 +42901,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_22",
@@ -41043,7 +42920,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_23",
@@ -41057,12 +42934,12 @@ window.PAST_PAPER_DATA = {
         "1987년부터 사회복지전문요원이 공공영역에 배치되었다.",
         "2000년에 사회복지사 1급 제1회 국가시험이 시행되었 다.",
         "2002년부터 노인장기요양보험제도가 실시되었다.",
-        "1975년 한국외원단체협의회(KAVA)가 탄생하였다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2016년 01월 23일 필기 기출",
+        "1975년 한국외원단체협의회(KAVA)가 탄생하였다.",
         "1931년 태화여자관이 설립되었다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_24",
@@ -41079,9 +42956,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "권위적 관계의 고수",
+              "사회복지사의 사적 이익 추구",
+              "이중관계(dual relationship)의 지향",
+              "클라이언트삶의질향상제고"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_25",
@@ -41100,7 +42983,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_26",
@@ -41119,7 +43002,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_27",
@@ -41136,9 +43019,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "행동적 과제의 부며를 중요시한다.",
+              "클라이언트의 주관적 경험과 인식을 강조한다.",
+              "인지체계의 변화를 위해 구조화된 접근을 한다.",
+              "불안감을 경험하는 상황에 노출시킨다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_28",
@@ -41151,13 +43040,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "현재의 문제를 과거의 경험에서 찾는다.",
         "자유연상, 훈습, 직면의 기술을 사용한다.",
-        "자기분석이 가능한 클라이언트일수록 효과적이다. 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "자기분석이 가능한 클라이언트일수록 효과적이다.",
         "클라이언트의 무의식적 충동과 미래의 의지를 강조한다.",
         "전이의 분석을 통해 클라이언트의 통찰력을 증진시킨다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_29",
@@ -41174,9 +43063,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "이론적이고 규범적이다.",
+              "문제가 발생되지 않았던 예외적인 상황을 중요시한다.",
+              "해결과제를 수립할 때 클라이언트보다 사 회복지사의 견해를 우선시한다.",
+              "클라이언트의 자원과 과거의 성공경험을 중요시한다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_30",
@@ -41195,7 +43090,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_31",
@@ -41214,7 +43109,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_32",
@@ -41233,7 +43128,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_33",
@@ -41247,12 +43142,18 @@ window.PAST_PAPER_DATA = {
         "ㄱ → ㄴ → ㄹ → ㅁ → ㄷ",
         "ㄱ → ㅁ → ㄹ → ㄴ → ㄷ",
         "ㅁ → ㄱ → ㄹ → ㄴ → ㄷ",
-        "ㅁ → ㄴ → ㄹ → ㄱ → ㄷ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2016년 01월 23일 필기 기출",
+        "ㅁ → ㄴ → ㄹ → ㄱ → ㄷ",
         "ㅁ → ㄹ → ㄱ → ㄴ → ㄷ"
+      ],
+      "statements":       [
+              "취약단계",
+              "위기단계",
+              "재통합단계",
+              "위기촉진요인 .위험한사건"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_34",
@@ -41271,7 +43172,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_35",
@@ -41288,9 +43189,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "집단활동에 필요한 최소한의 규범을 설정한다.",
+              "집단이 직면하는 어려움을 해결하기 위해 개 입한다.",
+              "집단성원의 참여를 촉진하기 위해 지지한다.",
+              "집단성원의 성장을 돕기 위하며개인의욕구 에대응한다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_36",
@@ -41309,7 +43216,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_37",
@@ -41328,7 +43235,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_38",
@@ -41347,7 +43254,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_39",
@@ -41356,7 +43263,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 39,
-      "stem": "사회기술훈련에 관한 설명으로 옳은 것을 모두 고른 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "사회기술훈련에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ",
@@ -41364,9 +43271,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "사회화집단에서 많이 사용한다.",
+              "사회학습이론에 근거한다.",
+              "사회복귀지원 프로그램에 적용이 가능하다.",
+              "역할면습을활용한다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_40",
@@ -41385,7 +43298,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_41",
@@ -41404,7 +43317,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_42",
@@ -41423,7 +43336,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_43",
@@ -41442,7 +43355,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_44",
@@ -41457,11 +43370,11 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ",
         "ㄴ, ㄹ",
         "ㄹ",
-        "ㄱ, ㄴ, ㄷ, ㄹ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2016년 01월 23일 필기 기출"
+        "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_45",
@@ -41478,9 +43391,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "가족 간의 친밀도",
+              "가족 규칙",
+              "가족성원들의 감정",
+              "가족의 교육 수준"
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_46",
@@ -41499,7 +43418,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_47",
@@ -41518,7 +43437,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_48",
@@ -41537,7 +43456,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_49",
@@ -41556,7 +43475,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_50",
@@ -41568,14 +43487,14 @@ window.PAST_PAPER_DATA = {
       "stem": "가족치료모델 유형에 관한 설명으로 옳은 것은?",
       "choices": [
         "구조적 가족치료: 가족구성원 간의 규칙 및 역할을 재조 정하도록 원조하기",
-        "경험적 가족치료: 상담 계획이 정해진 후 첫 회기 전까 지 나타난 긍정적 변화를 질문하기 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "경험적 가족치료: 상담 계획이 정해진 후 첫 회기 전까 지 나타난 긍정적 변화를 질문하기",
         "전략적 가족치료: 가족구성원이 삼각관계에서 벗어나도 록 정서적 체계를 수정하기",
         "보웬의 세대 간 가족치료: 문제가 되는 상황을 강화하기 위해 역설적으로 개입하기",
         "해결중심 가족치료: 가족의 상호작용 유형을 확인하고 문제를 외현화하기 3과목 : 지역사회 복지론"
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_51",
@@ -41594,7 +43513,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_52",
@@ -41613,7 +43532,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_53",
@@ -41632,7 +43551,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_54",
@@ -41646,12 +43565,18 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ",
         "ㄴ, ㄹ",
-        "ㄹ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2016년 01월 23일 필기 기출",
+        "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "statements":       [
+              "사회는 항상 불안하다고 전제한다.",
+              "조화, 적응,안정, 균형을 중시한다.",
+              "소수엘리트에 의한 주도적 가치판단을 중시한다.",
+              "사회변화가 점진적으로 이루어진다고 전제한다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_55",
@@ -41670,7 +43595,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_56",
@@ -41689,7 +43614,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_57",
@@ -41708,7 +43633,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_58",
@@ -41727,7 +43652,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_59",
@@ -41746,7 +43671,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_60",
@@ -41760,12 +43685,18 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ",
         "ㄴ, ㄹ",
-        "ㄹ 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "statements":       [
+              "지역사회 기존 조직의 활용",
+              "개별적접촉",
+              "지역사회 네트워크 활용",
+              "지역사회재정 분석"
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_61",
@@ -41784,7 +43715,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_62",
@@ -41803,7 +43734,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_63",
@@ -41822,7 +43753,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_64",
@@ -41841,7 +43772,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_65",
@@ -41858,9 +43789,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "나눔문화 확산으로 공동체의식 함양 기며",
+              "후원자의 자아실현 기회 제공",
+              "프로그램을 통한 지역주민 참여 유도",
+              "민간비영리조직의 자율성 향상 기며"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_66",
@@ -41869,7 +43806,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "지역사회복지론",
       "number": 66,
-      "stem": "지역사회복지실천에서 옹호(advocacy) 기술 중 하나인 설득 의 구성요소가 아닌 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2016년 01월 23일 필기 기출",
+      "stem": "지역사회복지실천에서 옹호(advocacy) 기술 중 하나인 설득 의 구성요소가 아닌 것은?",
       "choices": [
         "대상(audience)",
         "메시지(message)",
@@ -41879,7 +43816,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_67",
@@ -41898,7 +43835,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_68",
@@ -41917,7 +43854,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_69",
@@ -41936,7 +43873,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_70",
@@ -41953,9 +43890,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "최근 지역사회복지계획이 [사회보장급여 이용 ·제공및 수급권자발굴에관한 법률에 의거 하여 지역사회보장계획으로 변경되었다.",
+              "사회보장급여의 사각지대 발굴 및 지원방안 등 을포함한다.",
+              "지역사회보장협의체에서 지역사회보장계획을 심 의한다.",
+              "시·도지사및 시장·군수·구청장은4년마다 지역사회보장계획을 수립하며야 한다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_71",
@@ -41967,14 +43910,14 @@ window.PAST_PAPER_DATA = {
       "stem": "사회복지사업법령상 우리나라 사회복지협의회에 관한 설명 으로 옳지 않은 것은?",
       "choices": [
         "사회복지 소외계층 발굴 및 민간사회복지자원과의 연계 ㆍ협력 업무를 수행한다.",
-        "사회복지에 관한 조사ㆍ연구 및 정책건의를 수행한다. 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "사회복지에 관한 조사ㆍ연구 및 정책건의를 수행한다.",
         "사회복지관련 기관ㆍ단체 간의 연계ㆍ협력ㆍ조정 업무를 수행한다.",
         "시ㆍ군ㆍ구 기초자치단체에 의무적으로 설립하여야 한 다.",
         "민간 사회복지의 증진을 위한 법정단체이다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_72",
@@ -41993,7 +43936,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_73",
@@ -42012,7 +43955,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_74",
@@ -42029,9 +43972,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "지방자치단체 간 재정능력의 차이로 복지수준이 다를 수 있다.",
+              "지방자치단체 간의 경쟁이 심화되어 지역 이기 주의가 나타날 수 있다.",
+              "지방자치단체장의의지에따라복지서비스의지 역 간 불균형이 나타날 수 있다.",
+              "지방자치단체의 권한과 책임성을 강화시킬 수 있다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_2교시_75",
@@ -42046,11 +43995,11 @@ window.PAST_PAPER_DATA = {
         "개별형",
         "기업중심형",
         "단체형",
-        "특별사업형 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2016년 01월 23일 필기 기출 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프 로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합 니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 오답 및 오탈자가 수정된 최신 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "특별사업형"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_1",
@@ -42069,7 +44018,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_2",
@@ -42088,7 +44037,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_3",
@@ -42107,7 +44056,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_4",
@@ -42126,7 +44075,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_5",
@@ -42145,7 +44094,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_6",
@@ -42160,11 +44109,11 @@ window.PAST_PAPER_DATA = {
         "보존개념을 획득하지 못한다.",
         "꿈이 현실로 존재한다는 것을 믿는다.",
         "상징적으로 사고하는 능력이 발달한다.",
-        "자신의 관점과 상이한 다른 사람의 관점이 존재한다는 사 실을 알지 못한다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "자신의 관점과 상이한 다른 사람의 관점이 존재한다는 사 실을 알지 못한다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_7",
@@ -42183,7 +44132,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_8",
@@ -42202,7 +44151,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_9",
@@ -42221,7 +44170,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_10",
@@ -42240,7 +44189,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_11",
@@ -42259,7 +44208,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_12",
@@ -42273,12 +44222,12 @@ window.PAST_PAPER_DATA = {
         "도식(scheme)",
         "음영(shadow)",
         "평형(equilibrium)",
-        "행동조성(shaping) 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2016년 01월 23일 필기 기",
+        "행동조성(shaping)",
         "관찰학습(observational learning)"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_13",
@@ -42297,7 +44246,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_14",
@@ -42316,7 +44265,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_15",
@@ -42333,9 +44282,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "자아정체감이 형성되는 결정적인 시기이다.",
+              "유치가 영구치로 바뀌고 보존개념을 획득할 수 있다.",
+              "가설연역적 추리 및 조합적 사고를 할 수 있다.",
+              "한 가지 속성에 따라 대상을 배열하는 서열 화가 가능하다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_16",
@@ -42354,7 +44309,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_17",
@@ -42373,7 +44328,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_18",
@@ -42384,7 +44339,7 @@ window.PAST_PAPER_DATA = {
       "number": 18,
       "stem": "퀴블러로스(Kübler-Ross)가 주장한 인간이 죽음에 이르는 심리적 변화과정은?",
       "choices": [
-        "부정 → 분노 → 우울 → 타협 → 수용 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "부정 → 분노 → 우울 → 타협 → 수용",
         "부정 → 분노 → 타협 → 우울 → 수용",
         "부정 → 분노 → 타협 → 수용 → 상실",
         "분노 → 부정 → 상실 → 타협 → 수용",
@@ -42392,7 +44347,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_19",
@@ -42411,7 +44366,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_20",
@@ -42430,7 +44385,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_21",
@@ -42449,7 +44404,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_22",
@@ -42468,7 +44423,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_23",
@@ -42483,11 +44438,17 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ",
         "ㄴ, ㄹ",
         "ㄹ",
-        "ㄱ, ㄴ, ㄷ, ㄹ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2016년 01월 23일 필기 기"
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "statements":       [
+              "애착관계 및 대상영속성이 확립된다.",
+              "모로반사,바빈스키반사 등의 반사행동 이 나타난다.",
+              "피아제(J.Piaget)의 감각운동단계로서 목적지향적 행동을 한다.",
+              "서열화및 분류화를획득한다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_24",
@@ -42506,7 +44467,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_25",
@@ -42525,7 +44486,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_26",
@@ -42544,7 +44505,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_27",
@@ -42563,7 +44524,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_28",
@@ -42572,7 +44533,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "사회복지조사론",
       "number": 28,
-      "stem": "사회과학 패러다임에 관한 설명으로 옳은 것을 모두 고른 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "사회과학 패러다임에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ",
@@ -42580,9 +44541,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "사회과학의 패러다임이 폐기되는 경우는 자연과 학의 패러다임에 비해 흔하지 않다.",
+              "한 시기에 여러 개의 패러다임이 공존할 수 있다.",
+              "큰(T. Kuhn)은 패러다임의 변화를 점진적인 것이 마니라 혁신적인 것으로 봤다.",
+              "일반적으로 패러다임의 우열을 가릴 수 있는 객 관적 기준이 존재한다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_29",
@@ -42601,7 +44568,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_30",
@@ -42620,7 +44587,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_31",
@@ -42639,7 +44606,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_32",
@@ -42652,13 +44619,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "독립변수에 선행한다.",
         "종속변수와 관련성이 있어야 한다.",
-        "독립변수와 종속변수 간 관계를 분석할 때 유용하다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2016년 01월 23일 필기 기",
+        "독립변수와 종속변수 간 관계를 분석할 때 유용하다.",
         "매개변수가 2개 이상인 연구모형이 가능하다.",
         "모든 측정수준(명목, 서열, 등간, 비율)의 변수가 매개변 수로 사용될 수 있다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_33",
@@ -42677,7 +44644,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_34",
@@ -42696,7 +44663,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_35",
@@ -42715,7 +44682,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_36",
@@ -42734,7 +44701,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_37",
@@ -42753,7 +44720,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_38",
@@ -42762,7 +44729,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "사회복지조사론",
       "number": 38,
-      "stem": "다음 가설에서 ㄱ ~ ㄷ이 의미하는 변수의 종류를 바르게 짝지은 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "다음 가설에서 ㄱ ~ ㄷ이 의미하는 변수의 종류를 바르게 짝지은 것은?",
       "choices": [
         "ㄱ: 독립변수, ㄴ: 매개변수, ㄷ: 조절변수",
         "ㄱ: 조절변수, ㄴ: 독립변수, ㄷ: 종속변수",
@@ -42770,9 +44737,14 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 통제변수, ㄴ: 종속변수, ㄷ: 매개변수",
         "ㄱ: 매개변수, ㄴ: 독립변수, ㄷ: 종속변수"
       ],
+      "statements":       [
+              "는 외상 경험 (",
+              "이 정신건강 (",
+              "에 미치는 부정적 영향을 완화시켜 줄 것이다."
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_39",
@@ -42791,7 +44763,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_40",
@@ -42810,7 +44782,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_41",
@@ -42829,7 +44801,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_42",
@@ -42848,7 +44820,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_43",
@@ -42862,12 +44834,12 @@ window.PAST_PAPER_DATA = {
         "질적조사는 평가연구에 활용될 수 없다.",
         "시계열설계 유형은 평가연구에 활용될 수 없다.",
         "내용분석은 인간의 의사소통기록을 분석한다.",
-        "코호트(cohort)조사는 구축된 패널을 매회 반복 조사한 다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2016년 01월 23일 필기 기",
+        "코호트(cohort)조사는 구축된 패널을 매회 반복 조사한 다.",
         "종단연구로는 특정 현상의 추이를 분석할 수 없다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_44",
@@ -42884,9 +44856,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "할당 표본추출-연구자의 편향적 선정이 이루어질 수 있다",
+              "체계적 표본추출 - 주기성(periodicity)0 문제가 될 수 있다.",
+              "총화 표본추출-전체 모집단이 아니라 여러 하위집단에서 표본을 추출한다.",
+              "군집 표본추출-다단계 표본추출이 가능 하다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_45",
@@ -42905,7 +44883,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_46",
@@ -42924,7 +44902,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_47",
@@ -42943,7 +44921,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_48",
@@ -42958,11 +44936,11 @@ window.PAST_PAPER_DATA = {
         "순수실험설계와 준(유사)실험설계 - 원인의 조작 여부",
         "기술적연구와 설명적연구 - 연구의 목적",
         "코호트(cohort)조사와 패널조사 - 동일표본의 반복측정 여부",
-        "전수조사와 표본조사 - 표본추출의 여부 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "전수조사와 표본조사 - 표본추출의 여부"
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_49",
@@ -42981,7 +44959,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2016_1교시_50",
@@ -42996,11 +44974,11 @@ window.PAST_PAPER_DATA = {
         "관찰은 변수의 의미를 구체적으로 정의하는 작업이다.",
         "구체적 조사방법의 선택은 연구목적에 의해 영향을 받는 다.",
         "이론적 명제로부터 가설이 도출된다.",
-        "자료해석 후에 결론을 도출할 수 있다. 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프 로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합 니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 오답 및 오탈자가 수정된 최신 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "자료해석 후에 결론을 도출할 수 있다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_1",
@@ -43019,7 +44997,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_2",
@@ -43036,9 +45014,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "정책의 형성과 집행에서 국가의 역할이 중요하다.",
+              "정치적 민주주의를 복지국가 성립의 수 반조건으로 한다.",
+              "복지정책의 일차적 목표를 전 국민의 최 소한의 생활보장에 둔다.",
+              "복지국가는 궁극적으로'기회의 평등'을 추구한다"
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_3",
@@ -43057,7 +45041,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_4",
@@ -43076,7 +45060,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_5",
@@ -43095,7 +45079,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_6",
@@ -43106,7 +45090,7 @@ window.PAST_PAPER_DATA = {
       "number": 6,
       "stem": "복지국가 위기의 원인으로 옳지 않은 것은?",
       "choices": [
-        "경기침체와 국가재정위기 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "경기침체와 국가재정위기",
         "관료 및 행정 기구의 팽창과 비효율성",
         "포디즘적 생산방식의 비효율성",
         "독점자본주의의 축적과 정당화 간의 모순",
@@ -43114,7 +45098,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_7",
@@ -43133,7 +45117,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_8",
@@ -43152,7 +45136,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_9",
@@ -43171,7 +45155,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_10",
@@ -43186,11 +45170,17 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ",
         "ㄴ, ㄹ",
         "ㄹ",
-        "ㄱ, ㄴ, ㄷ, ㄹ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2015년 01월 24일 필기 기"
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "statements":       [
+              "개인의 기본적 자유 보장을 제1원칙으로 한다.",
+              "개인의 자유를 중시한다는 점에서 자유주의적 전통에속한다.",
+              "최소극대화원칙(maximin rule)을 통해 평등주 의적 분배의 근거를 제공한다.",
+              "원초적 상황(originalposition)에서사회구성원 간의사회적 계약의 원칙을 도출하고자 하였 다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_11",
@@ -43207,9 +45197,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "시장의 자율적 경쟁을 강조한다.",
+              "'작은정부'를지향한다",
+              "복지국가는 국민의 책임보다 권리를 강조 한다고 비판한다.",
+              "복지제공에서 보편주의를 주창한다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_12",
@@ -43228,7 +45224,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_13",
@@ -43247,7 +45243,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_14",
@@ -43264,9 +45260,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "사회보험의 관리·감독은 중앙집권적이다.",
+              "지방자치단체는 사회복지시설 위탁 및 지도 감독의 주체가 될 수 있다.",
+              "분권화 이후 지방자치단체의 역할이 과거에 비해 확대되고 있다.",
+              "사회보장정보시스템에는 보건복지부 외 타 부 처복지사업도 포함되어있다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_15",
@@ -43275,7 +45277,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지정책론",
       "number": 15,
-      "stem": "다음에서 설명하는 정책결정이론은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "다음에서 설명하는 정책결정이론은?",
       "choices": [
         "쓰레기통 모형",
         "수정 점증주의 모형",
@@ -43285,7 +45287,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_16",
@@ -43302,9 +45304,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "서비스 할당의 기반:보편주의에서 선별주의로",
+              "서비스의 성격:제한적 서비스에서 다양한 서 비스로",
+              "서비스 전달체계:공·사 혼합에서 공공기관 중심으로",
+              "재정지원방식:서비스제공자 지원에서 서비스 수요자 지원으로"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_17",
@@ -43321,9 +45329,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ - ㄱ - ㄴ - ㄹ",
         "ㄹ - ㄴ - ㄱ - ㄷ"
       ],
+      "statements":       [
+              "최적대안의 선택 제시",
+              "사회문제의 분석과 정의",
+              "정책대안의 결과 예측",
+              "정책대안의 비교와 평가"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_18",
@@ -43342,7 +45356,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_19",
@@ -43351,7 +45365,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지정책론",
       "number": 19,
-      "stem": "공적연금 제도에 관한 설명으로 옳은 것을 모두 고른 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2015년 01월 24일 필기 기",
+      "stem": "공적연금 제도에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ",
@@ -43359,9 +45373,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "적립방식에비해부과방식(pay-as-you-go)0 인구 구성의 변동에 더 취약하다",
+              "확정급여식 연금은 주로 과거의 소득 및 소득 활동 기간에 의해 결정된다.",
+              "완전적립방식은 퇴직 후 생활보장을 위해 현재 소득의 일부를 저축하는 구조이다.",
+              "부과방식에서는 현재의 근로세대가 은퇴세대의 연금급여에 필요한 재원을 부담한다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_20",
@@ -43378,9 +45398,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "수직적 재분배-고소득층 대() 저소득층",
+              "수평적 재분배-고위험집단 대()저위험집단",
+              "세대 간 재분배-현세대 대() 미래세대",
+              "세대 내 재분배-노령세대 대()근로세대"
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_21",
@@ -43399,7 +45425,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_22",
@@ -43418,7 +45444,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_23",
@@ -43437,7 +45463,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_24",
@@ -43450,13 +45476,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "자활급여 수급자는 생계급여 대상에서 제외된다.",
         "현금급여 기준은 최저생계비보다 높게 책정된다.",
-        "근로능력자는 수급대상에서 제외된다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "근로능력자는 수급대상에서 제외된다.",
         "수급자 선정 요건에 부양의무자 유ㆍ무가 고려된다.",
         "수급자의 생활보장은 시ㆍ군ㆍ구 생활보장위원회에서 행 한다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_25",
@@ -43475,7 +45501,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_26",
@@ -43494,7 +45520,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_27",
@@ -43513,7 +45539,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_28",
@@ -43532,7 +45558,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_29",
@@ -43544,14 +45570,14 @@ window.PAST_PAPER_DATA = {
       "stem": "프로그램 기획이 합리적으로 수행될 때 따르는 논리적인 순 서는?",
       "choices": [
         "ㄱ - ㄴ - ㄷ - ㄹ - ㅁ",
-        "ㄴ - ㄹ - ㅁ - ㄱ - ㄷ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2015년 01월 24일 필기 기",
+        "ㄴ - ㄹ - ㅁ - ㄱ - ㄷ",
         "ㄷ - ㄴ - ㅁ - ㄱ - ㄹ",
         "ㄹ - ㅁ - ㄷ - ㄱ - ㄴ",
         "ㅁ - ㄱ - ㄷ - ㄴ - ㄹ"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_30",
@@ -43570,7 +45596,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_31",
@@ -43589,7 +45615,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_32",
@@ -43608,7 +45634,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_33",
@@ -43627,7 +45653,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_34",
@@ -43636,7 +45662,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지행정론",
       "number": 34,
-      "stem": "다음은 어떤 조직이론에 관한 설명인가? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "다음은 어떤 조직이론에 관한 설명인가?",
       "choices": [
         "행정관리론",
         "조직문화이론",
@@ -43646,7 +45672,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_35",
@@ -43665,7 +45691,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_36",
@@ -43682,9 +45708,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "노인장기요양서비스:보건복지부-국민연금 공단-서비스 기관-이용자",
+              "장애인활동지원서비스:보건복지부-근로복 지공단-서비스기관-이용자",
+              "보육서비스(어린이집):여성가족부 -지방자 치단체-서비스 기관-이용자",
+              "자활급여:보건복지부-지방자치단체-서 비스기관-수급자"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_37",
@@ -43703,7 +45735,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_38",
@@ -43712,7 +45744,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지행정론",
       "number": 38,
-      "stem": "빈 칸에 알맞은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2015년 01월 24일 필기 기",
+      "stem": "빈 칸에 알맞은 것은?",
       "choices": [
         "ㄱ: 지표, ㄴ: 산출",
         "ㄱ: 산출, ㄴ: 성과",
@@ -43722,7 +45754,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_39",
@@ -43741,7 +45773,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_40",
@@ -43758,9 +45790,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ - ㄴ - ㄱ - ㄹ",
         "ㄹ - ㄷ - ㄴ - ㄱ"
       ],
+      "statements":       [
+              "심의·의결",
+              "예산편성",
+              "결산및회계감사",
+              "예산집행"
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_41",
@@ -43779,7 +45817,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_42",
@@ -43798,7 +45836,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_43",
@@ -43807,7 +45845,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지행정론",
       "number": 43,
-      "stem": "사회복지서비스 기관에서의 슈퍼비전에 관한 설명으로 옳지 않은 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "사회복지서비스 기관에서의 슈퍼비전에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "카두신(A. Kadushin)은 슈퍼비전을 행정적, 지지적, 교육 적 기능으로 설명한다.",
         "긍정적 슈퍼비전은 사회복지사의 소진 예방에 도움을 준 다.",
@@ -43817,7 +45855,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_44",
@@ -43836,7 +45874,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_45",
@@ -43855,7 +45893,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_46",
@@ -43872,9 +45910,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "상시적인 평가와 환류",
+              "서비스 질에 대한 모니터링",
+              "조직성과의 대내외적 제시",
+              "유관기관 간 서비스 연계"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_47",
@@ -43893,7 +45937,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_48",
@@ -43908,11 +45952,11 @@ window.PAST_PAPER_DATA = {
         "합리성",
         "체계성",
         "활용성",
-        "공평성 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2015년 01월 24일 필기 기"
+        "공평성"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_49",
@@ -43931,7 +45975,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_50",
@@ -43950,7 +45994,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_51",
@@ -43969,7 +46013,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_52",
@@ -43986,9 +46030,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ - ㄴ - ㄹ - ㄱ",
         "ㄹ - ㄴ - ㄷ - ㄱ"
       ],
+      "statements":       [
+              "사회복지사업법",
+              "노인복지법",
+              "국민기초생활 보장법",
+              "노인장기요양보험법"
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_53",
@@ -44007,7 +46057,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_54",
@@ -44016,7 +46066,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 54,
-      "stem": "아동복지법령상 지역아동보호전문기관의 업무로 옳은 것을 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 모두 고른 것은?",
+      "stem": "아동복지법령상 지역아동보호전문기관의 업무로 옳은 것을",
       "choices": [
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ",
@@ -44024,9 +46074,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "아동학대 신고접수현장조사 및 응급보호",
+              "피해아동, 피해아동의 가족 및 아동학대행위 자를위한상담·치료 및 교육",
+              "아동학대예방 교육및 홍보",
+              "피해아동가정의사후관리"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_55",
@@ -44045,7 +46101,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_56",
@@ -44064,7 +46120,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_57",
@@ -44083,7 +46139,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_58",
@@ -44102,7 +46158,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_59",
@@ -44117,11 +46173,11 @@ window.PAST_PAPER_DATA = {
         "보증",
         "인증",
         "허가",
-        "특허 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2015년 01월 24일 필기 기"
+        "특허"
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_60",
@@ -44140,7 +46196,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_61",
@@ -44159,7 +46215,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_62",
@@ -44178,7 +46234,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_63",
@@ -44197,7 +46253,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_64",
@@ -44212,11 +46268,11 @@ window.PAST_PAPER_DATA = {
         "사회보장기본법은 사회보장수급권을 명시적으로 규정하 고 있다.",
         "사회보장수급권이 행정청의 위법한 처분에 의해 침해된 경우에는 민사소송을 통하여 다투어야 한다.",
         "국민연금법상 급여를 받을 권리는 재산권이므로 담보로 제공할 수 있다.",
-        "수급권자는 사회보장수급권을 포기할 수 없는 것이 원칙 이다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "수급권자는 사회보장수급권을 포기할 수 없는 것이 원칙 이다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_65",
@@ -44235,7 +46291,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_66",
@@ -44254,7 +46310,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_67",
@@ -44273,7 +46329,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_68",
@@ -44288,11 +46344,17 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ",
         "ㄴ, ㄹ",
         "ㄹ",
-        "ㄱ, ㄴ, ㄷ, ㄹ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2015년 01월 24일 필기 기"
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "statements":       [
+              "국민기초생활 보장법상 이의신청은 서면으 로하여야 하며,구두에의한 것은 허용되 지 않는다.",
+              "국민연금법상 국민연금재심사위원회의 재심 사에 불복하려는 자는 행정심판법상 행정심 판을제기할수있다.",
+              "사회보장기본법은 행정소송을 제기하기 위 해서는 행정심판을 먼저 거쳐야 한다는 행 정심판전치주의를 규정하고 있다.",
+              "국민건강보험법상 보험급여에 관한 국민건 강보험공단의 처분에이의가 있는자는공 단에 이의신청을 할 수 있다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_69",
@@ -44311,7 +46373,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_70",
@@ -44328,9 +46390,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "조기재취업 수당",
+              "광역구직활동비",
+              "직업능력개발 수당",
+              "구직급여"
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_71",
@@ -44349,7 +46417,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_72",
@@ -44368,7 +46436,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_73",
@@ -44387,7 +46455,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_74",
@@ -44396,7 +46464,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 74,
-      "stem": "사회복지에 관한 헌법재판소나 대법원의 결정 또는 판결 내 용인 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "사회복지에 관한 헌법재판소나 대법원의 결정 또는 판결 내 용인 것은?",
       "choices": [
         "국민연금가입 연령을 18세 이상 60세 미만으로 제한한 것은 헌법상의 행복추구권, 평등권, 인간다운 생활을 할 권리를 박탈한 것이다.",
         "사회복지법인의 대표자가 이사회의 의결없이 법인의 재 산을 처분한 경우에 그 처분행위는 이사회의 의결 여부 를 알지 못한 선의의 제3자에게는 효력이 있다.",
@@ -44406,7 +46474,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_3교시_75",
@@ -44421,11 +46489,11 @@ window.PAST_PAPER_DATA = {
         "간병급여",
         "주거급여",
         "직업재활급여",
-        "장의비 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2015년 01월 24일 필기 기 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프 로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합 니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 오답 및 오탈자가 수정된 최신 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "장의비"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_1",
@@ -44444,7 +46512,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_2",
@@ -44463,7 +46531,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_3",
@@ -44482,7 +46550,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_4",
@@ -44501,7 +46569,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_5",
@@ -44518,9 +46586,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ→ㄱ→ㄹ→ㄷ",
         "ㄴ→ㄷ→ㄱ→ㄹ"
       ],
+      "statements":       [
+              "최초의 한국사회사업가협회가 탄생하였다.",
+              "대학에서 정규 사회복지 교육이 시작되었다.",
+              "사회복지전문요원제도가 시작되었다.",
+              "사회복지사 1급 국가시험이 시작되었다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_6",
@@ -44539,7 +46613,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_7",
@@ -44548,7 +46622,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천론",
       "number": 7,
-      "stem": "사회복지 실천현장 중 1차 현장이면서 동시에 이용시설로만 구성된 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "사회복지 실천현장 중 1차 현장이면서 동시에 이용시설로만 구성된 것은?",
       "choices": [
         "노인복지관, 아동상담소, 종합병원",
         "보호관찰소, 사회복지관, 정신보건센터",
@@ -44558,7 +46632,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_8",
@@ -44575,9 +46649,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "장애인주간보호시설은 이용시설이다.",
+              "보호를 필요로 하는 아동을 입소시켜 돌보 는 시설을 아동양육시설이라고 한다.",
+              "지역아동센터는 민간기관이다.",
+              "건강가정지원센터의 소관부처는 보건복지부 이다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_9",
@@ -44596,7 +46676,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_10",
@@ -44615,7 +46695,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_11",
@@ -44634,7 +46714,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_12",
@@ -44643,7 +46723,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천론",
       "number": 12,
-      "stem": "비자발적 클라이언트에 대한 개입방법으로 옳은 것을 모두 고른 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2015년 01월 24일 필기 기출",
+      "stem": "비자발적 클라이언트에 대한 개입방법으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ",
@@ -44653,7 +46733,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_13",
@@ -44672,7 +46752,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_14",
@@ -44691,7 +46771,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_15",
@@ -44710,7 +46790,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_16",
@@ -44724,12 +46804,17 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 조력자, ㄴ: 중재자, ㄷ: 교 사",
         "ㄱ: 중개자, ㄴ: 중재자, ㄷ: 계획가",
         "ㄱ: 조력자, ㄴ: 교 사, ㄷ: 중개자",
-        "ㄱ: 중개자, ㄴ: 옹호자, ㄷ: 계획가 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "ㄱ: 중개자, ㄴ: 옹호자, ㄷ: 계획가",
         "ㄱ: 교 사, ㄴ: 옹호자, ㄷ: 조력자"
+      ],
+      "statements":       [
+              "퇴소상담을 실시하였다. 이후 가족들을 설득하며 (",
+              "지역사 회 내 다양한 주거 관련 정보를 안내하고, (",
+              "공동생활가정에 입주할 수 있도록 연계하였다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_17",
@@ -44748,7 +46833,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_18",
@@ -44767,7 +46852,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_19",
@@ -44786,7 +46871,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_20",
@@ -44803,9 +46888,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "적합성(adequate)",
+              "합리성(reasonable)",
+              "조절가능성(manageable)",
+              "구체성(specific)"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_21",
@@ -44824,7 +46915,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_22",
@@ -44841,9 +46932,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ → ㄱ → ㄹ → ㄷ",
         "ㄴ → ㄷ → ㄱ → ㄹ"
       ],
+      "statements":       [
+              "문제의 우선순위를 정한다.",
+              "표적문제를찾는다.",
+              "개입의성과목표를정한다.",
+              "클라이언트의 과업을 구체화한다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_23",
@@ -44852,7 +46949,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천론",
       "number": 23,
-      "stem": "사례관리의 원칙으로 옳지 않은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2015년 01월 24일 필기 기출",
+      "stem": "사례관리의 원칙으로 옳지 않은 것은?",
       "choices": [
         "사례관리자는 클라이언트의 인종, 성별, 계층 등을 이유 로 이용자격 및 절차 등에서 어려움을 겪지 않고 서비스 를 쉽게 이용할 수 있도록 원조해야 한다.",
         "시간의 경과에 따라 변화하는 클라이언트의 욕구에 대해 지속적으로 사정하고 서비스를 제공해야 한다.",
@@ -44862,7 +46959,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_24",
@@ -44879,9 +46976,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "지역사회보호 필요성 증가",
+              "분산된 서비스의 조정기능 부재",
+              "사회적지원망의 중요성강조",
+              "만성적이고복합적인문제를가진 클라이언트의증가"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_25",
@@ -44900,7 +47003,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_26",
@@ -44917,9 +47020,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "위기증상 제거",
+              "주관적 경험 증진",
+              "촉발사건 이해",
+              "대인관계 향상"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_27",
@@ -44928,7 +47037,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 27,
-      "stem": "사회복지사가 다음의 과업을 수행하는 집단 발달단계는? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "사회복지사가 다음의 과업을 수행하는 집단 발달단계는?",
       "choices": [
         "계획단계",
         "초기단계",
@@ -44938,7 +47047,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_28",
@@ -44957,7 +47066,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_29",
@@ -44974,9 +47083,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "주관적 경험을강조한다.",
+              "비합리적인 신념체계의 변화를 강조한다",
+              "대체 사고와 행동을 학습하는 교육적 접근 을강조한다.",
+              "인지체계변화를위한비구조화 된 접근을 강조한다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_30",
@@ -44995,7 +47110,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_31",
@@ -45010,11 +47125,17 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ",
         "ㄴ, ㄹ",
         "ㄹ",
-        "ㄱ, ㄴ, ㄷ, ㄹ 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2015년 01월 24일 필기 기출"
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "statements":       [
+              "어떤 개입이 대상문제의 변화를 설명하는지 알 수 있다.",
+              "둘 이상의 클라이언트,둘 이상의 상황이나 문제에 적용 가능하다.",
+              "행동빈도의 직·간접 관찰,기존척도,클라 이언트 자신의 주관적 사고나 감정 등의 측 정지수를사용한다.",
+              "반복적 시행으로개입효과성의일반화가가 능하다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_32",
@@ -45033,7 +47154,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_33",
@@ -45052,7 +47173,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_34",
@@ -45069,9 +47190,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "다세대에 걸친 역사성의 산물이다.",
+              "가족구성원 간 상호 영향은 지속적이다.",
+              "가족마다 권력구조와 의사소통 형태를 갖고 있다.",
+              "가족 내 공식·비공식 역할들이 고정되어 있다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_35",
@@ -45090,7 +47217,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_36",
@@ -45109,7 +47236,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_37",
@@ -45118,7 +47245,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 37,
-      "stem": "다음 각각의 가족 사정 내용과 관련이 없는 가족개입 모델 은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "다음 각각의 가족 사정 내용과 관련이 없는 가족개입 모델 은?",
       "choices": [
         "전략적 모델",
         "구조적 모델",
@@ -45128,7 +47255,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_38",
@@ -45147,7 +47274,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_39",
@@ -45166,7 +47293,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_40",
@@ -45185,7 +47312,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_41",
@@ -45204,7 +47331,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_42",
@@ -45215,7 +47342,7 @@ window.PAST_PAPER_DATA = {
       "number": 42,
       "stem": "초등학교 학교사회복지사가 학교폭력 피해아동의 외상 (trauma) 치유를 위한 소집단을 구성할 때, 집단 구조에 관 한 설명으로 옳은 것은?",
       "choices": [
-        "한 학급 정원 20~30명을 하나의 단위로 운영한다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2015년 01월 24일 필기 기출",
+        "한 학급 정원 20~30명을 하나의 단위로 운영한다.",
         "아동의 기능수준을 고려하여 매 회기 3시간으로 운영한 다.",
         "아동의 참여가 가능한 방과 후에 모임시간을 가진다.",
         "아동 행동의 의미 있는 변화를 위해 개방형 집단으로 한 다.",
@@ -45223,7 +47350,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_43",
@@ -45242,7 +47369,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_44",
@@ -45259,9 +47386,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "해결해야 할 문제를 강조한다.",
+              "클라이언트의 잠재역량과 자원을 인정한다.",
+              "클라이언트를 개입의 객체로 보고 자기결정권 을강조한다.",
+              "사회복지사와클라이언트간의상호협력적인 파트너십을 강조한다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_45",
@@ -45278,9 +47411,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "수급자격 입증자료",
+              "슈퍼비전의 활성화",
+              "프로그램예산확보",
+              "클라이언트 당사자와 정보 공유"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_46",
@@ -45289,7 +47428,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천기술론",
       "number": 46,
-      "stem": "가족 실천에서 사회복지사가 해야 할 것을 모두 고른 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "가족 실천에서 사회복지사가 해야 할 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ",
@@ -45297,9 +47436,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "가족과 주변환경의 상호작용 양상을 파악한다.",
+              "가족이 가족 내·외부에서 경혈하는 현상을 어떻게 파악하고 이해하는지 확인한다.",
+              "가족과 합류(joining)함으로써 신뢰관계를 형성 한다.",
+              "가족이 다뤄야할 문제의 우선순위는 사회복지 사가 정한다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_47",
@@ -45318,7 +47463,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_48",
@@ -45337,7 +47482,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_49",
@@ -45349,14 +47494,14 @@ window.PAST_PAPER_DATA = {
       "stem": "다음 사례에서 사회복지사가 민수에게 준 과제에 해당하는 개입기법은?",
       "choices": [
         "실연",
-        "균형 깨기 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2015년 01월 24일 필기 기출",
+        "균형 깨기",
         "경계 만들기",
         "역설적 지시",
         "문제의 외재화"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_50",
@@ -45375,7 +47520,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_51",
@@ -45394,7 +47539,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_52",
@@ -45413,7 +47558,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_53",
@@ -45428,11 +47573,11 @@ window.PAST_PAPER_DATA = {
         "지리적 개념은 사회문화적 동질성과 상호작용성에 기초 한다.",
         "퇴니스(F. Tönnies)는 지역사회를 공동사회와 기계적 연 대사회로 구분하였다.",
         "인구구성의 사회적 특수성을 기준으로 하여 시ㆍ군ㆍ구 로 구분할 수 있다.",
-        "상부상조 기능은 지역사회 구성원에게 법규 순응을 강제 한다. 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "상부상조 기능은 지역사회 구성원에게 법규 순응을 강제 한다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_54",
@@ -45449,9 +47594,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "공공 간의 연계방식으로 시작해서 공공과 민간의 연계방식으로 전개되었다.",
+              "지역사회복지자원을개발하고,발굴하는 기능을 갖고 있다",
+              "시·도에서 전달되는 상위계획은 실무분 과에서 심의권을 갖는다.",
+              "실무협의체에서는 실무분과에서 발의된 쟁점에 대해 논의한다"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_55",
@@ -45470,7 +47621,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_56",
@@ -45489,7 +47640,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_57",
@@ -45506,9 +47657,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "평가단계에서는 개입방향과 수준을 정한다.",
+              "실행단계에서는 참여자를 적응시키고 활동 을 조정하는 것은 필요하지 않다.",
+              "자원계획 및 동원단계에서는 문제의 우선순 위를결정한다.",
+              "지역사회 사정은 지역사회의 욕구와 자원을 파악하는 과정이다."
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_58",
@@ -45522,12 +47679,12 @@ window.PAST_PAPER_DATA = {
         "비공식적 인터뷰는 자료수집과정에서 신뢰도와 일관성을 높이는 방법이다.",
         "하위체계사정은 하위체계의 정태적인 이해를 높이는데 활용된다.",
         "민속학적(ethnographic) 방법은 일반적으로 표준화된 면 담도구를 사용한다.",
-        "명목집단기법은 문제이해, 목표확인, 행동계획 개발 등에 활용된다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2015년 01월 24일 필기 기출",
+        "명목집단기법은 문제이해, 목표확인, 행동계획 개발 등에 활용된다.",
         "델파이기법은 명목집단기법을 대신하여 지역사회 포럼 맥락 내에서 사용된다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_59",
@@ -45544,9 +47701,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "지역사회는 개인과 동일하게 자기결정의 권 리를 갖는다.",
+              "지역사회는 있는 그대로 이해되고 수용되어 야 한다.",
+              "개인과 집단처럼 각 지역사회는 상이하다.",
+              "문제해결 접근방법에서 다양성은 배제되어야 한다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_60",
@@ -45565,7 +47728,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_61",
@@ -45584,7 +47747,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_62",
@@ -45603,7 +47766,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_63",
@@ -45616,13 +47779,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "사회구조의 변화에 관심을 가졌다.",
         "1:1 방문서비스를 원칙으로 하였다.",
-        "여성노동자의 권익증진 운동을 펼쳤다. 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "여성노동자의 권익증진 운동을 펼쳤다.",
         "빈민들과 함께 거주하면서 사회문제를 해결하려 하였다.",
         "주민의 잠재력을 높이기 위해 교육에 힘썼다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_64",
@@ -45641,7 +47804,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_65",
@@ -45660,7 +47823,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_66",
@@ -45679,7 +47842,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_67",
@@ -45698,7 +47861,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_68",
@@ -45707,7 +47870,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "지역사회복지론",
       "number": 68,
-      "stem": "사회복지사는 ‘아동보호를 위한 마을만들기 지원사업’을 시 작하기 위해 지역사회복지 이론에 기초한 실천을 계획하였 다. 다음 중 옳은 것을 모두 고른 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2015년 01월 24일 필기 기출",
+      "stem": "사회복지사는 ‘아동보호를 위한 마을만들기 지원사업’을 시 작하기 위해 지역사회복지 이론에 기초한 실천을 계획하였 다. 다음 중 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ",
@@ -45717,7 +47880,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_69",
@@ -45736,7 +47899,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_70",
@@ -45755,7 +47918,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_71",
@@ -45772,9 +47935,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "자원동원이론은 재정자원에 초점을 두고 있 머사회적 소수자의 권리용호를 위한실천에 는 유용하지 않다.",
+              "갈등이론은 갈등을 둘러싼 연대와 권력형성 의 도구가 될 수 있다는 측면에서 사회행동 모델에 유용하다.",
+              "사회교환이론은 비영리 조직의마케팅이나 네트워킹 활동을 설명하지 못한다.",
+              "사회체계이론은 보수적 이론으로 비판받지만 지역사회의 구조와 기능을 설명할 수 있다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_72",
@@ -45783,7 +47952,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "지역사회복지론",
       "number": 72,
-      "stem": "다음에서 설명하고 있는 지역사회복지이론은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "다음에서 설명하고 있는 지역사회복지이론은?",
       "choices": [
         "갈등이론",
         "사회자본이론",
@@ -45793,7 +47962,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_73",
@@ -45812,7 +47981,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_74",
@@ -45831,7 +48000,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_2교시_75",
@@ -45846,11 +48015,11 @@ window.PAST_PAPER_DATA = {
         "목적 및 목표 설정단",
         "문제발견 및 분석단계",
         "실행단계",
-        "평가단계 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2015년 01월 24일 필기 기출 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프 로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합 니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 오답 및 오탈자가 수정된 최신 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "평가단계"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_1",
@@ -45869,7 +48038,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_2",
@@ -45888,7 +48057,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_3",
@@ -45907,7 +48076,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_4",
@@ -45926,7 +48095,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_5",
@@ -45941,11 +48110,11 @@ window.PAST_PAPER_DATA = {
         "소거(extinction)",
         "자발적 회복(spontaneous recovery)",
         "모방(imitation)",
-        "중립 자극(neutral stimulus) 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "중립 자극(neutral stimulus)"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_6",
@@ -45964,7 +48133,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_7",
@@ -45983,7 +48152,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_8",
@@ -46000,9 +48169,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "관대하고 타인을 수용한다.",
+              "개방적이고 솔직하며 자연스럽다.",
+              "자율적이고 실수를 두려워하지 않는다",
+              "사람과 주변환경을 객관적이고 명확하게 지각한다"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_9",
@@ -46021,7 +48196,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_10",
@@ -46040,7 +48215,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_11",
@@ -46055,11 +48230,11 @@ window.PAST_PAPER_DATA = {
         "도덕성 발달단계의 순서는 가변적이다.",
         "남성만을 연구의 대상으로 삼은 한계가 있다.",
         "모든 사람이 도달하는 최종적 도덕단계는 동일하다.",
-        "하위단계에 있는 사람도 상위단계의 도덕적 추론을 능동 적으로 표현할 수 있다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2015년 01월 24일 필기 기"
+        "하위단계에 있는 사람도 상위단계의 도덕적 추론을 능동 적으로 표현할 수 있다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_12",
@@ -46078,7 +48253,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_13",
@@ -46097,7 +48272,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_14",
@@ -46114,9 +48289,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "인간의 자유의지를 강조한다.",
+              "인간행동은예측과 통제가 불가능하다고 보았다.",
+              "부적강화는 특정행동을 제거하는 데 목 적이 있다.",
+              "고정간격 스케줄은특정한 반응이 나타 날 때마다 강화를 주는 것이다"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_15",
@@ -46135,7 +48316,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_16",
@@ -46154,7 +48335,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_17",
@@ -46163,7 +48344,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "인간행동과 사회환경",
       "number": 17,
-      "stem": "유아기(3-6세)의 발달에 관한 설명으로 옳은 것을 모두 고 른 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "유아기(3-6세)의 발달에 관한 설명으로 옳은 것을 모두 고 른 것은?",
       "choices": [
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ",
@@ -46171,9 +48352,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "피아제의 자기중심적 사고가 활발한 시기이다.",
+              "에릭슨의 주도성과 죄책감이 중요한시기이다.",
+              "프로이트의 오이디푸스 콤플렉스와 엘렉트라 콤플렉스가 나타나는 시기이다.",
+              "콜버그의인습적 단계의도덕적사고가 나타 나는 시기미다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_18",
@@ -46192,7 +48379,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_19",
@@ -46211,7 +48398,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_20",
@@ -46230,7 +48417,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_21",
@@ -46249,7 +48436,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_22",
@@ -46268,7 +48455,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_23",
@@ -46279,7 +48466,7 @@ window.PAST_PAPER_DATA = {
       "number": 23,
       "stem": "인생주기별 특징에 관한 설명으로 옳지 않은 것은?",
       "choices": [
-        "유아기는 놀이를 통해 자신의 감정과 행동을 적절하게 표현하는 것을 배운다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2015년 01월 24일 필기 기",
+        "유아기는 놀이를 통해 자신의 감정과 행동을 적절하게 표현하는 것을 배운다.",
         "아동기는 학교생활을 통해 인지적 기술뿐 아니라 사회적 기술도 습득한다.",
         "청소년기는 또래집단의 지지를 더 선호함으로써 부모로 부터 독립하려는 경향을 보인다.",
         "청년기는 직업과 결혼에 대한 준비를 하는 것이 주요 과 업이다.",
@@ -46287,7 +48474,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_24",
@@ -46306,7 +48493,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_25",
@@ -46325,7 +48512,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_26",
@@ -46344,7 +48531,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_27",
@@ -46361,9 +48548,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ - ㄱ - ㄹ - ㄴ",
         "ㄷ - ㄹ - ㄱ - ㄴ"
       ],
+      "statements":       [
+              "'아동학대는 청소년비행을 유발할 것이다 로가설 설정",
+              "할당표집으로대상자를선정하며자료수집",
+              "아동학대로관심주제선정",
+              "구조화된설문지작성"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_28",
@@ -46372,7 +48565,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "사회복지조사론",
       "number": 28,
-      "stem": "서베이(survey)에서 우편설문법과 비교한 대인면접법의 특성 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 으로 옳지 않은 것은?",
+      "stem": "서베이(survey)에서 우편설문법과 비교한 대인면접법의 특성",
       "choices": [
         "비언어적 행위의 관찰이 가능하다.",
         "대리응답의 가능성이 낮다.",
@@ -46382,7 +48575,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_29",
@@ -46401,7 +48594,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_30",
@@ -46420,7 +48613,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_31",
@@ -46439,7 +48632,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_32",
@@ -46456,9 +48649,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "조절(moderating)변수",
+              "통제(control)변수",
+              "매개(mediating)변수",
+              "외생(extraneous)변수"
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_33",
@@ -46472,12 +48671,12 @@ window.PAST_PAPER_DATA = {
         "신뢰도 측정방법 중 하나다.",
         "일관성 확인을 위해 두 번 조사해야 하는 불편함이 없 다.",
         "20문항이 동일 개념을 측정해야 적용할 수 있다.",
-        "문항을 어떻게 두 조합으로 나누는지에 따라 상관관계가 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2015년 01월 24일 필기 기 달라진다.",
+        "문항을 어떻게 두 조합으로 나누는지에 따라 상관관계가",
         "상관관계가 낮을 경우 어떤 문항을 제거할지 알 수 있 다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_34",
@@ -46494,9 +48693,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "자료수집 방법은 표본크기와 관련 있다.",
+              "표본크기가 커질수록 모수와 통계치의 유사 성미 커진다.",
+              "표집오차가 커질수록표본이모집단을대표 하는 정확성이 낮아진다.",
+              "동일한 표집오차를 가정한다면분석변수가 많아질수록 표본크기는 커져야 한다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_35",
@@ -46513,9 +48718,14 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 독립변수 ㄴ: 매개변수 ㄷ: 종속변수",
         "ㄱ: 매개변수 ㄴ: 종속변수 ㄷ: 독립변수"
       ],
+      "statements":       [
+              "의 많고 적음에따라서 지역사회용집력 (",
+              "에 거주기간(",
+              "이 미치는 영향력은 다를 것이다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_36",
@@ -46534,7 +48744,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_37",
@@ -46553,7 +48763,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_38",
@@ -46572,7 +48782,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_39",
@@ -46581,7 +48791,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "사회복지조사론",
       "number": 39,
-      "stem": "단일사례연구에 관한 설명으로 옳지 않은 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "단일사례연구에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "개인과 집단뿐만 아니라 조직이나 지역사회도 연구대상 이 될 수 있다.",
         "외적 타당도가 높다.",
@@ -46591,7 +48801,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_40",
@@ -46608,9 +48818,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "성숙효과",
+              "선택(selection)과의 상호작용",
+              "통계적회귀",
+              "위약(placebo)효과"
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_41",
@@ -46629,7 +48845,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_42",
@@ -46648,7 +48864,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_43",
@@ -46667,7 +48883,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_44",
@@ -46678,7 +48894,7 @@ window.PAST_PAPER_DATA = {
       "number": 44,
       "stem": "초점집단(focus group) 조사와 델파이 조사에 관한 설명으 로 옳은 것은?",
       "choices": [
-        "초점집단 조사에서는 익명 집단의 상호작용을 통해 도출 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2015년 01월 24일 필기 기 된 자료를 분석한다.",
+        "초점집단 조사에서는 익명 집단의 상호작용을 통해 도출",
         "초점집단 조사는 내용타당도를 높이는 목적으로 사용될 수 있다.",
         "초점집단 조사의 자료수집 과정에서는 연구자의 주관적 개입이 불가능하다.",
         "델파이 조사는 비구조화 방식으로 정보의 흐름을 제어한 다.",
@@ -46686,7 +48902,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_45",
@@ -46705,7 +48921,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_46",
@@ -46724,7 +48940,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_47",
@@ -46743,7 +48959,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_48",
@@ -46762,7 +48978,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_49",
@@ -46777,11 +48993,11 @@ window.PAST_PAPER_DATA = {
         "조사 참여를 통해 받을 혜택을 조사 후에 알려주었다.",
         "정신장애인을 대상으로 한 연구에서 연구대상과 보호자 로부터 동의를 구했다.",
         "조사 과정 중 본인이 원하면 언제라도 중단할 수 있음을 알려주었다.",
-        "연구결과의 활용계획에 대해 알려주었다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "연구결과의 활용계획에 대해 알려주었다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2015_1교시_50",
@@ -46796,11 +49012,11 @@ window.PAST_PAPER_DATA = {
         "하나의 개념을 측정하기 위해 두 개 이상 관련 자료를 수집하는 것이다.",
         "자료의 객관성을 높일 수 있다.",
         "상호일치도가 높은 자료를 판별하여 사용할 수 있다.",
-        "여러 사람이 관찰하므로 측정오류의 발생가능성이 높아 진다. 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프 로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합 니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 오답 및 오탈자가 수정된 최신 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "여러 사람이 관찰하므로 측정오류의 발생가능성이 높아 진다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_1",
@@ -46817,9 +49033,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "스핀행랜드법은 가족수당제도의 시초로 불린다.",
+              "공장법은 아동의 노동 여건을 개선하였다.",
+              "1834년 신구빈법은 전국적으로 구빈 행정 구조 를통일하였다.",
+              "1911년 국민보험법은 건강보험과 실업보험으로 구성되었다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_2",
@@ -46838,7 +49060,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_3",
@@ -46857,7 +49079,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_4",
@@ -46876,7 +49098,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_5",
@@ -46890,12 +49112,18 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ",
         "ㄴ, ㄹ",
-        "ㄹ 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "statements":       [
+              "일반적인 사회적 위험을 모두 포함해야 함",
+              "급여수준과 기간이 충분한 정도가 되어야 함",
+              "재정은 피보험자, 고용주,국가 3자가 부담함",
+              "소득수준에 비례하며 보험료를 산정함"
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_6",
@@ -46914,7 +49142,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_7",
@@ -46931,9 +49159,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "국가 개입은 경제적 비효률 초래",
+              "민영화를 통한 정부역할 축소",
+              "전통적 가치와 국가 권위의 회복 강조",
+              "노동무능력자에대한 국가 책임인정"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_8",
@@ -46952,7 +49186,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_9",
@@ -46971,7 +49205,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_10",
@@ -46990,7 +49224,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_11",
@@ -46999,7 +49233,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지정책론",
       "number": 11,
-      "stem": "2012년 대통령선거에서 건강보험제도 개선안으로 여당은 '4 대 중증질환 100% 국가보장'을, 야당은 '연간 본인부담금 100만원 상한제'를 제안하였다. 이에 관한 설명으로 옳은 것을 모두 고른 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2014년 01월 25일 필기 기",
+      "stem": "2012년 대통령선거에서 건강보험제도 개선안으로 여당은 '4 대 중증질환 100% 국가보장'을, 야당은 '연간 본인부담금 100만원 상한제'를 제안하였다. 이에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ",
@@ -47007,9 +49241,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "여당 안은 국민보건서비스(NHS)방식을 도입한 것이다.",
+              "건강보험료를 홀리지 않는다면.두 안 모두 조 세 부담을 증가시킬 가능성이 높다.",
+              "야당 안은100만원 상한제로제한을 두었다는 점에서 선별주의 원칙이 적용되었다.",
+              "두안 모두 서비스이용자의 이용요금이 감소 하는 효과가 있다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_12",
@@ -47028,7 +49268,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_13",
@@ -47047,7 +49287,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_14",
@@ -47066,7 +49306,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_15",
@@ -47085,7 +49325,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_16",
@@ -47094,7 +49334,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지정책론",
       "number": 16,
-      "stem": "사회복지정책 평가에 관한 설명으로 옳은 것을 모두 고른 것은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "사회복지정책 평가에 관한 설명으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ",
@@ -47102,9 +49342,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "평가설계의 형태와 기법을 결정하기 위해 인과 모형을설정하며야 한다.",
+              "정책평가는 정책활동에 대한 책임성이나 근거 를 확보하기 위해필요하다.",
+              "통계기법 및 분석기법 등이 요구된다는 점에서 정책평가는 기술적()성격을 띤다.",
+              "정책평가는가치판단을배제한다는점에서객 관적이다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_17",
@@ -47123,7 +49369,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_18",
@@ -47140,9 +49386,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "자동안정장치의 기능을 통해 경기 불안정을 조 정한다.",
+              "공적면금이 은퇴준비 필요성을 인식시켜 자발 적저축을 증가시키는 효과가 발생할 수 있다.",
+              "공적연금이 미래자산으로 인식되어 자발적 저 축을 감소시키는 효과가 발생할 수 있다.",
+              "부과방식 공적연금의 경우 자본축적 효과를 발 생시킨다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_19",
@@ -47161,7 +49413,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_20",
@@ -47170,7 +49422,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지정책론",
       "number": 20,
-      "stem": "우리나라의 근로장려세제에 관한 설명으로 옳지 않은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2014년 01월 25일 필기 기",
+      "stem": "우리나라의 근로장려세제에 관한 설명으로 옳지 않은 것은?",
       "choices": [
         "자녀수별로 급여액, 급여의 증가율, 급여의 감소율 등을 차등화 하였다.",
         "고용노동부가 주무 부처이다.",
@@ -47180,7 +49432,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_21",
@@ -47199,7 +49451,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_22",
@@ -47218,7 +49470,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_23",
@@ -47237,7 +49489,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_24",
@@ -47256,7 +49508,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_25",
@@ -47271,11 +49523,11 @@ window.PAST_PAPER_DATA = {
         "구직급여의 소정급여일수는 보험가입기간과 연령에 따라 90일에서 240일까지이다.",
         "'실업의 인정'이란 근로의 의사와 능력을 가지고 적극적 으로 구직노력을 했음을 인정받는 것이다.",
         "구직급여를 받기 위해서는 이직일 이전 18개월 동안 180일 이상 근무하여야 한다.",
-        "육아휴직급여의 육아휴직대상자는 남녀근로자 모두 해당 된다. 2과목 : 사회복지 행정론 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "육아휴직급여의 육아휴직대상자는 남녀근로자 모두 해당 된다. 2과목 : 사회복지 행정론"
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_26",
@@ -47294,7 +49546,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_27",
@@ -47311,9 +49563,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "효율성과 생산의 극대화를실현하기위한이론 이다.",
+              "정부의 법과 정책, 여론이 조직의 구조와 속성 에 영향을 준다.",
+              "조직의 목적은 상하의 일치성에 기반을 두고 있 다.",
+              "조직관리는 조직이 처한 상황에 의해서 결정된 다."
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_28",
@@ -47332,7 +49590,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_29",
@@ -47349,9 +49607,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "서비스가 필요한 인구의 수와 특성을 고려하며 서비스 조직을배치한다.",
+              "낙인 위험을 줄이는 환경을 조성한다.",
+              "서비스 정보를 알기 쉽게 홍보한다.",
+              "서비스 이용 비용을 저렴하게 한다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_30",
@@ -47366,11 +49630,11 @@ window.PAST_PAPER_DATA = {
         "클라이언트 집단의 관점이 배제되지 않도록 주의한다.",
         "개별 서비스제공자의 활동을 통제하지 않는다.",
         "조직 내 서비스 제공자의 업무수행을 파악한다.",
-        "동원된 자원의 사용에 관한 정보를 공개한다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2014년 01월 25일 필기 기"
+        "동원된 자원의 사용에 관한 정보를 공개한다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_31",
@@ -47387,9 +49651,15 @@ window.PAST_PAPER_DATA = {
         "ㄷ - ㄴ - ㄹ - ㄱ",
         "ㄷ - ㄴ - ㄱ - ㄹ"
       ],
+      "statements":       [
+              "주민생활지원국 설치",
+              "사회복지시설평가제 도입",
+              "사회복지전문요원제도 시행",
+              "사회복지통합관리망구축"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_32",
@@ -47406,9 +49676,14 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 산출, ㄴ: 성과, ㄷ: 영향",
         "ㄱ: 성과, ㄴ: 영향, ㄷ: 투입"
       ],
+      "statements":       [
+              "자원봉사자 00명 및 외부강사 ㅇ명",
+              "학교내 안전감증가",
+              "학생참여율"
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_33",
@@ -47427,7 +49702,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_34",
@@ -47446,7 +49721,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_35",
@@ -47465,7 +49740,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_36",
@@ -47476,7 +49751,7 @@ window.PAST_PAPER_DATA = {
       "number": 36,
       "stem": "미국 사회복지행정 역사에서 1990년대 이후 일어난 변화 는?",
       "choices": [
-        "사회복지행정 교육의 필요성이 주장되었다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "사회복지행정 교육의 필요성이 주장되었다.",
         "자선조직협회(COS)가 조직되었다.",
         "공공기관과 민간기관의 기능이 유사해졌다.",
         "지역사회정신건강센터(Community Mental Health Center)가 크게 늘었다.",
@@ -47484,7 +49759,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_37",
@@ -47501,9 +49776,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "비용-편익 분석(Cost-Benefit Analysis)",
+              "노력의 양 측정",
+              "서비스단위당비용",
+              "목표달성척도(Goal Attainment Scale)"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_38",
@@ -47522,7 +49803,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_39",
@@ -47541,7 +49822,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_40",
@@ -47560,7 +49841,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_41",
@@ -47575,11 +49856,11 @@ window.PAST_PAPER_DATA = {
         "복잡성, 공식화, 집권화",
         "복잡성, 분권화, 공식화",
         "집권화, 복잡성, 분권화",
-        "복잡성, 집권화, 공식화 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2014년 01월 25일 필기 기"
+        "복잡성, 집권화, 공식화"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_42",
@@ -47598,7 +49879,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_43",
@@ -47617,7 +49898,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_44",
@@ -47636,7 +49917,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_45",
@@ -47655,7 +49936,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_46",
@@ -47674,7 +49955,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_47",
@@ -47688,12 +49969,12 @@ window.PAST_PAPER_DATA = {
         "목표개발에서부터 시작된다.",
         "조직의 통합적 운영이 편리하다.",
         "조직품목과 예산이 직접 연결되지 않아 환산작업에 어려 움이 있다.",
-        "단위원가계산이 쉬워 단기적 예산변경이 유리하다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "단위원가계산이 쉬워 단기적 예산변경이 유리하다.",
         "의사결정에 있어서 과학적이고 합리적인 기법을 활용한 다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_48",
@@ -47712,7 +49993,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_49",
@@ -47731,7 +50012,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_50",
@@ -47750,7 +50031,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_51",
@@ -47769,7 +50050,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_52",
@@ -47778,7 +50059,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 52,
-      "stem": "권리구제의 내용으로 옳은 것을 모두 고른 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2014년 01월 25일 필기 기",
+      "stem": "권리구제의 내용으로 옳은 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ",
@@ -47786,9 +50067,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "사회보장기본법상 위법 또는 부당한 처분을 받 거나 필요한 처분을 받지 못함으로써 권리 또 는 이익을 침해받은 국민은 행정심판법에 따른 행정심판을 청구할 수 있다.",
+              "기초노령연금법상 수급권자의 자격인정,그 밖 에 기초노령연금법에 따른 처분에 이의가 있는 자는 보건복지부장관 또는 지방자치단체의 장 에게 이의신청을 할 수 있다.",
+              "국민연금법상 가입자의 자격에 관한 국민연금 공단의 처분에이의가있는자는 그 처분을한 국민연금공단에심사청구를 할 수 있다.",
+              "국민건강보험법상 요양급여비용및요양급여의 적정성 평가 등에 관한 건강보험심사평가원의 처분에 이의가 있는 요양기관은 건강보험심사 평가원에 이의신청을 할 수 있다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_53",
@@ -47807,7 +50094,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_54",
@@ -47826,7 +50113,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_55",
@@ -47845,7 +50132,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_56",
@@ -47858,13 +50145,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "약사법에 따라 등록된 약국은 처방전을 급여비용을 청구 한 날부터 3년간 보존하여야 한다.",
         "시장ㆍ군수ㆍ구청장은 장애인복지법에 따라 등록한 장애 인인 수급권자에게 보장구에 대하여 급여를 실시할 수 있다.",
-        "의료급여기관은 의료급여를 하기 전에 수급권자에게 본 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 인부담금을 청구할 수 있다.",
+        "의료급여기관은 의료급여를 하기 전에 수급권자에게 본",
         "시장ㆍ군수ㆍ구청장은 수급권자의 소득, 재산상황, 근로 능력 등이 변동되었을 때에는 직권으로 의료급여의 내용 등을 변경할 수 있다.",
         "시장ㆍ군수ㆍ구청장은 수급권자에 대한 의료급여가 필요 없게 된 경우에는 의료급여를 중지하여야 한다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_57",
@@ -47883,7 +50170,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_58",
@@ -47902,7 +50189,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_59",
@@ -47921,7 +50208,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_60",
@@ -47940,7 +50227,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_61",
@@ -47959,7 +50246,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_62",
@@ -47972,13 +50259,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "1973년 국민복지연금법이 제정되었으나 시행되지 못하 고, 1986년 국민연금법으로 전부 개정되어 1988년부터 시행되었다.",
         "1999년 국민기초생활 보장법이 전부개정되면서 자활후 견기관에 관한 규정이 처음으로 도입되었다.",
-        "의료보험법과 공무원 및 사립학교교직원 의료보험법을 통합하여 1999년 국민건강보험법을 제정하였다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2014년 01월 25일 필기 기",
+        "의료보험법과 공무원 및 사립학교교직원 의료보험법을 통합하여 1999년 국민건강보험법을 제정하였다.",
         "사회복지사업법은 1970년 제정되었고, 1983년 개정 때 사회복지사 자격제도가 처음으로 도입되었다.",
         "사회보장에 관한 법률을 대체하여 1995년 사회보장기본 법이 제정되었다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_63",
@@ -47997,7 +50284,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_64",
@@ -48016,7 +50303,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_65",
@@ -48035,7 +50322,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_66",
@@ -48050,11 +50337,17 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄷ",
         "ㄴ, ㄹ",
         "ㄹ",
-        "ㄱ, ㄴ, ㄷ, ㄹ 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "statements":       [
+              "사회복지를 필요로 하는 사람은 누구든지 자신 의 의사에 따라 서비스를 신청하고 제공 받을 수 있다.",
+              "사회복지법인 및 사회복지시설은 공공성을 가지 며 사회복지사업을 시행하는 데 있어서 공공성 를확보하며야 한다.",
+              "사회복지사업을 시행하는 데 있어서 사회복지를 제공하는 자는 사회복지를 필요로 하는 사람의 인권을 보장하며야 한다.",
+              "생활이어려운사람에게필요한 급여를실시하 여 이들의 최저생활을 보장하고 자활을 돕는 것 을목적으로한다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_67",
@@ -48073,7 +50366,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_68",
@@ -48092,7 +50385,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_69",
@@ -48111,7 +50404,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_70",
@@ -48130,7 +50423,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_71",
@@ -48149,7 +50442,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_72",
@@ -48158,7 +50451,7 @@ window.PAST_PAPER_DATA = {
       "period": "3교시",
       "subject": "사회복지법제론",
       "number": 72,
-      "stem": "가정폭력 방지 및 피해자보호 등에 관한 법률의 내용이다. ( )에 들어갈 기간을 옳게 짝지은 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(3교시) ◐ 2014년 01월 25일 필기 기",
+      "stem": "가정폭력 방지 및 피해자보호 등에 관한 법률의 내용이다. ( )에 들어갈 기간을 옳게 짝지은 것은?",
       "choices": [
         "ㄱ: 1개월, ㄴ: 1개월",
         "ㄱ: 3개월, ㄴ: 2개월",
@@ -48166,9 +50459,13 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 1년, ㄴ: 1년 6개월",
         "ㄱ: 2년, ㄴ: 2년"
       ],
+      "statements":       [
+              "의 범위에서 보호하는 시설을말하며,단기보호시설의 장은그 단기보호시설에입소한 피해자등에대한 보호기간 을 여성가족부령으로 정하는 바에 따라 (",
+              "의 범 위에서 한 차례만 연장할 수 있다."
+      ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_73",
@@ -48185,9 +50482,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "노인여가복지시설",
+              "재가노인복지시설",
+              "노인주거복지시설",
+              "노인보호전문기관"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_74",
@@ -48206,7 +50509,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_3교시_75",
@@ -48221,11 +50524,11 @@ window.PAST_PAPER_DATA = {
         "장기요양보험사업의 보험자는 국민연금공단으로 한다.",
         "장기요양보험료는 건강보험료와 통합하여 고지하여야 한 다.",
         "통합 징수한 장기요양보험료와 건강보험료를 각각의 독 립회계로 관리하여야 한다.",
-        "장기요양급여는 시설급여를 우선적으로 제공하는 것을 기본원칙으로 한다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프 로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합 니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 오답 및 오탈자가 수정된 최신 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "장기요양급여는 시설급여를 우선적으로 제공하는 것을 기본원칙으로 한다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_1",
@@ -48244,7 +50547,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_2",
@@ -48263,7 +50566,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_3",
@@ -48282,7 +50585,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_4",
@@ -48301,7 +50604,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_5",
@@ -48320,7 +50623,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_6",
@@ -48332,14 +50635,14 @@ window.PAST_PAPER_DATA = {
       "stem": "우리나라 사회복지 실천현장의 역사에 관한 설명으로 옳은 것은?",
       "choices": [
         "사회복지전담공무원은 2000년대 중반부터 공공영역에서 활동하기 시작하였다.",
-        "건강가정지원센터는 2000년대 중반부터 운영되기 시작하 였다. 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "건강가정지원센터는 2000년대 중반부터 운영되기 시작하 였다.",
         "종합사회복지관은 1990년대 설립되기 시작하였다.",
         "정신보건사회복지사 자격제도는 2000년대 중반부터 실시 되었다.",
         "한국사회복지사협회는 1990년대 후반에 설립되었다."
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_7",
@@ -48358,7 +50661,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_8",
@@ -48375,9 +50678,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "문제에관한 정보",
+              "원가족의 가족관계",
+              "클라이언트의 기능",
+              "클라이언트의 한계"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_9",
@@ -48396,7 +50705,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_10",
@@ -48411,11 +50720,11 @@ window.PAST_PAPER_DATA = {
         "옹호자(advocate)",
         "중개자(broker)",
         "기획가(planner)",
-        "조성자(enabler) 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2014년 01월 25일 필기 기출"
+        "조성자(enabler)"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_11",
@@ -48434,7 +50743,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_12",
@@ -48453,7 +50762,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_13",
@@ -48472,7 +50781,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_14",
@@ -48491,7 +50800,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_15",
@@ -48510,7 +50819,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_16",
@@ -48519,7 +50828,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천론",
       "number": 16,
-      "stem": "비밀보장의 예외에 해당되는 것을 모두 고른 것은? 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "비밀보장의 예외에 해당되는 것을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ",
@@ -48527,9 +50836,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "법정으로부터 클라이언트의 정보공개명령을 받았을때",
+              "클라이언트의 치료를 위해 전문가 회의를할 때",
+              "클라이언트 자신이나 상대방의 생명에 위협이 될때",
+              "제3자로부터 클라이언트에 관한 정보를 제공 받았을때"
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_17",
@@ -48548,7 +50863,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_18",
@@ -48567,7 +50882,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_19",
@@ -48586,7 +50901,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_20",
@@ -48605,7 +50920,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_21",
@@ -48622,9 +50937,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "사정은 지속적인 과정이다.",
+              "클라이언트의 문제와 자원를 함께 다룬다.",
+              "사정과정에는 클라이언트의 관여가 필요하다.",
+              "사정과정에서는 사회복지사의 판단이 보류된다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_22",
@@ -48633,7 +50954,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "사회복지실천론",
       "number": 22,
-      "stem": "사회복지실천의 전문적 관계에 관한 설명으로 옳지 않은 것 은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2014년 01월 25일 필기 기출",
+      "stem": "사회복지실천의 전문적 관계에 관한 설명으로 옳지 않은 것 은?",
       "choices": [
         "사회복지사는 관계의 전반적 과정에 대하여 전문적 책임 을 진다.",
         "사회복지사는 목적의식을 가지고 관계를 유지한다.",
@@ -48643,7 +50964,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_23",
@@ -48662,7 +50983,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_24",
@@ -48681,7 +51002,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_25",
@@ -48698,9 +51019,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ 2과목 : 사회복지 실천 기술론"
       ],
+      "statements":       [
+              "개입목적에 따라 의사소통내용이 제한됨",
+              "필요에따라 여러 장소에서 수행됨",
+              "기관의 상황적 특성과 맥락에서 이뤄짐",
+              "특정한역할관계가있음"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_26",
@@ -48719,7 +51046,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_27",
@@ -48733,12 +51060,12 @@ window.PAST_PAPER_DATA = {
         "문제가 일어나지 않을 때는 어떤 상황인가요?",
         "문제가 해결되면 당신의 생활에 어떤 변화가 있을까요?",
         "어려운 상황 속에서도 더 나빠지지 않고 견뎌 낼 수 있 었던 것은 무엇 때문이라고 생각하십니까?",
-        "치료를 받으러 왔을 때 스트레스 수준이 10점이라고 하 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 고 스트레스가 완전히 해소된 상태를 0점이라고 한다면 지금 당신의 스트레스 상태는 몇 점인가요?",
+        "치료를 받으러 왔을 때 스트레스 수준이 10점이라고 하",
         "간밤에 기적이 일어나 걱정했던 문제가 해결되었다고 한 다면 당신은 무엇을 보고 기적이 일어난 것을 알 수 있 을까요?"
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_28",
@@ -48757,7 +51084,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_29",
@@ -48776,7 +51103,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_30",
@@ -48793,9 +51120,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "행동수정모델- 친구와 다정하게 이야기하는 장면을 보여주고 역할 연습을 한다.",
+              "인지행동모델-친구에 대한 부정적인 생각 을 변화시키고 친구와 사귀는 방법을 학습하 도록 한다.",
+              "심리사회모델-철수의 성장과정에서 형성된 가족관계양상을파악한다.",
+              "해결중심모델-혈수가 수행해야 할 행동과 제를준다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_31",
@@ -48814,7 +51147,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_32",
@@ -48826,14 +51159,14 @@ window.PAST_PAPER_DATA = {
       "stem": "임파워먼트모델의 실천단계 중 발견단계에서의 과업으로 옳 은 것은?",
       "choices": [
         "성공을 인정하기",
-        "달성한 것을 통합하기 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2014년 01월 25일 필기 기출",
+        "달성한 것을 통합하기",
         "새로운 자원 활성화하기",
         "수집된 정보를 조직화하기",
         "클라이언트와의 파트너십 형성하기"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_33",
@@ -48852,7 +51185,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_34",
@@ -48871,7 +51204,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_35",
@@ -48890,7 +51223,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_36",
@@ -48909,7 +51242,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_37",
@@ -48926,9 +51259,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "자기표출의 정도가 높은 편이다.",
+              "정서적·개인적 문제를 가진 성원들로 구성된다.",
+              "행동변화 및 재활을 목표로 한다.",
+              "집단지도자는 권위적인 인물의 역할을 수행한다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_38",
@@ -48943,11 +51282,11 @@ window.PAST_PAPER_DATA = {
         "보편성",
         "모방행동",
         "희망증진",
-        "카타르시스 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "카타르시스"
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_39",
@@ -48966,7 +51305,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_40",
@@ -48985,7 +51324,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_41",
@@ -49002,9 +51341,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "은퇴준비 노인 집단",
+              "청소년을 위한 가치명료화 집단",
+              "여성을 위한 의식고양 집단",
+              "부부를위한참만남집단"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_42",
@@ -49023,7 +51368,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_43",
@@ -49042,7 +51387,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_44",
@@ -49061,7 +51406,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_45",
@@ -49074,13 +51419,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "조기퇴직이 늘면서 빈둥지 시기가 빨리 온다.",
         "평균수명의 연장으로 가족의 생애주기가 길어진다.",
-        "청년실업이 늘면서 자녀가 독립하는 시기가 늦어진다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2014년 01월 25일 필기 기출",
+        "청년실업이 늘면서 자녀가 독립하는 시기가 늦어진다.",
         "초혼연령이 높아지면서 가족을 형성하는 시점이 늦어진 다.",
         "단독가구 및 무자녀가구가 증가하면서 비전통적인 가족 유형이 늘고 있다."
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_46",
@@ -49097,9 +51442,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "개입과 개입철회를 반복할 수 있다.",
+              "사전자료가 없는 경우 개입 이후에 기초선 자료를 수집할수 있다.",
+              "여러 개의 표적행동에 대해 기초선을 설정 할 수 있다.",
+              "한 명 이상의 클라이언트를 대상으로 비교 할 수 있다"
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_47",
@@ -49118,7 +51469,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_48",
@@ -49137,7 +51488,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_49",
@@ -49156,7 +51507,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_50",
@@ -49175,7 +51526,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_51",
@@ -49187,14 +51538,14 @@ window.PAST_PAPER_DATA = {
       "stem": "지역사회복지와 관련된 개념에 관한 설명으로 옳은 것은?",
       "choices": [
         "지역사회복지실천은 공식적인 전문가에 의해서만 이루어 진다.",
-        "지역사회 자체는 지역사회복지의 실천수단이 될 수 없 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 다.",
+        "지역사회 자체는 지역사회복지의 실천수단이 될 수 없",
         "지역사회보호는 시설보호의 강점을 유지하기 위해서 등 장한 개념이다.",
         "지역사회조직사업은 민간조직이 아닌 공공조직을 통하여 달성되는 영역이다.",
         "지역사회개발을 통하여 지역사회 구성원들의 사회적 관 계를 향상시킬 수 있다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_52",
@@ -49213,7 +51564,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_53",
@@ -49232,7 +51583,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_54",
@@ -49249,9 +51600,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "로스만(Rothman)의 기본 3가지 모델을 분 화하여 지역사회복지실천 모델을 5가지 유 형으로 구분하였다.",
+              "이 모델의 특징은 후원자의 의사결정 영향 정도를 구체적으로 구분하였다는 것이다.",
+              "정치적 권력강화 모델은 로스만의 사회행동 모델과 유사하다.",
+              "지역사회연계모델은후원자가 클라이언트 보다 더 많은 결정권한이 있다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_55",
@@ -49270,7 +51627,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_56",
@@ -49279,7 +51636,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "지역사회복지론",
       "number": 56,
-      "stem": "지역사회를 분석하기 위해서는 지역사회 사정(assessment) 을 해야 하는데, 다음의 지역사회 사정과정 중 사회복지사 가 확인한 변수는? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2014년 01월 25일 필기 기출",
+      "stem": "지역사회를 분석하기 위해서는 지역사회 사정(assessment) 을 해야 하는데, 다음의 지역사회 사정과정 중 사회복지사 가 확인한 변수는?",
       "choices": [
         "사람",
         "사회문제",
@@ -49289,7 +51646,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_57",
@@ -49308,7 +51665,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_58",
@@ -49327,7 +51684,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_59",
@@ -49346,7 +51703,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_60",
@@ -49361,11 +51718,11 @@ window.PAST_PAPER_DATA = {
         "공무원을 제외한 지역사회복지협의체 위원의 임기는 2년 으로 한다.",
         "사회복지시설 평가는 매 3년 마다 1회 이상 실시하여야 한다.",
         "사회복지법인 이사의 임기는 3년으로 하고 연임할 수 있 다.",
-        "사회복지시설의 위탁계약기간은 3년 이내로 한다. 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "사회복지시설의 위탁계약기간은 3년 이내로 한다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_61",
@@ -49382,9 +51739,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "1950년대 - 외국공공원조단체 한국연합회 조직",
+              "1960년대-최초 사회복지관 건립",
+              "1970년대 - 재가복지봉사센터 설치 및 운영",
+              "1990년대-16개 광역 시·도에 사회복지공 동모금회설립"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_62",
@@ -49403,7 +51766,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_63",
@@ -49422,7 +51785,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_64",
@@ -49441,7 +51804,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_65",
@@ -49460,7 +51823,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_66",
@@ -49469,7 +51832,7 @@ window.PAST_PAPER_DATA = {
       "period": "2교시",
       "subject": "지역사회복지론",
       "number": 66,
-      "stem": "미국의 지역사회복지 발달 과정을 빠른 연대 순으로 배치한 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2014년 01월 25일 필기 기출",
+      "stem": "미국의 지역사회복지 발달 과정을 빠른 연대 순으로 배치한 것은?",
       "choices": [
         "ㄱ - ㄴ - ㄷ - ㄹ - ㅁ",
         "ㄱ - ㄴ - ㄷ - ㅁ - ㄹ",
@@ -49477,9 +51840,15 @@ window.PAST_PAPER_DATA = {
         "ㄴ - ㄱ - ㄷ - ㅁ - ㄹ",
         "ㄴ - ㄷ - ㄱ - ㅁ - ㄹ"
       ],
+      "statements":       [
+              "혈 하우스(Hull house) 건립",
+              "자선조직협회창설",
+              "지역공동모금을위한 상공회의소의자선 연합회출현",
+              "'작은정부'지향으로 복지에 대한 지방정 부책임강조 ㅁ.'빈곤과의 전쟁'선포로 사회복지에 대한 연방정부 역할증대"
+      ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_67",
@@ -49498,7 +51867,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_68",
@@ -49517,7 +51886,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_69",
@@ -49536,7 +51905,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_70",
@@ -49551,11 +51920,11 @@ window.PAST_PAPER_DATA = {
         "연합",
         "강압",
         "타협",
-        "호혜 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "호혜"
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_71",
@@ -49574,7 +51943,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_72",
@@ -49591,9 +51960,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "시·도지사는 사회복지위원회의 심의를 거쳐 지역사회복지계획을 수립하며야 한다.",
+              "시장·군수·구청장은 지역주민 등 이해관계 인의 의견을 들은 후 지역사회복지협의체의 심의를 거쳐야 한다.",
+              "지역보건의료계획및사회보장에 관한지역계 획과 연계되어야 한다.",
+              "지역의 지역사회활동계획과 연계되어야 한다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_73",
@@ -49612,7 +51987,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_74",
@@ -49629,9 +52004,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "서비스 면계 등을 포함한 사례관리 기능",
+              "지역 지도자 발굴 등을 포함한 지역전문화 기능",
+              "자원개발 및 관리 등을 포함한 지역조직화 기능",
+              "지역의 욕구사정 등을 포함한 지역평가 기능"
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_2교시_75",
@@ -49646,11 +52027,11 @@ window.PAST_PAPER_DATA = {
         "장애인거주시설 사업은 중앙정부로의 환원이 결정되었 다.",
         "아동복지시설 사업은 중앙정부로의 환원이 결정되었다.",
         "제3기 지역사회복지계획이 준비되고 있다.",
-        "협동조합의 설립은 5인 이상의 조합원 자격이 있어야 한 다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(2교시) ◐ 2014년 01월 25일 필기 기출 최강 자격 출문제 ◑ 전자문제집 CBT : www.comcbt.com 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프 로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합 니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 오답 및 오탈자가 수정된 최신 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "협동조합의 설립은 5인 이상의 조합원 자격이 있어야 한 다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_1",
@@ -49669,7 +52050,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_2",
@@ -49688,7 +52069,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_3",
@@ -49707,7 +52088,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_4",
@@ -49726,7 +52107,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_5",
@@ -49745,7 +52126,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_6",
@@ -49758,13 +52139,13 @@ window.PAST_PAPER_DATA = {
       "choices": [
         "신체구조상 전반적인 신진대사의 둔화가 일어난다.",
         "남녀의 성적 능력이 저하되며 갱년기를 경험하게 된다.",
-        "이 시기에 직면하게 되는 심리사회적 위기는 생산성 대 침체기이다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "이 시기에 직면하게 되는 심리사회적 위기는 생산성 대 침체기이다.",
         "새로운 것의 학습능력은 저하되지만 문제해결능력은 오히 려 높아진다.",
         "자아통합의 시기이며 사회관계망의 축소로 인해 사회적 역할 변화를 경험한다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_7",
@@ -49783,7 +52164,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_8",
@@ -49800,9 +52181,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "보상 - 운동을잘 못하는사람이공부에 열중하는 행동",
+              "억압-자신의 애인을 빼앗아 결혼한친구 의얼굴을의식하지못하는현상",
+              "신체화 -실적이 낮은 영업사원이 실적 보 고를 회피하고 싶을 때 배가 아픈 현상",
+              "반동형성-부모의 가장 싫은 점을 자신이 닮아가며 그대로 따라하는 행동"
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_9",
@@ -49821,7 +52208,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_10",
@@ -49840,7 +52227,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_11",
@@ -49857,9 +52244,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "자아실현의 욕구",
+              "무조건적인긍정적관심",
+              "소속과애정의욕구",
+              "열등감과보상"
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_12",
@@ -49871,14 +52264,14 @@ window.PAST_PAPER_DATA = {
       "stem": "사회체계의 주요개념으로 옳지 않은 것은?",
       "choices": [
         "시너지는 체계 내에 유용한 에너지가 증가하는 것이다.",
-        "경계는 모든 사회체계에서 볼 수 있는 사회적 구조를 말 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2014년 01월 25일 필기 기 한다.",
+        "경계는 모든 사회체계에서 볼 수 있는 사회적 구조를 말",
         "엔트로피는 체계 내에 질서, 형태, 분화가 있는 상태를 의미한다.",
         "항상성은 시스템이 지속적으로 안정적 균형을 유지하려 는 경향이다.",
         "균형은 외부환경으로부터 새로운 에너지의 투입없이 현 상을 유지하려는 속성이다."
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_13",
@@ -49897,7 +52290,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_14",
@@ -49916,7 +52309,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_15",
@@ -49935,7 +52328,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_16",
@@ -49954,7 +52347,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_17",
@@ -49969,11 +52362,11 @@ window.PAST_PAPER_DATA = {
         "인본주의이론 - 로저스(C. Rogers)",
         "사회학습이론 - 반두라(A. Bandura)",
         "개인심리이론 - 매슬로우(A. Maslow)",
-        "행동주의이론 - 파블로프(I. Pavlov) 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "행동주의이론 - 파블로프(I. Pavlov)"
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_18",
@@ -49992,7 +52385,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_19",
@@ -50011,7 +52404,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_20",
@@ -50030,7 +52423,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_21",
@@ -50049,7 +52442,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_22",
@@ -50068,7 +52461,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_23",
@@ -50077,7 +52470,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "인간행동과 사회환경",
       "number": 23,
-      "stem": "유아기(3~6세)때 일반적으로 볼 수 있는 특징으로 옳은 것 을 모두 고른 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2014년 01월 25일 필기 기",
+      "stem": "유아기(3~6세)때 일반적으로 볼 수 있는 특징으로 옳은 것 을 모두 고른 것은?",
       "choices": [
         "ㄱ, ㄴ, ㄷ",
         "ㄱ, ㄷ",
@@ -50085,9 +52478,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "타율적 도덕성이 발달한다.",
+              "자아개념과 자아존중감을 혈성한다.",
+              "프로이트(S,Freud)의 성격발달 단계의 남근기에해당한다.",
+              "타인의 감정을 수용할 수 있는사회적 관점이발달하기 시작한다."
+      ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_24",
@@ -50106,7 +52505,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_25",
@@ -50125,7 +52524,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_26",
@@ -50144,7 +52543,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_27",
@@ -50159,11 +52558,11 @@ window.PAST_PAPER_DATA = {
         "수량분석이 불가능하다.",
         "보도자료 문장에 나타나지 않는 숨은 내용(latent content)은 코딩할 수 없다.",
         "인간의 모든 형태의 의사소통기록물을 활용할 수 있다.",
-        "사전조사가 따로 필요치 않다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com"
+        "사전조사가 따로 필요치 않다."
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_28",
@@ -50182,7 +52581,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_29",
@@ -50201,7 +52600,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_30",
@@ -50220,7 +52619,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_31",
@@ -50239,7 +52638,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_32",
@@ -50256,9 +52655,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "서비스평가에서 정성적 차원을 분석할 수 있다.",
+              "양적도구가 아니므로 신뢰도를 따질 수 없다.",
+              "연구자 자신이 도구가 된다.",
+              "구조화와 조작화의 과정을 거친다."
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_33",
@@ -50267,7 +52672,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "사회복지조사론",
       "number": 33,
-      "stem": "다음은 다양한 표집방법이 동원된 질적연구 사례이다. 이 사례에서 동원된 표집방법이 아닌 것은? 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2014년 01월 25일 필기 기",
+      "stem": "다음은 다양한 표집방법이 동원된 질적연구 사례이다. 이 사례에서 동원된 표집방법이 아닌 것은?",
       "choices": [
         "최대변화량 표집",
         "예외사례 표집",
@@ -50277,7 +52682,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_34",
@@ -50296,7 +52701,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_35",
@@ -50313,9 +52718,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "탐색, 기술, 설명적 조사는 조사의 목적에 따른 구분이다.",
+              "패널조사와 동년배집단(cohort)조사는 동일대 상인에 대한 반복측정을 원칙으로 한다.",
+              "2차 자료 분석연구는 비관여적 연구방법에 해 당한다.",
+              "탐색적 조사의 경우에도 명확한 연구가설과 구 체적 조사계획이 사전에 수립되어야 한다."
+      ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_36",
@@ -50334,7 +52745,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_37",
@@ -50348,12 +52759,12 @@ window.PAST_PAPER_DATA = {
         "연구문제의 발견 및 설정은 조사에서 핵심적인 부분이 다.",
         "가설은 연구문제와 그 이론에 따라 구성되는 것이 바람 직하다.",
         "연구문제설정은 가설설정과 조사설계의 전 단계이다.",
-        "연구문제설정에서 비용, 시간, 윤리성 등이 고려되어야 한다. 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+        "연구문제설정에서 비용, 시간, 윤리성 등이 고려되어야 한다.",
         "조사연구과정은 자료의 분석으로 마무리된다."
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_38",
@@ -50372,7 +52783,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_39",
@@ -50391,7 +52802,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_40",
@@ -50410,7 +52821,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_41",
@@ -50429,7 +52840,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_42",
@@ -50448,7 +52859,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_43",
@@ -50459,7 +52870,7 @@ window.PAST_PAPER_DATA = {
       "number": 43,
       "stem": "설문지 작성에 관한 설명으로 옳지 않은 것은?",
       "choices": [
-        "폐쇄형 질문의 응답범주는 포괄적(exhaustive)이어야 한 다. 격증 기출문제 전자문제집 CBT : www.comcbt.com 사회복지사 1급(1교시) ◐ 2014년 01월 25일 필기 기",
+        "폐쇄형 질문의 응답범주는 포괄적(exhaustive)이어야 한 다.",
         "응답자의 이해능력을 고려하여 설문문항이 작성되어야 한다.",
         "폐쇄형 질문의 응답범주는 상호배타적(mutually exclusive)이지 않아도 된다.",
         "심층적이고 질적인 면접은 대부분 개방형 질문으로 구성 된다.",
@@ -50467,7 +52878,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_44",
@@ -50486,7 +52897,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_45",
@@ -50505,7 +52916,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_46",
@@ -50524,7 +52935,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_47",
@@ -50543,7 +52954,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_48",
@@ -50560,9 +52971,15 @@ window.PAST_PAPER_DATA = {
         "ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements":       [
+              "표집들이 없는 경우 사용된다.",
+              "연구자의 편견이 개입될 수 있다.",
+              "질적 연구에 빈번히 활용되는 방법이다.",
+              "연구결과를일반화할 수있다."
+      ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_49",
@@ -50571,7 +52988,7 @@ window.PAST_PAPER_DATA = {
       "period": "1교시",
       "subject": "사회복지조사론",
       "number": 49,
-      "stem": "다음 사례에 해당하는 표집방법은? 최강 자격 기출문제 ◑ 전자문제집 CBT : www.comcbt.com",
+      "stem": "다음 사례에 해당하는 표집방법은?",
       "choices": [
         "할당표집",
         "군집표집",
@@ -50581,7 +52998,7 @@ window.PAST_PAPER_DATA = {
       ],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     },
     {
       "id": "past_2014_1교시_50",
@@ -50596,11 +53013,16 @@ window.PAST_PAPER_DATA = {
         "ㄱ: 등간척도, ㄴ: 서열척도, ㄷ: 비율척도",
         "ㄱ: 등간척도, ㄴ: 비율척도, ㄷ: 명목척도",
         "ㄱ: 서열척도, ㄴ: 등간척도, ㄷ: 명목척도",
-        "ㄱ: 서열척도, ㄴ: 비율척도, ㄷ: 명목척도 전자문제집 CBT 홈페이지 : www.comcbt.com 기출문제 및 해설집 다운로드 : www.comcbt.com/xe 전자문제집 CBT 앱(구글플레이) : [다운로드] 전자문제집 CBT란? 종이 문제집이 아닌 인터넷으로 문제를 풀고 자동으로 채점하며 모의고사, 오답 노트, 해설까지 제공하는 무료 기출문제 학습 프 로그램으로 실제 시험에서 사용하는 OMR 형식의 CBT를 제공합 니다. PC 버전 및 모바일 버전 완벽 연동 교사용/학생용 관리기능도 제공합니다. 오답 및 오탈자가 수정된 최신 자료와 해설은 전자문제집 CBT 에서 확인하세요. 1 2 3 4 5 6 7 8 9 10"
+        "ㄱ: 서열척도, ㄴ: 비율척도, ㄷ: 명목척도"
+      ],
+      "statements":       [
+              "교육수준-중졸이하,고졸,대졸이상",
+              "교육연수-정규교육을 받은 기간(년)",
+              "출신고등학교지역"
       ],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
-      "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+      "sourceUrl": "https://"
     }
   ]
 };
@@ -50611,7 +53033,7 @@ window.ANSWER_BOOKS = [
     "period": "3교시",
     "title": "2026년 3교시 교사용 정답지",
     "file": "past-papers/2026_3교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f3/9852125"
+    "sourceUrl": "https://"
   },
   {
     "key": "2026_2교시",
@@ -50619,7 +53041,7 @@ window.ANSWER_BOOKS = [
     "period": "2교시",
     "title": "2026년 2교시 교사용 정답지",
     "file": "past-papers/2026_2교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f2/9852108"
+    "sourceUrl": "https://"
   },
   {
     "key": "2026_1교시",
@@ -50627,7 +53049,7 @@ window.ANSWER_BOOKS = [
     "period": "1교시",
     "title": "2026년 1교시 교사용 정답지",
     "file": "past-papers/2026_1교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f1/9852091"
+    "sourceUrl": "https://"
   },
   {
     "key": "2025_3교시",
@@ -50635,7 +53057,7 @@ window.ANSWER_BOOKS = [
     "period": "3교시",
     "title": "2025년 3교시 교사용 정답지",
     "file": "past-papers/2025_3교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f3/9697679"
+    "sourceUrl": "https://"
   },
   {
     "key": "2025_2교시",
@@ -50643,7 +53065,7 @@ window.ANSWER_BOOKS = [
     "period": "2교시",
     "title": "2025년 2교시 교사용 정답지",
     "file": "past-papers/2025_2교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f2/9697655"
+    "sourceUrl": "https://"
   },
   {
     "key": "2025_1교시",
@@ -50651,7 +53073,7 @@ window.ANSWER_BOOKS = [
     "period": "1교시",
     "title": "2025년 1교시 교사용 정답지",
     "file": "past-papers/2025_1교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f1/9697632"
+    "sourceUrl": "https://"
   },
   {
     "key": "2024_3교시",
@@ -50659,7 +53081,7 @@ window.ANSWER_BOOKS = [
     "period": "3교시",
     "title": "2024년 3교시 교사용 정답지",
     "file": "past-papers/2024_3교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f3/7145864"
+    "sourceUrl": "https://"
   },
   {
     "key": "2024_2교시",
@@ -50667,7 +53089,7 @@ window.ANSWER_BOOKS = [
     "period": "2교시",
     "title": "2024년 2교시 교사용 정답지",
     "file": "past-papers/2024_2교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f2/7145857"
+    "sourceUrl": "https://"
   },
   {
     "key": "2024_1교시",
@@ -50675,7 +53097,7 @@ window.ANSWER_BOOKS = [
     "period": "1교시",
     "title": "2024년 1교시 교사용 정답지",
     "file": "past-papers/2024_1교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f1/7145835"
+    "sourceUrl": "https://"
   },
   {
     "key": "2023_3교시",
@@ -50683,7 +53105,7 @@ window.ANSWER_BOOKS = [
     "period": "3교시",
     "title": "2023년 3교시 교사용 정답지",
     "file": "past-papers/2023_3교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f3/6518597"
+    "sourceUrl": "https://"
   },
   {
     "key": "2023_2교시",
@@ -50691,7 +53113,7 @@ window.ANSWER_BOOKS = [
     "period": "2교시",
     "title": "2023년 2교시 교사용 정답지",
     "file": "past-papers/2023_2교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f2/6518561"
+    "sourceUrl": "https://"
   },
   {
     "key": "2023_1교시",
@@ -50699,7 +53121,7 @@ window.ANSWER_BOOKS = [
     "period": "1교시",
     "title": "2023년 1교시 교사용 정답지",
     "file": "past-papers/2023_1교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f1/6518538"
+    "sourceUrl": "https://"
   },
   {
     "key": "2022_3교시",
@@ -50707,7 +53129,7 @@ window.ANSWER_BOOKS = [
     "period": "3교시",
     "title": "2022년 3교시 교사용 정답지",
     "file": "past-papers/2022_3교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f3/5584442"
+    "sourceUrl": "https://"
   },
   {
     "key": "2022_2교시",
@@ -50715,7 +53137,7 @@ window.ANSWER_BOOKS = [
     "period": "2교시",
     "title": "2022년 2교시 교사용 정답지",
     "file": "past-papers/2022_2교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f2/5584420"
+    "sourceUrl": "https://"
   },
   {
     "key": "2022_1교시",
@@ -50723,7 +53145,7 @@ window.ANSWER_BOOKS = [
     "period": "1교시",
     "title": "2022년 1교시 교사용 정답지",
     "file": "past-papers/2022_1교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f1/5584404"
+    "sourceUrl": "https://"
   },
   {
     "key": "2021_3교시",
@@ -50731,7 +53153,7 @@ window.ANSWER_BOOKS = [
     "period": "3교시",
     "title": "2021년 3교시 교사용 정답지",
     "file": "past-papers/2021_3교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f3/4941558"
+    "sourceUrl": "https://"
   },
   {
     "key": "2021_2교시",
@@ -50739,7 +53161,7 @@ window.ANSWER_BOOKS = [
     "period": "2교시",
     "title": "2021년 2교시 교사용 정답지",
     "file": "past-papers/2021_2교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f2/4941545"
+    "sourceUrl": "https://"
   },
   {
     "key": "2021_1교시",
@@ -50747,7 +53169,7 @@ window.ANSWER_BOOKS = [
     "period": "1교시",
     "title": "2021년 1교시 교사용 정답지",
     "file": "past-papers/2021_1교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f1/4941528"
+    "sourceUrl": "https://"
   },
   {
     "key": "2020_3교시",
@@ -50755,7 +53177,7 @@ window.ANSWER_BOOKS = [
     "period": "3교시",
     "title": "2020년 3교시 교사용 정답지",
     "file": "past-papers/2020_3교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f3/4079504"
+    "sourceUrl": "https://"
   },
   {
     "key": "2020_2교시",
@@ -50763,7 +53185,7 @@ window.ANSWER_BOOKS = [
     "period": "2교시",
     "title": "2020년 2교시 교사용 정답지",
     "file": "past-papers/2020_2교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f2/4079491"
+    "sourceUrl": "https://"
   },
   {
     "key": "2020_1교시",
@@ -50771,7 +53193,7 @@ window.ANSWER_BOOKS = [
     "period": "1교시",
     "title": "2020년 1교시 교사용 정답지",
     "file": "past-papers/2020_1교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f1/4079478"
+    "sourceUrl": "https://"
   },
   {
     "key": "2019_3교시",
@@ -50779,7 +53201,7 @@ window.ANSWER_BOOKS = [
     "period": "3교시",
     "title": "2019년 3교시 교사용 정답지",
     "file": "past-papers/2019_3교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f3/3520846"
+    "sourceUrl": "https://"
   },
   {
     "key": "2019_2교시",
@@ -50787,7 +53209,7 @@ window.ANSWER_BOOKS = [
     "period": "2교시",
     "title": "2019년 2교시 교사용 정답지",
     "file": "past-papers/2019_2교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f2/3895023"
+    "sourceUrl": "https://"
   },
   {
     "key": "2019_1교시",
@@ -50795,7 +53217,7 @@ window.ANSWER_BOOKS = [
     "period": "1교시",
     "title": "2019년 1교시 교사용 정답지",
     "file": "past-papers/2019_1교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f1/3894072"
+    "sourceUrl": "https://"
   },
   {
     "key": "2018_3교시",
@@ -50803,7 +53225,7 @@ window.ANSWER_BOOKS = [
     "period": "3교시",
     "title": "2018년 3교시 교사용 정답지",
     "file": "past-papers/2018_3교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f3/2876974"
+    "sourceUrl": "https://"
   },
   {
     "key": "2018_2교시",
@@ -50811,7 +53233,7 @@ window.ANSWER_BOOKS = [
     "period": "2교시",
     "title": "2018년 2교시 교사용 정답지",
     "file": "past-papers/2018_2교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f2/2876957"
+    "sourceUrl": "https://"
   },
   {
     "key": "2018_1교시",
@@ -50819,7 +53241,7 @@ window.ANSWER_BOOKS = [
     "period": "1교시",
     "title": "2018년 1교시 교사용 정답지",
     "file": "past-papers/2018_1교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f1/3102114"
+    "sourceUrl": "https://"
   },
   {
     "key": "2017_3교시",
@@ -50827,7 +53249,7 @@ window.ANSWER_BOOKS = [
     "period": "3교시",
     "title": "2017년 3교시 교사용 정답지",
     "file": "past-papers/2017_3교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f3/2628295"
+    "sourceUrl": "https://"
   },
   {
     "key": "2017_2교시",
@@ -50835,7 +53257,7 @@ window.ANSWER_BOOKS = [
     "period": "2교시",
     "title": "2017년 2교시 교사용 정답지",
     "file": "past-papers/2017_2교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f2/2628178"
+    "sourceUrl": "https://"
   },
   {
     "key": "2017_1교시",
@@ -50843,7 +53265,7 @@ window.ANSWER_BOOKS = [
     "period": "1교시",
     "title": "2017년 1교시 교사용 정답지",
     "file": "past-papers/2017_1교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f1/2628044"
+    "sourceUrl": "https://"
   },
   {
     "key": "2016_3교시",
@@ -50851,7 +53273,7 @@ window.ANSWER_BOOKS = [
     "period": "3교시",
     "title": "2016년 3교시 교사용 정답지",
     "file": "past-papers/2016_3교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f3/2628279"
+    "sourceUrl": "https://"
   },
   {
     "key": "2016_2교시",
@@ -50859,7 +53281,7 @@ window.ANSWER_BOOKS = [
     "period": "2교시",
     "title": "2016년 2교시 교사용 정답지",
     "file": "past-papers/2016_2교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f2/2628165"
+    "sourceUrl": "https://"
   },
   {
     "key": "2016_1교시",
@@ -50867,7 +53289,7 @@ window.ANSWER_BOOKS = [
     "period": "1교시",
     "title": "2016년 1교시 교사용 정답지",
     "file": "past-papers/2016_1교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f1/2628020"
+    "sourceUrl": "https://"
   },
   {
     "key": "2015_3교시",
@@ -50875,7 +53297,7 @@ window.ANSWER_BOOKS = [
     "period": "3교시",
     "title": "2015년 3교시 교사용 정답지",
     "file": "past-papers/2015_3교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f3/2628266"
+    "sourceUrl": "https://"
   },
   {
     "key": "2015_2교시",
@@ -50883,7 +53305,7 @@ window.ANSWER_BOOKS = [
     "period": "2교시",
     "title": "2015년 2교시 교사용 정답지",
     "file": "past-papers/2015_2교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f2/2628152"
+    "sourceUrl": "https://"
   },
   {
     "key": "2015_1교시",
@@ -50891,7 +53313,7 @@ window.ANSWER_BOOKS = [
     "period": "1교시",
     "title": "2015년 1교시 교사용 정답지",
     "file": "past-papers/2015_1교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f1/2628005"
+    "sourceUrl": "https://"
   },
   {
     "key": "2014_3교시",
@@ -50899,7 +53321,7 @@ window.ANSWER_BOOKS = [
     "period": "3교시",
     "title": "2014년 3교시 교사용 정답지",
     "file": "past-papers/2014_3교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f3/2628253"
+    "sourceUrl": "https://"
   },
   {
     "key": "2014_2교시",
@@ -50907,7 +53329,7 @@ window.ANSWER_BOOKS = [
     "period": "2교시",
     "title": "2014년 2교시 교사용 정답지",
     "file": "past-papers/2014_2교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f2/2628139"
+    "sourceUrl": "https://"
   },
   {
     "key": "2014_1교시",
@@ -50915,6 +53337,6 @@ window.ANSWER_BOOKS = [
     "period": "1교시",
     "title": "2014년 1교시 교사용 정답지",
     "file": "past-papers/2014_1교시_교사용_정답해설.pdf",
-    "sourceUrl": "https://www.comcbt.com/xe/f1/2627981"
+    "sourceUrl": "https://"
   }
 ];
