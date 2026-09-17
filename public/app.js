@@ -199,6 +199,8 @@ function startQuiz(subject='',count=10,mode='quiz'){
 
 function startQuizFromPool(pool,count=10,mode='quiz',label=''){
   const all=questions();
+  const quizSubject=$('#quizSubject');
+  if(quizSubject) quizSubject.value=SUBJECTS.includes(label)?label:'';
   const source=pool.length?pool:(!label?all:[]);
   current=shuffle(source).slice(0,Math.max(1,Number(count)||10));
   if(!current.length){
