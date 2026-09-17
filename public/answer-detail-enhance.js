@@ -1,6 +1,6 @@
 (function(){
   const $=(s,r=document)=>r.querySelector(s), arr=v=>Array.isArray(v)?v:[];
-  const esc=v=>String(v??'').replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));
+  const esc=v=>String(v??'').replace(/발달와/g,'발달과').replace(/지역복지(['’])을/g,'지역복지$1를').replace(/참며자/g,'참여자').replace(/비교\s+한다/g,'비교한다').replace(/정도를평가/g,'정도를 평가').replace(/조사시/g,'조사 시').replace(/표집를선정/g,'표집단위 선정').replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));
   const lab=n=>['①','②','③','④','⑤'][Number(n)]||String(Number(n)+1);
   const norm=s=>s==='사회복지법제론'?'사회복지법제와 실천':String(s||'');
   const yr=q=>String(q.year||arr(q.tags).find(t=>/^20\d{2}$/.test(String(t)))||'');

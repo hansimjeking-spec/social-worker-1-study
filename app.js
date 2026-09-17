@@ -31,7 +31,7 @@ let current=[];
 let timer=null;
 let left=1500;
 
-function questions(){return BASE.concat(custom).map(q=>({...q,subject:normalizeSubject(q.subject)})).filter(q=>q.question&&Array.isArray(q.choices)&&q.choices.length>=2)}
+function questions(){return BASE.concat(custom).map(q=>({...q,subject:normalizeSubject(q.subject),statements:normalizeStatements(q.statements)})).filter(q=>q.question&&Array.isArray(q.choices)&&q.choices.length>=2)}
 function save(){write('sw1_stats',stats);write('sw1_wrong',wrong);write('sw1_learned',learned);write('sw1_custom',custom)}
 function dayCheck(){if(stats.date!==today()){const y=new Date(Date.now()-86400000).toISOString().slice(0,10);stats.streak=stats.date===y?(stats.streak||0)+1:1;stats.date=today();stats.solved=0;stats.correct=0;save()}}
 function setText(sel,text){const el=$(sel);if(el)el.textContent=text}
@@ -43,6 +43,19 @@ cleanText=(value)=>_baseCleanText(value).replace(/공급자\s+와/g,'공급자�
 
 const _baseCleanText2=cleanText;
 cleanText=(value)=>_baseCleanText2(value).replace(/정책결정모형이\s+다/g,'정책결정 모형이다').replace(/다\s+양한/g,'다양한').replace(/다양한서비스/g,'다양한 서비스').replace(/40%이하/g,'40% 이하').replace(/이하미\s+고/g,'이하이고').replace(/개정\s+이\s+후/g,'개정 이후').replace(/이법개정이전/g,'이 법 개정 이전').replace(/인정된사람/g,'인정된 사람').replace(/:서비스/g,': 서비스').replace(/사회보험원리/g,'사회보험 원리').replace(/정책결정과정\s+으로설명/g,'정책결정 과정으로 설명').replace(/쓰레기통모혈/g,'쓰레기통 모형').replace(/혼합모형은합리모형과최적모형을혼합하여/g,'혼합모형은 합리모형과 최적모형을 혼합하여').replace(/정책의\s+창\s+이/g,'정책의 창이').replace(/점진\s+적으로/g,'점진적으로').replace(/생활에너\s+지/g,'생활에너지').replace(/사회복\s+지/g,'사회복지').replace(/복지\s+서비\s+스/g,'복지서비스').replace(/프로\s*그\s*램/g,'프로그램').replace(/기능\s+을/g,'기능을').replace(/관계\s+는/g,'관계는').replace(/통합\s+성/g,'통합성').replace(/전문\s+성/g,'전문성').replace(/책임\s+성/g,'책임성').replace(/접근\s+성/g,'접근성').replace(/포괄\s+성/g,'포괄성').trim();
+
+const _baseCleanText3=cleanText;
+cleanText=(value)=>_baseCleanText3(value).replace(/발달와/g,'발달과').replace(/지역복지(['’])을/g,'지역복지$1를').replace(/참며자/g,'참여자').replace(/비교\s+한다/g,'비교한다').replace(/정도를평가/g,'정도를 평가').replace(/조사시/g,'조사 시').replace(/표집를선정/g,'표집단위 선정');
+
+function normalizeStatements(statements){
+  const out=[];
+  safeArr(statements).forEach(raw=>{
+    const text=cleanText(raw);
+    const match=text.match(/^(.*?표본추출방법 결정)\s*ㅁ\.\s*(.*)$/);
+    if(match&&match[2]){out.push(match[1]);out.push(`표집단위 선정`)}else out.push(text);
+  });
+  return out;
+}
 
 function view(v){
   $$('.nav-item').forEach(b=>b.classList.toggle('active',b.dataset.view===v));
