@@ -8,7 +8,7 @@
   const safeArr=(v)=>Array.isArray(v)?v:[];
   const uniq=(arr)=>Array.from(new Set(arr.filter(v=>v!==undefined&&v!==null&&String(v).trim()!=='')));
   const answerLabel=(n)=>['①','②','③','④','⑤'][Number(n)]||String(Number(n)+1);
-  const statementMarkup=(q)=>Array.isArray(q.statements)&&q.statements.length?`<div class="question-statements"><strong>보기</strong><ol class="statement-list">${q.statements.map((s,n)=>`<li><span class="statement-label">${['ㄱ','ㄴ','ㄷ','ㄹ','ㅁ','ㅂ'][n]||`${n+1}`}</span><span>${esc(s)}</span></li>`).join('')}</ol></div>`:'';
+  const statementMarkup=(q)=>Array.isArray(q.statements)&&q.statements.length?`<div class="question-statements"><strong>보기</strong><ol class="statement-list">${q.statements.map((s,n)=>`<li><span class="statement-label">${['ㄱ','ㄴ','ㄷ','ㄹ','ㅁ','ㅂ','ㅅ','ㅇ'][n]||`${n+1}`}</span><span>${esc(s)}</span></li>`).join('')}</ol></div>`:'';
   const normalizeSubject=(s)=>s==='사회복지법제론'?'사회복지법제와 실천':String(s||'');
   const questions=()=>safeArr(window.SAMPLE_QUESTIONS).map(q=>({...q,subject:normalizeSubject(q.subject)})).filter(q=>q.question&&Array.isArray(q.choices));
   const fileExt=(url='')=>String(url).split('?')[0].split('#')[0].split('.').pop()?.toLowerCase()||'';
