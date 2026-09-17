@@ -6,5 +6,5 @@
 @media(max-width:560px){.nav{grid-template-columns:1fr}.stats-grid,.summary-grid{grid-template-columns:1fr}.summary-head,.cbt-header{flex-direction:column}.top-actions{width:100%}.primary-button,.ghost-button{width:100%}}
 
 html{overflow-x:hidden}
-.question-card h4,.choice span,.wrong-item strong{overflow-wrap:anywhere;word-break:break-word}.question-statements{margin:0 0 12px;padding:12px 14px;border:1px solid var(--line);border-radius:12px;background:#f8fafc;line-height:1.7}.question-statements strong{display:block;margin-bottom:4px}.question-statements ol{margin:0;padding-left:24px}
+.question-card h4,.choice span,.wrong-item strong{overflow-wrap:anywhere;word-break:break-word}.question-statements{margin:0 0 12px;padding:12px 14px;border:1px solid var(--line);border-radius:12px;background:#f8fafc;line-height:1.7}.question-statements strong{display:block;margin-bottom:4px}.question-statements ol{margin:0;padding-left:0}.question-statements .statement-list{list-style:none}.question-statements .statement-list li{display:flex;gap:8px}.statement-label{flex:0 0 22px;font-weight:600}
 .nav{overflow-x:auto}

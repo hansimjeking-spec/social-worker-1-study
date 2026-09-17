@@ -3903,6 +3903,7 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements": ["개인화","이분법적 사고","과잉일반화","임의적 추론"],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
       "sourceUrl": "https://"
@@ -4930,6 +4931,7 @@ window.PAST_PAPER_DATA = {
         "ㄷ, ㄹ",
         "ㄹ, ㄷ"
       ],
+      "statements": ["현금","증서(바우처)","현물","기회"],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
       "sourceUrl": "https://"
@@ -9002,6 +9004,7 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄴ, ㄹ, ㅁ"
       ],
+      "statements": ["길버트법은 빈민의 비참한 생활과 착취를 개선하기 위해 원외구제를 허용했다.","스핀햄랜드법은 빈민의 임금을 보충하기 위해 가족 수에 따라 보조금을 지급할 수 있게 했다.","신빈민법은 열등처우의 원칙을 적용하였고 원내구제를 금지했다.","왕립빈민법위원회의 소수파보고서는 구빈법의 폐지보다는 개혁을 주장했다.","베버리지보고서를 근거로 하며 가족수당법, 국민부조법 등이 제정되었다."],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
       "sourceUrl": "https://"
@@ -10182,6 +10185,7 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements": ["이주비","광역구직활동비","직업능력개발 수당","조기재취업 수당"],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
       "sourceUrl": "https://"
@@ -11381,6 +11385,7 @@ window.PAST_PAPER_DATA = {
         "ㄱ, ㄴ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements": ["신뢰","호혜성","경계","네트워크"],
       "answer": 3,
       "explain": "교사용 PDF 정답지를 확인하세요.",
       "sourceUrl": "https://"
@@ -11526,6 +11531,7 @@ window.PAST_PAPER_DATA = {
         "ㄹ→ㄱ→ㄷ→ㄴ",
         "ㄹ→ㄴ→ㄷ→ㄱ"
       ],
+      "statements": ["지역사회 사정","실행","성과평가","실행계획 수립"],
       "answer": 1,
       "explain": "교사용 PDF 정답지를 확인하세요.",
       "sourceUrl": "https://"
@@ -14480,6 +14486,7 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements": ["개별화","개인의 권리와 의무 강조","최소한의 수혜자격 원칙","사회적 책임 중시"],
       "answer": 0,
       "explain": "교사용 PDF 정답지를 확인하세요.",
       "sourceUrl": "https://"
@@ -15219,6 +15226,7 @@ window.PAST_PAPER_DATA = {
         "ㄷ → ㄱ → ㄴ → ㄹ",
         "ㄷ → ㄱ → ㄹ → ㄴ"
       ],
+      "statements": ["역할극","적용","시연","평가"],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
       "sourceUrl": "https://"
@@ -18636,6 +18644,7 @@ window.PAST_PAPER_DATA = {
         "ㄹ - ㄱ - ㄴ - ㄷ",
         "ㄹ - ㄷ - ㄱ - ㄴ"
       ],
+      "statements": ["투입","산출","환류","전환"],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
       "sourceUrl": "https://"
@@ -19059,6 +19068,7 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements": ["내적 의사소통의 명료화","모델링","기록과제","자기지시"],
       "answer": 4,
       "explain": "교사용 PDF 정답지를 확인하세요.",
       "sourceUrl": "https://"
@@ -19173,6 +19183,7 @@ window.PAST_PAPER_DATA = {
         "ㄴ, ㄷ, ㄹ",
         "ㄱ, ㄴ, ㄷ, ㄹ"
       ],
+      "statements": ["정적 강화","역할연습","직면","과제를 통한 연습"],
       "answer": 2,
       "explain": "교사용 PDF 정답지를 확인하세요.",
       "sourceUrl": "https://"
