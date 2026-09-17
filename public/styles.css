@@ -8,3 +8,4 @@
 html{overflow-x:hidden}
 .question-card h4,.choice span,.wrong-item strong{overflow-wrap:anywhere;word-break:break-word}.question-statements{margin:0 0 12px;padding:12px 14px;border:1px solid var(--line);border-radius:12px;background:#f8fafc;line-height:1.7}.question-statements strong{display:block;margin-bottom:4px}.question-statements ol{margin:0;padding-left:0}.question-statements .statement-list{list-style:none}.question-statements .statement-list li{display:flex;gap:8px}.statement-label{flex:0 0 22px;font-weight:600}
 .nav{overflow-x:auto}
+.case-content{margin:0 0 14px;padding:12px 14px;border:1px solid var(--line);border-radius:12px;background:#f8fafc}.case-content strong{display:block;margin-bottom:8px;color:#17365f}.case-content img{display:block;width:100%;max-width:760px;height:auto;margin:0 auto;border:1px solid #cbd5e1;border-radius:8px;background:#fff}
