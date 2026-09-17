@@ -21,7 +21,7 @@
   const uniq=(arr)=>Array.from(new Set(arr.filter(v=>v!==undefined&&v!==null&&String(v).trim()!=='')));
   const answerLabel=(n)=>['①','②','③','④','⑤'][Number(n)]||String(Number(n)+1);
   const statementMarkup=(q)=>Array.isArray(q.statements)&&q.statements.length?`<div class="question-statements"><strong>보기</strong><ol class="statement-list">${q.statements.map((s,n)=>`<li><span class="statement-label">${['ㄱ','ㄴ','ㄷ','ㄹ','ㅁ','ㅂ','ㅅ','ㅇ'][n]||`${n+1}`}</span><span>${esc(s)}</span></li>`).join('')}</ol></div>`:'';
-  const caseMarkup=(q)=>{const src=window.CASE_IMAGE_MAP?.[q.id];if(src){const label=/다음 내용/.test(String(q.question||''))?'내용':'사례';return `<div class="case-content"><strong>원문 ${label}</strong><img src="${esc(src)}" alt="${label} 원문" loading="lazy"></div>`}return statementMarkup(q)};
+  const caseMarkup=(q)=>{const src=window.CASE_IMAGE_MAP?.[q.id];if(src){const text=String(q.question||'');const label=/다음 내용/.test(text)?'내용':/다음 사례/.test(text)?'사례':'자료';return `<div class="case-content"><strong>원문 ${label}</strong><img src="${esc(src)}" alt="${label} 원문" loading="lazy"></div>`}return statementMarkup(q)};
   const normalizeSubject=(s)=>s==='사회복지법제론'?'사회복지법제와 실천':String(s||'');
   const questions=()=>safeArr(window.SAMPLE_QUESTIONS).map(q=>({...q,subject:normalizeSubject(q.subject),statements:normalizeStatements(q.statements)})).filter(q=>q.question&&Array.isArray(q.choices));
   const fileExt=(url='')=>String(url).split('?')[0].split('#')[0].split('.').pop()?.toLowerCase()||'';

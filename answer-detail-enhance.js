@@ -7,7 +7,7 @@
   const qs=()=>arr(window.SAMPLE_QUESTIONS).map(q=>({...q,subject:norm(q.subject)})).filter(q=>q.question&&arr(q.choices).length);
   const uniq=a=>Array.from(new Set(a.filter(Boolean)));
   const fallback=(q,i)=>Number(q.answer)===i?`${lab(i)}는 정답 선지입니다. 문제의 조건과 가장 잘 맞는 표현입니다.`:`${lab(i)}는 정답 선지와 비교해 핵심 조건이 맞지 않는 오답입니다.`;
-  const caseMarkup=(q)=>{const src=window.CASE_IMAGE_MAP?.[q.id];if(!src)return '';const label=/다음 내용/.test(String(q.question||''))?'내용':'사례';return `<div class="case-content"><strong>원문 ${label}</strong><img src="${esc(src)}" alt="${label} 원문" loading="lazy"></div>`};
+  const caseMarkup=(q)=>{const src=window.CASE_IMAGE_MAP?.[q.id];if(!src)return '';const text=String(q.question||'');const label=/다음 내용/.test(text)?'내용':/다음 사례/.test(text)?'사례':'자료';return `<div class="case-content"><strong>원문 ${label}</strong><img src="${esc(src)}" alt="${label} 원문" loading="lazy"></div>`};
   function render(){
     const root=$('#answersView');if(!root)return;
     const all=qs();const sub=$('#ansSub')?.value||'';const y=$('#ansYear')?.value||'2026';
