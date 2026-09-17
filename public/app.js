@@ -213,6 +213,8 @@ function startQuizFromPool(pool,count=10,mode='quiz',label=''){
   if(mode!=='cbt') view('quiz');
 }
 
+window.startQuizFromPool=startQuizFromPool;
+
 function renderQ(target){
   const box=$(target);
   if(!box) return;
