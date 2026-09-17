@@ -1,3 +1,5 @@
+import "./case-content-map.js";
+
 const $=(s,root=document)=>root.querySelector(s);
 const $$=(s,root=document)=>Array.from(root.querySelectorAll(s));
 
