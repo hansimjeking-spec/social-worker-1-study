@@ -13,7 +13,7 @@ const PDFS=Array.isArray(window.PDF_LIBRARY)?window.PDF_LIBRARY:[];
 
 const read=(k,d)=>{try{return JSON.parse(localStorage.getItem(k))??d}catch{return d}};
 const write=(k,v)=>localStorage.setItem(k,JSON.stringify(v));
-const esc=(v)=>String(v??'').replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));
+const esc=(v)=>cleanText(v).replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));
 const pct=(a,b)=>b?Math.round(a/b*100):0;
 const shuffle=(a)=>[...a].sort(()=>Math.random()-.5);
 const today=()=>new Date().toISOString().slice(0,10);
@@ -36,7 +36,7 @@ function save(){write('sw1_stats',stats);write('sw1_wrong',wrong);write('sw1_lea
 function dayCheck(){if(stats.date!==today()){const y=new Date(Date.now()-86400000).toISOString().slice(0,10);stats.streak=stats.date===y?(stats.streak||0)+1:1;stats.date=today();stats.solved=0;stats.correct=0;save()}}
 function setText(sel,text){const el=$(sel);if(el)el.textContent=text}
 function setHtml(sel,html){const el=$(sel);if(el)el.innerHTML=html}
-function cleanText(value){return String(value??'').replace(/\s*(?:격증\s*기출문제\s*)?전자문제집\s*CBT\s*:[\s\S]*$/i,'').replace(/\s*www\.comcbt\.com[\s\S]*$/i,'').replace(/[ \t]+/g,' ').replace(/(하|되|있|없|어진|하는|되는)\s+(다|는|지)/g,'$1$2').replace(/하는\s+다/g,'한다').replace(/상호작용하는다양한/g,'상호작용하는 다양한').replace(/도입되\s*었다/g,'도입되었다').replace(/통\s+한/g,'통한').replace(/고소\s*득층/g,'고소득층').replace(/사회\s+전\s+체/g,'사회 전체').replace(/대해서\s+는/g,'대해서는').replace(/받을\s*수/g,'받을 수').replace(/탈빈곤\s*효과/g,'탈빈곤 효과').replace(/해당하는지역사회/g,'해당하는 지역사회').replace(/운동을잘/g,'운동을 잘').replace(/못하는사람이/g,'못하는 사람이').replace(/공부에열중하는/g,'공부에 열중하는').replace(/결혼한친구/g,'결혼한 친구').replace(/친구\s+의얼굴/g,'친구의 얼굴').replace(/얼굴을의식하지못하는현상/g,'얼굴을 의식하지 못하는 현상').replace(/신체화\s*-\s*실적/g,'신체화 - 실적').replace(/반동형성\s*-\s*부모의/g,'반동형성 - 부모의').replace(/정해\s*진기일/g,'정해진 기일').replace(/해결하기위해임시편성된/g,'해결하기 위해 임시 편성된').replace(/결합\s+하며/g,'결합하며').replace(/두조직의/g,'두 조직의').replace(/위하여설\s*계된/g,'위하여 설계된').replace(/병역법\s+에/g,'병역법에').replace(/고용보험법\s+에/g,'고용보험법에').trim()}
+function cleanText(value){return String(value??'').replace(/\s*(?:격증\s*기출문제\s*)?전자문제집\s*CBT\s*:[\s\S]*$/i,'').replace(/\s*www\.comcbt\.com[\s\S]*$/i,'').replace(/[ \t]+/g,' ').replace(/(하|되|있|없|어진|하는|되는)\s+(다|는|지)/g,'$1$2').replace(/하는\s+다/g,'한다').replace(/상호작용하는다양한/g,'상호작용하는 다양한').replace(/도입되\s*었다/g,'도입되었다').replace(/통\s+한/g,'통한').replace(/고소\s*득층/g,'고소득층').replace(/사회\s+전\s+체/g,'사회 전체').replace(/대해서\s+는/g,'대해서는').replace(/받을\s*수/g,'받을 수').replace(/탈빈곤\s*효과/g,'탈빈곤 효과').replace(/해당하는지역사회/g,'해당하는 지역사회').replace(/운동을잘/g,'운동을 잘').replace(/못하는사람이/g,'못하는 사람이').replace(/공부에열중하는/g,'공부에 열중하는').replace(/결혼한친구/g,'결혼한 친구').replace(/친구\s+의얼굴/g,'친구의 얼굴').replace(/얼굴을의식하지못하는현상/g,'얼굴을 의식하지 못하는 현상').replace(/신체화\s*-\s*실적/g,'신체화 - 실적').replace(/반동형성\s*-\s*부모의/g,'반동형성 - 부모의').replace(/정해\s*진기일/g,'정해진 기일').replace(/해결하기위해임시편성된/g,'해결하기 위해 임시 편성된').replace(/결합\s+하며/g,'결합하며').replace(/두조직의/g,'두 조직의').replace(/위하여설\s*계된/g,'위하여 설계된').replace(/병역법\s+에/g,'병역법에').replace(/고용보험법\s+에/g,'고용보험법에').replace(/연대에기초한/g,'연대에 기초한').replace(/으로시장경제/g,'으로 시장경제').replace(/마을기\s*업/g,'마을기업').replace(/신청\s+한다/g,'신청한다').replace(/신청서\s+에/g,'신청서에').replace(/조사\s+하게/g,'조사하게').replace(/제\s+출/g,'제출').replace(/인정\s+서/g,'인정서').replace(/지역사회사정/g,'지역사회 사정').trim()}
 
 function view(v){
   $$('.nav-item').forEach(b=>b.classList.toggle('active',b.dataset.view===v));
