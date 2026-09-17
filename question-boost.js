@@ -58,13 +58,12 @@
   };
   const tagOf=(guide,extra)=>Array.from(new Set([...(guide.tags||[]),extra,'기출형']));
   const makeWrongChoices=(guide)=>{
-    const others=guides.filter(g=>g.subject!==guide.subject).slice(0,12);
-    const titles=others.map(g=>g.title).filter(Boolean);
-    const subjectWrong=pickOtherSubjects(guide.subject);
+    const related=guides.filter(g=>g.subject===guide.subject&&g.id!==guide.id).slice(0,12);
+    const titles=related.map(g=>g.title).filter(Boolean);
     return [
-      `${short(subjectWrong[0]||'다른 과목')}의 세부 제도만을 설명한다.`,
-      titles[0]?`${short(titles[0])}의 핵심 개념이다.`:'무작위 표집 절차만을 의미한다.',
-      titles[1]?`${short(titles[1])}와 동일한 개념이다.`:'사회보험 급여 산식만을 뜻한다.',
+      titles[0]?`${short(titles[0])}의 핵심 내용을 설명한다.`:`${short(guide.subject||'이 과목')}의 다른 단원만을 설명한다.`,
+      titles[1]?`${short(titles[1])}와 동일한 개념이다.`:`${short(guide.subject||'이 과목')}의 평가 기준만을 뜻한다.`,
+      titles[2]?`${short(titles[2])}에서 사용하는 절차이다.`:`${short(guide.subject||'이 과목')}의 법령 조항만을 암기한다.`,
       '개인의 문제를 환경과 분리하여 단일 원인으로만 설명한다.'
     ];
   };

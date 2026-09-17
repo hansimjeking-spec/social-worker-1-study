@@ -86,8 +86,18 @@
         memoryLine:`${safeText(comparison.title||`${subject} 비교표`)}는 기준어를 먼저 본다.`
       });
     }
+    const deepDiveTitles={
+      '인간행동과 사회환경':['생애주기별 핵심 발달과업','생애주기와 발달이론 연결','방어기제의 기능과 사례'],
+      '사회복지조사론':['연역과 귀납의 흐름','확률표집과 비확률표집','내적 타당도 저해요인'],
+      '사회복지실천론':['실천과정의 단계와 순환','면접의 핵심 기술','사례관리의 연속적 과정'],
+      '사회복지실천기술론':['집단 발달단계별 사회복지사 과업','가족치료모델별 핵심 초점','사회복지실천의 과학적·예술적 기반'],
+      '지역사회복지론':['지역사회의 공통요소','지역사회 사정의 핵심 변수','지역사회보장계획의 순환과정'],
+      '사회복지정책론':['길버트와 테렐의 분석틀','현금·현물·바우처 급여 비교','복지국가 유형별 특징'],
+      '사회복지행정론':['사회복지행정의 범위와 기능','프로그램 기획의 순환과정','과정·성과·효율성 평가'],
+      '사회복지법제와 실천':['특별법·신법 우선 원칙','조례의 제정 범위와 한계','시험 기준일과 현행 법령 확인']
+    };
     deepDive.forEach((text,index)=>{
-      const title=`심화 포인트 ${index+1}`;
+      const title=deepDiveTitles[subject]?.[index]||`심화 내용 ${index+1}`;
       cards.push({
         id:uid(subject,'deep',index+1),subject,unit:'심화 포인트',title,tags:['심화','빈출'],
         oneLine:safeText(text),corePoints:[safeText(text)],compare:[],examPoint:safeText(text),
