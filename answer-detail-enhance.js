@@ -1,6 +1,6 @@
 (function(){
   const $=(s,r=document)=>r.querySelector(s), arr=v=>Array.isArray(v)?v:[];
-  const esc=v=>String(v??'').replace(/발달와/g,'발달과').replace(/지역복지(['’])을/g,'지역복지$1를').replace(/참며자/g,'참여자').replace(/비교\s+한다/g,'비교한다').replace(/정도를평가/g,'정도를 평가').replace(/조사시/g,'조사 시').replace(/표집를선정/g,'표집단위 선정').replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));
+  const esc=v=>String(v??'').replace(/업무상질병/g,'업무상 질병').replace(/아동의최상의/g,'아동의 최상의').replace(/기회를줄인다/g,'기회를 줄인다').replace(/차미가/g,'차이가').replace(/유면성/g,'유연성').replace(/확정기며식/g,'확정기여식').replace(/반반씩부담/g,'반반씩 부담').replace(/정책평가는사회복지/g,'정책평가는 사회복지').replace(/얻기위함/g,'얻기 위함').replace(/에영\s*향을미친다/g,'에 영향을 미친다').replace(/영\s*향을미친다/g,'영향을 미친다').replace(/과업환\s*경으로구분할수/g,'과업환경으로 구분할 수').replace(/에대한사람들의태도는정책/g,'에 대한 사람들의 태도는 정책').replace(/배\s*제된다/g,'배제된다').replace(/규칙\s+에의해서/g,'규칙에 의해서').replace(/추구\s+한다/g,'추구한다').replace(/한번\s+씩/g,'한 번씩').replace(/가입\s+하여야/g,'가입하여야').replace(/산출:상담전문가10인/g,'산출: 상담 전문가 10인').replace(/질측정도구/g,'질 측정도구').replace(/자산조사를\s*거쳐대상을/g,'자산조사를 거쳐 대상을').replace(/정해진\s+기일/g,'정해진 기일').replace(/발달와/g,'발달과').replace(/지역복지(['’])을/g,'지역복지$1를').replace(/참며자/g,'참여자').replace(/비교\s+한다/g,'비교한다').replace(/정도를평가/g,'정도를 평가').replace(/조사시/g,'조사 시').replace(/표집를선정/g,'표집단위 선정').replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));
   const lab=n=>['①','②','③','④','⑤'][Number(n)]||String(Number(n)+1);
   const norm=s=>s==='사회복지법제론'?'사회복지법제와 실천':String(s||'');
   const yr=q=>String(q.year||arr(q.tags).find(t=>/^20\d{2}$/.test(String(t)))||'');
