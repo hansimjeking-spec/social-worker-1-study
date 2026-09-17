@@ -36,7 +36,7 @@ function save(){write('sw1_stats',stats);write('sw1_wrong',wrong);write('sw1_lea
 function dayCheck(){if(stats.date!==today()){const y=new Date(Date.now()-86400000).toISOString().slice(0,10);stats.streak=stats.date===y?(stats.streak||0)+1:1;stats.date=today();stats.solved=0;stats.correct=0;save()}}
 function setText(sel,text){const el=$(sel);if(el)el.textContent=text}
 function setHtml(sel,html){const el=$(sel);if(el)el.innerHTML=html}
-function cleanText(value){return String(value??'').replace(/\s*(?:격증\s*기출문제\s*)?전자문제집\s*CBT\s*:[\s\S]*$/i,'').replace(/\s*www\.comcbt\.com[\s\S]*$/i,'').replace(/[ \t]+/g,' ').replace(/(하|되|있|없|어진|하는|되는)\s+(다|는|지)/g,'$1$2').replace(/하는\s+다/g,'한다').trim()}
+function cleanText(value){return String(value??'').replace(/\s*(?:격증\s*기출문제\s*)?전자문제집\s*CBT\s*:[\s\S]*$/i,'').replace(/\s*www\.comcbt\.com[\s\S]*$/i,'').replace(/[ \t]+/g,' ').replace(/(하|되|있|없|어진|하는|되는)\s+(다|는|지)/g,'$1$2').replace(/하는\s+다/g,'한다').replace(/상호작용하는다양한/g,'상호작용하는 다양한').replace(/도입되\s*었다/g,'도입되었다').replace(/통\s+한/g,'통한').replace(/고소\s*득층/g,'고소득층').replace(/사회\s+전\s+체/g,'사회 전체').replace(/대해서\s+는/g,'대해서는').replace(/받을\s*수/g,'받을 수').replace(/탈빈곤\s*효과/g,'탈빈곤 효과').trim()}
 
 function view(v){
   $$('.nav-item').forEach(b=>b.classList.toggle('active',b.dataset.view===v));
